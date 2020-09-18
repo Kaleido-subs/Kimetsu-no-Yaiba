@@ -19,13 +19,13 @@ subs {
 
         if (propertyExists("OP")) {
             from(get("OP")) {
-                syncTo(getAs<Duration>("opsync"))
+                syncTargetTime(getAs<Duration>("opsync"))
             }
         }
 
         if (propertyExists("ED")) {
             from(get("ED")) {
-                syncTo(getAs<Duration>("edsync"))
+                syncTargetTime(getAs<Duration>("edsync"))
             }
         }
 
