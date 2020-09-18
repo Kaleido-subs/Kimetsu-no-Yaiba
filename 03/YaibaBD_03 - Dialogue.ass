@@ -128,6 +128,7 @@ Dialogue: 10,0:08:12.51,0:08:15.55,Default,,0,0,0,,{\i1}I got yelled at for not 
 Dialogue: 10,0:08:15.55,0:08:17.56,Default,,0,0,0,,{\i1}and kept getting punched in the gut.
 Dialogue: 10,0:08:18.56,0:08:23.02,Default,,0,0,0,,{\i1}Next, he told me to become one with water.
 Dialogue: 10,0:08:23.02,0:08:24.52,Default,,0,0,0,,Get in there!
+Comment: 10,0:08:30.23,0:08:33.78,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:08:30.23,0:08:33.78,Default,,0,0,0,,{\fad(0,1000)\shad0\an5\fscx50\fscy50\fsp1\t(\fscx80\fscy80\fsp14)\\move(470,1102,470,950,0,-1)\frz9\fnCC Wild Words}N{*\frz365.857}e{*\frz362.714}z{*\frz359.571}u{*\frz356.429}k{*\frz353.286}o{*\frz350.143}!{\frz-13}
 Dialogue: 10,0:08:38.83,0:08:44.25,Default,,0,0,0,,Nezuko! I am water!
 Dialogue: 10,0:08:46.21,0:08:51.09,Default,,0,0,0,,{\i1}Before I knew it, six months had passed \Nsince Nezuko entered her deep slumber.
