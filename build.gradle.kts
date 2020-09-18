@@ -69,10 +69,4 @@ subs {
 
         out(get("muxout"))
     }
-
-    torrent {
-        from(mux.item())
-        trackers(getList("trackers"))
-        out(get("single_ep"))
-    }
 }
