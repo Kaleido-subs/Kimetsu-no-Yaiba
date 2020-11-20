@@ -24,29 +24,28 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Sign,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,5,200,200,56,1
 Style: OP1 - ROM,WILD1 Toxia,74,&H00F9F8FB,&H001B2ABA,&H00080619,&H50080619,-1,0,0,0,100,100,0.5,0,1,4,0,8,200,200,40,1
 Style: OP1 - ENG,WILD1 Toxia,74,&H00F9F8FB,&H001B2ABA,&H00080619,&HA0000000,-1,0,0,0,100,100,0.5,0,1,4,0,2,0,0,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,code once,ln = _G.require('ln.kara'); ln.init(tenv)
-Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,code once,FRAME_DUR = 1001 / 24
-Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,
-Comment: 0,0:00:00.08,0:00:00.08,Sign,,0,0,0,code once,function overlap() if line.actor == 'overlap' then retime('line', 0, -3 * FRAME_DUR); end; return ''; end
-Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,code once,function default_alpha() if line.style == 'OP1 - ENG' then return '\\alpha&H00&'; else return ('\\1a%s\\3a%s\\4a%s'):format(ga(1), ga(3), ga(4)); end; end
-Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,code once,function whitespace_ratio() return #orgline.text:gsub(' ', '') / #orgline.text; end
-Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,code once,function lchar_start() return (char.ci-1) * 15 * whitespace_ratio(); end
-Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,code once,function lchar_fade() if char.text == ' ' then return ''; end; local start_time = lchar_start(); local end_time = line.duration; return '\\alpha&HFF&' .. ln.tag.t(start_time, start_time+300, default_alpha()) .. ln.tag.t(end_time-300, end_time, '\\alpha&HFF&'); end
-Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,code once,function lsyl_fx() if char.ci ~= syll.ci then return ''; end; local start, sdur = syll.start_time, syll.duration; return '\\blur6\\bord0\\shad0\\c&H0B199A&\\3c' .. gc(3) .. ln.tag.t(start,start,'\\bord4\\yshad1.4\\blur2.4\\3c' .. gc(2)) .. ln.tag.t(start,start+sdur/2,'\\c' .. gc(1)) .. ln.tag.t(start+sdur/3,start+sdur,'\\blur1\\yshad0\\3c' .. gc(3)); end
-Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,
-Comment: 1,0:00:00.00,0:00:00.00,OP1 - ROM,,0,0,0,template line white,{\pos($x,$y)\4c!gc(2)!}
-Comment: 1,0:00:00.00,0:00:00.00,OP1 - ROM,,0,0,0,template lchar white,{!lchar_fade()!!lsyl_fx()!}
-Comment: 1,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,template line engwhite,{\pos($x,$y)!ln.line.tag({'fs', 'bord'})!\blur1}
-Comment: 1,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,template lchar engwhite,{!lchar_fade()!}!retime('line', 0, 15)!
-Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,template all line red,!retime('line', -100 - 4*FRAME_DUR, -100 + 4*FRAME_DUR)!!overlap()!{\pos($x,$y)!ln.line.tag({'fs', 'bord'})!\c!gc(2)!\blur5\bord0}
-Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,template all lchar red,{!lchar_fade()!}!retime('line', 0, 15)!
-Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,ln = _G.require('ln.kara'); ln.init(tenv)
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,FRAME_DUR = 1001 / 24
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Comment: 0,0:00:00.08,0:00:00.08,Default,,0,0,0,code once,function overlap() if line.actor == 'overlap' then retime('line', 0, -3 * FRAME_DUR); end; return ''; end
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function default_alpha() if line.style == 'OP1 - ENG' then return '\\alpha&H00&'; else return ('\\1a%s\\3a%s\\4a%s'):format(ga(1), ga(3), ga(4)); end; end
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function whitespace_ratio() return #orgline.text:gsub(' ', '') / #orgline.text; end
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function lchar_start() return (char.ci-1) * 15 * whitespace_ratio(); end
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function lchar_fade() if char.text == ' ' then return ''; end; local start_time = lchar_start(); local end_time = line.duration; return '\\alpha&HFF&' .. ln.tag.t(start_time, start_time+300, default_alpha()) .. ln.tag.t(end_time-300, end_time, '\\alpha&HFF&'); end
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function lsyl_fx() if char.ci ~= syll.ci then return ''; end; local start, sdur = syll.start_time, syll.duration; return '\\blur6\\bord0\\shad0\\c&H0B199A&\\3c' .. gc(3) .. ln.tag.t(start,start,'\\bord4\\yshad1.4\\blur2.4\\3c' .. gc(2)) .. ln.tag.t(start,start+sdur/2,'\\c' .. gc(1)) .. ln.tag.t(start+sdur/3,start+sdur,'\\blur1\\yshad0\\3c' .. gc(3)); end
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,template line white,{\pos($x,$y)\4c!gc(2)!}
+Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,template lchar white,{!lchar_fade()!!lsyl_fx()!}
+Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,template line engwhite,{\pos($x,$y)!ln.line.tag({'fs', 'bord'})!\blur1}
+Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,template lchar engwhite,{!lchar_fade()!}!retime('line', 0, 15)!
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,template all line red,!retime('line', -100 - 4*FRAME_DUR, -100 + 4*FRAME_DUR)!!overlap()!{\pos($x,$y)!ln.line.tag({'fs', 'bord'})!\c!gc(2)!\blur5\bord0}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,template all lchar red,{!lchar_fade()!}!retime('line', 0, 15)!
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Comment: 0,0:00:00.85,0:00:07.32,OP1 - ENG,,0,0,0,karaoke,I now know what I cherish most
 Comment: 0,0:00:07.52,0:00:15.45,OP1 - ENG,,0,0,0,karaoke,So I'll protect this promise 'til the end
 Comment: 0,0:00:18.87,0:00:23.54,OP1 - ENG,,0,0,0,karaoke,My bewitched heart crusts over by the day
