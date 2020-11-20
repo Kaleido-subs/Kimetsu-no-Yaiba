@@ -1,8 +1,7 @@
-
+import myaa.subkt.ass.*
 import myaa.subkt.tasks.*
 import myaa.subkt.tasks.Mux.*
 import myaa.subkt.tasks.Nyaa.*
-import myaa.subkt.ass.EventLineAccessor
 import java.awt.Color
 import java.time.*
 
@@ -29,7 +28,7 @@ subs {
             }
         }
 
-        if (file(get("IS")).exists()) {
+        if (propertyExists("IS")) {
             from(get("IS"))
         }
 
@@ -45,7 +44,10 @@ subs {
         chapterMarker("chapter")
     }
 
+
     mux {
+        title(get("title"))
+
         from(get("premux")) {
             includeChapters(false)
 			attachments { include(false) }
@@ -65,6 +67,18 @@ subs {
 
         attach(get("fonts")) {
             includeExtensions("ttf", "otf")
+        }
+
+        if (propertyExists("OP")) {
+            attach(get("opfonts")) {
+                includeExtensions("ttf", "otf")
+            }
+        }
+
+        if (propertyExists("ED")) {
+            attach(get("edfonts")) {
+                includeExtensions("ttf", "otf")
+            }
         }
 
         out(get("muxout"))
