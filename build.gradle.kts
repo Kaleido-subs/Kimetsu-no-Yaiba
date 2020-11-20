@@ -14,7 +14,7 @@ subs {
     episodes(getList("episodes"))
 
     merge {
-        from(get("dialogue"))
+        get("dialogue")
 
         if (propertyExists("OP")) {
             from(get("OP")) {
@@ -28,11 +28,11 @@ subs {
             }
         }
 
-        if (propertyExists("IS")) {
+        if (file(get("IS")).exists()) {
             from(get("IS"))
         }
 
-        if (propertyExists("TS")) {
+        if (file(get("TS")).exists()) {
             from(get("TS"))
         }
 
@@ -63,7 +63,9 @@ subs {
 			}
 		}
 
-        chapters(chapters.item()) { lang("eng") }
+        chapters(chapters.item()) {
+            lang("eng")
+        }
 
         attach(get("fonts")) {
             includeExtensions("ttf", "otf")
