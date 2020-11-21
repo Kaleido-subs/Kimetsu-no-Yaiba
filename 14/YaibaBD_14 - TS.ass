@@ -6,12 +6,13 @@ ScriptType: v4.00+
 PlayResX: 1920
 PlayResY: 1080
 Timer: 0.0000
-WrapStyle: 2
+WrapStyle: 0
 YCbCr Matrix: TV.709
 ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
-Last Style Storage: Default (1080p)
+Export Encoding: Unicode (UTF-8)
+Last Style Storage: Default
 Audio File: YaibaBD_14 (Premux).mkv
 Video File: YaibaBD_14 (Premux).mkv
 Video AR Mode: 4

@@ -6,15 +6,15 @@ ScriptType: v4.00+
 PlayResX: 1920
 PlayResY: 1080
 Timer: 0.0000
-WrapStyle: 2
+WrapStyle: 0
 YCbCr Matrix: TV.709
 ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
-Last Style Storage: Default (1080p)
-Audio File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba Vol.1-3 (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba - 05 (BD 1080p) [01691B52].mkv
-Video File: ../../../../Seeding/[Kaleido-collab]/[Kaleido-Flax] Kimetsu no Yaiba (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba Vol.1-3 (BD 1080p)/[Kaleido-Flax] Kimetsu no Yaiba - 05 (BD 1080p) [01691B52].mkv
+Last Style Storage: Default
+Audio File: YaibaBD_05 (Premux).mkv
+Video File: YaibaBD_05 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 

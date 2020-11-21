@@ -6,17 +6,13 @@ ScriptType: v4.00+
 PlayResX: 1920
 PlayResY: 1080
 Timer: 0.0000
-WrapStyle: 2
+WrapStyle: 0
 YCbCr Matrix: TV.709
-Original Script: Aniplex
-Original Translation: torn
-Original Editing: torn
-Original Timing: torn
 ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
-Last Style Storage: Default (1080p)
+Last Style Storage: Default
 Audio File: YaibaBD_08 (Premux).mkv
 Video File: YaibaBD_08 (Premux).mkv
 Video AR Mode: 4
