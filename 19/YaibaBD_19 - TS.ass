@@ -20,12 +20,7 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,200,200,56,1
-Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,200,200,56,1
 Style: Sign,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,5,200,200,56,1
-Style: OP1 - ROM,WILD1 Toxia,74,&H00F9F8FB,&H001B2ABA,&H00080619,&H50080619,0,0,0,0,100,100,0.5,0,1,4,0,8,200,200,40,1
-Style: OP1 - ENG,WILD1 Toxia,74,&H00F9F8FB,&H001B2ABA,&H00080619,&HA0000000,0,0,0,0,100,100,0.5,0,1,4,0,2,0,0,40,1
-Style: Ep19 ED,Averia Libre,57,&H00F5FAFF,&H000000FF,&H00212A82,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,0,8,55,55,30,1
 Style: Eye Sign,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
