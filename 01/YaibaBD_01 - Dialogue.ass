@@ -163,19 +163,19 @@ Dialogue: 10,0:08:46.58,0:08:48.75,Default,,0,0,0,,{\i1}Nezuko's the only one wh
 Dialogue: 10,0:08:50.05,0:08:52.38,Default,,0,0,0,,{\i1}If I can get her to a doctor, she might make it!
 Dialogue: 10,0:08:52.97,0:08:55.18,Default,,0,0,0,,{\i1}How did this happen?
 Dialogue: 10,0:08:56.43,0:08:57.60,Default,,0,0,0,,{\i1}Was it a bear?
-Dialogue: 10,0:08:57.60,0:08:59.89,Default,,0,0,0,,{\i1}Maybe it wasn't able to hibernate.
-Dialogue: 10,0:09:06.31,0:09:08.27,Default,,0,0,0,,{\i1}I can hardly breathe.
-Dialogue: 10,0:09:08.27,0:09:10.98,Default,,0,0,0,,{\i1}It's so cold, I can feel my lungs sting!
-Dialogue: 10,0:09:11.69,0:09:13.53,Default,,0,0,0,,{\i1}Keep running!
+Dialogue: 10,0:08:57.60,0:08:59.89,Default,,0,0,0,,{\i1}It might've been unable to hibernate.
+Dialogue: 10,0:09:06.31,0:09:08.27,Default,,0,0,0,,{\i1}It hurts!
+Dialogue: 10,0:09:08.27,0:09:10.98,Default,,0,0,0,,{\i1}It's so cold, even breathing hurts!
+Dialogue: 10,0:09:11.69,0:09:13.53,Default,,0,0,0,,{\i1}Keep walking!
 Dialogue: 10,0:09:13.53,0:09:15.78,Default,,0,0,0,,{\i1}Move your legs faster!
-Dialogue: 10,0:09:16.49,0:09:18.91,Default,,0,0,0,,{\i1}There's still a long way to town.
+Dialogue: 10,0:09:16.49,0:09:18.91,Default,,0,0,0,,{\i1}It's still a long way to town.
 Dialogue: 10,0:09:18.91,0:09:20.12,Default,,0,0,0,,{\i1}Hurry!
 Dialogue: 10,0:09:20.99,0:09:23.12,Default,,0,0,0,,{\i1}Don't you die on me!
 Dialogue: 10,0:09:25.37,0:09:27.17,Default,,0,0,0,,{\i1}I will save you no matter what!
 Dialogue: 10,0:09:27.83,0:09:30.25,Default,,0,0,0,,{\i1}Your big brother will definitely save you, you hear?
 Dialogue: 10,0:09:38.43,0:09:39.64,Default,,0,0,0,,{\i1}Oh, crap!
 Dialogue: 10,0:09:48.19,0:09:51.11,Default,,0,0,0,,{\i1}The snow saved me.
-Dialogue: 10,0:09:51.86,0:09:53.90,Default,,0,0,0,,{\i1}Though it's the reason I slipped to begin with.
+Dialogue: 10,0:09:51.86,0:09:53.90,Default,,0,0,0,,{\i1}Though it's why I slipped to begin with.
 Dialogue: 10,0:09:55.82,0:09:57.03,Default,,0,0,0,,Nezuko?
 Dialogue: 10,0:10:03.29,0:10:05.58,Default,,0,0,0,,Nezuko, are you all right?
 Dialogue: 10,0:10:06.91,0:10:08.42,Default,,0,0,0,,Don't stand up!
@@ -263,8 +263,8 @@ Dialogue: 10,0:15:11.34,0:15:13.10,Default,,0,0,0,,Don't make me laugh!
 Dialogue: 10,0:15:13.10,0:15:16.64,Default,,0,0,0,,The weak have neither rights nor options!
 Dialogue: 10,0:15:16.64,0:15:20.44,Default,,0,0,0,,It's their fate to be crushed by the strong!
 Dialogue: 10,0:15:20.69,0:15:24.61,Default,,0,0,0,,{\q2}There may be demons out there \Nwho know how to cure your sister!
-Dialogue: 10,0:15:24.61,0:15:29.78,Default,,0,0,0,,{\q2}But don't even for a second think \Nthey'll happily go along with your wishes!
-Dialogue: 10,0:15:30.07,0:15:32.82,Default,,0,0,0,,Naturally, I have no reason to care about you either!
+Dialogue: 10,0:15:24.61,0:15:29.78,Default,,0,0,0,,{\q2}But don't think for even a second that \Nthey'll happily go along with your wishes!
+Dialogue: 10,0:15:30.07,0:15:32.82,Default,,0,0,0,,Naturally, I have zero reason to care about you either!
 Dialogue: 10,0:15:32.82,0:15:34.20,Default,,0,0,0,,That's just reality!
 Dialogue: 10,0:15:34.45,0:15:37.62,Default,,0,0,0,,Why did you throw yourself over your sister earlier?
 Dialogue: 10,0:15:37.62,0:15:39.79,Default,,0,0,0,,Was that your way of protecting her?
