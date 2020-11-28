@@ -165,7 +165,7 @@ Dialogue: 10,0:08:52.97,0:08:55.18,Default,,0,0,0,,{\i1}How did this happen?
 Dialogue: 10,0:08:56.43,0:08:57.60,Default,,0,0,0,,{\i1}Was it a bear?
 Dialogue: 10,0:08:57.60,0:08:59.89,Default,,0,0,0,,{\i1}Maybe it wasn't able to hibernate.
 Dialogue: 10,0:09:06.31,0:09:08.27,Default,,0,0,0,,{\i1}I can hardly breathe.
-Dialogue: 10,0:09:08.27,0:09:10.98,Default,,0,0,0,,{\i1}The air's so cold that my lungs sting!
+Dialogue: 10,0:09:08.27,0:09:10.98,Default,,0,0,0,,{\i1}It's so cold, I can feel my lungs sting!
 Dialogue: 10,0:09:11.69,0:09:13.53,Default,,0,0,0,,{\i1}Keep running!
 Dialogue: 10,0:09:13.53,0:09:15.78,Default,,0,0,0,,{\i1}Move your legs faster!
 Dialogue: 10,0:09:16.49,0:09:18.91,Default,,0,0,0,,{\i1}There's still a long way to town.
@@ -189,7 +189,7 @@ Dialogue: 10,0:10:34.11,0:10:35.15,Default,,0,0,0,,{\i1}No, there's no way.
 Dialogue: 10,0:10:35.15,0:10:38.15,Default,,0,0,0,,{\i1\t(2600,0,\c&H000000&\3c&H000000&\4c&H000000&)}Nezuko's been human from the day she was born!
 Dialogue: 10,0:10:38.78,0:10:42.41,Default,,0,0,0,,{\i1}However, her scent is no longer the same.
 Dialogue: 10,0:10:43.66,0:10:45.83,Default,,0,0,0,,{\i1}But there's no way she killed them!
-Dialogue: 10,0:10:46.33,0:10:51.33,Default,,0,0,0,,{\i1\q2}She looked like she tried to protect Rokuta, \Nand there's no blood on her mouth or hands.
+Dialogue: 10,0:10:46.33,0:10:51.33,Default,,0,0,0,,{\i1\q2}It looked like she was trying to protect Rokuta, \Nand there's no blood on her mouth or hands.
 Dialogue: 10,0:10:52.13,0:10:53.75,Default,,0,0,0,,{\i1}And then there's that scent...
 Dialogue: 10,0:10:53.75,0:10:55.63,Default,,0,0,0,,{\i1}That one other scent!
 Dialogue: 10,0:11:00.13,0:11:02.72,Default,,0,0,0,,Her body got bigger!
