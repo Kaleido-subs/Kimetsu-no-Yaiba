@@ -14,7 +14,7 @@ subs {
     episodes(getList("episodes"))
 
     merge {
-        get("dialogue")
+        from(get("dialogue"))
 
         if (propertyExists("OP")) {
             from(get("OP")) {
