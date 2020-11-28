@@ -29,12 +29,12 @@ Dialogue: 1,0:17:55.17,0:18:01.18,Ep19 ED,,0,0,0,,{\bord0\fad(300,400)\blur0.5\a
 Dialogue: 0,0:17:55.17,0:18:01.18,Ep19 ED,,0,0,0,,{\fad(300,400)\blur10\an9\c&HF5FAFF&\1a&HFE&\3c&H212A82&\3a&HFE&\shad0.01}When I close my eyes, I can still see it \Nme wo tojite omoidasu
 Dialogue: 1,0:18:01.31,0:18:07.39,Ep19 ED,,0,0,0,,{\bord0\fad(300,400)\blur0.5\an9}Those times long gone which I held so dear \Nsugisarishi ano koro wo
 Dialogue: 0,0:18:01.31,0:18:07.39,Ep19 ED,,0,0,0,,{\fad(300,400)\blur10\an9\c&HF5FAFF&\1a&HFE&\3c&H212A82&\3a&HFE&\shad0.01}Those times long gone which I held so dear \Nsugisarishi ano koro wo
-Dialogue: 1,0:18:07.64,0:18:13.98,Ep19 ED,,0,0,0,,{\bord0\fad(300,400)\blur0.5\an9}But I can't go back, can't rewind time \Nmodorenai kaerenai
-Dialogue: 0,0:18:07.64,0:18:13.98,Ep19 ED,,0,0,0,,{\fad(300,400)\blur10\an9\c&HF5FAFF&\1a&HFE&\3c&H212A82&\3a&HFE&\shad0.01}But I can't go back, can't rewind time \Nmodorenai kaerenai
+Dialogue: 1,0:18:07.64,0:18:13.98,Ep19 ED,,0,0,0,,{\bord0\fad(300,400)\blur0.5\an9}But I can’t go back, can’t rewind time \Nmodorenai kaerenai
+Dialogue: 0,0:18:07.64,0:18:13.98,Ep19 ED,,0,0,0,,{\fad(300,400)\blur10\an9\c&HF5FAFF&\1a&HFE&\3c&H212A82&\3a&HFE&\shad0.01}But I can’t go back, can’t rewind time \Nmodorenai kaerenai
 Dialogue: 1,0:18:14.07,0:18:20.78,Ep19 ED,,0,0,0,,{\bord0\fad(300,600)\blur0.5\an9}And now the darkness keeps spreading around me \Nhirogatta fukai yami
 Dialogue: 0,0:18:14.07,0:18:20.78,Ep19 ED,,0,0,0,,{\fad(300,600)\blur10\an9\c&HF5FAFF&\1a&HFE&\3c&H212A82&\3a&HFE&\shad0.01}And now the darkness keeps spreading around me \Nhirogatta fukai yami
-Dialogue: 1,0:19:14.00,0:19:20.34,Ep19 ED,,0,0,0,,{\bord0\fad(300,400)\blur0.5\an9}I can't go back, can't rewind time \Nmodorenai kaerenai
-Dialogue: 0,0:19:14.00,0:19:20.34,Ep19 ED,,0,0,0,,{\fad(300,400)\blur10\an9\c&HF5FAFF&\1a&HFE&\3c&H212A82&\3a&HFE&\shad0.01}I can't go back, can't rewind time \Nmodorenai kaerenai
+Dialogue: 1,0:19:14.00,0:19:20.34,Ep19 ED,,0,0,0,,{\bord0\fad(300,400)\blur0.5\an9}I can’t go back, can’t rewind time \Nmodorenai kaerenai
+Dialogue: 0,0:19:14.00,0:19:20.34,Ep19 ED,,0,0,0,,{\fad(300,400)\blur10\an9\c&HF5FAFF&\1a&HFE&\3c&H212A82&\3a&HFE&\shad0.01}I can’t go back, can’t rewind time \Nmodorenai kaerenai
 Dialogue: 1,0:19:20.47,0:19:26.60,Ep19 ED,,0,0,0,,{\bord0\fad(300,400)\blur0.5\an9}Now only darkness remains around me \Nima wa tada fukai yami
 Dialogue: 0,0:19:20.47,0:19:26.60,Ep19 ED,,0,0,0,,{\fad(300,400)\blur10\an9\c&HF5FAFF&\1a&HFE&\3c&H212A82&\3a&HFE&\shad0.01}Now only darkness remains around me \Nima wa tada fukai yami
 Dialogue: 1,0:19:27.85,0:19:32.60,Ep19 ED,,0,0,0,,{\bord0\fad(300,400)\blur0.5\an9}But then I hear a gentle laugh \Nnakitakunaru you na
@@ -51,8 +51,8 @@ Dialogue: 1,0:19:47.24,0:19:48.70,Ep19 ED,,0,0,0,,{\fad(300,300)\pos(1680,30)\bo
 Dialogue: 0,0:19:47.24,0:19:48.70,Ep19 ED,,0,0,0,,{\fad(300,300)\pos(1680,30)\shad0.01\1a&HFE&\3a&HFE&\blur10}"Keep moving!" \Nmae e
 Dialogue: 1,0:19:48.04,0:19:48.95,Ep19 ED,,0,0,0,,{\fad(300,300)\pos(1288,30)\bord0\blur0.5}"Move forward!" \Nmae e
 Dialogue: 0,0:19:48.04,0:19:48.95,Ep19 ED,,0,0,0,,{\fad(300,300)\pos(1288,30)\shad0.01\1a&HFE&\3a&HFE&\blur10}"Move forward!" \Nmae e
-Dialogue: 1,0:19:48.75,0:19:51.08,Ep19 ED,,0,0,0,,{\fad(300,400)\pos(1680,30)\bord0\blur0.5}"Don't give up!" \Nsusume
-Dialogue: 0,0:19:48.75,0:19:51.08,Ep19 ED,,0,0,0,,{\fad(300,400)\pos(1680,30)\shad0.01\1a&HFE&\3a&HFE&\blur10}"Don't give up!" \Nsusume
+Dialogue: 1,0:19:48.75,0:19:51.08,Ep19 ED,,0,0,0,,{\fad(300,400)\pos(1680,30)\bord0\blur0.5}"Don’t give up!" \Nsusume
+Dialogue: 0,0:19:48.75,0:19:51.08,Ep19 ED,,0,0,0,,{\fad(300,400)\pos(1680,30)\shad0.01\1a&HFE&\3a&HFE&\blur10}"Don’t give up!" \Nsusume
 Dialogue: 1,0:19:49.50,0:19:51.08,Ep19 ED,,0,0,0,,{\fad(300,400)\pos(1288,30)\bord0\blur0.5}"Keep living on!" \Nsusume
 Dialogue: 0,0:19:49.50,0:19:51.08,Ep19 ED,,0,0,0,,{\fad(300,400)\pos(1288,30)\shad0.01\1a&HFE&\3a&HFE&\blur10}"Keep living on!" \Nsusume
 Dialogue: 1,0:19:51.12,0:19:58.26,Ep19 ED,,0,0,0,,{\bord0\fad(300,400)\blur0.5\an9}Carrying me past the despair \Nzetsubou wo tachi
@@ -63,24 +63,24 @@ Dialogue: 1,0:20:04.18,0:20:10.73,Ep19 ED,,0,0,0,,{\bord0\fad(300,400)\blur0.5\a
 Dialogue: 0,0:20:04.18,0:20:10.73,Ep19 ED,,0,0,0,,{\fad(300,400)\blur10\an9\c&HF5FAFF&\1a&HFE&\3c&H212A82&\3a&HFE&\shad0.01}I have no choice but to continue living on \Nikiteiku shika nai
 Dialogue: 1,0:20:12.02,0:20:17.32,Ep19 ED,,0,0,0,,{\bord0\fad(300,400)\blur0.5\an9}No matter how overwhelming it might be \Ndonna ni uchinomesaretemo
 Dialogue: 0,0:20:12.02,0:20:17.32,Ep19 ED,,0,0,0,,{\fad(300,400)\blur10\an9\c&HF5FAFF&\1a&HFE&\3c&H212A82&\3a&HFE&\shad0.01}No matter how overwhelming it might be \Ndonna ni uchinomesaretemo
-Dialogue: 1,0:20:18.28,0:20:24.20,Ep19 ED,,0,0,0,,{\bord0\fad(300,600)\blur0.5\an9}There's something I have to protect \Nmamoru mono ga aru
-Dialogue: 0,0:20:18.28,0:20:24.20,Ep19 ED,,0,0,0,,{\fad(300,600)\blur10\an9\c&HF5FAFF&\1a&HFE&\3c&H212A82&\3a&HFE&\shad0.01}There's something I have to protect \Nmamoru mono ga aru
+Dialogue: 1,0:20:18.28,0:20:24.20,Ep19 ED,,0,0,0,,{\bord0\fad(300,600)\blur0.5\an9}There’s something I have to protect \Nmamoru mono ga aru
+Dialogue: 0,0:20:18.28,0:20:24.20,Ep19 ED,,0,0,0,,{\fad(300,600)\blur10\an9\c&HF5FAFF&\1a&HFE&\3c&H212A82&\3a&HFE&\shad0.01}There’s something I have to protect \Nmamoru mono ga aru
 Dialogue: 1,0:20:51.98,0:20:57.77,Ep19 ED,,0,0,0,,{\bord0\fad(300,400)\blur0.5\an9}No matter how much I might still lose \Nushinattemo ushinattemo
 Dialogue: 0,0:20:51.98,0:20:57.77,Ep19 ED,,0,0,0,,{\fad(300,400)\blur10\an9\c&HF5FAFF&\1a&HFE&\3c&H212A82&\3a&HFE&\shad0.01}No matter how much I might still lose \Nushinattemo ushinattemo
 Dialogue: 1,0:20:57.90,0:21:04.45,Ep19 ED,,0,0,0,,{\bord0\fad(300,400)\blur0.5\an9}I have no choice but to continue living on \Nikiteiku shika nai
 Dialogue: 0,0:20:57.90,0:21:04.45,Ep19 ED,,0,0,0,,{\fad(300,400)\blur10\an9\c&HF5FAFF&\1a&HFE&\3c&H212A82&\3a&HFE&\shad0.01}I have no choice but to continue living on \Nikiteiku shika nai
 Dialogue: 1,0:21:05.78,0:21:10.99,Ep19 ED,,0,0,0,,{\bord0\fad(300,400)\blur0.5\an9}No matter how overwhelming it might be \Ndonna ni uchinomesaretemo
 Dialogue: 0,0:21:05.78,0:21:10.99,Ep19 ED,,0,0,0,,{\fad(300,400)\blur10\an9\c&HF5FAFF&\1a&HFE&\3c&H212A82&\3a&HFE&\shad0.01}No matter how overwhelming it might be \Ndonna ni uchinomesaretemo
-Dialogue: 1,0:21:12.08,0:21:18.08,Ep19 ED,,0,0,0,,{\bord0\fad(300,600)\blur0.5\an9}There's something I have to protect \Nmamoru mono ga aru
-Dialogue: 0,0:21:12.08,0:21:18.08,Ep19 ED,,0,0,0,,{\fad(300,600)\blur10\an9\c&HF5FAFF&\1a&HFE&\3c&H212A82&\3a&HFE&\shad0.01}There's something I have to protect \Nmamoru mono ga aru
-Dialogue: 1,0:21:29.80,0:21:36.02,Ep19 ED,,0,0,0,,{\fad(300,560)\bord0\blur0.5}This is the fate I've been entrusted with \Nware ni kasu itaku wo
-Dialogue: 0,0:21:29.80,0:21:36.02,Ep19 ED,,0,0,0,,{\fad(300,560)\shad0.01\1a&HFE&\3a&HFE&\blur10}This is the fate I've been entrusted with \Nware ni kasu itaku wo
-Dialogue: 1,0:21:36.10,0:21:42.44,Ep19 ED,,0,0,0,,{\fad(300,400)\bord0\blur0.5}I've made up my mind, so I have to follow through\N unmei to kakugo suru
-Dialogue: 0,0:21:36.10,0:21:42.44,Ep19 ED,,0,0,0,,{\fad(300,400)\shad0.01\1a&HFE&\3a&HFE&\blur10}I've made up my mind, so I have to follow through\N unmei to kakugo suru
+Dialogue: 1,0:21:12.08,0:21:18.08,Ep19 ED,,0,0,0,,{\bord0\fad(300,600)\blur0.5\an9}There’s something I have to protect \Nmamoru mono ga aru
+Dialogue: 0,0:21:12.08,0:21:18.08,Ep19 ED,,0,0,0,,{\fad(300,600)\blur10\an9\c&HF5FAFF&\1a&HFE&\3c&H212A82&\3a&HFE&\shad0.01}There’s something I have to protect \Nmamoru mono ga aru
+Dialogue: 1,0:21:29.80,0:21:36.02,Ep19 ED,,0,0,0,,{\fad(300,560)\bord0\blur0.5}This is the fate I’ve been entrusted with \Nware ni kasu itaku wo
+Dialogue: 0,0:21:29.80,0:21:36.02,Ep19 ED,,0,0,0,,{\fad(300,560)\shad0.01\1a&HFE&\3a&HFE&\blur10}This is the fate I’ve been entrusted with \Nware ni kasu itaku wo
+Dialogue: 1,0:21:36.10,0:21:42.44,Ep19 ED,,0,0,0,,{\fad(300,400)\bord0\blur0.5}I’ve made up my mind, so I have to follow through\N unmei to kakugo suru
+Dialogue: 0,0:21:36.10,0:21:42.44,Ep19 ED,,0,0,0,,{\fad(300,400)\shad0.01\1a&HFE&\3a&HFE&\blur10}I’ve made up my mind, so I have to follow through\N unmei to kakugo suru
 Dialogue: 1,0:21:42.48,0:21:48.74,Ep19 ED,,0,0,0,,{\fad(300,400)\bord0\blur0.5}I might struggle as it tries to tear me down \Ndoro wo name agaitemo
 Dialogue: 0,0:21:42.48,0:21:48.74,Ep19 ED,,0,0,0,,{\fad(300,400)\shad0.01\1a&HFE&\3a&HFE&\blur10}I might struggle as it tries to tear me down \Ndoro wo name agaitemo
-Dialogue: 1,0:21:48.78,0:21:55.46,Ep19 ED,,0,0,0,,{\fad(300,400)\bord0\blur0.5}But I can't ignore this tiny invisible thread \Nme ni mienu hosoi ito
-Dialogue: 0,0:21:48.78,0:21:55.46,Ep19 ED,,0,0,0,,{\fad(300,400)\shad0.01\1a&HFE&\3a&HFE&\blur10}But I can't ignore this tiny invisible thread \Nme ni mienu hosoi ito
+Dialogue: 1,0:21:48.78,0:21:55.46,Ep19 ED,,0,0,0,,{\fad(300,400)\bord0\blur0.5}But I can’t ignore this tiny invisible thread \Nme ni mienu hosoi ito
+Dialogue: 0,0:21:48.78,0:21:55.46,Ep19 ED,,0,0,0,,{\fad(300,400)\shad0.01\1a&HFE&\3a&HFE&\blur10}But I can’t ignore this tiny invisible thread \Nme ni mienu hosoi ito
 Dialogue: 1,0:21:56.12,0:22:01.04,Ep19 ED,,0,0,0,,{\fad(300,400)\bord0\blur0.5}It connects me to a gentle smile \Nnakitaku naru you na
 Dialogue: 0,0:21:56.12,0:22:01.04,Ep19 ED,,0,0,0,,{\fad(300,400)\shad0.01\1a&HFE&\3a&HFE&\blur10}It connects me to a gentle smile \Nnakitaku naru you na
 Dialogue: 1,0:22:02.50,0:22:07.30,Ep19 ED,,0,0,0,,{\fad(300,400)\bord0\blur0.5}Bringing tears to my eyes \Nyasashii oto
@@ -105,7 +105,7 @@ Dialogue: 1,0:22:32.62,0:22:39.21,Ep19 ED,,0,0,0,,{\fad(300,400)\bord0\blur0.5}I
 Dialogue: 0,0:22:32.62,0:22:39.21,Ep19 ED,,0,0,0,,{\fad(300,400)\shad0.01\1a&HFE&\3a&HFE&\blur10}I have no choice but to get back on my feet \Ntachiagaru shika nai
 Dialogue: 1,0:22:40.33,0:22:45.80,Ep19 ED,,0,0,0,,{\fad(300,400)\bord0\blur0.5}No matter how overwhelming it might be \Ndonna ni uchinomesaretemo
 Dialogue: 0,0:22:40.33,0:22:45.80,Ep19 ED,,0,0,0,,{\fad(300,400)\shad0.01\1a&HFE&\3a&HFE&\blur10}No matter how overwhelming it might be \Ndonna ni uchinomesaretemo
-Dialogue: 1,0:22:46.72,0:22:51.72,Ep19 ED,,0,0,0,,{\fad(300,400)\bord0\blur0.5}There's something I have to protect \Nmamoru mono ga aru
-Dialogue: 0,0:22:46.72,0:22:51.72,Ep19 ED,,0,0,0,,{\fad(300,400)\shad0.01\1a&HFE&\3a&HFE&\blur10}There's something I have to protect \Nmamoru mono ga aru
-Dialogue: 1,0:22:53.05,0:22:59.19,Ep19 ED,,0,0,0,,{\fad(300,400)\bord0\blur0.5}There's something I have to protect \Nmamoru mono ga aru
-Dialogue: 0,0:22:53.05,0:22:59.19,Ep19 ED,,0,0,0,,{\fad(300,400)\shad0.01\1a&HFE&\3a&HFE&\blur10}There's something I have to protect \Nmamoru mono ga aru
+Dialogue: 1,0:22:46.72,0:22:51.72,Ep19 ED,,0,0,0,,{\fad(300,400)\bord0\blur0.5}There’s something I have to protect \Nmamoru mono ga aru
+Dialogue: 0,0:22:46.72,0:22:51.72,Ep19 ED,,0,0,0,,{\fad(300,400)\shad0.01\1a&HFE&\3a&HFE&\blur10}There’s something I have to protect \Nmamoru mono ga aru
+Dialogue: 1,0:22:53.05,0:22:59.19,Ep19 ED,,0,0,0,,{\fad(300,400)\bord0\blur0.5}There’s something I have to protect \Nmamoru mono ga aru
+Dialogue: 0,0:22:53.05,0:22:59.19,Ep19 ED,,0,0,0,,{\fad(300,400)\shad0.01\1a&HFE&\3a&HFE&\blur10}There’s something I have to protect \Nmamoru mono ga aru
