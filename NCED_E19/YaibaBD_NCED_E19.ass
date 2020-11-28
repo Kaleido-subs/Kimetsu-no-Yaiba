@@ -24,6 +24,8 @@ Style: Ep19 ED,Averia Libre,57,&H00F5FAFF,&H000000FF,&H00212A82,&H00212A82,-1,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Ep19 ED,chapter,0,0,0,,{Intro}
+Comment: 0,0:00:12.20,0:00:12.20,Ep19 ED,chapter,0,0,0,sync,{ED}
 Dialogue: 1,0:00:11.95,0:00:18.16,Ep19 ED,,0,0,0,,{\fad(300,560)\bord0\blur0.5}This is the fate I've been entrusted with \Nware ni kasu itaku wo
 Dialogue: 0,0:00:11.95,0:00:18.16,Ep19 ED,,0,0,0,,{\fad(300,560)\shad0.01\1a&HFE&\3a&HFE&\blur10}This is the fate I've been entrusted with \Nware ni kasu itaku wo
 Dialogue: 1,0:00:18.25,0:00:24.59,Ep19 ED,,0,0,0,,{\fad(300,400)\bord0\blur0.5}I've made up my mind, so I have to follow through\N unmei to kakugo suru
