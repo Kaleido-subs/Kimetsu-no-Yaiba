@@ -241,7 +241,7 @@ Dialogue: 10,0:14:01.94,0:14:03.61,Default,,0,0,0,,I swear I'll cure her!
 Dialogue: 10,0:14:04.36,0:14:06.03,Default,,0,0,0,,There is no cure.
 Dialogue: 10,0:14:06.03,0:14:09.36,Default,,0,0,0,,{\q2}Once a human becomes a demon, \Nthere is no turning back.
 Dialogue: 10,0:14:09.62,0:14:10.74,Default,,0,0,0,,I'll find a way!
-Dialogue: 10,0:14:10.74,0:14:13.49,Default,,0,0,0,,I swear I'll find a way to change her back!
+Dialogue: 10,0:14:10.74,0:14:13.49,Default,,0,0,0,,I swear I'll find a way to turn her back!
 Dialogue: 10,0:14:13.49,0:14:15.54,Default,,0,0,0,,So please! Please don't kill her!
 Dialogue: 10,0:14:15.54,0:14:18.46,Default,,0,0,0,,I'll hunt down the one who slaughtered my family!
 Dialogue: 10,0:14:18.46,0:14:21.04,Default,,0,0,0,,I'll make everything alright again!
@@ -306,7 +306,7 @@ Dialogue: 10,0:18:08.10,0:18:09.48,Default,,0,0,0,,{\i1}Nezuko...
 Dialogue: 10,0:18:13.03,0:18:14.90,Default,,0,0,0,,{\i1}It wasn't Nezuko!
 Dialogue: 10,0:18:16.90,0:18:18.86,Default,,0,0,0,,{\i1}She would never eat humans!
 Dialogue: 10,0:18:22.53,0:18:23.66,Default,,0,0,0,,{\i1}This kid is by no means
-Dialogue: 10,0:18:24.08,0:18:27.83,Default,,0,0,0,,{\i1}the first to make such claims only to be eaten later.
+Dialogue: 10,0:18:24.08,0:18:27.83,Default,,0,0,0,,{\i1}the first to make such claims, only to be eaten later.
 Dialogue: 10,0:18:28.71,0:18:33.59,Default,,0,0,0,,{\i1\q2}When a demon is starving, it will eat any \Nhuman flesh it comes across. Even its own family.
 Dialogue: 10,0:18:34.38,0:18:36.38,Default,,0,0,0,,{\i1}They have no other way to sustain themselves.
 Dialogue: 10,0:18:37.01,0:18:40.30,Default,,0,0,0,,{\i1}I've seen it happen more times than I can count.
