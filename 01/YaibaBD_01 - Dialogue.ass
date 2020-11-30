@@ -53,16 +53,16 @@ Dialogue: 10,0:01:56.38,0:01:57.88,Default,,0,0,0,,I wanna come with you!
 Dialogue: 10,0:01:58.55,0:02:00.68,Default,,0,0,0,,I promise I'll help!
 Dialogue: 10,0:02:01.51,0:02:03.10,Default,,0,0,0,,Thank you, Hanako.
 Dialogue: 10,0:02:03.85,0:02:06.27,Default,,0,0,0,,But you're staying home today.
-Dialogue: 10,0:02:09.56,0:02:10.86,Default,,0,0,0,,So are you, Shigeru.
+Dialogue: 10,0:02:09.56,0:02:10.86,Default,,0,0,0,,And so are you, Shigeru.
 Dialogue: 10,0:02:10.86,0:02:13.90,Default,,0,0,0,,{\q2}I'll get you lots of tasty souvenirs \Nwhile I'm there, okay?
 Dialogue: 10,0:02:13.90,0:02:15.32,Default,,0,0,0,,For real?
 Dialogue: 10,0:02:15.32,0:02:16.24,Default,,0,0,0,,For real.
-Dialogue: 10,0:02:18.03,0:02:21.16,Default,,0,0,0,,And Hanako, I'll read you a book when I'm back.
+Dialogue: 10,0:02:18.03,0:02:21.16,Default,,0,0,0,,And Hanako, I'll read you a book when I come home.
 Dialogue: 10,0:02:21.16,0:02:21.99,Default,,0,0,0,,Okay!
 Dialogue: 10,0:02:22.33,0:02:23.66,Default,,0,0,0,,Attagirl.
 Dialogue: 10,0:02:23.66,0:02:25.79,Default,,0,0,0,,Thank you so much, Tanjirou.
 Dialogue: 10,0:02:25.79,0:02:26.75,Default,,0,0,0,,No problem.
-Dialogue: 10,0:02:27.25,0:02:28.75,Default,,0,0,0,,All right, I'm off.
+Dialogue: 10,0:02:27.25,0:02:28.75,Default,,0,0,0,,Alright, I'm off.
 Dialogue: 10,0:02:29.25,0:02:30.46,Default,,0,0,0,,Takeo.
 Dialogue: 10,0:02:30.46,0:02:32.50,Default,,0,0,0,,Could you chop me some wood?
 Dialogue: 10,0:02:32.50,0:02:34.34,Default,,0,0,0,,Keep it easy, though.
@@ -80,7 +80,7 @@ Dialogue: 10,0:03:06.91,0:03:08.20,Default,,0,0,0,,Tanjirou!
 Dialogue: 10,0:03:09.29,0:03:10.71,Default,,0,0,0,,Ah, Nezuko.
 Dialogue: 10,0:03:10.71,0:03:15.46,Default,,0,0,0,,{\q2}I was just putting Rokuta to sleep. \NDon't want him making a scene when you leave.
 Dialogue: 10,0:03:15.92,0:03:18.97,Default,,0,0,0,,He really misses Dad.
-Dialogue: 10,0:03:20.97,0:03:24.72,Default,,0,0,0,,{\q2}Everyone's really been clinging to \Nyou since he passed away.
+Dialogue: 10,0:03:20.97,0:03:24.72,Default,,0,0,0,,{\q2}Everyone's been clinging to you \Na lot more since he passed away.
 Dialogue: 10,0:03:27.01,0:03:28.43,Default,,0,0,0,,Have a good trip!
 Dialogue: 10,0:03:31.73,0:03:33.81,Default,,0,0,0,,{\i1}Our lives aren't always easy,
 Dialogue: 10,0:03:34.44,0:03:35.82,Default,,0,0,0,,{\i1}but we're happy.
@@ -93,7 +93,7 @@ Dialogue: 10,0:03:52.50,0:03:54.75,Default,,0,0,0,,{\i1}whenever happiness meets
 Dialogue: 10,0:03:55.17,0:03:56.21,Default,,0,0,0,,{\i1}it always carries
 Dialogue: 10,0:03:57.30,0:03:58.84,Default,,0,0,0,,{\i1}the smell of blood.
 Dialogue: 10,0:04:07.89,0:04:09.85,Default,,0,0,0,,Oh my, Tanjirou!
-Dialogue: 10,0:04:10.06,0:04:12.98,Default,,0,0,0,,{\q2}I can't believe you came \Nall the way down in this weather!
+Dialogue: 10,0:04:10.06,0:04:12.98,Default,,0,0,0,,I can't believe you came all the way down today!
 Dialogue: 10,0:04:12.98,0:04:15.23,Default,,0,0,0,,Always a hard worker, aren't you?
 Dialogue: 10,0:04:15.23,0:04:16.52,Default,,0,0,0,,Be careful not to catch a cold!
 Dialogue: 10,0:04:17.06,0:04:18.73,Default,,0,0,0,,This is nothing, really.
@@ -104,7 +104,7 @@ Dialogue: 10,0:04:26.37,0:04:30.04,Default,,0,0,0,,{\q2}Oh, and thanks for fixin
 Dialogue: 10,0:04:30.04,0:04:31.95,Default,,0,0,0,,I would like some as well!
 Dialogue: 10,0:04:35.96,0:04:37.38,Default,,0,0,0,,Tanjirou!
 Dialogue: 10,0:04:37.84,0:04:39.30,Default,,0,0,0,,Oh man, perfect timing!
-Dialogue: 10,0:04:40.21,0:04:43.26,Default,,0,0,0,,She thinks I broke this plate!
+Dialogue: 10,0:04:40.21,0:04:43.26,Default,,0,0,0,,She's accusing me of breaking this plate!
 Dialogue: 10,0:04:43.26,0:04:45.05,Default,,0,0,0,,Help a brother out, will ya?
 Dialogue: 10,0:04:45.05,0:04:46.14,Default,,0,0,0,,Give it a sniff!
 Dialogue: 10,0:04:50.72,0:04:52.73,Default,,0,0,0,,Smells like cat.
@@ -123,11 +123,11 @@ Dialogue: 10,0:05:25.93,0:05:27.89,Default,,0,0,0,,You can stay here for the nig
 Dialogue: 10,0:05:27.89,0:05:29.76,Default,,0,0,0,,Get over here.
 Dialogue: 10,0:05:31.01,0:05:32.06,Default,,0,0,0,,But...
 Dialogue: 10,0:05:32.06,0:05:33.81,Default,,0,0,0,,Don't argue, make haste!
-Dialogue: 10,0:05:34.52,0:05:36.35,Default,,0,0,0,,Before the demons show up.
+Dialogue: 10,0:05:34.52,0:05:36.35,Default,,0,0,0,,Before the demons come.
 Dialogue: 10,0:05:50.28,0:05:51.74,Default,,0,0,0,,Thanks for dinner.
 Dialogue: 10,0:05:56.50,0:05:59.13,Default,,0,0,0,,Say, Saburou.
 Dialogue: 10,0:05:59.13,0:06:00.75,Default,,0,0,0,,What are demons like?
-Dialogue: 10,0:06:01.92,0:06:05.84,Default,,0,0,0,,{\q2}Man-eating demons have always \Nroamed the lands after dark.
+Dialogue: 10,0:06:01.92,0:06:05.84,Default,,0,0,0,,{\q2}Man-eating demons have always \Nroamed the land after dark.
 Dialogue: 10,0:06:08.59,0:06:11.89,Default,,0,0,0,,That's why you shouldn't stroll around at night.
 Dialogue: 10,0:06:12.72,0:06:16.27,Default,,0,0,0,,{\q2}If you're done eating, sleep. \NYou can set off at sunrise.
 Dialogue: 10,0:06:20.94,0:06:25.03,Default,,0,0,0,,Couldn't these demons enter people's homes?
@@ -144,7 +144,7 @@ Dialogue: 10,0:07:02.40,0:07:06.44,Default,,0,0,0,,{\i1}It's fine, there are no 
 Dialogue: 10,0:07:07.44,0:07:09.28,Default,,0,0,0,,{\i1}But, come to think of it,
 Dialogue: 10,0:07:09.99,0:07:13.87,Default,,0,0,0,,{\i1\q2}Grandma used to say the same thing \Nwhen she was still with us.
 Comment: 0,0:07:17.54,0:07:20.54,Default,chapter,0,0,0,,{Part B}
-Dialogue: 10,0:07:19.75,0:07:21.58,Default,,0,0,0,,Be careful, you hear?
+Dialogue: 10,0:07:19.75,0:07:21.58,Default,,0,0,0,,You be careful now, y'hear?
 Dialogue: 10,0:07:21.58,0:07:22.46,Default,,0,0,0,,Sure!
 Dialogue: 10,0:07:31.43,0:07:33.72,Default,,0,0,0,,{\i1}Whenever happiness meets its end,
 Dialogue: 10,0:07:34.39,0:07:35.35,Default,,0,0,0,,{\i1}it always carries...
@@ -178,7 +178,7 @@ Dialogue: 10,0:09:48.19,0:09:51.11,Default,,0,0,0,,{\i1}The snow saved me.
 Dialogue: 10,0:09:51.86,0:09:53.90,Default,,0,0,0,,{\i1}Though it's why I slipped to begin with.
 Dialogue: 10,0:09:55.82,0:09:57.03,Default,,0,0,0,,Nezuko?
 Dialogue: 10,0:10:03.29,0:10:05.58,Default,,0,0,0,,Nezuko, are you all right?
-Dialogue: 10,0:10:06.91,0:10:08.42,Default,,0,0,0,,Don't stand up!
+Dialogue: 10,0:10:06.91,0:10:08.42,Default,,0,0,0,,Don't get up!
 Dialogue: 10,0:10:08.42,0:10:10.58,Default,,0,0,0,,Let me carry you to town, okay?
 Dialogue: 10,0:10:11.46,0:10:12.67,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:10:21.93,0:10:24.14,Default,,0,0,0,,{\i1}Sh-She's...
@@ -186,7 +186,7 @@ Dialogue: 10,0:10:24.81,0:10:25.89,Default,,0,0,0,,{\i1}a demon!
 Dialogue: 10,0:10:27.31,0:10:30.19,Default,,0,0,0,,{\i1}Is this what Saburou was talking about?
 Dialogue: 10,0:10:31.69,0:10:33.77,Default,,0,0,0,,{\i1}Nezuko? A man-eating demon?
 Dialogue: 10,0:10:34.11,0:10:35.15,Default,,0,0,0,,{\i1}No, there's no way.
-Dialogue: 10,0:10:35.15,0:10:38.15,Default,,0,0,0,,{\i1\t(2600,0,\c&H000000&\3c&H000000&\4c&H000000&)}Nezuko's been human from the day she was born!
+Dialogue: 10,0:10:35.15,0:10:38.15,Default,,0,0,0,,{\i1\t(2600,0,\c&H000000&)}Nezuko's been human from the day she was born!
 Dialogue: 10,0:10:38.78,0:10:42.41,Default,,0,0,0,,{\i1}However, her scent is no longer the same.
 Dialogue: 10,0:10:43.66,0:10:45.83,Default,,0,0,0,,{\i1}But there's no way she killed them!
 Dialogue: 10,0:10:46.33,0:10:51.33,Default,,0,0,0,,{\i1\q2}It looked like she was trying to protect Rokuta, \Nand there's no blood on her mouth or hands.
@@ -197,10 +197,10 @@ Dialogue: 10,0:11:04.72,0:11:06.93,Default,,0,0,0,,{\i1}And she's getting strong
 Dialogue: 10,0:11:07.85,0:11:10.69,Default,,0,0,0,,{\i1}While I was sleeping all carefree at Saburou's house,
 Dialogue: 10,0:11:10.69,0:11:13.27,Default,,0,0,0,,{\i1}everyone was brutally murdered!
 Dialogue: 10,0:11:14.02,0:11:15.27,Default,,0,0,0,,{\i1}It must have hurt a lot.
-Dialogue: 10,0:11:15.73,0:11:17.11,Default,,0,0,0,,{\i1}You suffered, didn't you?
+Dialogue: 10,0:11:15.73,0:11:17.11,Default,,0,0,0,,{\i1}You must've been suffering.
 Dialogue: 10,0:11:18.40,0:11:21.20,Default,,0,0,0,,{\i1}I'm so sorry I wasn't there to save you.
 Dialogue: 10,0:11:22.57,0:11:25.62,Default,,0,0,0,,{\i1}I have to at least save Nezuko somehow.
-Dialogue: 10,0:11:25.62,0:11:28.75,Default,,0,0,0,,{\i1}But she's so strong! I can't push her back!
+Dialogue: 10,0:11:25.62,0:11:28.75,Default,,0,0,0,,{\i1}But I'm not strong enough to push her back!
 Dialogue: 10,0:11:29.50,0:11:30.92,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:11:30.92,0:11:32.71,Default,,0,0,0,,Fight against it, Nezuko!
 Dialogue: 10,0:11:32.71,0:11:34.08,Default,,0,0,0,,Don't give in!
