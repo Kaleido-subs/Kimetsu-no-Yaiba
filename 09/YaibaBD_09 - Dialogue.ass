@@ -284,7 +284,7 @@ Dialogue: 10,0:20:45.76,0:20:47.85,Default,,0,0,0,,{\i1}My sword feels so heavy!
 Dialogue: 10,0:20:48.85,0:20:50.64,Default,,0,0,0,,{\i1}But even so!
 Dialogue: 10,0:20:50.64,0:20:53.02,Default,,0,0,0,,{\i1}Modified Second Form!
 Dialogue: 10,0:20:54.02,0:20:56.61,Default,,0,0,0,,{\i1}Horizontal Water Wheel!
-Comment: 0,0:22:40.04,0:23:00.02,Default,chapter,0,0,0,,{Outro}
+Comment: 0,0:22:40.04,0:22:40.05,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:22:44.92,0:22:46.88,Default,,0,0,0,,Those are some powerful demons!
 Dialogue: 10,0:22:46.88,0:22:50.09,Default,,0,0,0,,{\q2}Those temari-and-arrow combos \Nare giving me so much trouble!
 Dialogue: 10,0:22:50.47,0:22:52.43,Default,,0,0,0,,Are you hanging in there, Nezuko?
