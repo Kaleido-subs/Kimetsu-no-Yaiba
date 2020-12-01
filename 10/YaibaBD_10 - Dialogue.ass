@@ -298,7 +298,7 @@ Dialogue: 10,0:21:21.13,0:21:23.59,Default,,0,0,0,,So please! Please, I'm beggin
 Dialogue: 10,0:21:24.09,0:21:26.38,Default,,0,0,0,,Wh-What's going on there?
 Dialogue: 10,0:21:27.05,0:21:28.30,Default,,0,0,0,,What on earth?
 Comment: 0,0:22:59.98,0:22:59.98,Default,chapter,0,0,0,,{Outro}
-Dialogue: 10,0:23:03.02,0:23:05.82,Default,,0,0,0,,South-south-east!
+Dialogue: 10,0:23:03.02,0:23:05.82,Default,,0,0,0,,"South-south-east!"
 Dialogue: 10,0:23:05.82,0:23:08.82,Default,,0,0,0,,{\q2}I mean, I just fought! Does it hurt \Nto give me some time to rest?
 Dialogue: 10,0:23:09.28,0:23:10.49,Default,,0,0,0,,What? I nailed it?
 Dialogue: 10,0:23:10.49,0:23:12.87,Default,,0,0,0,,Not that I was really trying to or anything.
