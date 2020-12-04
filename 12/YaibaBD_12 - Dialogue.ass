@@ -272,7 +272,7 @@ Dialogue: 10,0:17:48.33,0:17:49.50,Default,,0,0,0,,I'll be back soon.
 Dialogue: 10,0:17:58.09,0:17:59.01,Default,,0,0,0,,Hit it!
 Dialogue: 10,0:18:01.51,0:18:03.68,Default,,0,0,0,,Damn insects!
 Dialogue: 10,0:18:03.68,0:18:05.35,Default,,0,0,0,,Infuriating!
-Dialogue: 10,0:18:22.24,0:18:24.70,Default,,0,0,0,,{\i1}The drum on his right shoulder \Nflips the room to the right!
+Dialogue: 10,0:18:22.24,0:18:24.70,Default,,0,0,0,,{\q2\i1}The drum on his right shoulder \Nflips the room to the right!
 Dialogue: 10,0:18:26.46,0:18:28.17,Default,,0,0,0,,{\i1}The left one flips it to the left!
 Dialogue: 10,0:18:29.21,0:18:31.00,Default,,0,0,0,,{\i1}Right leg, forward spin!
 Dialogue: 10,0:18:31.42,0:18:33.80,Default,,0,0,0,,{\i1}Left leg, backward spin!
