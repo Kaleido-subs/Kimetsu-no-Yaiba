@@ -257,7 +257,7 @@ Dialogue: 10,0:16:59.58,0:17:01.58,Default,,0,0,0,,I'm just going to take down t
 Dialogue: 10,0:17:03.08,0:17:04.54,Default,,0,0,0,,Listen to me, Teruko.
 Dialogue: 10,0:17:05.83,0:17:08.25,Default,,0,0,0,,Your brother is terribly exhausted right now.
 Dialogue: 10,0:17:08.25,0:17:10.17,Default,,0,0,0,,Make sure to look after him, okay?
-Dialogue: 10,0:17:11.96,0:17:15.47,Default,,0,0,0,,{\q2}As soon as I leave the room, \Nhit that drum and move the room.
+Dialogue: 10,0:17:11.96,0:17:15.47,Default,,0,0,0,,{\q2}As soon as I leave the room, \Nhit that drum and move the room,
 Dialogue: 10,0:17:16.01,0:17:18.35,Default,,0,0,0,,just like Kiyoshi's been doing.
 Dialogue: 10,0:17:18.35,0:17:21.77,Default,,0,0,0,,{\q2}Whenever someone tries to open \Nthe door or you hear something,
 Dialogue: 10,0:17:21.77,0:17:24.52,Default,,0,0,0,,hit that drum right away and make a run for it.
