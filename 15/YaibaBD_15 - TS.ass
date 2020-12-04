@@ -459,7 +459,7 @@ Dialogue: 5,0:23:16.41,0:23:18.54,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fsc
 Dialogue: 5,0:23:16.41,0:23:18.54,Sign,,0,0,0,,{\pos(1702.667,529.15)\fscx49\fscy69\fnQuicksand\fs70\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}is Ukogi.
 Dialogue: 6,0:23:16.41,0:23:18.54,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\c&H000000&\3a&H00&\4a&HFF&\blur0.8}My real name
 Dialogue: 6,0:23:16.41,0:23:18.54,Sign,,0,0,0,,{\pos(1702.667,529.15)\fscx49\fscy69\fnQuicksand\fs70\c&H000000&\3a&H00&\4a&HFF&\blur0.8}is Ukogi.
-Comment: 0,0:23:18.54,0:23:20.87,Sign,,0,0,0,,{\an2\shad1.5\3a&H00&\bord3.6}"That's because my favorite food is ukogi rice."
+Comment: 0,0:23:18.54,0:23:20.87,Sign,,0,0,0,,{\an2\shad1.5\3a&H00&\bord3.6}"That's because my favourite food is ukogi rice."
 Dialogue: 5,0:23:18.54,0:23:20.87,Sign,,0,0,0,,{\pos(1702.667,456.7)\fscx49\fscy69\fnQuicksand\fs70\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}That's because my
 Dialogue: 5,0:23:18.54,0:23:20.87,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69\fnQuicksand\fs70\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}favourite food is
 Dialogue: 5,0:23:18.54,0:23:20.87,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}ukogi rice.
@@ -475,7 +475,7 @@ Dialogue: 6,0:23:20.87,0:23:23.08,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69
 Dialogue: 6,0:23:20.87,0:23:23.08,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\c&H000000&\3a&H00&\4a&HFF&\blur0.8}so all I get is beans.
 Dialogue: 0,0:23:23.08,0:23:37.81,Sign,,0,0,0,,{\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\b0\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\4a&H00&\blur0.6}PREVIEW
 Dialogue: 1,0:23:23.08,0:23:37.81,Sign,,0,0,0,,{\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\b0\c&H555353&\3a&H00&\4a&HFF&\blur0.6}PREVIEW
-Comment: 0,0:23:26.17,0:23:27.26,Sign,,0,0,0,,{\an2\shad1.5\3a&H00&\bord3.6}"It's an ukogi rice ball!"
+Comment: 0,0:23:26.17,0:23:27.26,Sign,,0,0,0,,{\an2\shad1.5\3a&H00&\bord3.6}"Aan ukogi rice ball!"
 Dialogue: 3,0:23:26.17,0:23:28.67,Episode Preview Sign,,0,0,0,,{\clip(1509.71,42.29,1891.43,1038.86)\an7\bord0\shad0\fscx100\fscy100\c&HCCDCED&\blur1\pos(1630,44)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 3,0:23:26.17,0:23:28.67,Episode Preview Sign,,0,0,0,,{\clip(1509.71,42.29,1891.43,1038.86)\an7\bord0\shad0\fscx100\fscy100\c&HCCDCED&\blur1\pos(1630,70)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 3,0:23:26.17,0:23:28.67,Episode Preview Sign,,0,0,0,,{\clip(1509.71,42.29,1891.43,1038.86)\an7\bord0\shad0\fscx100\fscy100\c&HCCDCED&\blur1\pos(1630,93)\p1}m -966 7 l 265 7 265 10 -966 10
