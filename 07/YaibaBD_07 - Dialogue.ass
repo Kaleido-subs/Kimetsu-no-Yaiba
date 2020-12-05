@@ -121,9 +121,9 @@ Dialogue: 10,0:12:27.14,0:12:29.47,Default,,0,0,0,,I'm sorry. I'm so sorry.
 Dialogue: 10,0:12:29.47,0:12:31.39,Default,,0,0,0,,Wait just a little longer, okay?
 Dialogue: 10,0:12:31.39,0:12:35.23,Default,,0,0,0,,{\q2}I promise your big brother will \Nturn you back into a human again!
 Dialogue: 10,0:12:59.84,0:13:01.09,Default,,0,0,0,,Kazumi?
-Dialogue: 10,0:13:02.30,0:13:03.72,Default,,0,0,0,,Are you alright?
+Dialogue: 10,0:13:02.30,0:13:03.72,Default,,0,0,0,,Are you all right?
 Dialogue: 10,0:13:06.64,0:13:08.93,Default,,0,0,0,,My fiancée is dead.
-Dialogue: 10,0:13:09.85,0:13:11.89,Default,,0,0,0,,How could I be alright?
+Dialogue: 10,0:13:09.85,0:13:11.89,Default,,0,0,0,,How could I be all right?
 Dialogue: 10,0:13:17.35,0:13:18.69,Default,,0,0,0,,Kazumi...
 Dialogue: 10,0:13:20.86,0:13:24.11,Default,,0,0,0,,{\q2}No matter how many people \Nyou hold dear pass away,
 Dialogue: 10,0:13:24.11,0:13:26.24,Default,,0,0,0,,you have no choice but to move on.
@@ -180,7 +180,7 @@ Dialogue: 10,0:19:28.52,0:19:29.98,Default,,0,0,0,,{\i1}It's him!
 Dialogue: 10,0:19:31.52,0:19:32.44,Default,,0,0,0,,Daddy!
 Dialogue: 10,0:19:37.53,0:19:38.57,Default,,0,0,0,,Who's that?
 Dialogue: 10,0:19:40.99,0:19:42.36,Default,,0,0,0,,{\i1}He's...
-Dialogue: 10,0:19:41.61,0:19:42.74,Default,,0,0,0,,{\an8}It's alright.
+Dialogue: 10,0:19:41.61,0:19:42.74,Default,,0,0,0,,{\an8}It's all right.
 Dialogue: 10,0:19:42.74,0:19:43.32,Default,,0,0,0,,{\i1}He's...
 Dialogue: 10,0:19:43.32,0:19:44.53,Default,,0,0,0,,{\an8}Don't worry.
 Dialogue: 10,0:19:43.95,0:19:44.95,Default,,0,0,0,,{\i1}He's...
