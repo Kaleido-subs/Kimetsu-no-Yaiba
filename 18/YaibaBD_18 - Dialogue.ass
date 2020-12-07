@@ -28,51 +28,51 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Dialogue: 10,0:00:09.32,0:00:13.07,Default,,0,0,0,,Were you acquainted with any of them?
 Dialogue: 10,0:00:13.70,0:00:17.20,Default,,0,0,0,,There don't seem to be any survivors around here.
-Dialogue: 10,0:00:18.12,0:00:25.29,Default,,0,0,0,,We were informed that several \Nrookie Mizunoto had joined the battle,
+Dialogue: 10,0:00:18.12,0:00:25.29,Default,,0,0,0,,{\q2}We were informed that several \Nrookie Mizunoto had joined the battle,
 Dialogue: 10,0:00:26.21,0:00:28.59,Default,,0,0,0,,but they may be dead by now, don't you think?
 Dialogue: 10,0:00:29.92,0:00:30.84,Default,,0,0,0,,Let's go.
 Dialogue: 10,0:00:32.88,0:00:35.43,Default,,0,0,0,,Isn't the moon lovely?
 Dialogue: 10,0:00:37.10,0:00:39.72,Default,,0,0,0,,Won't you be a bit more chummy with me?
-Dialogue: 10,0:00:39.72,0:00:41.98,Default,,0,0,0,,We're on this mission together, after all.
+Dialogue: 10,0:00:39.72,0:00:41.98,Default,,0,0,0,,We're in this together.
 Dialogue: 10,0:00:42.64,0:00:45.23,Default,,0,0,0,,I'm only here to slay demons.
 Dialogue: 10,0:00:45.23,0:00:47.56,Default,,0,0,0,,How callous of you!
 Dialogue: 10,0:00:48.27,0:00:51.78,Default,,0,0,0,,All right. Let's split up here, then.
 Dialogue: 10,0:00:51.78,0:00:53.90,Default,,0,0,0,,I shall proceed from the west.
 Dialogue: 10,0:00:54.36,0:00:55.91,Default,,0,0,0,,Agreed.
-Dialogue: 10,0:01:04.79,0:01:07.54,Default,,0,0,0,,Don't touch my family!
-Dialogue: 10,0:01:07.54,0:01:10.55,Default,,0,0,0,,Stay away!
+Dialogue: 10,0:01:04.79,0:01:07.54,Default,,0,0,0,,Stay away from
+Dialogue: 10,0:01:07.54,0:01:10.55,Default,,0,0,0,,my family!
 Dialogue: 10,0:01:13.88,0:01:15.13,Default,,0,0,0,,Water Breathing!
 Dialogue: 10,0:01:15.13,0:01:16.13,Default,,0,0,0,,Second Form!
 Dialogue: 10,0:01:16.13,0:01:18.01,Default,,0,0,0,,Water Wheel!
 Comment: 0,0:02:58.03,0:02:58.03,Default,chapter,0,0,0,,{Part A}
-Dialogue: 10,0:03:08.54,0:03:10.04,Default,,0,0,0,,It's not strong enough!
-Dialogue: 10,0:03:10.04,0:03:11.42,Default,,0,0,0,,The blade won't cut through!
-Dialogue: 10,0:03:21.38,0:03:23.59,Default,,0,0,0,,Damn hard!
-Dialogue: 10,0:03:29.77,0:03:31.85,Default,,0,0,0,,Even my techniques can't cut through him!
+Dialogue: 10,0:03:08.54,0:03:10.04,Default,,0,0,0,,No way!
+Dialogue: 10,0:03:10.04,0:03:11.42,Default,,0,0,0,,My blade won't cut through!
+Dialogue: 10,0:03:21.38,0:03:23.59,Default,,0,0,0,,That's damn tough!
+Dialogue: 10,0:03:29.77,0:03:31.85,Default,,0,0,0,,My Water Wheel didn't even leave a scratch!
 Dialogue: 10,0:03:31.85,0:03:34.19,Default,,0,0,0,,What should I do?
-Dialogue: 10,0:03:36.15,0:03:38.69,Default,,0,0,0,,Stay away from my family!
-Dialogue: 10,0:03:38.69,0:03:42.91,Default,,0,0,0,,Stay away!
+Dialogue: 10,0:03:36.15,0:03:38.69,Default,,0,0,0,,Stay away from
+Dialogue: 10,0:03:38.69,0:03:42.91,Default,,0,0,0,,my family!
 Dialogue: 10,0:03:46.87,0:03:48.49,Default,,0,0,0,,What're you looking at?
 Dialogue: 10,0:03:48.49,0:03:49.16,Default,,0,0,0,,I'm over here!
-Dialogue: 10,0:03:49.70,0:03:51.62,Default,,0,0,0,,Screw you!
+Dialogue: 10,0:03:49.70,0:03:51.62,Default,,0,0,0,,Go screw yourself!
 Dialogue: 10,0:03:58.55,0:04:00.38,Default,,0,0,0,,Ouch!
-Dialogue: 10,0:04:00.38,0:04:03.55,Default,,0,0,0,,His strikes pack such a strong punch!
-Dialogue: 10,0:04:03.55,0:04:06.97,Default,,0,0,0,,There's nothing I can do. I'm not at full power.
-Dialogue: 10,0:04:06.97,0:04:09.85,Default,,0,0,0,,I can hardly focus after losing so much blood, either.
+Dialogue: 10,0:04:00.38,0:04:03.55,Default,,0,0,0,,His punch is freakin' strong!
+Dialogue: 10,0:04:03.55,0:04:06.97,Default,,0,0,0,,What do I do? I'm not strong enough!
+Dialogue: 10,0:04:06.97,0:04:09.85,Default,,0,0,0,,I can barely focus after losing so much blood.
 Dialogue: 10,0:04:17.44,0:04:19.15,Default,,0,0,0,,Water Breathing!
 Dialogue: 10,0:04:19.15,0:04:21.74,Default,,0,0,0,,Modified Second Form!
 Dialogue: 10,0:04:21.74,0:04:24.16,Default,,0,0,0,,Horizontal Water Wheel!
-Dialogue: 10,0:04:44.68,0:04:46.43,Default,,0,0,0,,What was that?
-Dialogue: 10,0:04:46.43,0:04:47.76,Default,,0,0,0,,What's going on?
+Dialogue: 10,0:04:44.68,0:04:46.43,Default,,0,0,0,,The hell?
+Dialogue: 10,0:04:46.43,0:04:47.76,Default,,0,0,0,,What was that?
 Dialogue: 10,0:04:47.76,0:04:49.97,Default,,0,0,0,,Inosuke! You okay?
-Dialogue: 10,0:04:52.81,0:04:54.64,Default,,0,0,0,,{\i1}That was his work?
+Dialogue: 10,0:04:52.81,0:04:54.64,Default,,0,0,0,,{\i1}He did that?
 Dialogue: 10,0:04:54.64,0:04:57.02,Default,,0,0,0,,{\i1}That was some stunt, dammit!
 Dialogue: 10,0:05:04.45,0:05:05.49,Default,,0,0,0,,{\i1}All right!
-Dialogue: 10,0:05:05.49,0:05:08.03,Default,,0,0,0,,{\i1}This is my opportunity to cut through his neck!
+Dialogue: 10,0:05:05.49,0:05:08.03,Default,,0,0,0,,{\i1\q2}This is the perfect opportunity \Nto cut through his neck!
 Dialogue: 10,0:05:08.74,0:05:10.37,Default,,0,0,0,,{\i1}Water Breathing!
 Dialogue: 10,0:05:10.37,0:05:12.91,Default,,0,0,0,,{\i1}The final and most powerful form!
-Dialogue: 10,0:05:17.79,0:05:19.59,Default,,0,0,0,,{\i1}He's giving off a different aura now.
-Dialogue: 10,0:05:20.17,0:05:23.97,Default,,0,0,0,,{\i1}This guy's about to do something out of this world!
+Dialogue: 10,0:05:17.79,0:05:19.59,Default,,0,0,0,,{\i1}His aura's changed!
+Dialogue: 10,0:05:20.17,0:05:23.97,Default,,0,0,0,,{\i1}This guy's about to pull off something mind-blowing!
 Dialogue: 10,0:05:26.18,0:05:28.05,Default,,0,0,0,,{\i1}This will be the end of him!
 Dialogue: 10,0:05:30.76,0:05:32.31,Default,,0,0,0,,{\i1}Total Concentration!
 Dialogue: 10,0:05:32.31,0:05:33.64,Default,,0,0,0,,{\i1}Water Breathing!
@@ -81,14 +81,14 @@ Dialogue: 10,0:05:43.94,0:05:44.90,Default,,0,0,0,,W-Watch out!
 Dialogue: 10,0:05:47.91,0:05:49.57,Default,,0,0,0,,Kentarou!
 Dialogue: 10,0:05:49.57,0:05:52.12,Default,,0,0,0,,I-Inosuke!
 Dialogue: 10,0:05:52.12,0:05:54.83,Default,,0,0,0,,Survive! Pull through until I'm back!
-Dialogue: 10,0:05:55.12,0:05:57.42,Default,,0,0,0,,That guy is a Blood Moon!
-Dialogue: 10,0:05:57.42,0:06:00.00,Default,,0,0,0,,Survive!
+Dialogue: 10,0:05:55.12,0:05:57.42,Default,,0,0,0,,That guy's a Blood Moon!
+Dialogue: 10,0:05:57.42,0:06:00.00,Default,,0,0,0,,Don't die!
 Dialogue: 10,0:06:00.00,0:06:02.75,Default,,0,0,0,,Whatever you do, don't die!
 Dialogue: 10,0:06:15.02,0:06:16.31,Default,,0,0,0,,Oh, crap!
 Dialogue: 10,0:06:29.57,0:06:34.58,Default,,0,0,0,,{\i1}It's getting really hard to breathe.
 Dialogue: 10,0:06:35.12,0:06:43.13,Default,,0,0,0,,{\i1}I can't even feel my arms or legs anymore.
-Dialogue: 10,0:06:56.68,0:06:58.64,Default,,0,0,0,,{\i1}Nezuko...
-Dialogue: 10,0:06:59.19,0:07:00.27,Default,,0,0,0,,{\i1}I'm sorry.
+Dialogue: 10,0:06:56.68,0:06:58.64,Default,,0,0,0,,{\i1}I'm sorry,
+Dialogue: 10,0:06:59.19,0:07:00.27,Default,,0,0,0,,{\i1}Nezuko...
 Dialogue: 10,0:07:07.61,0:07:09.45,Default,,0,0,0,,{\i1}Don't give up!
 Dialogue: 10,0:07:10.57,0:07:12.41,Default,,0,0,0,,{\i1}Don't give up!
 Dialogue: 10,0:07:13.62,0:07:15.62,Default,,0,0,0,,{\i1}Don't give up!
@@ -100,57 +100,56 @@ Dialogue: 10,0:07:52.74,0:07:54.41,Default,,0,0,0,,Are you okay?
 Dialogue: 10,0:08:00.66,0:08:02.33,Default,,0,0,0,,Water Breathing!
 Dialogue: 10,0:08:02.33,0:08:03.42,Default,,0,0,0,,Second Form!
 Dialogue: 10,0:08:05.00,0:08:06.42,Default,,0,0,0,,Water Wheel!
-Dialogue: 10,0:08:14.09,0:08:16.26,Default,,0,0,0,,I managed to break my fall somehow...
+Dialogue: 10,0:08:14.09,0:08:16.26,Default,,0,0,0,,Good, I managed to break my fall...
 Dialogue: 10,0:08:19.18,0:08:21.68,Default,,0,0,0,,I beg of you! Please stop!
 Dialogue: 10,0:08:51.42,0:08:53.01,Default,,0,0,0,,What are you looking at?
-Dialogue: 10,0:08:53.67,0:08:55.84,Default,,0,0,0,,We're not putting up some show, you know.
+Dialogue: 10,0:08:53.67,0:08:55.84,Default,,0,0,0,,We're not holding some theatre play here.
 Dialogue: 10,0:08:57.60,0:09:00.39,Default,,0,0,0,,Wh-What are you doing?
 Dialogue: 10,0:09:00.39,0:09:03.43,Default,,0,0,0,,Aren't you two allies?
 Dialogue: 10,0:09:04.02,0:09:05.77,Default,,0,0,0,,Allies?
-Dialogue: 10,0:09:05.77,0:09:09.52,Default,,0,0,0,,Don't put us in the same category \Nas something that frail.
+Dialogue: 10,0:09:05.77,0:09:09.52,Default,,0,0,0,,Don't lump us in with such frail trifle.
 Dialogue: 10,0:09:09.52,0:09:11.82,Default,,0,0,0,,We're family.
-Dialogue: 10,0:09:11.82,0:09:14.28,Default,,0,0,0,,We're joined by a powerful bond.
+Dialogue: 10,0:09:11.82,0:09:14.28,Default,,0,0,0,,We're joined by a much more powerful bond.
 Dialogue: 10,0:09:15.24,0:09:17.36,Default,,0,0,0,,And besides,
-Dialogue: 10,0:09:17.62,0:09:20.12,Default,,0,0,0,,this matter is between me and my sister.
+Dialogue: 10,0:09:17.62,0:09:20.12,Default,,0,0,0,,this is a matter between me and my sister.
 Dialogue: 10,0:09:20.74,0:09:23.12,Default,,0,0,0,,Don't interfere.
 Dialogue: 10,0:09:23.75,0:09:25.16,Default,,0,0,0,,Or I'll carve you up.
 Dialogue: 10,0:09:27.37,0:09:28.92,Default,,0,0,0,,You're wrong!
-Dialogue: 10,0:09:28.92,0:09:33.13,Default,,0,0,0,,If the bond between you is strong enough, \Nit's irrelevant whether you're family or allies.
+Dialogue: 10,0:09:28.92,0:09:33.13,Default,,0,0,0,,{\q2}If the bond between you is strong enough, \Nit's irrelevant whether you're family or allies.
 Dialogue: 10,0:09:33.13,0:09:35.09,Default,,0,0,0,,They're equally as precious!
-Dialogue: 10,0:09:35.59,0:09:38.72,Default,,0,0,0,,Calling it shallow if you're not related by blood...
+Dialogue: 10,0:09:35.59,0:09:38.72,Default,,0,0,0,,{\q2}Calling it shallow simply because \Nthere's no blood relation...
 Dialogue: 10,0:09:38.72,0:09:40.60,Default,,0,0,0,,That's simply not true!
-Dialogue: 10,0:09:40.85,0:09:46.44,Default,,0,0,0,,Not only that, but those who share \Na strong bond give off the scent of trust!
-Dialogue: 10,0:09:46.44,0:09:51.36,Default,,0,0,0,,Yet all I'm picking up from you two \Nis the scent of terror, hatred, and repulsion!
+Dialogue: 10,0:09:40.85,0:09:46.44,Default,,0,0,0,,{\q2}Not only that, but those who share \Na strong bond give off the scent of trust!
+Dialogue: 10,0:09:46.44,0:09:51.36,Default,,0,0,0,,{\q2}But all I'm picking up from you two \Nis the scent of terror, hatred, and repulsion!
 Dialogue: 10,0:09:52.07,0:09:54.61,Default,,0,0,0,,That's not what you call a bond!
-Dialogue: 10,0:09:54.61,0:09:55.95,Default,,0,0,0,,It's counterfeit!
-Dialogue: 10,0:09:55.95,0:09:57.40,Default,,0,0,0,,It's fake!
+Dialogue: 10,0:09:54.61,0:09:55.95,Default,,0,0,0,,It's artificial!
+Dialogue: 10,0:09:55.95,0:09:57.40,Default,,0,0,0,,Your bond is fake!
 Dialogue: 10,0:10:03.29,0:10:04.70,Default,,0,0,0,,You...
-Dialogue: 10,0:10:10.00,0:10:14.00,Default,,0,0,0,,Hey, look at that! A demon that's just the right size.
+Dialogue: 10,0:10:10.00,0:10:14.00,Default,,0,0,0,,{\q2}Wow, would look at that! \NA demon that's {\i1}just{\i0} the right size.
 Dialogue: 10,0:10:14.26,0:10:17.72,Default,,0,0,0,,Even I can take down a kid like him.
 Dialogue: 10,0:10:18.76,0:10:19.80,Default,,0,0,0,,Please hold on—
 Dialogue: 10,0:10:19.80,0:10:21.64,Default,,0,0,0,,You care to back off?
-Dialogue: 10,0:10:21.93,0:10:25.06,Default,,0,0,0,,I'm aiming for the safe route up the ladder.
-Dialogue: 10,0:10:25.06,0:10:29.52,Default,,0,0,0,,The higher your rank, \Nthe bigger your paycheck, after all.
+Dialogue: 10,0:10:21.93,0:10:25.06,Default,,0,0,0,,I'd much prefer to take the safe route up the ladder.
+Dialogue: 10,0:10:25.06,0:10:29.52,Default,,0,0,0,,{\q2}The higher your rank, the bigger \Nyour paycheque and all that.
 Dialogue: 10,0:10:29.85,0:10:33.07,Default,,0,0,0,,My unit may have been wiped out,
-Dialogue: 10,0:10:33.07,0:10:38.78,Default,,0,0,0,,but at least I get to slay a decently strong demon \Nand head down the mountain in one piece.
+Dialogue: 10,0:10:33.07,0:10:38.78,Default,,0,0,0,,{\q2}but at least {\i1}I{\i0} get to slay a proper demon \Nand head down the mountain in one piece.
 Dialogue: 10,0:10:38.78,0:10:39.57,Default,,0,0,0,,Take this!
-Dialogue: 10,0:10:39.57,0:10:41.53,Default,,0,0,0,,Don't do it! Stop!
+Dialogue: 10,0:10:39.57,0:10:41.53,Default,,0,0,0,,No, stop! Don't do it!
 Dialogue: 10,0:10:47.96,0:10:50.50,Default,,0,0,0,,{\i1}He was cut into pieces in an instant!
 Dialogue: 10,0:10:50.50,0:10:51.75,Default,,0,0,0,,{\i1}But how did he...
 Dialogue: 10,0:10:53.00,0:10:55.80,Default,,0,0,0,,Hey, what did you just say?
-Dialogue: 10,0:11:00.34,0:11:01.43,Default,,0,0,0,,Hey, you.
-Dialogue: 10,0:11:02.60,0:11:05.43,Default,,0,0,0,,What was it you just said?
+Dialogue: 10,0:11:00.34,0:11:01.43,Default,,0,0,0,,Hey,
+Dialogue: 10,0:11:02.60,0:11:05.43,Default,,0,0,0,,care to repeat what you just said?
 Dialogue: 10,0:11:08.14,0:11:10.02,Default,,0,0,0,,{\i1}He's so intimidating!
-Dialogue: 10,0:11:10.85,0:11:14.27,Default,,0,0,0,,{\i1}The air feels so heavy, I can hardly breathe.
+Dialogue: 10,0:11:10.85,0:11:14.27,Default,,0,0,0,,{\i1}He's so overbearing, I can hardly breathe.
 Dialogue: 10,0:11:16.82,0:11:19.15,Default,,0,0,0,,{\i1}I'm sorry, Inosuke.
 Dialogue: 10,0:11:19.74,0:11:22.62,Default,,0,0,0,,{\i1}Hang in there a little bit longer, okay?
 Dialogue: 10,0:11:23.16,0:11:25.91,Default,,0,0,0,,{\i1}I'll come running over as soon as I defeat this demon!
 Dialogue: 10,0:11:27.33,0:11:30.21,Default,,0,0,0,,{\i1}I'll come save you no matter what!
-Dialogue: 10,0:11:31.17,0:11:32.42,Default,,0,0,0,,Hey, you.
-Dialogue: 10,0:11:32.42,0:11:33.92,Default,,0,0,0,,What you said just now...
+Dialogue: 10,0:11:31.17,0:11:33.92,Default,,0,0,0,,What are you waiting for?
 Dialogue: 10,0:11:34.96,0:11:36.92,Default,,0,0,0,,Let's hear you say that again.
 Dialogue: 10,0:11:38.46,0:11:39.92,Default,,0,0,0,,Come on.
-Dialogue: 10,0:11:39.92,0:11:41.68,Default,,0,0,0,,Say it, will you?
+Dialogue: 10,0:11:39.92,0:11:41.68,Default,,0,0,0,,Say it again for me, will you?
 Dialogue: 10,0:11:41.68,0:11:42.89,Default,,0,0,0,,Sure!
 Dialogue: 10,0:11:42.89,0:11:44.97,Default,,0,0,0,,I'll say it as many times as you want!
 Dialogue: 10,0:11:44.97,0:11:47.35,Default,,0,0,0,,The bond between you is fake!
@@ -158,87 +157,86 @@ Dialogue: 10,0:12:12.92,0:12:15.33,Default,,0,0,0,,{\i1}Oh, c-crap!
 Comment: 0,0:12:20.05,0:12:20.05,Default,chapter,0,0,0,,{Part B}
 Dialogue: 10,0:12:30.52,0:12:31.77,Default,,0,0,0,,{\i1}Dammit!
 Dialogue: 10,0:12:31.77,0:12:34.23,Default,,0,0,0,,{\i1}All I can do is hide.
-Dialogue: 10,0:12:34.23,0:12:36.06,Default,,0,0,0,,{\i1}Just how pathetic am I?
+Dialogue: 10,0:12:34.23,0:12:36.06,Default,,0,0,0,,{\i1}This is just pathetic!
 Dialogue: 10,0:12:36.06,0:12:39.19,Default,,0,0,0,,{\i1}I've gotta come up with something.
-Dialogue: 10,0:12:39.19,0:12:42.78,Default,,0,0,0,,{\i1}How do you slash through someone who's sword-proof?
+Dialogue: 10,0:12:39.19,0:12:42.78,Default,,0,0,0,,{\i1}How do you cut through something that's sword-proof?
 Dialogue: 10,0:12:43.36,0:12:46.32,Default,,0,0,0,,{\i1}What do I do?
-Dialogue: 10,0:12:46.32,0:12:49.24,Default,,0,0,0,,{\i1}Just how do I cut through him?
+Dialogue: 10,0:12:46.32,0:12:49.24,Default,,0,0,0,,{\i1}I've gotta think up something!
 Dialogue: 10,0:12:49.24,0:12:52.71,Default,,0,0,0,,{\i1}Think! Think! Think! Thi—
 Dialogue: 10,0:12:53.46,0:12:55.17,Default,,0,0,0,,Whoa!
-Dialogue: 10,0:12:57.50,0:13:00.05,Default,,0,0,0,,This is bad! Really, really bad!
-Dialogue: 10,0:13:00.71,0:13:01.96,Default,,0,0,0,,I've...
-Dialogue: 10,0:13:01.96,0:13:04.13,Default,,0,0,0,,I've got to...
-Dialogue: 10,0:13:04.13,0:13:05.76,Default,,0,0,0,,Until he comes back...
-Dialogue: 10,0:13:08.26,0:13:11.02,Default,,0,0,0,,What the hell is wrong with me?!
-Dialogue: 10,0:13:12.85,0:13:15.27,Default,,0,0,0,,This is no time to mess around, dammit!
+Dialogue: 10,0:12:57.50,0:13:00.05,Default,,0,0,0,,This is bad! Really, {\i1}really{\i0} bad!
+Dialogue: 10,0:13:00.71,0:13:01.96,Default,,0,0,0,,I've gotta...
+Dialogue: 10,0:13:01.96,0:13:05.76,Default,,0,0,0,,I've gotta hang in there until he comes back!
+Dialogue: 10,0:13:08.26,0:13:11.02,Default,,0,0,0,,What the hell am I thinking?!
+Dialogue: 10,0:13:12.85,0:13:15.27,Default,,0,0,0,,This is no time to mess around, you friggin' dumbass!
 Dialogue: 10,0:13:21.90,0:13:24.40,Default,,0,0,0,,Screw you!
 Dialogue: 10,0:13:24.99,0:13:29.07,Default,,0,0,0,,Looks like I got infected by Tontarou's germs!
-Dialogue: 10,0:13:29.07,0:13:31.16,Default,,0,0,0,,Messing around like that...
-Dialogue: 10,0:13:31.16,0:13:33.25,Default,,0,0,0,,That was way too close for comfort!
-Dialogue: 10,0:13:33.25,0:13:35.04,Default,,0,0,0,,Using my head?
-Dialogue: 10,0:13:35.04,0:13:38.50,Default,,0,0,0,,Why would {\i1}I{\i0} do that?
-Dialogue: 10,0:13:42.59,0:13:43.76,Default,,0,0,0,,All right!
-Dialogue: 10,0:13:43.76,0:13:45.51,Default,,0,0,0,,Cut through you!
+Dialogue: 10,0:13:29.07,0:13:31.16,Default,,0,0,0,,Stop and think?
+Dialogue: 10,0:13:31.16,0:13:33.25,Default,,0,0,0,,What was I {\i1}thinking{\i0}?
+Dialogue: 10,0:13:33.25,0:13:35.04,Default,,0,0,0,,Use my head?
+Dialogue: 10,0:13:35.04,0:13:38.50,Default,,0,0,0,,Why the hell would {\i1}I{\i0} do that?
+Dialogue: 10,0:13:42.59,0:13:43.76,Default,,0,0,0,,Hell yeah!
+Dialogue: 10,0:13:43.76,0:13:45.51,Default,,0,0,0,,I cut through!
 Dialogue: 10,0:13:47.01,0:13:49.43,Default,,0,0,0,,It's actually pretty simple.
-Dialogue: 10,0:13:49.43,0:13:54.89,Default,,0,0,0,,If one sword isn't enough, \Nyou just need to use more swords!
+Dialogue: 10,0:13:49.43,0:13:54.89,Default,,0,0,0,,{\q2}If one sword doesn't work, \Nyou've just gotta use more swords!
 Dialogue: 10,0:13:54.89,0:13:56.35,Default,,0,0,0,,I mean, look at this!
-Dialogue: 10,0:13:56.35,0:13:59.19,Default,,0,0,0,,I've got two swords!
-Dialogue: 10,0:14:01.61,0:14:03.44,Default,,0,0,0,,I am almighty!
-Dialogue: 10,0:14:08.86,0:14:11.16,Default,,0,0,0,,Are you running away from {\i1}me{\i0}?
+Dialogue: 10,0:13:56.35,0:13:59.19,Default,,0,0,0,,I've got two of these bad boys!
+Dialogue: 10,0:14:01.61,0:14:03.44,Default,,0,0,0,,I'm almighty!
+Dialogue: 10,0:14:08.86,0:14:11.16,Default,,0,0,0,,Why the hell are you running away?
 Dialogue: 10,0:14:11.16,0:14:12.33,Default,,0,0,0,,Screw you!
-Dialogue: 10,0:14:12.33,0:14:14.24,Default,,0,0,0,,Come back, dammit!
-Dialogue: 10,0:14:27.55,0:14:32.10,Default,,0,0,0,,I'll give you a small heads up.\NI don't plan on killing you right away.
+Dialogue: 10,0:14:12.33,0:14:14.24,Default,,0,0,0,,Get back here, asshole!
+Dialogue: 10,0:14:27.55,0:14:32.10,Default,,0,0,0,,{\q2}I'll give you a small heads up: \NI don't plan on killing you quickly.
 Dialogue: 10,0:14:32.76,0:14:36.06,Default,,0,0,0,,After ripping you to shreds, I'll carve you up.
 Dialogue: 10,0:14:40.27,0:14:41.77,Default,,0,0,0,,That said,
-Dialogue: 10,0:14:41.77,0:14:44.53,Default,,0,0,0,,if you take back your words,
-Dialogue: 10,0:14:44.53,0:14:46.99,Default,,0,0,0,,I'll do you a favor and kill you at once.
-Dialogue: 10,0:14:46.99,0:14:48.82,Default,,0,0,0,,I won't take it back!
-Dialogue: 10,0:14:48.82,0:14:51.03,Default,,0,0,0,,What I said was the truth!
-Dialogue: 10,0:14:51.66,0:14:54.49,Default,,0,0,0,,{\i1}You{\i0} are the one know who's not making sense!
+Dialogue: 10,0:14:41.77,0:14:44.53,Default,,0,0,0,,if you take back what you said,
+Dialogue: 10,0:14:44.53,0:14:46.99,Default,,0,0,0,,I'll do you a favour and make it swift.
+Dialogue: 10,0:14:46.99,0:14:48.82,Default,,0,0,0,,I refuse!
+Dialogue: 10,0:14:48.82,0:14:51.03,Default,,0,0,0,,I meant every word I said!
+Dialogue: 10,0:14:51.66,0:14:54.49,Default,,0,0,0,,What I said was the truth!
 Dialogue: 10,0:15:01.50,0:15:04.09,Default,,0,0,0,,You're the one who's in the wrong!
-Dialogue: 10,0:15:20.85,0:15:23.23,Default,,0,0,0,,{\i1}Damn! That bastard.
-Dialogue: 10,0:15:23.23,0:15:25.27,Default,,0,0,0,,{\i1}Where the hell did he go, dammit?
+Dialogue: 10,0:15:20.85,0:15:23.23,Default,,0,0,0,,{\i1}Damn, that bastard!
+Dialogue: 10,0:15:23.23,0:15:25.27,Default,,0,0,0,,{\i1}Where the hell did you run off to?
 Dialogue: 10,0:15:29.24,0:15:32.70,Default,,0,0,0,,I'm telling ya this doesn't hurt!
 Dialogue: 10,0:15:32.70,0:15:35.87,Default,,0,0,0,,What doesn't hurt doesn't hurt!
 Dialogue: 10,0:15:35.87,0:15:37.70,Default,,0,0,0,,If it's come to this,
-Dialogue: 10,0:15:37.70,0:15:40.08,Default,,0,0,0,,I'll sniff him out!
+Dialogue: 10,0:15:37.70,0:15:40.08,Default,,0,0,0,,I'll hafta sniff him out!
 Dialogue: 10,0:15:52.13,0:15:54.01,Default,,0,0,0,,There you are!
-Dialogue: 10,0:15:54.01,0:15:57.72,Default,,0,0,0,,You dumb piece of shit! \NHow high did you climb up?
+Dialogue: 10,0:15:54.01,0:15:57.72,Default,,0,0,0,,{\q2}You dumb piece of shit! \NWhy'd you climb that high?
 Dialogue: 10,0:15:58.39,0:16:00.06,Default,,0,0,0,,Damn you!
 Dialogue: 10,0:16:00.06,0:16:03.81,Default,,0,0,0,,Tryna make me use my head again, are ya?
 Dialogue: 10,0:16:03.81,0:16:05.40,Default,,0,0,0,,In your dreams!
 Dialogue: 10,0:16:09.40,0:16:10.86,Default,,0,0,0,,What the...
 Dialogue: 10,0:16:11.28,0:16:13.16,Default,,0,0,0,,Oh, I get it!
-Dialogue: 10,0:16:13.16,0:16:16.83,Default,,0,0,0,,He's trembling with fear at the sight of me, huh?
-Dialogue: 10,0:16:18.58,0:16:20.50,Default,,0,0,0,,Well, it's a little late for that!
+Dialogue: 10,0:16:13.16,0:16:16.83,Default,,0,0,0,,He's trembling at the sight of me, huh?
+Dialogue: 10,0:16:18.58,0:16:20.50,Default,,0,0,0,,It's a little late for that!
 Dialogue: 10,0:16:26.00,0:16:27.25,Default,,0,0,0,,What the...
 Dialogue: 10,0:16:27.25,0:16:28.34,Default,,0,0,0,,Now what?
-Dialogue: 10,0:16:33.34,0:16:35.89,Default,,0,0,0,,D-Did he just shed his skin?
-Dialogue: 10,0:16:46.94,0:16:48.27,Default,,0,0,0,,{\i1}Geez.
-Dialogue: 10,0:16:48.27,0:16:51.90,Default,,0,0,0,,{\i1}Come on now, that's a bit too big!
-Dialogue: 10,0:16:52.28,0:16:54.40,Default,,0,0,0,,{\i1}This is starting to look pretty bad!
-Dialogue: 10,0:16:54.40,0:16:58.95,Default,,0,0,0,,{\i1}I've never sensed this much power \Nfrom an opponent before!
+Dialogue: 10,0:16:33.34,0:16:35.89,Default,,0,0,0,,D-Did he just molt?
+Dialogue: 10,0:16:46.94,0:16:48.27,Default,,0,0,0,,{\i1}Nope.
+Dialogue: 10,0:16:48.27,0:16:51.90,Default,,0,0,0,,{\i1}That's too big, even for me.
+Dialogue: 10,0:16:52.28,0:16:54.40,Default,,0,0,0,,{\i1}This is looking pretty bad!
+Dialogue: 10,0:16:54.40,0:16:58.95,Default,,0,0,0,,{\i1\q2}I've never felt this much pressure \Nfrom an opponent before!
 Dialogue: 10,0:16:58.95,0:17:00.91,Default,,0,0,0,,{\i1}I'll get crushed just by this force!
 Dialogue: 10,0:17:06.67,0:17:07.92,Default,,0,0,0,,{\i1}There's no point.
 Dialogue: 10,0:17:08.29,0:17:10.09,Default,,0,0,0,,{\i1}I can't win.
 Dialogue: 10,0:17:17.30,0:17:18.76,Default,,0,0,0,,{\i1}I'm dead meat.
 Dialogue: 10,0:17:20.56,0:17:21.89,Default,,0,0,0,,{\i1}I'm going to die.
-Dialogue: 10,0:17:23.06,0:17:24.23,Default,,0,0,0,,{\i1}Survive!
+Dialogue: 10,0:17:23.06,0:17:24.23,Default,,0,0,0,,{\i1}Don't die!
 Dialogue: 10,0:17:25.48,0:17:28.31,Default,,0,0,0,,Survive! Pull through until I'm back!
 Dialogue: 10,0:17:29.52,0:17:35.28,Default,,0,0,0,,{\i1}Always live your lives with great pride.
-Dialogue: 10,0:17:35.28,0:17:37.78,Default,,0,0,0,,{\i1}I wish you luck in battle!
+Dialogue: 10,0:17:35.28,0:17:37.78,Default,,0,0,0,,{\i1}I wish you much luck in battle!
 Dialogue: 10,0:17:40.28,0:17:41.58,Default,,0,0,0,,I won't lose!
 Dialogue: 10,0:17:42.54,0:17:45.25,Default,,0,0,0,,No way in hell am I gonna lose!
 Dialogue: 10,0:17:45.71,0:17:49.50,Default,,0,0,0,,I'm Hashibira Inosuke of the Demon Slayers!
-Dialogue: 10,0:17:49.50,0:17:52.38,Default,,0,0,0,,Come at me, you scumbag!
-Dialogue: 10,0:17:54.13,0:17:55.30,Default,,0,0,0,,{\i1}He's fast!
-Dialogue: 10,0:17:55.30,0:17:56.88,Default,,0,0,0,,{\i1}I can't see him!
+Dialogue: 10,0:17:49.50,0:17:52.38,Default,,0,0,0,,Come and get some, you scumbag!
+Dialogue: 10,0:17:54.13,0:17:55.30,Default,,0,0,0,,{\i1}That was fast!
+Dialogue: 10,0:17:55.30,0:17:56.88,Default,,0,0,0,,{\i1}I couldn't even see him!
 Dialogue: 10,0:18:03.22,0:18:05.64,Default,,0,0,0,,Beast Breathing!
 Dialogue: 10,0:18:05.64,0:18:07.56,Default,,0,0,0,,Third Fang!
 Dialogue: 10,0:18:07.56,0:18:09.02,Default,,0,0,0,,Tear and Gorge!
-Dialogue: 10,0:18:11.02,0:18:12.44,Default,,0,0,0,,It... snapped?
+Dialogue: 10,0:18:11.02,0:18:12.44,Default,,0,0,0,,They... snapped?
 Dialogue: 10,0:18:17.28,0:18:19.07,Default,,0,0,0,,{\i1}Crap!
-Dialogue: 10,0:18:19.07,0:18:22.03,Default,,0,0,0,,{\i1}I couldn't break my fall on time!
+Dialogue: 10,0:18:19.07,0:18:22.03,Default,,0,0,0,,{\i1}I couldn't react to that on time!
 Dialogue: 10,0:18:23.37,0:18:28.62,Default,,0,0,0,,Stay away from my family!
 Dialogue: 10,0:18:28.62,0:18:31.00,Default,,0,0,0,,I won't die!
 Dialogue: 10,0:18:31.00,0:18:32.59,Default,,0,0,0,,{\i1}Beast Breathing!
@@ -250,42 +248,41 @@ Dialogue: 10,0:18:41.68,0:18:43.68,Default,,0,0,0,,{\i1}They're in, but...
 Dialogue: 10,0:18:43.68,0:18:45.47,Default,,0,0,0,,{\i1}What the hell?
 Dialogue: 10,0:18:45.47,0:18:47.68,Default,,0,0,0,,{\i1}It doesn't even make him flinch!
 Dialogue: 10,0:19:07.87,0:19:09.21,Default,,0,0,0,,{\i1}I'm sorry.
-Dialogue: 10,0:19:11.79,0:19:14.59,Default,,0,0,0,,{\i1}I'm sorry, Inosuke.
+Dialogue: 10,0:19:11.79,0:19:14.59,Default,,0,0,0,,{\i1}Forgive me, Inosuke.
 Dialogue: 10,0:19:26.93,0:19:28.98,Default,,0,0,0,,{\i1}I want at least you to survive,
 Dialogue: 10,0:19:29.89,0:19:31.10,Default,,0,0,0,,{\i1}Inosuke.
-Dialogue: 10,0:19:37.73,0:19:41.41,Default,,0,0,0,,{\i1}Wh-Who are you?
+Dialogue: 10,0:19:37.73,0:19:41.41,Default,,0,0,0,,{\i1}Wh-Who's that?
 Dialogue: 10,0:19:52.04,0:19:53.50,Default,,0,0,0,,{\i1}Wh-What was that?
-Dialogue: 10,0:19:55.46,0:19:57.13,Default,,0,0,0,,{\i1}Did he cut through him?
-Dialogue: 10,0:19:57.13,0:19:58.30,Default,,0,0,0,,{\i1}That guy?
+Dialogue: 10,0:19:55.46,0:19:58.30,Default,,0,0,0,,{\i1}Did he cut through him?
 Dialogue: 10,0:19:59.01,0:20:01.93,Default,,0,0,0,,{\i1}Wh-Who is that?
 Dialogue: 10,0:20:01.93,0:20:03.05,Default,,0,0,0,,{\i1}Who on earth...
 Dialogue: 10,0:20:14.35,0:20:15.11,Default,,0,0,0,,{\i1}He's fast!
 Dialogue: 10,0:20:17.23,0:20:18.82,Default,,0,0,0,,{\i1}Water Breathing.
 Dialogue: 10,0:20:18.82,0:20:20.49,Default,,0,0,0,,{\i1}Fourth Form.
-Dialogue: 10,0:20:20.49,0:20:21.49,Default,,0,0,0,,{\i1}Striking Tide.
+Dialogue: 10,0:20:20.49,0:20:21.49,Default,,0,0,0,,{\i1}Striking Tide!
 Dialogue: 10,0:20:29.74,0:20:32.46,Default,,0,0,0,,{\i1}H-Holy shit!
 Dialogue: 10,0:20:37.46,0:20:40.59,Default,,0,0,0,,{\i1}I-I've never seen anyone
 Dialogue: 10,0:20:40.96,0:20:43.59,Default,,0,0,0,,{\i1}as incredible as this guy!
-Dialogue: 10,0:20:52.02,0:20:53.31,Default,,0,0,0,,{\i1}Got it!
-Dialogue: 10,0:20:53.31,0:20:55.40,Default,,0,0,0,,{\i1}The acrid odor's starting to fade.
+Dialogue: 10,0:20:52.02,0:20:53.31,Default,,0,0,0,,{\i1}I can smell again!
+Dialogue: 10,0:20:53.31,0:20:55.40,Default,,0,0,0,,{\i1}The acrid odour's starting to fade.
 Dialogue: 10,0:20:55.77,0:20:57.86,Default,,0,0,0,,{\i1}I can detect the scent of the threads now!
 Dialogue: 10,0:20:58.61,0:21:00.44,Default,,0,0,0,,{\i1}It's an even playing field now!
-Dialogue: 10,0:21:02.69,0:21:05.45,Default,,0,0,0,,{\i1}He's smarter than I thought.
+Dialogue: 10,0:21:02.69,0:21:05.45,Default,,0,0,0,,{\i1}He's smarter than I gave him credit for.
 Dialogue: 10,0:21:05.95,0:21:07.91,Default,,0,0,0,,{\i1}He doesn't flinch back in fear.
-Dialogue: 10,0:21:08.74,0:21:12.00,Default,,0,0,0,,{\i1}Well, not like it matters anyway.
+Dialogue: 10,0:21:08.74,0:21:12.00,Default,,0,0,0,,{\i1}Oh well, not like it matters anyway.
 Dialogue: 10,0:21:19.13,0:21:20.88,Default,,0,0,0,,{\i1}Water Breathing!
 Dialogue: 10,0:21:20.88,0:21:22.63,Default,,0,0,0,,{\i1}First Form!
 Dialogue: 10,0:21:22.63,0:21:25.05,Default,,0,0,0,,{\i1}Water Surface Slash!
 Comment: 0,0:23:00.02,0:23:00.02,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:23:02.15,0:23:03.40,Default,,0,0,0,,Hey!
-Dialogue: 10,0:23:03.40,0:23:06.36,Default,,0,0,0,,Wow! I'd be damned if you didn't \Ntake out that demon in a flash!
+Dialogue: 10,0:23:03.40,0:23:06.36,Default,,0,0,0,,{\q2}Wow! I'd be damned if you didn't \Ntake out that demon in a flash!
 Dialogue: 10,0:23:06.36,0:23:07.65,Default,,0,0,0,,Who are you?
-Dialogue: 10,0:23:08.32,0:23:11.45,Default,,0,0,0,,I saw you using the same technique \Nas Monjirou! You his friend?
-Dialogue: 10,0:23:12.07,0:23:14.99,Default,,0,0,0,,What, you don't see me here? \NLook at me, dammit!
+Dialogue: 10,0:23:08.32,0:23:11.45,Default,,0,0,0,,{\q2}I saw you using the same attack \Nas Monjirou! You his friend?
+Dialogue: 10,0:23:12.07,0:23:14.99,Default,,0,0,0,,{\q2}What, you don't see me here? \NLook at me, dammit!
 Dialogue: 10,0:23:14.99,0:23:17.08,Default,,0,0,0,,Hey! Hey! Hey! Hey!
 Dialogue: 10,0:23:17.08,0:23:18.66,Default,,0,0,0,,What do you say to that?
 Dialogue: 10,0:23:19.29,0:23:20.17,Default,,0,0,0,,Hey!
 Dialogue: 10,0:23:22.92,0:23:25.17,Default,,0,0,0,,Okay, then, I'll let you in on a secret!
-Dialogue: 10,0:23:25.17,0:23:30.55,Default,,0,0,0,,I hear that Tanjirou's favorite rice ball flavor \Nis plum seaweed, and Zenitsu really digs salmon!
+Dialogue: 10,0:23:25.17,0:23:30.55,Default,,0,0,0,,{\q2}I hear that Tanjirou's favourite rice ball flavour \Nis plum seaweed, and Zenitsu really digs salmon!
 Dialogue: 10,0:23:31.84,0:23:34.89,Default,,0,0,0,,Next, Episode 19, "The Fire God".
 Dialogue: 10,0:23:34.89,0:23:36.56,Default,,0,0,0,,So you {\i1}can{\i0} talk!
