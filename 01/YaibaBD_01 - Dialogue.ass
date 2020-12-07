@@ -78,7 +78,7 @@ Dialogue: 10,0:02:56.90,0:02:59.20,Default,,0,0,0,,Hurry back, okay?
 Dialogue: 10,0:02:59.65,0:03:01.91,Default,,0,0,0,,Have a safe trip!
 Dialogue: 10,0:03:06.91,0:03:08.20,Default,,0,0,0,,Tanjirou!
 Dialogue: 10,0:03:09.29,0:03:10.71,Default,,0,0,0,,Ah, Nezuko.
-Dialogue: 10,0:03:10.71,0:03:15.46,Default,,0,0,0,,{\q2}I was just putting Rokuta to sleep. \NDon't want him making a scene when you leave.
+Dialogue: 10,0:03:10.71,0:03:15.46,Default,,0,0,0,,{\q2}I was just putting Rokuta to sleep. \NDidn't want him making a scene when you left.
 Dialogue: 10,0:03:15.92,0:03:18.97,Default,,0,0,0,,He really misses Dad.
 Dialogue: 10,0:03:20.97,0:03:24.72,Default,,0,0,0,,{\q2}Everyone's been clinging to you \Na lot more since he passed away.
 Dialogue: 10,0:03:27.01,0:03:28.43,Default,,0,0,0,,Have a good trip!
@@ -135,7 +135,7 @@ Dialogue: 10,0:06:25.94,0:06:28.49,Default,,0,0,0,,They can. And they do.
 Dialogue: 10,0:06:32.12,0:06:35.58,Default,,0,0,0,,But can't they just eat everyone then?
 Dialogue: 10,0:06:38.54,0:06:42.17,Default,,0,0,0,,That's why the demon hunters hunt them down.
 Dialogue: 10,0:06:42.67,0:06:44.05,Default,,0,0,0,,Have for ages.
-Dialogue: 10,0:06:46.30,0:06:48.05,Default,,0,0,0,,I'm cutting the lights.
+Dialogue: 10,0:06:46.30,0:06:48.05,Default,,0,0,0,,I'm snuffing the lights.
 Dialogue: 10,0:06:48.05,0:06:49.26,Default,,0,0,0,,Go to sleep now.
 Dialogue: 10,0:06:52.51,0:06:56.93,Default,,0,0,0,,{\i1}Saburou has been all alone ever since he lost his family.
 Dialogue: 10,0:06:56.93,0:06:58.35,Default,,0,0,0,,{\i1}He's probably lonely.
@@ -281,7 +281,7 @@ Dialogue: 10,0:16:06.82,0:16:07.98,Default,,0,0,0,,{\i1}It must be painful.
 Dialogue: 10,0:16:08.65,0:16:10.69,Default,,0,0,0,,{\i1}Your heart is likely crushed right now.
 Dialogue: 10,0:16:11.45,0:16:12.57,Default,,0,0,0,,{\i1}I get it.
 Dialogue: 10,0:16:13.61,0:16:16.95,Default,,0,0,0,,{\i1}Had I gotten here even half a day sooner,
-Dialogue: 10,0:16:16.95,0:16:19.66,Default,,0,0,0,,{\i1}your family might have still been alive right now.
+Dialogue: 10,0:16:16.95,0:16:19.66,Default,,0,0,0,,{\i1}your family might still have been alive right now.
 Dialogue: 10,0:16:20.33,0:16:24.29,Default,,0,0,0,,{\i1}However, you can't turn back time.
 Dialogue: 10,0:16:24.96,0:16:26.13,Default,,0,0,0,,{\i1}Feel the anger.
 Dialogue: 10,0:16:26.63,0:16:32.72,Default,,0,0,0,,{\i1\q2}This pure, unforgiving wrath will \Nbecome the force that drives you forward!
