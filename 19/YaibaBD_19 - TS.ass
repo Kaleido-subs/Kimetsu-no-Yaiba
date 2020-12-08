@@ -45,24 +45,24 @@ Dialogue: 0,0:23:00.77,0:23:00.81,Sign,,0,0,0,,{\an3\pos(1662.84,466.67)\fscx73\
 Dialogue: 0,0:23:00.81,0:23:00.85,Sign,,0,0,0,,{\an3\pos(1731.98,461.53)\fscx63\fscy98\frz4.69\fax0.3\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2\4a&H00&\3a&H00&}Demon Slayer
 Dialogue: 0,0:23:00.85,0:23:00.90,Sign,,0,0,0,,{\an3\pos(1805.12,458.1)\fscx45\fscy99\frz4.69\fax0.3\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2\4a&H00&\3a&H00&}Demon Slayer
 Dialogue: 0,0:23:00.90,0:23:00.94,Sign,,0,0,0,,{\an3\pos(1872.27,456.1)\fscx28\fscy109\frz4.69\fax0.3\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2\4a&H00&\3a&H00&}Demon Slayer
-Dialogue: 1,0:23:00.90,0:23:00.94,Sign,,0,0,0,,{\blur0.8\fscx90\fscy90\frz16.92\fs40\bord3\3c&H454546&\c&H32434F&\2c&H666667&\pos(695.057,209.727)\iclip(m 737 294 l 667 44 849 49)\4a&H00&\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
-Dialogue: 1,0:23:00.90,0:23:00.94,Sign,,0,0,0,,{\blur0.8\fscx90\fscy90\frz16.92\fs40\c&HC3EBDC&\2c&H666667&\pos(695.057,209.727)\4a&HFF&\iclip(m 737 294 l 667 44 849 49)\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
-Dialogue: 0,0:23:00.94,0:23:13.91,Sign,,0,0,0,,{\blur0.8\fscx90\fscy90\frz16.92\fs40\bord3\3c&H454546&\c&H32434F&\2c&H666667&\pos(695.057,209.727)\4a&H00&\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
-Dialogue: 1,0:23:00.94,0:23:13.91,Sign,,0,0,0,,{\blur0.8\fscx90\fscy90\frz16.92\fs40\c&HC3EBDC&\2c&H666667&\pos(695.057,209.727)\4a&HFF&\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
-Dialogue: 0,0:23:01.06,0:23:01.10,Sign,,0,0,0,,{\pos(1464.8,115.6)\frz3.24\fs100\fsp5\bord5\3c&HBDE8D7&\c&HCFDDFD&\blur0.6\clip(m 1593 342 l 1462 6 1188 32 1278 161)\4a&H00&\b0\an2\fnDK Longreach\3a&H00&}PREVIEW
-Dialogue: 1,0:23:01.06,0:23:01.10,Sign,,0,0,0,,{\pos(1464.8,115.6)\frz3.24\fs100\fsp5\c&H4C4C4C&\4a&HFF&\blur0.6\clip(m 1593 342 l 1462 6 1188 32 1278 161)\b0\an2\fnDK Longreach\3a&H00&}PREVIEW
-Dialogue: 0,0:23:01.10,0:23:13.91,Sign,,0,0,0,,{\blur0.8\pos(1464.8,115.6)\frz3.24\fs100\fsp5\3c&HBDE8D7&\c&HCFDDFD&\bord5\4a&H00&\b0\an2\fnDK Longreach\3a&H00&}PREVIEW
-Dialogue: 1,0:23:01.10,0:23:13.91,Sign,,0,0,0,,{\blur0.8\pos(1464.8,115.6)\frz3.24\fs100\fsp5\c&H4C4C4C&\4a&HFF&\b0\an2\fnDK Longreach\3a&H00&}PREVIEW
-Dialogue: 0,0:23:02.06,0:23:02.31,Sign,,0,0,0,,{\blur0.8\fscx90\fscy90\frz16.92\fs40\bord3\3c&H454546&\c&H32434F&\2c&H666667&\pos(891.057,188.394)\iclip(m 829 187 l 868 187 881 182 888 174 884 182 877 197 836 223)\4a&H00&\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
-Dialogue: 1,0:23:02.06,0:23:02.31,Sign,,0,0,0,,{\blur0.8\fscx90\fscy90\frz16.92\fs40\c&HC3EBDC&\2c&H666667&\4a&HFF&\pos(891.057,188.394)\iclip(m 829 187 l 868 187 881 182 888 174 884 182 877 197 836 223)\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
-Dialogue: 0,0:23:02.31,0:23:13.91,Sign,,0,0,0,,{\blur0.8\fscx90\fscy90\frz16.92\fs40\bord3\3c&H454546&\c&H32434F&\2c&H666667&\pos(891.057,188.394)\4a&H00&\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
-Dialogue: 1,0:23:02.31,0:23:13.91,Sign,,0,0,0,,{\blur0.8\fscx90\fscy90\frz16.92\fs40\c&HC3EBDC&\2c&H666667&\4a&HFF&\pos(891.057,188.394)\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
-Dialogue: 0,0:23:22.21,0:23:37.81,Sign,,0,0,0,,{\blur0.8\fscx90\fscy90\frz16.92\fs40\bord3\3c&H454546&\c&H32434F&\2c&H666667&\pos(695.057,209.727)\4a&H00&\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
-Dialogue: 1,0:23:22.21,0:23:37.81,Sign,,0,0,0,,{\blur0.8\fscx90\fscy90\frz16.92\fs40\c&HC3EBDC&\2c&H666667&\pos(695.057,209.727)\4a&HFF&\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
-Dialogue: 0,0:23:22.21,0:23:37.81,Sign,,0,0,0,,{\blur0.8\fscx90\fscy90\frz16.92\fs40\bord3\3c&H454546&\c&H32434F&\2c&H666667&\pos(891.057,188.394)\4a&H00&\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
-Dialogue: 1,0:23:22.21,0:23:37.81,Sign,,0,0,0,,{\blur0.8\fscx90\fscy90\frz16.92\fs40\c&HC3EBDC&\2c&H666667&\4a&HFF&\pos(891.057,188.394)\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
-Dialogue: 0,0:23:22.21,0:23:37.81,Sign,,0,0,0,,{\blur0.8\pos(1464.8,115.6)\frz3.24\fs100\fsp5\3c&HBDE8D7&\c&HCFDDFD&\bord5\4a&H00&\b0\an2\fnDK Longreach\3a&H00&}PREVIEW
-Dialogue: 1,0:23:22.21,0:23:37.81,Sign,,0,0,0,,{\blur0.8\pos(1464.8,115.6)\frz3.24\fs100\fsp5\c&H4C4C4C&\4a&HFF&\b0\an2\fnDK Longreach\3a&H00&}PREVIEW
+Dialogue: 0,0:23:00.90,0:23:00.94,Sign,,0,0,0,,{\blur0.7\fscx90\fscy90\frz16.92\fs40\bord3\3c&H4D5350&\c&H5A6561&\pos(695.057,209.727)\iclip(m 737 294 l 667 44 849 49)\4a&H00&\b0\an2\fnDeathRattle BB\3a&H00&\1a&H00&}Rustle
+Dialogue: 1,0:23:00.90,0:23:00.94,Sign,,0,0,0,,{\blur0.8\fscx90\fscy90\frz16.92\fs40\c&HC3EBDC&\pos(695.057,209.727)\4a&HFF&\iclip(m 737 294 l 667 44 849 49)\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
+Dialogue: 0,0:23:00.94,0:23:13.91,Sign,,0,0,0,,{\blur0.7\fscx90\fscy90\frz16.92\fs40\bord3\3c&H4D5350&\c&H5A6561&\pos(695.057,209.727)\4a&H00&\b0\an2\fnDeathRattle BB\3a&H00&\1a&H00&}Rustle
+Dialogue: 1,0:23:00.94,0:23:13.91,Sign,,0,0,0,,{\blur0.8\fscx90\fscy90\frz16.92\fs40\c&HC3EBDC&\pos(695.057,209.727)\4a&HFF&\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
+Dialogue: 0,0:23:02.06,0:23:02.31,Sign,,0,0,0,,{\blur0.7\fscx90\fscy90\frz16.92\fs40\bord3\3c&H4D5350&\c&H5A6561&\pos(891.057,188.394)\iclip(m 829 187 l 868 187 881 182 888 174 884 182 877 197 836 223)\4a&H00&\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
+Dialogue: 1,0:23:02.06,0:23:02.31,Sign,,0,0,0,,{\blur0.8\fscx90\fscy90\frz16.92\fs40\c&HC3EBDC&\4a&HFF&\pos(891.057,188.394)\iclip(m 829 187 l 868 187 881 182 888 174 884 182 877 197 836 223)\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
+Dialogue: 0,0:23:02.31,0:23:13.91,Sign,,0,0,0,,{\blur0.7\fscx90\fscy90\frz16.92\fs40\bord3\3c&H4D5350&\c&H5A6561&\pos(891.057,188.394)\4a&H00&\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
+Dialogue: 1,0:23:02.31,0:23:13.91,Sign,,0,0,0,,{\blur0.8\fscx90\fscy90\frz16.92\fs40\c&HC3EBDC&\4a&HFF&\pos(891.057,188.394)\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
+Dialogue: 0,0:23:22.21,0:23:37.81,Sign,,0,0,0,,{\blur0.7\fscx90\fscy90\frz16.92\fs40\bord3\3c&H4D5350&\c&H5A6561&\pos(695.057,209.727)\4a&H00&\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
+Dialogue: 1,0:23:22.21,0:23:37.81,Sign,,0,0,0,,{\blur0.8\fscx90\fscy90\frz16.92\fs40\c&HC3EBDC&\pos(695.057,209.727)\4a&HFF&\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
+Dialogue: 0,0:23:22.21,0:23:37.81,Sign,,0,0,0,,{\blur0.7\fscx90\fscy90\frz16.92\fs40\bord3\3c&H4D5350&\c&H5A6561&\pos(891.057,188.394)\4a&H00&\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
+Dialogue: 1,0:23:22.21,0:23:37.81,Sign,,0,0,0,,{\blur0.8\fscx90\fscy90\frz16.92\fs40\c&HC3EBDC&\4a&HFF&\pos(891.057,188.394)\b0\an2\fnDeathRattle BB\3a&H00&}Rustle
+Dialogue: 0,0:23:01.06,0:23:01.10,Sign,,0,0,0,,{\pos(1464.8,115.6)\frz3.24\fs100\fsp5\bord5\3c&HBFE4D7&\c&HBDE8D7&\blur0.6\clip(m 1593 342 l 1462 6 1188 32 1278 161)\4a&H00&\b0\an2\fnDK Longreach\3a&H00&}PREVIEW
+Dialogue: 1,0:23:01.06,0:23:01.10,Sign,,0,0,0,,{\pos(1464.8,115.6)\frz3.24\fs100\fsp5\c&H525252&\4a&HFF&\blur0.6\clip(m 1593 342 l 1462 6 1188 32 1278 161)\b0\an2\fnDK Longreach\3a&H00&}PREVIEW
+Dialogue: 0,0:23:01.10,0:23:13.91,Sign,,0,0,0,,{\blur0.8\pos(1464.8,115.6)\frz3.24\fs100\fsp5\3c&HBFE4D7&\c&HBDE8D7&\bord5\4a&H00&\b0\an2\fnDK Longreach\3a&H00&}PREVIEW
+Dialogue: 1,0:23:01.10,0:23:13.91,Sign,,0,0,0,,{\blur0.8\pos(1464.8,115.6)\frz3.24\fs100\fsp5\c&H525252&\4a&HFF&\b0\an2\fnDK Longreach\3a&H00&}PREVIEW
+Dialogue: 0,0:23:22.21,0:23:37.81,Sign,,0,0,0,,{\blur0.8\pos(1464.8,115.6)\frz3.24\fs100\fsp5\3c&HBFE4D7&\c&HBDE8D7&\bord5\4a&H00&\b0\an2\fnDK Longreach\3a&H00&}PREVIEW
+Dialogue: 1,0:23:22.21,0:23:37.81,Sign,,0,0,0,,{\blur0.8\pos(1464.8,115.6)\frz3.24\fs100\fsp5\c&H525252&\4a&HFF&\b0\an2\fnDK Longreach\3a&H00&}PREVIEW
 Dialogue: 0,0:23:37.89,0:23:37.93,Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord23\c&H000000&\3c&H080118&\alpha&H00&\1a&HFF&\blur9\4a&H00&\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
 Dialogue: 1,0:23:37.89,0:23:37.93,Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur9\4a&H00&\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
 Dialogue: 2,0:23:37.89,0:23:37.93,Sign,,0,0,0,,{\pos(1019.57,1185.48)\fs152\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur9\an2\fnFOT Manyo Gyosho Std Strp E\3a&H00&}To Be Continued
