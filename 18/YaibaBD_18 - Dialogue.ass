@@ -164,16 +164,16 @@ Dialogue: 10,0:12:43.36,0:12:46.32,Default,,0,0,0,,{\i1}What do I do?
 Dialogue: 10,0:12:46.32,0:12:49.24,Default,,0,0,0,,{\i1}I've gotta think up something!
 Dialogue: 10,0:12:49.24,0:12:52.71,Default,,0,0,0,,{\i1}Think! Think! Think! Thi—
 Dialogue: 10,0:12:53.46,0:12:55.17,Default,,0,0,0,,Whoa!
-Dialogue: 10,0:12:57.50,0:13:00.05,Default,,0,0,0,,This is bad! Really, {\i1}really{\i0} bad!
-Dialogue: 10,0:13:00.71,0:13:01.96,Default,,0,0,0,,I've gotta...
-Dialogue: 10,0:13:01.96,0:13:05.76,Default,,0,0,0,,I've gotta hang in there until he comes back!
+Dialogue: 10,0:12:57.50,0:13:00.05,Default,,0,0,0,,{\i1}This is bad! Really, {\i0}really{\i1} bad!
+Dialogue: 10,0:13:00.71,0:13:01.96,Default,,0,0,0,,{\i1}I've gotta...
+Dialogue: 10,0:13:01.96,0:13:05.76,Default,,0,0,0,,{\i1}I've gotta hang in there until he comes back!
 Dialogue: 10,0:13:08.26,0:13:11.02,Default,,0,0,0,,What the hell am I thinking?!
-Dialogue: 10,0:13:12.85,0:13:15.27,Default,,0,0,0,,This is no time to mess around, you friggin' dumbass!
+Dialogue: 10,0:13:12.85,0:13:15.32,Default,,0,0,0,,This is no time to mess around, you friggin' dumbass!
 Dialogue: 10,0:13:21.90,0:13:24.40,Default,,0,0,0,,Screw you!
 Dialogue: 10,0:13:24.99,0:13:29.07,Default,,0,0,0,,Looks like I got infected by Tontarou's germs!
 Dialogue: 10,0:13:29.07,0:13:31.16,Default,,0,0,0,,Stop and think?
 Dialogue: 10,0:13:31.16,0:13:33.25,Default,,0,0,0,,What was I {\i1}thinking{\i0}?
-Dialogue: 10,0:13:33.25,0:13:35.04,Default,,0,0,0,,What's wrong with me?
+Dialogue: 10,0:13:33.25,0:13:35.04,Default,,0,0,0,,What am I, some jackass?
 Dialogue: 10,0:13:35.04,0:13:38.50,Default,,0,0,0,,Why the hell would {\i1}I{\i0} use my head?
 Dialogue: 10,0:13:42.59,0:13:43.76,Default,,0,0,0,,Hell yeah!
 Dialogue: 10,0:13:43.76,0:13:45.51,Default,,0,0,0,,I cut through!
@@ -182,7 +182,7 @@ Dialogue: 10,0:13:49.43,0:13:54.89,Default,,0,0,0,,If one sword don't work, just
 Dialogue: 10,0:13:54.89,0:13:56.35,Default,,0,0,0,,I mean, look at this!
 Dialogue: 10,0:13:56.35,0:13:59.19,Default,,0,0,0,,I've got two of these bad boys!
 Dialogue: 10,0:14:01.61,0:14:03.44,Default,,0,0,0,,I'm almighty!
-Dialogue: 10,0:14:08.86,0:14:11.16,Default,,0,0,0,,Why the hell are you running away?
+Dialogue: 10,0:14:08.86,0:14:11.16,Default,,0,0,0,,Why the hell are you running?
 Dialogue: 10,0:14:11.16,0:14:12.33,Default,,0,0,0,,Screw you!
 Dialogue: 10,0:14:12.33,0:14:14.24,Default,,0,0,0,,Get back here, asshole!
 Dialogue: 10,0:14:27.55,0:14:32.10,Default,,0,0,0,,{\q2}I'll give you a small heads up: \NI don't plan on killing you quickly.
