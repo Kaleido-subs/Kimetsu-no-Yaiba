@@ -997,7 +997,7 @@ Dialogue: 2,0:21:03.12,0:21:03.16,Eye Sign,,0,0,0,,{\fncreation\b0\bord0\shad0\c
 Dialogue: 0,0:21:03.12,0:21:03.16,Eye Sign,,0,0,0,,{\fncreation\b0\bord0\shad0\c&H9703D6&\blur1.7\an5\fax-0.2\fscx63.4\fscy77.9\1a&H78&\pos(1362.31,587.26)\frz354.8\frx10\fry6}Five
 Dialogue: 1,0:21:03.12,0:21:03.16,Eye Sign,,0,0,0,,{\fncreation\b0\bord0\shad0\c&H9703D6&\blur1.7\an5\fax-0.2\fscx63.4\fscy77.9\1a&H78&\pos(1362.31,587.26)\frz354.8\frx10\fry6}Five
 Dialogue: 2,0:21:03.12,0:21:03.16,Eye Sign,,0,0,0,,{\fncreation\b0\bord0\shad0\c&H9625C6&\blur1.4\an5\fax-0.2\fscx63.4\fscy77.9\1a&H78&\pos(1362.31,587.26)\frz354.8\frx10\fry6}Five
-Dialogue: 0,0:21:12.96,0:21:14.13,Eye Sign,,0,0,0,,{\fncreation\b0\bord0\shad0\c&H3C00FF&\blur1.2\an5\fax-0.2\fscx30.2\fscy38.5\1a&H00&\frx358\fry6\frz25.92\move(773.31,387.26,749.31,388.26,20,1146)}Waning
-Dialogue: 1,0:21:12.96,0:21:14.13,Eye Sign,,0,0,0,,{\fncreation\b0\bord0\shad0\c&H130E25&\blur1\an5\fax-0.2\fscx30.2\fscy38.5\1a&H00&\frx358\fry6\frz25.92\move(773.31,387.26,749.31,388.26,20,1146)}Waning
-Dialogue: 0,0:21:12.96,0:21:14.13,Eye Sign,,0,0,0,,{\fncreation\b0\bord0\shad0\c&H3C00FF&\blur1.2\an5\fax-0.2\fscx30.2\fscy38.5\1a&H00&\frx358\fry6\frz25.92\move(782,395,758,395,20,1146)}Five
-Dialogue: 1,0:21:12.96,0:21:14.13,Eye Sign,,0,0,0,,{\fncreation\b0\bord0\shad0\c&H130E25&\blur1\an5\fax-0.2\fscx30.2\fscy38.5\1a&H00&\frx358\fry6\frz25.92\move(782,395,758,395,20,1146)}Five
+Dialogue: 0,0:21:12.96,0:21:14.13,Eye Sign,,0,0,0,,{\fncreation\b0\bord0\shad0\c&H130E25&\blur1.2\an5\fax-0.2\fscx30.2\fscy38.5\1a&H14&\frx358\fry6\frz25.92\move(773.31,387.26,749.31,388.26,20,1146)}Waning
+Dialogue: 1,0:21:12.96,0:21:14.13,Eye Sign,,0,0,0,,{\fncreation\b0\bord0\shad0\c&H4012D7&\blur1\an5\fax-0.2\fscx30.2\fscy38.5\1a&H00&\frx358\fry6\frz25.92\move(773.31,387.26,749.31,388.26,20,1146)}Waning
+Dialogue: 0,0:21:12.96,0:21:14.13,Eye Sign,,0,0,0,,{\fncreation\b0\bord0\shad0\c&H130E25&\blur1.2\an5\fax-0.2\fscx30.2\fscy38.5\1a&H14&\frx358\fry6\frz25.92\move(782,395,758,395,20,1146)}Five
+Dialogue: 1,0:21:12.96,0:21:14.13,Eye Sign,,0,0,0,,{\fncreation\b0\bord0\shad0\c&H4012D7&\blur1\an5\fax-0.2\fscx30.2\fscy38.5\1a&H00&\frx358\fry6\frz25.92\move(782,395,758,395,20,1146)}Five
