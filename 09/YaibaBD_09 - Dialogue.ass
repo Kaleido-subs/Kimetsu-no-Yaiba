@@ -89,7 +89,7 @@ Dialogue: 10,0:06:03.42,0:06:04.92,Default,,0,0,0,,{\i1}Water Breathing!
 Dialogue: 10,0:06:05.21,0:06:06.17,Default,,0,0,0,,{\i1}Seventh Form!
 Dialogue: 10,0:06:06.67,0:06:09.43,Default,,0,0,0,,{\i1}Droplet Ripple Thrust-curve!
 Dialogue: 10,0:06:12.47,0:06:17.89,Default,,0,0,0,,{\i1\q2}Oh, so your plan's to thrust at it \Ndiagonally to soften the temari's blow?
-Dialogue: 10,0:06:18.94,0:06:19.94,Default,,0,0,0,,{\i1}However...
+Dialogue: 10,0:06:18.94,0:06:19.94,Default,,0,0,0,,{\i1}Well...
 Dialogue: 10,0:06:25.07,0:06:27.45,Default,,0,0,0,,{\i1}How can that temari move around like that?
 Dialogue: 10,0:06:28.03,0:06:31.87,Default,,0,0,0,,{\i1}It swerved unnaturally when it struck Yushirou, too!
 Dialogue: 10,0:06:32.95,0:06:36.16,Default,,0,0,0,,{\i1}It's not like it has any special spin to it, and yet...
@@ -110,7 +110,7 @@ Dialogue: 10,0:07:25.88,0:07:28.88,Default,,0,0,0,,which increases the odds of K
 Dialogue: 10,0:07:29.92,0:07:32.39,Default,,0,0,0,,{\i1}Those demons got so close,
 Dialogue: 10,0:07:32.39,0:07:34.68,Default,,0,0,0,,{\i1}but I didn't catch their scent until they attacked!
 Dialogue: 10,0:07:35.93,0:07:38.31,Default,,0,0,0,,{\i1}So that was the work of Yushirou's Blood Arts, huh?
-Dialogue: 10,0:07:39.48,0:07:43.44,Default,,0,0,0,,Those who ruins the time I spend alone with you...
+Dialogue: 10,0:07:39.48,0:07:43.44,Default,,0,0,0,,Those who ruin the time I spend alone with you...
 Dialogue: 10,0:07:43.44,0:07:45.19,Default,,0,0,0,,I despise such people!
 Dialogue: 10,0:07:46.11,0:07:47.94,Default,,0,0,0,,I despise them with all my heart!
 Dialogue: 10,0:07:49.07,0:07:50.95,Default,,0,0,0,,I'll never forgive them!
@@ -141,15 +141,15 @@ Dialogue: 10,0:09:34.51,0:09:36.30,Default,,0,0,0,,{\i1}I don't have time to cov
 Dialogue: 10,0:09:37.26,0:09:39.51,Default,,0,0,0,,We'll heal soon enough!
 Dialogue: 10,0:09:39.51,0:09:40.68,Default,,0,0,0,,Don't worry about us!
 Dialogue: 10,0:09:40.68,0:09:43.10,Default,,0,0,0,,Hey! Dumbass demon hunter!
-Dialogue: 10,0:09:43.10,0:09:46.31,Default,,0,0,0,,The arrows show which way they're going.
+Dialogue: 10,0:09:43.10,0:09:46.31,Default,,0,0,0,,The arrows show which way they're going!
 Dialogue: 10,0:09:46.31,0:09:47.73,Default,,0,0,0,,Focus on dodging the arrows!
 Dialogue: 10,0:09:48.35,0:09:50.06,Default,,0,0,0,,Arrows?
 Dialogue: 10,0:09:50.65,0:09:53.82,Default,,0,0,0,,For crying out loud, you can't even see them?
 Dialogue: 10,0:09:54.36,0:09:56.61,Default,,0,0,0,,I will lend you my sense of sight!
 Dialogue: 10,0:09:56.61,0:09:59.82,Default,,0,0,0,,{\q2}That should at least enable you \Nto behead that temari woman!
 Dialogue: 10,0:10:12.59,0:10:13.84,Default,,0,0,0,,{\i1}I can see them now!
-Dialogue: 10,0:10:13.84,0:10:16.22,Default,,0,0,0,,{\i1}She was using those arrows to control
-Dialogue: 10,0:10:18.26,0:10:19.97,Default,,0,0,0,,{\i1}the trajectory of the temari!
+Dialogue: 10,0:10:13.84,0:10:16.22,Default,,0,0,0,,{\i1}She was using those arrows
+Dialogue: 10,0:10:18.26,0:10:19.97,Default,,0,0,0,,{\i1}to control the trajectory of the temari!
 Dialogue: 10,0:10:23.18,0:10:24.81,Default,,0,0,0,,Thanks, Yushirou!
 Dialogue: 10,0:10:24.81,0:10:26.98,Default,,0,0,0,,I can see the arrows now!
 Dialogue: 10,0:10:27.52,0:10:29.35,Default,,0,0,0,,Hurry up and beat her, then!
@@ -174,9 +174,9 @@ Dialogue: 10,0:11:52.77,0:11:55.31,Default,,0,0,0,,I'm going to be extracting th
 Comment: 0,0:12:00.99,0:12:00.99,Default,chapter,0,0,0,,{Part B}
 Dialogue: 10,0:12:08.99,0:12:11.87,Default,,0,0,0,,I have two favours to ask of you.
 Dialogue: 10,0:12:12.33,0:12:16.88,Default,,0,0,0,,One, permission to study your sister's blood.
-Dialogue: 10,0:12:16.88,0:12:24.39,Default,,0,0,0,,{\q2}Two, to retrieve as many blood samples from demons \Nwith a high concentration of Kibutsuji's blood as you can.
+Dialogue: 10,0:12:16.88,0:12:24.39,Default,,0,0,0,,{\q2}Two, to collect as many blood samples from demons \Nwith a high concentration of Kibutsuji's blood as you can.
 Dialogue: 10,0:12:25.14,0:12:33.69,Default,,0,0,0,,{\q2}A demon with a high concentration of Kibutsuji's blood \Nmeans a demon close in strength to Kibutsuji himself.
-Dialogue: 10,0:12:34.19,0:12:38.15,Default,,0,0,0,,{\t(3690,4000,\1c&HFEFEFE&\3c&HFEFEFE&\4c&HFEFEFE&)}It won't be easy to extract blood from such demons.
+Dialogue: 10,0:12:34.19,0:12:38.15,Default,,0,0,0,,{\q2\t(3690,4000,\1c&HFEFEFE&\3c&HFEFEFE&\4c&HFEFEFE&)}Extracting blood from such demons will be no easy task.
 Dialogue: 10,0:12:40.23,0:12:41.78,Default,,0,0,0,,{\i1}Third Form!
 Dialogue: 10,0:12:41.78,0:12:43.49,Default,,0,0,0,,{\i1}Flowing Dance!
 Dialogue: 10,0:12:47.41,0:12:48.66,Default,,0,0,0,,Miss Tamayo!
