@@ -205,7 +205,7 @@ Dialogue: 10,0:15:10.47,0:15:13.26,Default,,0,0,0,,I guess we've gotta buy you a
 Dialogue: 10,0:15:13.51,0:15:15.89,Default,,0,0,0,,No, no, it's fine!
 Dialogue: 10,0:15:15.89,0:15:18.02,Default,,0,0,0,,This kimono's my favourite!
 Dialogue: 10,0:15:18.35,0:15:22.90,Default,,0,0,0,,{\q2}Besides, I'd rather the younger kids \Ngot more food to fill them up instead!
-Dialogue: 10,0:15:25.36,0:15:27.65,Default,,0,0,0,,{\i1}I swear I'll turn you back into a human!
+Dialogue: 10,0:15:25.36,0:15:27.65,Default,,0,0,0,,{\i1}I swear I'll turn you back into a human!{### >turn}
 Dialogue: 10,0:15:28.32,0:15:32.16,Default,,0,0,0,,{\i1}I swear I'll buy you a beautiful kimono someday!
 Dialogue: 10,0:15:32.49,0:15:34.87,Default,,0,0,0,,{\i1}Everything I couldn't do for the others...
 Dialogue: 10,0:15:35.62,0:15:37.16,Default,,0,0,0,,{\i1}I'll do it all for you!
@@ -255,7 +255,7 @@ Dialogue: 10,0:19:57.00,0:20:00.42,Default,,0,0,0,,{\i1\q2}Dear Urokodaki Sakonj
 Dialogue: 10,0:20:01.76,0:20:06.56,Default,,0,0,0,,{\i1\q2}I'm sending a boy your way \Nwho wants to become a Demon Slayer.
 Dialogue: 10,0:20:08.06,0:20:11.56,Default,,0,0,0,,{\i1}He was brazen enough to challenge me unarmed.
 Dialogue: 10,0:20:12.81,0:20:15.19,Default,,0,0,0,,{\i1}A demon slaughtered his family,
-Dialogue: 10,0:20:15.19,0:20:18.28,Default,,0,0,0,,{\i1}and the surviving younger sister has turned into one.
+Dialogue: 10,0:20:15.19,0:20:18.28,Default,,0,0,0,,{\i1}and the surviving younger sister has turned into one.{### become?}
 Dialogue: 10,0:20:18.90,0:20:21.74,Default,,0,0,0,,{\i1\q2}However, I have determined \Nthat she will not harm humans.
 Dialogue: 10,0:20:23.49,0:20:28.08,Default,,0,0,0,,{\i1}I can sense something special about these two.
 Dialogue: 10,0:20:29.12,0:20:33.08,Default,,0,0,0,,{\i1\q2}Like yourself, the boy appears to \Nhave a keen sense of smell.
