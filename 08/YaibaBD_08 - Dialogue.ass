@@ -134,8 +134,8 @@ Dialogue: 10,0:07:23.21,0:07:24.29,Default,,0,0,0,,You son of a—
 Dialogue: 10,0:07:43.73,0:07:47.53,Default,,0,0,0,,Does my complexion look unhealthy to you?
 Dialogue: 10,0:07:49.11,0:07:51.90,Default,,0,0,0,,Is my face pale?
 Dialogue: 10,0:07:53.82,0:07:55.66,Default,,0,0,0,,Do I appear sickly to you?
-Dialogue: 10,0:07:56.95,0:07:59.83,Default,,0,0,0,,Does it appear like I'm at death's door?
-Dialogue: 10,0:08:00.33,0:08:02.62,Default,,0,0,0,,Does it seem as if I'm dying?
+Dialogue: 10,0:07:56.95,0:07:59.83,Default,,0,0,0,,Does it appear like I'm at death's door?{### repeated "appear"}
+Dialogue: 10,0:08:00.33,0:08:02.62,Default,,0,0,0,,Does it seem as if I'm dying?{### repeated "does it", plus, as written now, this line and the previous are pretty much straight-up thesaurus swaps of one another}{### actually, listening to the dialogue, it might be a good idea to lean into the repetition; 07:49 is the only line of these five that doesn't end with 「見えるか？」}{### in any case, my original suggestion was "Do I appear sickly to you? Does it seem as if I'm at death's door? Do I look like I'm dying?", which is the best I seem to be able to come up with to avoid having repetition between neighboring lines}
 Dialogue: 10,0:08:05.17,0:08:08.00,Default,,0,0,0,,Oh no, no, no, no.
 Dialogue: 10,0:08:08.75,0:08:13.22,Default,,0,0,0,,I'm a living being who's infinitely close to perfection.
 Dialogue: 10,0:08:24.48,0:08:29.23,Default,,0,0,0,,{\q2}What do you think will happen \Nif I keep flooding you with my blood?

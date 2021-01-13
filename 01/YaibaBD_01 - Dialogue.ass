@@ -93,7 +93,7 @@ Dialogue: 10,0:03:52.50,0:03:54.75,Default,,0,0,0,,{\i1}whenever happiness meets
 Dialogue: 10,0:03:55.17,0:03:56.21,Default,,0,0,0,,{\i1}it always carries
 Dialogue: 10,0:03:57.30,0:03:58.84,Default,,0,0,0,,{\i1}the smell of blood.
 Dialogue: 10,0:04:07.89,0:04:09.85,Default,,0,0,0,,Oh my, Tanjirou!
-Dialogue: 10,0:04:10.06,0:04:12.98,Default,,0,0,0,,{\q2}I can't believe you came all the way \Ndown in this weather today!
+Dialogue: 10,0:04:10.06,0:04:12.98,Default,,0,0,0,,{\q2}I can't believe you came all the way \Ndown in this weather today!{### wouldn't even have been 17 CPS without "today", like before commit b3644d5f0451244cc58cc9348fe8a53c2f889563 and like I was trying to suggest. the word feels a bit redundant and/or purposeless here}
 Dialogue: 10,0:04:12.98,0:04:15.23,Default,,0,0,0,,Always a hard worker, aren't you?
 Dialogue: 10,0:04:15.23,0:04:16.52,Default,,0,0,0,,Be careful not to catch a cold!
 Dialogue: 10,0:04:17.06,0:04:18.73,Default,,0,0,0,,This is nothing, really.
@@ -281,7 +281,7 @@ Dialogue: 10,0:16:06.82,0:16:07.98,Default,,0,0,0,,{\i1}It must be painful.
 Dialogue: 10,0:16:08.65,0:16:10.69,Default,,0,0,0,,{\i1}Your heart is likely crushed right now.
 Dialogue: 10,0:16:11.45,0:16:12.57,Default,,0,0,0,,{\i1}I get it.
 Dialogue: 10,0:16:13.61,0:16:16.95,Default,,0,0,0,,{\i1}Had I gotten here even half a day sooner,
-Dialogue: 10,0:16:16.95,0:16:19.66,Default,,0,0,0,,{\i1}your family might still have been alive right now.
+Dialogue: 10,0:16:16.95,0:16:19.66,Default,,0,0,0,,{\i1}your family might still have been alive right now.{### I feel like my suggestion (have been -> be) still does a better job of conveying your intended meaning of "would still be alive" than this does}
 Dialogue: 10,0:16:20.33,0:16:24.29,Default,,0,0,0,,{\i1}However, you can't turn back time.
 Dialogue: 10,0:16:24.96,0:16:26.13,Default,,0,0,0,,{\i1}Feel the anger.
 Dialogue: 10,0:16:26.63,0:16:32.72,Default,,0,0,0,,{\i1\q2}This pure, unforgiving wrath will \Nbecome the force that drives you forward!
