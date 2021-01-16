@@ -119,7 +119,7 @@ Dialogue: 10,0:12:16.71,0:12:18.59,Default,,0,0,0,,The bleeding's stopped, too.
 Dialogue: 10,0:12:18.59,0:12:20.76,Default,,0,0,0,,She's trying to recover, huh?
 Dialogue: 10,0:12:27.14,0:12:29.47,Default,,0,0,0,,I'm sorry. I'm so sorry.
 Dialogue: 10,0:12:29.47,0:12:31.39,Default,,0,0,0,,Wait just a little longer, okay?
-Dialogue: 10,0:12:31.39,0:12:35.23,Default,,0,0,0,,{\q2}I promise your big brother will \Nturn you back into a human again!{### >turn}
+Dialogue: 10,0:12:31.39,0:12:35.23,Default,,0,0,0,,{\q2}I promise your big brother will \Nturn you into a human again!{### >turn}{## Same here.}
 Dialogue: 10,0:12:59.84,0:13:01.09,Default,,0,0,0,,Kazumi?
 Dialogue: 10,0:13:02.30,0:13:03.72,Default,,0,0,0,,Are you all right?
 Dialogue: 10,0:13:06.64,0:13:08.93,Default,,0,0,0,,My fiancée is dead.
