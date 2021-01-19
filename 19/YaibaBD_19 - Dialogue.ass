@@ -242,7 +242,10 @@ Dialogue: 10,0:16:04.28,0:16:06.49,Default,,0,0,0,,{\i1}Total Concentration!
 Dialogue: 10,0:16:08.66,0:16:11.83,Default,,0,0,0,,You still don't realise it's futile?
 Dialogue: 10,0:16:15.95,0:16:17.58,Default,,0,0,0,,{\i1}Water Breathing!
 Dialogue: 10,0:16:17.58,0:16:18.71,Default,,0,0,0,,{\i1}Tenth Form!
-Dialogue: 10,0:16:19.54,0:16:21.75,Default,,0,0,0,,{\i1}Constant Flux!
+Dialogue: 10,0:16:19.54,0:16:21.75,Default,,0,0,0,,{\pos(960,947)\fnAlegreya\fs58\fsp6\bord0\shad0\c&HFBF7EE&\blur0.6}οὐροβόρος
+Dialogue: 9,0:16:19.54,0:16:21.75,Default,,0,0,0,,{\pos(960,947)\fnAlegreya\fs58\fsp6\shad0\3c&HC2801C&\1a&HFA&\blur3.4}οὐροβόρος
+Dialogue: 8,0:16:19.54,0:16:21.75,Default,,0,0,0,,{\pos(960,947)\fnAlegreya\fs58\fsp6\bord12\shad0\3c&HFFC228&\1a&HFA&\3a&HC8&\blur10}οὐροβόρος
+Dialogue: 10,0:16:19.54,0:16:21.75,Default,,0,0,0,,{\i1}The Wheel of Life! {## 生生流転, TL taken from https://en.wikipedia.org/wiki/Metempsychosis_(Yokoyama_Taikan). All the other options sounded bad as attack names, so yell all you want, I won't budge}
 Dialogue: 10,0:16:26.88,0:16:29.34,Default,,0,0,0,,{\i1}I did it! I cut through the webs!
 Dialogue: 10,0:16:29.97,0:16:32.80,Default,,0,0,0,,{\i1}He's gaining more and more force with each rotation.
 Dialogue: 10,0:16:33.43,0:16:35.72,Default,,0,0,0,,{\i1}This could spell trouble.
