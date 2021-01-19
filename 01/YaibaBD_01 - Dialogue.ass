@@ -93,7 +93,7 @@ Dialogue: 10,0:03:52.50,0:03:54.75,Default,,0,0,0,,{\i1}whenever happiness meets
 Dialogue: 10,0:03:55.17,0:03:56.21,Default,,0,0,0,,{\i1}it always carries
 Dialogue: 10,0:03:57.30,0:03:58.84,Default,,0,0,0,,{\i1}the smell of blood.
 Dialogue: 10,0:04:07.89,0:04:09.85,Default,,0,0,0,,Oh my, Tanjirou!
-Dialogue: 10,0:04:10.06,0:04:12.98,Default,,0,0,0,,{\q2}I can't believe you came all the way \Ndown in this weather today!{### wouldn't even have been 17 CPS without "today", like before commit b3644d5f0451244cc58cc9348fe8a53c2f889563 and like I was trying to suggest. the word feels a bit redundant and/or purposeless here}
+Dialogue: 10,0:04:10.06,0:04:12.98,Default,,0,0,0,,{\q2}I can't believe you came \Nall the way down in this weather!
 Dialogue: 10,0:04:12.98,0:04:15.23,Default,,0,0,0,,Always a hard worker, aren't you?
 Dialogue: 10,0:04:15.23,0:04:16.52,Default,,0,0,0,,Be careful not to catch a cold!
 Dialogue: 10,0:04:17.06,0:04:18.73,Default,,0,0,0,,This is nothing, really.
