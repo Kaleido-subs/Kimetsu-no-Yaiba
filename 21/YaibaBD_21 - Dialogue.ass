@@ -38,8 +38,8 @@ Dialogue: 10,0:02:39.81,0:02:42.64,Default,,0,0,0,,{\i1}I even struggled to walk
 Dialogue: 10,0:02:47.77,0:02:51.03,Default,,0,0,0,,{\i1}That all changed when Lord Muzan appeared.
 Dialogue: 10,0:02:54.61,0:02:58.49,Default,,0,0,0,,You pitiful thing. Allow me to save you.
 Dialogue: 10,0:03:04.25,0:03:07.25,Default,,0,0,0,,{\i1}My parents weren't happy about it.
-Dialogue: 10,0:03:10.21,0:03:12.67,Default,,0,0,0,,{\i1}Because the price for obtaining such a strong body 
-Dialogue: 10,0:03:13.26,0:03:15.05,Default,,0,0,0,,{\i1}was that I could never see the sun again. 
+Dialogue: 10,0:03:10.21,0:03:12.67,Default,,0,0,0,,{\i1}Because the price for obtaining such a strong body
+Dialogue: 10,0:03:13.26,0:03:15.05,Default,,0,0,0,,{\i1}was that I could never see the sun again.
 Dialogue: 10,0:03:15.76,0:03:18.64,Default,,0,0,0,,{\i1}It also meant I had to start eating humans.
 Dialogue: 10,0:03:23.64,0:03:25.52,Default,,0,0,0,,What have you done?
 Dialogue: 10,0:03:25.52,0:03:27.77,Default,,0,0,0,,What on earth have you done?!
@@ -265,12 +265,13 @@ Dialogue: 10,0:20:01.30,0:20:05.31,Default,,0,0,0,,{\i1\q2}They're the unit that
 Dialogue: 10,0:20:05.98,0:20:11.02,Default,,0,0,0,,{\i1\q2}They say that most of its members are people \Nwho have no swordsmanship skills.
 Dialogue: 10,0:20:18.66,0:20:20.24,Default,,0,0,0,,The sun's coming up.
 Dialogue: 10,0:21:05.58,0:21:07.04,Default,,0,0,0,,Wake up.
-Dialogue: 10,0:21:07.87,0:21:09.62,Default,,0,0,0,,Hey, I told you to wake up!
-Dialogue: 10,0:21:10.21,0:21:11.29,Default,,0,0,0,,Wake...
-Dialogue: 10,0:21:11.29,0:21:13.63,Default,,0,0,0,,Hey! Hey, you!
-Dialogue: 10,0:21:13.63,0:21:15.88,Default,,0,0,0,,Come on, dude! C'mon!
-Dialogue: 10,0:21:16.13,0:21:17.63,Default,,0,0,0,,Are you gonna nap all day?!
-Dialogue: 10,0:21:17.63,0:21:19.59,Default,,0,0,0,,Rise and shine already, will ya?
+Dialogue: 10,0:21:07.87,0:21:09.62,Default,,0,0,0,,Hey, wake up already!
+Dialogue: 10,0:21:10.21,0:21:12.00,Default,,0,0,0,,Wake... Are you serious?
+Dialogue: 10,0:21:12.00,0:21:13.63,Default,,0,0,0,,Hey, you!
+Dialogue: 10,0:21:13.63,0:21:14.71,Default,,0,0,0,,C'mon, dude!
+Dialogue: 10,0:21:14.71,0:21:15.88,Default,,0,0,0,,Dude!
+Dialogue: 10,0:21:16.13,0:21:17.63,Default,,0,0,0,,Are you gonna sleep all day?!
+Dialogue: 10,0:21:17.63,0:21:19.59,Default,,0,0,0,,Open your damn eyes already!
 Dialogue: 10,0:21:23.72,0:21:25.51,Default,,0,0,0,,You're in the presence of the Hashira!
 Comment: 0,0:22:59.94,0:23:00.03,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:23:01.94,0:23:05.91,Default,,0,0,0,,{\q2}We've been teaming up on missions \Nquite frequently as of late, haven't we?
