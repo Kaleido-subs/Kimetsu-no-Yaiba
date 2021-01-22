@@ -292,10 +292,10 @@ Dialogue: 10,0:21:05.91,0:21:07.83,Default,,0,0,0,,Message received, so please!
 Dialogue: 10,0:21:07.83,0:21:09.58,Default,,0,0,0,,Please!
 Dialogue: 10,0:21:11.71,0:21:13.59,Default,,0,0,0,,Please! {\alpha&HFF&\t(528,529,\alpha&H00&\4a&HA0&)}Please! {\i1\alpha&HFF&\t(1029,1030,\alpha&H00&\4a&HA0&)}Please!
 Dialogue: 10,0:21:13.59,0:21:15.09,Default,,0,0,0,,{\i1}Please{\i0} marry me!
-Dialogue: 10,0:21:15.67,0:21:18.51,Default,,0,0,0,,I could drop dead at any time, y'know?!
+Dialogue: 10,0:21:15.67,0:21:18.51,Default,,0,0,0,,I could drop dead at any time, y'know?!{##### see 11's copy of this line}
 Dialogue: 10,0:21:18.51,0:21:21.13,Default,,0,0,0,,That's why I want you to marry me!
 Dialogue: 10,0:21:21.13,0:21:23.60,Default,,0,0,0,,So please! Please, I'm begging you!
-Dialogue: 10,0:21:24.10,0:21:26.39,Default,,0,0,0,,Wh-What's going on there?
+Dialogue: 10,0:21:24.10,0:21:26.39,Default,,0,0,0,,Wh-What's going on over there?
 Dialogue: 10,0:21:27.06,0:21:28.31,Default,,0,0,0,,What on earth?
 Comment: 0,0:22:59.98,0:22:59.98,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:23:03.03,0:23:05.82,Default,,0,0,0,,"South-south-east!"

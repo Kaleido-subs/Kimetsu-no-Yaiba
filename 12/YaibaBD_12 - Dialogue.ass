@@ -41,12 +41,12 @@ Dialogue: 10,0:02:28.71,0:02:32.22,Default,,0,0,0,,This is fun! I'm havin' a bla
 Dialogue: 10,0:02:35.22,0:02:37.72,Default,,0,0,0,,Don't stomp all over her!
 Dialogue: 10,0:02:40.89,0:02:42.89,Default,,0,0,0,,Who the hell are you?
 Dialogue: 10,0:02:43.64,0:02:46.90,Default,,0,0,0,,{\q2}What do you think you're doing, \Nstepping on a small child like that?
-Dialogue: 10,0:02:49.44,0:02:51.40,Default,,0,0,0,,I like it!
+Dialogue: 10,0:02:49.44,0:02:51.40,Default,,0,0,0,,Not bad!
 Dialogue: 10,0:02:51.40,0:02:55.28,Default,,0,0,0,,No human's ever sent me flying like that before!
 Dialogue: 10,0:02:57.12,0:02:58.99,Default,,0,0,0,,{\i1}Why's he coming after me?
 Dialogue: 10,0:02:58.99,0:03:00.74,Default,,0,0,0,,{\i1}Isn't he a Demon Slayer?
 Dialogue: 10,0:03:01.24,0:03:03.87,Default,,0,0,0,,My swords will hurt you.
-Dialogue: 10,0:03:03.87,0:03:07.46,Default,,0,0,0,,{\q2}They're not the kind of swords \Nyou goody two-shoes' use!
+Dialogue: 10,0:03:03.87,0:03:07.46,Default,,0,0,0,,{\q2}They're not the kind of swords \Nyou goody two-shoes' use!{##### what's with this apostrophe?}
 Dialogue: 10,0:03:08.17,0:03:12.13,Default,,0,0,0,,{\q2}The way they rip and tear through flesh \Nis something I pride myself on!
 Dialogue: 10,0:03:12.13,0:03:14.88,Default,,0,0,0,,Knock it off! There's a demon right over there!
 Dialogue: 10,0:03:15.17,0:03:16.80,Default,,0,0,0,,Who gives a damn?!
@@ -96,7 +96,7 @@ Dialogue: 10,0:06:22.28,0:06:24.11,Default,,0,0,0,,But even so!
 Dialogue: 10,0:06:24.11,0:06:27.83,Default,,0,0,0,,If we talk too much, those demons 'n all will...
 Dialogue: 10,0:06:27.83,0:06:29.45,Default,,0,0,0,,They might find us, right?
 Dialogue: 10,0:06:29.45,0:06:30.33,Default,,0,0,0,,That's why...
-Dialogue: 10,0:06:30.62,0:06:34.87,Default,,0,0,0,,{\q2}It'd be best to be as quiet \Nas possible, don't you agree?
+Dialogue: 10,0:06:30.62,0:06:34.87,Default,,0,0,0,,{\q2}It'd be best to be as quiet \Nas possible, don't you agree?{##### "it'd be best" is still aniplex-y. it'd be best to go with "we should (probably)" or something, don't you agree?}
 Dialogue: 10,0:06:43.13,0:06:44.63,Default,,0,0,0,,A couple of kids.
 Dialogue: 10,0:06:44.63,0:06:47.09,Default,,0,0,0,,Probably most agreeable to the tongue.
 Dialogue: 10,0:06:47.89,0:06:49.68,Default,,0,0,0,,See?! What did I tell ya?!
@@ -129,7 +129,7 @@ Dialogue: 10,0:08:14.97,0:08:18.06,Default,,0,0,0,,{\i1}I don't have the ability
 Dialogue: 10,0:08:18.06,0:08:20.56,Default,,0,0,0,,{\i1}But if I don't protect him...
 Dialogue: 10,0:08:23.32,0:08:28.32,Default,,0,0,0,,I'm gonna guzzle your brains through your ears!
 Dialogue: 10,0:08:33.03,0:08:34.54,Default,,0,0,0,,Zenitsu!
-Dialogue: 10,0:08:35.12,0:08:35.75,Default,,0,0,0,,Zenit—
+Dialogue: 10,0:08:35.12,0:08:35.75,Default,,0,0,0,,Zenits—
 Dialogue: 10,0:08:41.13,0:08:42.50,Default,,0,0,0,,{\i1}He's fast asleep.
 Dialogue: 10,0:08:45.25,0:08:47.38,Default,,0,0,0,,What's wrong with him?
 Dialogue: 10,0:08:59.23,0:09:00.81,Default,,0,0,0,,Die!
@@ -165,12 +165,12 @@ Dialogue: 10,0:11:23.00,0:11:26.42,Default,,0,0,0,,You seem awfully lively for a
 Dialogue: 10,0:11:27.25,0:11:31.25,Default,,0,0,0,,Your flesh will be well worth gouging out!
 Dialogue: 10,0:11:36.30,0:11:39.01,Default,,0,0,0,,Self-taught! Beast Breathing!
 Dialogue: 10,0:11:39.55,0:11:43.35,Default,,0,0,0,,It's gonna be {\i1}so{\i0} worth it to rip up such a big target!
-Dialogue: 10,0:11:44.64,0:11:48.27,Default,,0,0,0,,You've got guts for charging me head-on!
+Dialogue: 10,0:11:44.64,0:11:48.27,Default,,0,0,0,,You've got guts for charging me head-on!{##### It takes guts to ...}
 Dialogue: 10,0:11:50.94,0:11:53.69,Default,,0,0,0,,Owwie!
 Dialogue: 10,0:11:53.98,0:11:55.69,Default,,0,0,0,,Flaunt your corpse
 Dialogue: 10,0:11:55.69,0:11:57.82,Default,,0,0,0,,and serve as my springboard!
 Dialogue: 10,0:11:58.66,0:11:59.91,Default,,0,0,0,,Third Fang!
-Dialogue: 10,0:11:59.91,0:12:01.49,Default,,0,0,0,,Tear and Gorge!
+Dialogue: 10,0:11:59.91,0:12:01.49,Default,,0,0,0,,Tear and Gorge!{##### can we discuss this}
 Dialogue: 10,0:12:09.08,0:12:12.29,Default,,0,0,0,,Chargin' through!
 Dialogue: 10,0:12:16.80,0:12:20.05,Default,,0,0,0,,Rareblood...
 Dialogue: 10,0:12:20.05,0:12:21.76,Default,,0,0,0,,If I can just consume some...
@@ -305,7 +305,7 @@ Dialogue: 10,0:20:20.87,0:20:25.29,Default,,0,0,0,,{\q2}Sometimes it's strong en
 Dialogue: 10,0:20:25.70,0:20:28.42,Default,,0,0,0,,{\i1}Yeah! He's totally right!
 Dialogue: 10,0:20:28.42,0:20:31.54,Default,,0,0,0,,{\i1\q2}The Water Breathing technique \Nhas ten different forms!
 Dialogue: 10,0:20:32.09,0:20:33.96,Default,,0,0,0,,{\i1}I can battle any kind of opponent!
-Dialogue: 10,0:20:34.67,0:20:38.88,Default,,0,0,0,,{\i1\q2}If you're injured, change your flow \Nand compensate for that!
+Dialogue: 10,0:20:34.67,0:20:38.88,Default,,0,0,0,,{\i1\q2}If you're injured, \Nchange your flow to compensate!
 Dialogue: 10,0:20:38.88,0:20:40.84,Default,,0,0,0,,{\i1}You can take on any shape!
 Dialogue: 10,0:20:41.30,0:20:43.81,Default,,0,0,0,,{\i1}You will never be stopped!
 Dialogue: 10,0:20:46.52,0:20:50.06,Default,,0,0,0,,{\i1\q2}It's not just my bones that are broken! \NMy spirit has wavered, too!
@@ -320,7 +320,7 @@ Dialogue: 10,0:21:14.42,0:21:16.13,Default,,0,0,0,,I have what it takes!
 Dialogue: 10,0:21:16.63,0:21:18.34,Default,,0,0,0,,And neither today,
 Dialogue: 10,0:21:18.76,0:21:20.43,Default,,0,0,0,,nor any other day in the future,
 Dialogue: 10,0:21:20.43,0:21:22.34,Default,,0,0,0,,even if my body's in shambles,
-Dialogue: 10,0:21:24.68,0:21:28.68,Default,,0,0,0,,I'll continue to flow no matter what!
+Dialogue: 10,0:21:24.68,0:21:28.68,Default,,0,0,0,,I'll continue to flow no matter what!{##### negation agreement is all out of whack here, starting 3 lines ago}
 Comment: 0,0:22:59.98,0:22:59.98,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:23:03.24,0:23:05.57,Default,,0,0,0,,{\q2}Give it all you've got, Tanjirou! \NYou've got this!
 Dialogue: 10,0:23:06.28,0:23:09.16,Default,,0,0,0,,I'm the eldest son, so I can endure it!
@@ -330,5 +330,5 @@ Dialogue: 10,0:23:13.20,0:23:15.87,Default,,0,0,0,,{\q2}Okay, to show you my gra
 Dialogue: 10,0:23:15.87,0:23:18.04,Default,,0,0,0,,{\q2}Give it all you've got, Nezuko! \NYou've got this!
 Dialogue: 10,0:23:18.71,0:23:21.76,Default,,0,0,0,,You'll continue to flow, no matter what!
 Dialogue: 10,0:23:22.21,0:23:27.14,Default,,0,0,0,,{\q2}You're the eldest daughter, but if anything bad \Nhappens to you, don't endure it. Just tell me, okay?
-Dialogue: 10,0:23:28.35,0:23:31.85,Default,,0,0,0,,{\q2}Next, Episode 13, \N"Something More Important Than Life"!
+Dialogue: 10,0:23:28.35,0:23:31.85,Default,,0,0,0,,{\q2}Next, Episode 13, \N"Something More Important Than Life"!{##### suggested title: "More Precious Than Life Itself". that's three changes: -something, +itself, and important->precious. feel free to accept/reject individually}
 Dialogue: 10,0:23:32.35,0:23:35.89,Default,,0,0,0,,Looks like we've run out of time for the Taisho secret!
