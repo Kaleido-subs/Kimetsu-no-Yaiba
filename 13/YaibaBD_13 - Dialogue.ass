@@ -28,10 +28,10 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Dialogue: 10,0:00:14.66,0:00:16.91,Default,,0,0,0,,I've been able to handle anything thrown my way!
 Dialogue: 10,0:00:17.33,0:00:19.54,Default,,0,0,0,,I have what it takes!
-Dialogue: 10,0:00:19.54,0:00:21.50,Default,,0,0,0,,And neither today,
-Dialogue: 10,0:00:21.50,0:00:23.21,Default,,0,0,0,,nor any other day in the future,
-Dialogue: 10,0:00:23.21,0:00:25.17,Default,,0,0,0,,even if my body's in shambles,
-Dialogue: 10,0:00:27.05,0:00:31.01,Default,,0,0,0,,I'll continue to flow no matter what!{##### see comment in ep 12}
+Dialogue: 10,0:00:19.54,0:00:21.50,Default,,0,0,0,,And not today!
+Dialogue: 10,0:00:21.50,0:00:23.21,Default,,0,0,0,,Not tomorrow!
+Dialogue: 10,0:00:23.21,0:00:25.17,Default,,0,0,0,,Not even if I'm torn
+Dialogue: 10,0:00:27.05,0:00:31.01,Default,,0,0,0,,will I {\i1}ever{\i0} stop flowing!
 Comment: 0,0:02:01.98,0:02:01.98,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:02:11.32,0:02:14.32,Default,,0,0,0,,Where are you, Tanjirou?
 Dialogue: 10,0:02:15.32,0:02:18.16,Default,,0,0,0,,{\i1}I can still hear that creepy sound.
@@ -57,7 +57,7 @@ Dialogue: 10,0:03:29.15,0:03:30.82,Default,,0,0,0,,{\i1}I'm a guy that gets thin
 Dialogue: 10,0:03:33.36,0:03:36.53,Default,,0,0,0,,{\i1}Broken bones or not, it doesn't matter!
 Dialogue: 10,0:03:36.53,0:03:38.07,Default,,0,0,0,,{\i1}I can do it!
 Dialogue: 10,0:03:38.28,0:03:39.57,Default,,0,0,0,,{\i1}I can fight!
-Dialogue: 10,0:03:47.21,0:03:51.09,Default,,0,0,0,,{\i1\q2}I'll show him that I'm unstoppable, \Nno matter what he throws my way!{##### "nothing he throws my way can stop me"? is that worse?}
+Dialogue: 10,0:03:47.21,0:03:51.09,Default,,0,0,0,,{\i1\q2}I'll show him that I'm unstoppable, \Nno matter what he throws my way!
 Dialogue: 10,0:04:01.51,0:04:04.93,Default,,0,0,0,,{\i1}It's no good! Nothing's changed at all!
 Dialogue: 10,0:04:04.93,0:04:07.39,Default,,0,0,0,,{\i1}Spirit alone isn't gonna get me anywhere!
 Dialogue: 10,0:04:07.69,0:04:08.73,Default,,0,0,0,,{\i1}Your head...
@@ -99,7 +99,7 @@ Dialogue: 10,0:07:20.09,0:07:21.75,Default,,0,0,0,,{\i1}What amazing skill!
 Dialogue: 10,0:07:24.17,0:07:24.88,Default,,0,0,0,,{\i1}Not only that,
 Dialogue: 10,0:07:25.22,0:07:27.72,Default,,0,0,0,,{\i1}but he's got five claws now instead of three!
 Dialogue: 10,0:07:39.86,0:07:41.02,Default,,0,0,0,,{\i1}I get it.
-Dialogue: 10,0:07:45.61,0:07:48.07,Default,,0,0,0,,{\i1\q2}Dodging his blows without \Nstepping on the papers{##### a comma here was 100% wrong}
+Dialogue: 10,0:07:45.61,0:07:48.07,Default,,0,0,0,,{\i1\q2}Dodging his blows without \Nstepping on the papers
 Dialogue: 10,0:07:48.07,0:07:52.62,Default,,0,0,0,,{\i1\q2}helped me figure out how to move my body without \Naggravating my wounds, as well as how to breathe!
 Dialogue: 10,0:07:54.12,0:07:56.46,Default,,0,0,0,,{\i1}Take shallow breaths. Quickly!
 Dialogue: 10,0:07:57.87,0:08:02.71,Default,,0,0,0,,{\i1\q2}That breathing technique will help reinforce \Nthe muscles around my broken leg!
@@ -187,7 +187,7 @@ Dialogue: 10,0:13:18.78,0:13:20.07,Default,,0,0,0,,Yes!
 Dialogue: 10,0:13:20.07,0:13:22.07,Default,,0,0,0,,You just have to keep it up a little longer.
 Dialogue: 10,0:13:23.37,0:13:25.66,Default,,0,0,0,,I'm picking up Zenitsu and Shouichi's scent.
 Dialogue: 10,0:13:26.62,0:13:28.58,Default,,0,0,0,,They must've gone outside already.
-Dialogue: 10,0:13:28.58,0:13:29.62,Default,,0,0,0,,Both of them are sa—{##### they're both safe now--}
+Dialogue: 10,0:13:28.58,0:13:29.62,Default,,0,0,0,,They're both safe n—
 Dialogue: 10,0:13:30.96,0:13:32.42,Default,,0,0,0,,{\i1}I smell blood!
 Dialogue: 10,0:13:33.08,0:13:34.08,Default,,0,0,0,,What's wrong?
 Dialogue: 10,0:13:34.71,0:13:36.92,Default,,0,0,0,,Oh, nothing. Let's hurry!
@@ -213,7 +213,7 @@ Dialogue: 10,0:14:59.96,0:15:01.84,Default,,0,0,0,,Zenitsu!
 Dialogue: 10,0:15:05.76,0:15:08.85,Default,,0,0,0,,Thank goodness! Are you all right?
 Dialogue: 10,0:15:09.93,0:15:14.52,Default,,0,0,0,,When the room spun around, we got thrown outside.
 Dialogue: 10,0:15:14.52,0:15:16.60,Default,,0,0,0,,We fell from the second story window.
-Dialogue: 10,0:15:19.61,0:15:20.98,Default,,0,0,0,,Did we now?{##### add comma?}
+Dialogue: 10,0:15:19.61,0:15:20.98,Default,,0,0,0,,Did we now?
 Dialogue: 10,0:15:21.90,0:15:26.57,Default,,0,0,0,,I'm fine since you were protecting me, but...
 Dialogue: 10,0:15:27.03,0:15:28.66,Default,,0,0,0,,I'm glad to hear that.
 Dialogue: 10,0:15:29.28,0:15:32.20,Default,,0,0,0,,So tell me, what's with all the tears?
@@ -237,7 +237,7 @@ Dialogue: 10,0:16:17.62,0:16:20.00,Default,,0,0,0,,and come down again before an
 Dialogue: 10,0:16:20.00,0:16:21.63,Default,,0,0,0,,It's Mr. Impatient!
 Dialogue: 10,0:16:26.38,0:16:28.88,Default,,0,0,0,,Found it!
 Dialogue: 10,0:16:30.22,0:16:31.64,Default,,0,0,0,,Stop!
-Dialogue: 10,0:16:34.77,0:16:37.35,Default,,0,0,0,,Who the hell are you?{##### using some F-bombs in places like this would be refreshing, though I acknowledge your decision not to do so}
+Dialogue: 10,0:16:34.77,0:16:37.35,Default,,0,0,0,,Who the fuck're you?
 Dialogue: 10,0:16:37.35,0:16:39.06,Default,,0,0,0,,Get out of the way!
 Dialogue: 10,0:16:39.31,0:16:41.77,Default,,0,0,0,,I'm Agatsuma Zenitsu!
 Dialogue: 10,0:16:41.77,0:16:44.27,Default,,0,0,0,,I'm with the Demon Slayers, just like you!

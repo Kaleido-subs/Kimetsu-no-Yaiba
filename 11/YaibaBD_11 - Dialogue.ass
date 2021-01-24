@@ -35,7 +35,7 @@ Dialogue: 10,0:00:11.95,0:00:13.91,Default,,0,0,0,,I got the message, so please!
 Dialogue: 10,0:00:13.91,0:00:15.33,Default,,0,0,0,,Please!
 Dialogue: 10,0:00:17.83,0:00:19.71,Default,,0,0,0,,Please! {\alpha&HFF&\t(528,529,\alpha&H00&\4a&HA0&)}Please! {\i1\alpha&HFF&\t(980,1022,\alpha&H00&\4a&HA0&)}Please!
 Dialogue: 10,0:00:19.71,0:00:21.17,Default,,0,0,0,,Please marry me!
-Dialogue: 10,0:00:21.75,0:00:24.63,Default,,0,0,0,,I could meet my demise at any time, y'know!{##### dislike "at any time". something involving the word "moment" might be the way to go?}
+Dialogue: 10,0:00:21.75,0:00:24.63,Default,,0,0,0,,I could drop dead at a moment's notice, y'know!
 Dialogue: 10,0:00:24.63,0:00:27.22,Default,,0,0,0,,That's why I want you to marry me!
 Dialogue: 10,0:00:27.22,0:00:29.68,Default,,0,0,0,,Please! I'm begging you!
 Dialogue: 10,0:00:30.18,0:00:32.35,Default,,0,0,0,,Wh-What's going on over there?
@@ -117,7 +117,7 @@ Dialogue: 10,0:05:53.25,0:05:56.21,Default,,0,0,0,,Don't you have any food on yo
 Dialogue: 10,0:05:56.21,0:05:57.38,Default,,0,0,0,,Nope.
 Dialogue: 10,0:06:00.67,0:06:01.84,Default,,0,0,0,,Here, I've got this.
 Dialogue: 10,0:06:01.84,0:06:02.88,Default,,0,0,0,,Want it?
-Dialogue: 10,0:06:04.09,0:06:06.51,Default,,0,0,0,,Ah, thank you.{##### I think this "ああ" might be an affirmative response?}
+Dialogue: 10,0:06:04.09,0:06:06.51,Default,,0,0,0,,Yeah, thank you.
 Dialogue: 10,0:06:12.06,0:06:14.27,Default,,0,0,0,,You're not eating, Tanjirou?
 Dialogue: 10,0:06:14.27,0:06:16.69,Default,,0,0,0,,No. That's all I had.
 Dialogue: 10,0:06:24.53,0:06:25.45,Default,,0,0,0,,Here.
@@ -125,12 +125,12 @@ Dialogue: 10,0:06:25.45,0:06:26.78,Default,,0,0,0,,At least take half.
 Dialogue: 10,0:06:27.49,0:06:28.62,Default,,0,0,0,,You sure?
 Dialogue: 10,0:06:28.62,0:06:29.79,Default,,0,0,0,,Thanks!
 Dialogue: 10,0:06:46.09,0:06:49.76,Default,,0,0,0,,{\q2}I get what you mean when you say \Nyou're scared of demons,
-Dialogue: 10,0:06:49.76,0:06:52.14,Default,,0,0,0,,but you can't stir up trouble for your sparrow.{##### dislike "stir up" but not sure why. "cause" or maybe "make" (wait what, no, self, are you crazy) would be fine}
+Dialogue: 10,0:06:49.76,0:06:52.14,Default,,0,0,0,,but you can't stir up trouble for your sparrow.
 Dialogue: 10,0:06:52.98,0:06:55.35,Default,,0,0,0,,Was it upset?
 Dialogue: 10,0:06:55.35,0:06:56.77,Default,,0,0,0,,How could you tell?
-Dialogue: 10,0:06:56.77,0:07:01.19,Default,,0,0,0,,{\q2}Well, he says you're always whining \Nabout not wanting to work,
-Dialogue: 10,0:07:01.19,0:07:05.15,Default,,0,0,0,,{\q2}always hitting on girls, and that you snore loudly. \NHe's had it up to here with you!{##### auditory pacing ain't great here, but I'm not sure how fixable it is}
-Dialogue: 10,0:07:05.15,0:07:06.57,Default,,0,0,0,,That's what he told me.
+Dialogue: 10,0:06:56.77,0:07:01.19,Default,,0,0,0,,{\q2}Well, apparently you "always whine \Nabout not wanting to work,"
+Dialogue: 10,0:07:01.19,0:07:05.15,Default,,0,0,0,,{\q2}"flirt with girls, snore loudly... \NI've had it up to here with you!"
+Dialogue: 10,0:07:05.15,0:07:06.57,Default,,0,0,0,,Or so he says.
 Dialogue: 10,0:07:08.32,0:07:09.70,Default,,0,0,0,,He did?
 Dialogue: 10,0:07:09.70,0:07:11.87,Default,,0,0,0,,You can understand what he's saying?
 Dialogue: 10,0:07:12.62,0:07:15.00,Default,,0,0,0,,You're lying, right? You're just trying to trick me!
@@ -270,7 +270,7 @@ Dialogue: 10,0:16:15.37,0:16:16.33,Default,,0,0,0,,What's your name?
 Dialogue: 10,0:16:17.08,0:16:18.62,Default,,0,0,0,,Teruko.
 Dialogue: 10,0:16:18.62,0:16:20.79,Default,,0,0,0,,Is that right? Teruko?
 Dialogue: 10,0:16:20.79,0:16:22.13,Default,,0,0,0,,That's a fine name you h—
-Dialogue: 10,0:16:36.35,0:16:41.40,Default,,0,0,0,,{\i1\q2}Of all the scents enveloping this house, \Nthis one is the most intense!{##### better readability, but I don't know if something got lost in the process}
+Dialogue: 10,0:16:36.35,0:16:41.40,Default,,0,0,0,,{\i1\q2}Of all the scents enveloping this house, \Nthis one is the most intense!
 Dialogue: 10,0:16:41.40,0:16:43.69,Default,,0,0,0,,{\i1}This demon has devoured a whole slew of humans!
 Dialogue: 10,0:16:43.69,0:16:46.99,Default,,0,0,0,,{\i1}He's clearly the master of this mansion!
 Dialogue: 10,0:16:47.99,0:16:49.99,Default,,0,0,0,,I'm gonna die!
@@ -304,7 +304,7 @@ Dialogue: 10,0:18:09.53,0:18:13.53,Default,,0,0,0,,It's a monster!
 Dialogue: 10,0:18:25.71,0:18:27.96,Default,,0,0,0,,The hell? What's with that look in your eyes?
 Dialogue: 10,0:18:27.96,0:18:29.71,Default,,0,0,0,,Quit looking at me like that!
 Dialogue: 10,0:18:40.39,0:18:42.31,Default,,0,0,0,,If it hadn't been...
-Dialogue: 10,0:18:42.31,0:18:44.98,Default,,0,0,0,,If it hadn't been for their meddling...{##### how can you not do a scooby-doo reference? "if it weren't for those meddling..."}
+Dialogue: 10,0:18:42.31,0:18:44.98,Default,,0,0,0,,If it weren't for those meddling...
 Dialogue: 10,0:18:46.44,0:18:49.23,Default,,0,0,0,,Teruko, try to keep in your scream.
 Dialogue: 10,0:18:49.98,0:18:52.44,Default,,0,0,0,,{\q2}The room's going to change, \Nso don't run into the hallway.
 Dialogue: 10,0:18:52.44,0:18:55.41,Default,,0,0,0,,Get back and hide behind the shelves.
