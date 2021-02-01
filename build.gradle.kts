@@ -22,7 +22,7 @@ subs {
     episodes(getList("episodes"))
 
 	val op_ktemplate by task<Automation> {
-        if (file(get("OP")).exists()) {
+        if (propertyExists("OP")) {
             from(get("OP"))
         }
 
@@ -33,7 +33,7 @@ subs {
 	}
 
     val ed_ktemplate by task<Automation> {
-        if (file(get("ED")).exists()) {
+        if (propertyExists("ED")) {
             from(get("ED"))
         }
 
@@ -46,13 +46,13 @@ subs {
     merge {
         from(get("dialogue"))
 
-        if (file(get("OP")).exists()) {
+        if (propertyExists("OP")) {
             from(op_ktemplate.item()) {
                 syncTargetTime(getAs<Duration>("opsync"))
             }
         }
 
-        if (file(get("ED")).exists()) {
+        if (propertyExists("ED")) {
             from(ed_ktemplate.item()) {
                 syncTargetTime(getAs<Duration>("edsync"))
             }
