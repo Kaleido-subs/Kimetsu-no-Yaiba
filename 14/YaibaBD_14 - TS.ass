@@ -4555,10 +4555,8 @@ Dialogue: 1,0:23:04.36,0:23:04.40,Sign,,0,0,0,,{\pos(654.09,213.467)\fscx81\fscy
 Dialogue: 0,0:23:04.36,0:23:04.40,Sign,,0,0,0,,{\pos(1083.778,210.623)\fscx79\fscy83\frz358.3\fnAlpha Dance\fs80\bord7\c&H000000&\blur6}Demon Slayer Academy
 Dialogue: 1,0:23:04.36,0:23:04.40,Sign,,0,0,0,,{\pos(1083.778,210.623)\fscx79\fscy83\frz358.3\fnAlpha Dance\fs80\c&H22ADFE&\4a&HFF&\blur6}Demon Slayer Academy
 Dialogue: 1,0:23:04.36,0:23:04.40,Sign,,0,0,0,,{\pos(1083.778,210.623)\fscx79\fscy83\frz358.3\fnAlpha Dance\fs80\c&H22ADFE&\4a&HFF&\blur6}Demon Slayer Academy
-Dialogue: 0,0:23:04.40,0:23:07.53,Sign,,0,0,0,,{\pos(705.29,272.667)\fscx71\fscy67\frz5.357\fnAlpha Dance\fs80\bord7\c&H000000&\blur0.6}Tales of the
-Dialogue: 1,0:23:04.40,0:23:07.53,Sign,,0,0,0,,{\pos(705.29,272.667)\fscx71\fscy67\frz5.357\fnAlpha Dance\fs80\c&H0511E6&\4a&HFF&\blur0.6}Tales of the
-Dialogue: 0,0:23:04.40,0:23:07.53,Sign,,0,0,0,,{\pos(1093.378,271.423)\fscx73\fscy67\frz358.3\fnAlpha Dance\fs80\bord7\c&H000000&\blur0.6}Demon Slayer Academy
-Dialogue: 1,0:23:04.40,0:23:07.53,Sign,,0,0,0,,{\pos(1093.378,271.423)\fscx73\fscy67\frz358.3\fnAlpha Dance\fs80\c&H22ADFE&\4a&HFF&\blur0.6}Demon Slayer Academy
+Dialogue: 0,0:23:04.40,0:23:07.53,Sign,,0,0,0,,{\blur0.5\fnPick Ax\3c&H0B0116&\c&H0B0116&\bord7\an4\fs60\frz3\pos(631.99,269.33)}Tales of the D{*\frz2.842}e{*\frz2.684}m{*\frz2.526}o{*\frz2.368}n {*\frz2.053}S{*\frz1.895}l{*\frz1.737}a{*\frz1.579}y{*\frz1.421}e{*\frz1.263}r {*\frz0.947}A{*\frz0.789}c{*\frz0.632}a{*\frz0.474}d{*\frz0.316}e{*\frz0.158}m{\frz0}y
+Dialogue: 1,0:23:04.40,0:23:07.53,Sign,,0,0,0,,{\blur0.5\fnPick Ax\c&H0411E6&\an4\fs60\frz3\pos(631.99,269.33)}Tales of the {\c&H0411E6&}{\c&H20ADFE&}D{*\frz2.842}e{*\frz2.684}m{*\frz2.526}o{*\frz2.368}n {*\frz2.053}S{*\frz1.895}l{*\frz1.737}a{*\frz1.579}y{*\frz1.421}e{*\frz1.263}r {*\frz0.947}A{*\frz0.789}c{*\frz0.632}a{*\frz0.474}d{*\frz0.316}e{*\frz0.158}m{\frz0}y
 Dialogue: 0,0:23:07.53,0:23:08.86,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\blur0.8}Self-introductions
 Dialogue: 0,0:23:07.53,0:23:08.86,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\blur0.8}Self-introductions
 Comment: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\fnInk Free\b0\bord0\shad0\fs47\b0\an6\pos(1342.755,178.533)\blur0.8\iclip(m 1270 218 l 1249 159 1257 156 1282 220)}Self-introductions
