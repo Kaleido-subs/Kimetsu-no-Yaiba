@@ -4557,132 +4557,76 @@ Dialogue: 1,0:23:04.36,0:23:04.40,Sign,,0,0,0,,{\pos(1083.778,210.623)\fscx79\fs
 Dialogue: 1,0:23:04.36,0:23:04.40,Sign,,0,0,0,,{\pos(1083.778,210.623)\fscx79\fscy83\frz358.3\fnAlpha Dance\fs80\c&H22ADFE&\4a&HFF&\blur6}Demon Slayer Academy
 Dialogue: 0,0:23:04.40,0:23:07.53,Sign,,0,0,0,,{\blur0.5\fnPick Ax\3c&H0B0116&\c&H0B0116&\bord7\an4\fs60\frz3\pos(631.99,269.33)}Tales of the D{*\frz2.842}e{*\frz2.684}m{*\frz2.526}o{*\frz2.368}n {*\frz2.053}S{*\frz1.895}l{*\frz1.737}a{*\frz1.579}y{*\frz1.421}e{*\frz1.263}r {*\frz0.947}A{*\frz0.789}c{*\frz0.632}a{*\frz0.474}d{*\frz0.316}e{*\frz0.158}m{\frz0}y
 Dialogue: 1,0:23:04.40,0:23:07.53,Sign,,0,0,0,,{\blur0.5\fnPick Ax\c&H0411E6&\an4\fs60\frz3\pos(631.99,269.33)}Tales of the {\c&H0411E6&}{\c&H20ADFE&}D{*\frz2.842}e{*\frz2.684}m{*\frz2.526}o{*\frz2.368}n {*\frz2.053}S{*\frz1.895}l{*\frz1.737}a{*\frz1.579}y{*\frz1.421}e{*\frz1.263}r {*\frz0.947}A{*\frz0.789}c{*\frz0.632}a{*\frz0.474}d{*\frz0.316}e{*\frz0.158}m{\frz0}y
-Dialogue: 0,0:23:07.53,0:23:08.86,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\blur0.8}Self-introductions
-Dialogue: 0,0:23:07.53,0:23:08.86,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\blur0.8}Self-introductions
-Comment: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\fnInk Free\b0\bord0\shad0\fs47\b0\an6\pos(1342.755,178.533)\blur0.8\iclip(m 1270 218 l 1249 159 1257 156 1282 220)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\blur0.8\iclip(m 1268 220 l 1246 158 1258 153 1286 223)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&HE8&\blur0.8\clip(m 1271 216 l 1252 160 1256 159 1279 217 m 1286 223 l 1258 153 1246 158 1268 220)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&HD1&\blur0.8\clip(m 1271 217 l 1251 160 1256 158 1280 218 m 1279 217 l 1256 159 1252 160 1271 216)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&HB9&\blur0.8\clip(m 1271 217 l 1250 160 1256 157 1280 219 m 1280 218 l 1256 158 1251 160 1271 217)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&HA2&\blur0.8\clip(m 1270 218 l 1250 159 1257 157 1281 219 m 1280 219 l 1256 157 1250 160 1271 217)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&H8B&\blur0.8\clip(m 1270 218 l 1249 159 1257 156 1282 220 m 1281 219 l 1257 157 1250 159 1270 218)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&H74&\blur0.8\clip(m 1270 218 l 1248 159 1257 155 1283 221 m 1282 220 l 1257 156 1249 159 1270 218)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&H5D&\blur0.8\clip(m 1269 219 l 1248 158 1258 155 1284 221 m 1283 221 l 1257 155 1248 159 1270 218)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&H46&\blur0.8\clip(m 1269 219 l 1247 158 1258 154 1284 222 m 1284 221 l 1258 155 1248 158 1269 219)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&H2E&\blur0.8\clip(m 1269 220 l 1246 158 1258 153 1285 223 m 1284 222 l 1258 154 1247 158 1269 219)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&H17&\blur0.8\clip(m 1268 220 l 1246 158 1258 153 1286 223 m 1285 223 l 1258 153 1246 158 1269 220)}Self-introductions
-Comment: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\fnInk Free\b0\bord0\shad0\fs47\b0\an6\pos(1342.755,178.533)\blur0.8\iclip(m 1270 218 l 1249 159 1257 156 1282 220)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\blur0.8\iclip(m 1268 220 l 1246 158 1258 153 1286 223)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&HE8&\blur0.8\clip(m 1271 216 l 1252 160 1256 159 1279 217 m 1286 223 l 1258 153 1246 158 1268 220)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&HD1&\blur0.8\clip(m 1271 217 l 1251 160 1256 158 1280 218 m 1279 217 l 1256 159 1252 160 1271 216)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&HB9&\blur0.8\clip(m 1271 217 l 1250 160 1256 157 1280 219 m 1280 218 l 1256 158 1251 160 1271 217)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&HA2&\blur0.8\clip(m 1270 218 l 1250 159 1257 157 1281 219 m 1280 219 l 1256 157 1250 160 1271 217)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&H8B&\blur0.8\clip(m 1270 218 l 1249 159 1257 156 1282 220 m 1281 219 l 1257 157 1250 159 1270 218)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&H74&\blur0.8\clip(m 1270 218 l 1248 159 1257 155 1283 221 m 1282 220 l 1257 156 1249 159 1270 218)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&H5D&\blur0.8\clip(m 1269 219 l 1248 158 1258 155 1284 221 m 1283 221 l 1257 155 1248 159 1270 218)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&H46&\blur0.8\clip(m 1269 219 l 1247 158 1258 154 1284 222 m 1284 221 l 1258 155 1248 158 1269 219)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&H2E&\blur0.8\clip(m 1269 220 l 1246 158 1258 153 1285 223 m 1284 222 l 1258 154 1247 158 1269 219)}Self-introductions
-Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\alpha&H17&\blur0.8\clip(m 1268 220 l 1246 158 1258 153 1286 223 m 1285 223 l 1258 153 1246 158 1269 220)}Self-introductions
-Dialogue: 0,0:23:08.99,0:23:10.95,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\blur0.8}Self-introductions
-Dialogue: 0,0:23:08.99,0:23:10.95,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnInk Free\fs47\blur0.8}Self-introductions
-Dialogue: 0,0:23:14.78,0:23:14.83,Sign,,0,0,0,,{\an4\pos(1793.45,137.25)\fscx301.56\fscy301.56\fnInk Free\fs60\alpha&H00&\blur3.3}No piercings
-Dialogue: 0,0:23:14.78,0:23:14.83,Sign,,0,0,0,,{\an4\pos(1793.45,137.25)\fscx301.56\fscy301.56\fnInk Free\fs60\alpha&H00&\blur3.3}No piercings
-Dialogue: 0,0:23:14.83,0:23:14.87,Sign,,0,0,0,,{\an4\pos(1718.36,188.04)\fscx272.82\fscy272.82\fnInk Free\fs60\alpha&H00&\blur2.98}No piercings
-Dialogue: 0,0:23:14.83,0:23:14.87,Sign,,0,0,0,,{\an4\pos(1718.36,188.04)\fscx272.82\fscy272.82\fnInk Free\fs60\alpha&H00&\blur2.98}No piercings
-Dialogue: 0,0:23:14.87,0:23:14.91,Sign,,0,0,0,,{\an4\pos(1637.07,225.61)\fscx243.62\fscy243.62\fnInk Free\fs60\alpha&H00&\blur2.67}No piercings
-Dialogue: 0,0:23:14.87,0:23:14.91,Sign,,0,0,0,,{\an4\pos(1637.07,225.61)\fscx243.62\fscy243.62\fnInk Free\fs60\alpha&H00&\blur2.67}No piercings
-Dialogue: 0,0:23:14.91,0:23:14.95,Sign,,0,0,0,,{\an4\pos(1572.36,255.28)\fscx220.38\fscy220.38\fnInk Free\fs60\alpha&H00&\blur2.41}No piercings
-Dialogue: 0,0:23:14.91,0:23:14.95,Sign,,0,0,0,,{\an4\pos(1572.36,255.28)\fscx220.38\fscy220.38\fnInk Free\fs60\alpha&H00&\blur2.41}No piercings
-Dialogue: 0,0:23:14.95,0:23:14.99,Sign,,0,0,0,,{\an4\pos(1521.13,278.9)\fscx201.98\fscy201.98\fnInk Free\fs60\alpha&H00&\blur2.21}No piercings
-Dialogue: 0,0:23:14.95,0:23:14.99,Sign,,0,0,0,,{\an4\pos(1521.13,278.9)\fscx201.98\fscy201.98\fnInk Free\fs60\alpha&H00&\blur2.21}No piercings
-Dialogue: 0,0:23:14.99,0:23:15.04,Sign,,0,0,0,,{\an4\pos(1482.86,295.75)\fscx188.3\fscy188.3\fnInk Free\fs60\alpha&H00&\blur2.06}No piercings
-Dialogue: 0,0:23:14.99,0:23:15.04,Sign,,0,0,0,,{\an4\pos(1482.86,295.75)\fscx188.3\fscy188.3\fnInk Free\fs60\alpha&H00&\blur2.06}No piercings
-Dialogue: 0,0:23:15.04,0:23:15.08,Sign,,0,0,0,,{\an4\pos(1467.56,302.49)\fscx182.83\fscy182.83\fnInk Free\fs60\alpha&H00&\blur2}No piercings
-Dialogue: 0,0:23:15.04,0:23:15.08,Sign,,0,0,0,,{\an4\pos(1467.56,302.49)\fscx182.83\fscy182.83\fnInk Free\fs60\alpha&H00&\blur2}No piercings
-Dialogue: 0,0:23:15.08,0:23:15.12,Sign,,0,0,0,,{\an4\pos(1458.66,306.58)\fscx179.63\fscy179.63\fnInk Free\fs60\alpha&H00&\blur1.97}No piercings
-Dialogue: 0,0:23:15.08,0:23:15.12,Sign,,0,0,0,,{\an4\pos(1458.66,306.58)\fscx179.63\fscy179.63\fnInk Free\fs60\alpha&H00&\blur1.97}No piercings
-Dialogue: 0,0:23:15.12,0:23:15.16,Sign,,0,0,0,,{\an4\pos(1452.03,309.54)\fscx177.26\fscy177.26\fnInk Free\fs60\alpha&H00&\blur1.94}No piercings
-Dialogue: 0,0:23:15.12,0:23:15.16,Sign,,0,0,0,,{\an4\pos(1452.03,309.54)\fscx177.26\fscy177.26\fnInk Free\fs60\alpha&H00&\blur1.94}No piercings
-Dialogue: 0,0:23:15.16,0:23:15.20,Sign,,0,0,0,,{\an4\pos(1447.46,311.79)\fscx175.6\fscy175.6\fnInk Free\fs60\alpha&H00&\blur1.92}No piercings
-Dialogue: 0,0:23:15.16,0:23:15.20,Sign,,0,0,0,,{\an4\pos(1447.46,311.79)\fscx175.6\fscy175.6\fnInk Free\fs60\alpha&H00&\blur1.92}No piercings
-Dialogue: 0,0:23:15.20,0:23:15.24,Sign,,0,0,0,,{\an4\pos(1443.91,313.35)\fscx174.32\fscy174.32\fnInk Free\fs60\alpha&H00&\blur1.91}No piercings
-Dialogue: 0,0:23:15.20,0:23:15.24,Sign,,0,0,0,,{\an4\pos(1443.91,313.35)\fscx174.32\fscy174.32\fnInk Free\fs60\alpha&H00&\blur1.91}No piercings
-Dialogue: 0,0:23:15.24,0:23:15.29,Sign,,0,0,0,,{\an4\pos(1442.1,314.02)\fscx173.7\fscy173.7\fnInk Free\fs60\alpha&H00&\blur1.9}No piercings
-Dialogue: 0,0:23:15.24,0:23:15.29,Sign,,0,0,0,,{\an4\pos(1442.1,314.02)\fscx173.7\fscy173.7\fnInk Free\fs60\alpha&H00&\blur1.9}No piercings
-Dialogue: 0,0:23:15.29,0:23:15.33,Sign,,0,0,0,,{\an4\pos(1442,314)\fscx173.67\fscy173.67\fnInk Free\fs60\alpha&H00&\blur1.9}No piercings
-Dialogue: 0,0:23:15.29,0:23:15.33,Sign,,0,0,0,,{\an4\pos(1442,314)\fscx173.67\fscy173.67\fnInk Free\fs60\alpha&H00&\blur1.9}No piercings
-Dialogue: 0,0:23:15.33,0:23:15.49,Sign,,0,0,0,,{\an4\pos(1441.89,313.98)\fscx173.64\fscy173.64\fnInk Free\fs60\alpha&H00&\blur1.9}No piercings
-Dialogue: 0,0:23:15.33,0:23:15.49,Sign,,0,0,0,,{\an4\pos(1441.89,313.98)\fscx173.64\fscy173.64\fnInk Free\fs60\alpha&H00&\blur1.9}No piercings
-Dialogue: 0,0:23:15.49,0:23:15.54,Sign,,0,0,0,,{\an4\pos(1452.16,314.18)\fscx173.64\fscy173.64\fnInk Free\fs60\alpha&H00&\blur3}No piercings
-Dialogue: 0,0:23:15.49,0:23:15.54,Sign,,0,0,0,,{\an4\pos(1452.16,314.18)\fscx173.64\fscy173.64\fnInk Free\fs60\alpha&H00&\blur3}No piercings
-Dialogue: 0,0:23:15.54,0:23:15.58,Sign,,0,0,0,,{\an4\pos(1664.16,314.18)\fscx173.64\fscy173.64\fnInk Free\fs60\alpha&H00&\blur7}No piercings
-Dialogue: 0,0:23:15.54,0:23:15.58,Sign,,0,0,0,,{\an4\pos(1664.16,314.18)\fscx173.64\fscy173.64\fnInk Free\fs60\alpha&H00&\blur7}No piercings
-Dialogue: 0,0:23:15.58,0:23:15.62,Sign,,0,0,0,,{\pos(2070.26,549.2)\fnInk Free\fs100\alpha&H00&\blur9}No piercings
-Dialogue: 0,0:23:15.58,0:23:15.62,Sign,,0,0,0,,{\pos(2070.26,549.2)\fnInk Free\fs100\alpha&H00&\blur9}No piercings
-Dialogue: 0,0:23:19.50,0:23:19.54,Sign,,0,0,0,,{\an4\pos(1793.45,137.25)\fscx301.56\fscy301.56\fnInk Free\fs60\alpha&H00&\blur3.3}No piercings
-Dialogue: 0,0:23:19.50,0:23:19.54,Sign,,0,0,0,,{\an4\pos(1793.45,137.25)\fscx301.56\fscy301.56\fnInk Free\fs60\alpha&H00&\blur3.3}No piercings
-Dialogue: 0,0:23:19.54,0:23:19.58,Sign,,0,0,0,,{\an4\pos(1718.36,188.04)\fscx272.82\fscy272.82\fnInk Free\fs60\alpha&H00&\blur2.98}No piercings
-Dialogue: 0,0:23:19.54,0:23:19.58,Sign,,0,0,0,,{\an4\pos(1718.36,188.04)\fscx272.82\fscy272.82\fnInk Free\fs60\alpha&H00&\blur2.98}No piercings
-Dialogue: 0,0:23:19.58,0:23:19.62,Sign,,0,0,0,,{\an4\pos(1637.07,225.61)\fscx243.62\fscy243.62\fnInk Free\fs60\alpha&H00&\blur2.67}No piercings
-Dialogue: 0,0:23:19.58,0:23:19.62,Sign,,0,0,0,,{\an4\pos(1637.07,225.61)\fscx243.62\fscy243.62\fnInk Free\fs60\alpha&H00&\blur2.67}No piercings
-Dialogue: 0,0:23:19.62,0:23:19.66,Sign,,0,0,0,,{\an4\pos(1572.36,255.28)\fscx220.38\fscy220.38\fnInk Free\fs60\alpha&H00&\blur2.41}No piercings
-Dialogue: 0,0:23:19.62,0:23:19.66,Sign,,0,0,0,,{\an4\pos(1572.36,255.28)\fscx220.38\fscy220.38\fnInk Free\fs60\alpha&H00&\blur2.41}No piercings
-Dialogue: 0,0:23:19.66,0:23:19.71,Sign,,0,0,0,,{\an4\pos(1521.13,278.9)\fscx201.98\fscy201.98\fnInk Free\fs60\alpha&H00&\blur2.21}No piercings
-Dialogue: 0,0:23:19.66,0:23:19.71,Sign,,0,0,0,,{\an4\pos(1521.13,278.9)\fscx201.98\fscy201.98\fnInk Free\fs60\alpha&H00&\blur2.21}No piercings
-Dialogue: 0,0:23:19.71,0:23:19.75,Sign,,0,0,0,,{\an4\pos(1482.86,295.75)\fscx188.3\fscy188.3\fnInk Free\fs60\alpha&H00&\blur2.06}No piercings
-Dialogue: 0,0:23:19.71,0:23:19.75,Sign,,0,0,0,,{\an4\pos(1482.86,295.75)\fscx188.3\fscy188.3\fnInk Free\fs60\alpha&H00&\blur2.06}No piercings
-Dialogue: 0,0:23:19.75,0:23:19.79,Sign,,0,0,0,,{\an4\pos(1467.56,302.49)\fscx182.83\fscy182.83\fnInk Free\fs60\alpha&H00&\blur2}No piercings
-Dialogue: 0,0:23:19.75,0:23:19.79,Sign,,0,0,0,,{\an4\pos(1467.56,302.49)\fscx182.83\fscy182.83\fnInk Free\fs60\alpha&H00&\blur2}No piercings
-Dialogue: 0,0:23:19.79,0:23:19.83,Sign,,0,0,0,,{\an4\pos(1458.66,306.58)\fscx179.63\fscy179.63\fnInk Free\fs60\alpha&H00&\blur1.97}No piercings
-Dialogue: 0,0:23:19.79,0:23:19.83,Sign,,0,0,0,,{\an4\pos(1458.66,306.58)\fscx179.63\fscy179.63\fnInk Free\fs60\alpha&H00&\blur1.97}No piercings
-Dialogue: 0,0:23:19.83,0:23:19.87,Sign,,0,0,0,,{\an4\pos(1452.03,309.54)\fscx177.26\fscy177.26\fnInk Free\fs60\alpha&H00&\blur1.94}No piercings
-Dialogue: 0,0:23:19.83,0:23:19.87,Sign,,0,0,0,,{\an4\pos(1452.03,309.54)\fscx177.26\fscy177.26\fnInk Free\fs60\alpha&H00&\blur1.94}No piercings
-Dialogue: 0,0:23:19.87,0:23:19.91,Sign,,0,0,0,,{\an4\pos(1447.46,311.79)\fscx175.6\fscy175.6\fnInk Free\fs60\alpha&H00&\blur1.92}No piercings
-Dialogue: 0,0:23:19.87,0:23:19.91,Sign,,0,0,0,,{\an4\pos(1447.46,311.79)\fscx175.6\fscy175.6\fnInk Free\fs60\alpha&H00&\blur1.92}No piercings
-Dialogue: 0,0:23:19.91,0:23:19.96,Sign,,0,0,0,,{\an4\pos(1443.91,313.35)\fscx174.32\fscy174.32\fnInk Free\fs60\alpha&H00&\blur1.91}No piercings
-Dialogue: 0,0:23:19.91,0:23:19.96,Sign,,0,0,0,,{\an4\pos(1443.91,313.35)\fscx174.32\fscy174.32\fnInk Free\fs60\alpha&H00&\blur1.91}No piercings
-Dialogue: 0,0:23:19.96,0:23:20.00,Sign,,0,0,0,,{\an4\pos(1442.1,314.02)\fscx173.7\fscy173.7\fnInk Free\fs60\alpha&H00&\blur1.9}No piercings
-Dialogue: 0,0:23:19.96,0:23:20.00,Sign,,0,0,0,,{\an4\pos(1442.1,314.02)\fscx173.7\fscy173.7\fnInk Free\fs60\alpha&H00&\blur1.9}No piercings
-Dialogue: 0,0:23:20.00,0:23:20.04,Sign,,0,0,0,,{\an4\pos(1442,314)\fscx173.67\fscy173.67\fnInk Free\fs60\alpha&H00&\blur1.9}No piercings
-Dialogue: 0,0:23:20.00,0:23:20.04,Sign,,0,0,0,,{\an4\pos(1442,314)\fscx173.67\fscy173.67\fnInk Free\fs60\alpha&H00&\blur1.9}No piercings
-Dialogue: 0,0:23:20.04,0:23:20.21,Sign,,0,0,0,,{\an4\pos(1441.89,313.98)\fscx173.64\fscy173.64\fnInk Free\fs60\alpha&H00&\blur1.9}No piercings
-Dialogue: 0,0:23:20.04,0:23:20.21,Sign,,0,0,0,,{\an4\pos(1441.89,313.98)\fscx173.64\fscy173.64\fnInk Free\fs60\alpha&H00&\blur1.9}No piercings
-Dialogue: 0,0:23:20.21,0:23:20.25,Sign,,0,0,0,,{\an4\pos(1452.16,314.18)\fscx173.64\fscy173.64\fnInk Free\fs60\alpha&H00&\blur3}No piercings
-Dialogue: 0,0:23:20.21,0:23:20.25,Sign,,0,0,0,,{\an4\pos(1452.16,314.18)\fscx173.64\fscy173.64\fnInk Free\fs60\alpha&H00&\blur3}No piercings
-Dialogue: 0,0:23:20.25,0:23:20.29,Sign,,0,0,0,,{\an4\pos(1664.16,314.18)\fscx173.64\fscy173.64\fnInk Free\fs60\alpha&H00&\blur7}No piercings
-Dialogue: 0,0:23:20.25,0:23:20.29,Sign,,0,0,0,,{\an4\pos(1664.16,314.18)\fscx173.64\fscy173.64\fnInk Free\fs60\alpha&H00&\blur7}No piercings
-Dialogue: 0,0:23:24.00,0:23:24.04,Sign,,0,0,0,,{\pos(1456.43,133.6)\fscx218.4\fscy218.4\fnInk Free\fs60\alpha&H00&\blur4.5}No hair colouring
-Dialogue: 0,0:23:24.00,0:23:24.04,Sign,,0,0,0,,{\pos(1456.43,133.6)\fscx218.4\fscy218.4\fnInk Free\fs60\alpha&H00&\blur4.5}No hair colouring
-Dialogue: 0,0:23:24.04,0:23:24.09,Sign,,0,0,0,,{\pos(1367.53,161.9)\fscx175.76\fscy175.76\fnInk Free\fs60\alpha&H00&\blur4}No hair colouring
-Dialogue: 0,0:23:24.04,0:23:24.09,Sign,,0,0,0,,{\pos(1367.53,161.9)\fscx175.76\fscy175.76\fnInk Free\fs60\alpha&H00&\blur4}No hair colouring
-Dialogue: 0,0:23:24.09,0:23:24.13,Sign,,0,0,0,,{\pos(1307.74,180.94)\fscx147.07\fscy147.07\fnInk Free\fs60\alpha&H00&\blur2.5}No hair colouring
-Dialogue: 0,0:23:24.09,0:23:24.13,Sign,,0,0,0,,{\pos(1307.74,180.94)\fscx147.07\fscy147.07\fnInk Free\fs60\alpha&H00&\blur2.5}No hair colouring
-Dialogue: 0,0:23:24.13,0:23:24.17,Sign,,0,0,0,,{\pos(1264.76,194.6)\fscx126.44\fscy126.44\fnInk Free\fs60\alpha&H00&\blur1.64}No hair colouring
-Dialogue: 0,0:23:24.13,0:23:24.17,Sign,,0,0,0,,{\pos(1264.76,194.6)\fscx126.44\fscy126.44\fnInk Free\fs60\alpha&H00&\blur1.64}No hair colouring
-Dialogue: 0,0:23:24.17,0:23:24.21,Sign,,0,0,0,,{\pos(1232.45,204.86)\fscx110.91\fscy110.91\fnInk Free\fs60\alpha&H00&\blur1.44}No hair colouring
-Dialogue: 0,0:23:24.17,0:23:24.21,Sign,,0,0,0,,{\pos(1232.45,204.86)\fscx110.91\fscy110.91\fnInk Free\fs60\alpha&H00&\blur1.44}No hair colouring
-Dialogue: 0,0:23:24.21,0:23:24.25,Sign,,0,0,0,,{\pos(1209.73,212.07)\fnInk Free\fs60\alpha&H00&\blur1.3}No hair colouring
-Dialogue: 0,0:23:24.21,0:23:24.25,Sign,,0,0,0,,{\pos(1209.73,212.07)\fnInk Free\fs60\alpha&H00&\blur1.3}No hair colouring
-Dialogue: 0,0:23:24.25,0:23:24.29,Sign,,0,0,0,,{\pos(1209.76,212.03)\fnInk Free\fs60\alpha&H00&\blur1.3}No hair colouring
-Dialogue: 0,0:23:24.25,0:23:24.29,Sign,,0,0,0,,{\pos(1209.76,212.03)\fnInk Free\fs60\alpha&H00&\blur1.3}No hair colouring
-Dialogue: 0,0:23:24.29,0:23:27.46,Sign,,0,0,0,,{\pos(1209.8,212)\fnInk Free\fs60\alpha&H00&\blur1.3}No hair colouring
-Dialogue: 0,0:23:24.29,0:23:27.46,Sign,,0,0,0,,{\pos(1209.8,212)\fnInk Free\fs60\alpha&H00&\blur1.3}No hair colouring
-Dialogue: 0,0:23:33.51,0:23:33.55,Sign,,0,0,0,,{\an4\pos(1793.45,137.25)\fscx301.56\fscy301.56\fnInk Free\fs40\alpha&H00&\blur3.3}Next Episode:\NMt. Natagumo
-Dialogue: 0,0:23:33.55,0:23:33.60,Sign,,0,0,0,,{\an4\pos(1718.36,188.04)\fscx272.82\fscy272.82\fnInk Free\fs40\alpha&H00&\blur2.98}Next Episode:\NMt. Natagumo
-Dialogue: 0,0:23:33.60,0:23:33.64,Sign,,0,0,0,,{\an4\pos(1637.07,225.61)\fscx243.62\fscy243.62\fnInk Free\fs40\alpha&H00&\blur2.67}Next Episode:\NMt. Natagumo
-Dialogue: 0,0:23:33.64,0:23:33.68,Sign,,0,0,0,,{\an4\pos(1572.36,255.28)\fscx220.38\fscy220.38\fnInk Free\fs40\alpha&H00&\blur2.41}Next Episode:\NMt. Natagumo
-Dialogue: 0,0:23:33.68,0:23:33.72,Sign,,0,0,0,,{\an4\pos(1521.13,278.9)\fscx201.98\fscy201.98\fnInk Free\fs40\alpha&H00&\blur2.21}Next Episode:\NMt. Natagumo
-Dialogue: 0,0:23:33.72,0:23:33.76,Sign,,0,0,0,,{\an4\pos(1482.86,295.75)\fscx188.3\fscy188.3\fnInk Free\fs40\alpha&H00&\blur2.06}Next Episode:\NMt. Natagumo
-Dialogue: 0,0:23:33.76,0:23:33.80,Sign,,0,0,0,,{\an4\pos(1467.56,302.49)\fscx182.83\fscy182.83\fnInk Free\fs40\alpha&H00&\blur2}Next Episode:\NMt. Natagumo
-Dialogue: 0,0:23:33.80,0:23:33.85,Sign,,0,0,0,,{\an4\pos(1458.66,306.58)\fscx179.63\fscy179.63\fnInk Free\fs40\alpha&H00&\blur1.97}Next Episode:\NMt. Natagumo
-Dialogue: 0,0:23:33.85,0:23:33.89,Sign,,0,0,0,,{\an4\pos(1452.03,309.54)\fscx177.26\fscy177.26\fnInk Free\fs40\alpha&H00&\blur1.94}Next Episode:\NMt. Natagumo
-Dialogue: 0,0:23:33.89,0:23:33.93,Sign,,0,0,0,,{\an4\pos(1447.46,311.79)\fscx175.6\fscy175.6\fnInk Free\fs40\alpha&H00&\blur1.92}Next Episode:\NMt. Natagumo
-Dialogue: 0,0:23:33.93,0:23:33.97,Sign,,0,0,0,,{\an4\pos(1443.91,313.35)\fscx174.32\fscy174.32\fnInk Free\fs40\alpha&H00&\blur1.91}Next Episode:\NMt. Natagumo
-Dialogue: 0,0:23:33.97,0:23:34.01,Sign,,0,0,0,,{\an4\pos(1442.1,314.02)\fscx173.7\fscy173.7\fnInk Free\fs40\alpha&H00&\blur1.9}Next Episode:\NMt. Natagumo
-Dialogue: 0,0:23:34.01,0:23:34.05,Sign,,0,0,0,,{\an4\pos(1442,314)\fscx173.67\fscy173.67\fnInk Free\fs40\alpha&H00&\blur1.9}Next Episode:\NMt. Natagumo
-Dialogue: 0,0:23:34.05,0:23:34.22,Sign,,0,0,0,,{\an4\pos(1441.89,313.98)\fscx173.64\fscy173.64\fnInk Free\fs40\alpha&H00&\blur1.9}Next Episode:\NMt. Natagumo
-Dialogue: 0,0:23:34.22,0:23:34.26,Sign,,0,0,0,,{\an4\pos(1452.16,314.18)\fscx173.64\fscy173.64\fnInk Free\fs40\alpha&H00&\blur3}Next Episode:\NMt. Natagumo
-Dialogue: 0,0:23:34.26,0:23:34.30,Sign,,0,0,0,,{\an4\pos(1664.16,314.18)\fscx173.64\fscy173.64\fnInk Free\fs40\alpha&H00&\blur7}Next Episode:\NMt. Natagumo
+Dialogue: 0,0:23:07.53,0:23:08.86,Sign,,0,0,0,,{\fnKG Ten Thousand Reasons Alt\fs47\b1\an6\pos(1342.755,178.533)\blur0.5}INTRODUCTIONS
+Comment: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\fnKG Ten Thousand Reasons Alt\bord0\shad0\fs47\b1\an6\pos(1342.755,178.533)\blur0.5\iclip(m 1270 218 l 1249 159 1257 156 1282 220)}INTRODUCTIONS
+Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnKG Ten Thousand Reasons Alt\fs47\blur0.5\iclip(m 1268 220 l 1246 158 1258 153 1286 223)\b1}INTRODUCTIONS
+Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnKG Ten Thousand Reasons Alt\fs47\alpha&HE8&\blur0.5\clip(m 1271 216 l 1252 160 1256 159 1279 217 m 1286 223 l 1258 153 1246 158 1268 220)\b1}INTRODUCTIONS
+Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnKG Ten Thousand Reasons Alt\fs47\alpha&HD1&\blur0.5\clip(m 1271 217 l 1251 160 1256 158 1280 218 m 1279 217 l 1256 159 1252 160 1271 216)\b1}INTRODUCTIONS
+Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnKG Ten Thousand Reasons Alt\fs47\alpha&HB9&\blur0.5\clip(m 1271 217 l 1250 160 1256 157 1280 219 m 1280 218 l 1256 158 1251 160 1271 217)\b1}INTRODUCTIONS
+Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnKG Ten Thousand Reasons Alt\fs47\alpha&HA2&\blur0.5\clip(m 1270 218 l 1250 159 1257 157 1281 219 m 1280 219 l 1256 157 1250 160 1271 217)\b1}INTRODUCTIONS
+Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnKG Ten Thousand Reasons Alt\fs47\alpha&H8B&\blur0.5\clip(m 1270 218 l 1249 159 1257 156 1282 220 m 1281 219 l 1257 157 1250 159 1270 218)\b1}INTRODUCTIONS
+Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnKG Ten Thousand Reasons Alt\fs47\alpha&H74&\blur0.5\clip(m 1270 218 l 1248 159 1257 155 1283 221 m 1282 220 l 1257 156 1249 159 1270 218)\b1}INTRODUCTIONS
+Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnKG Ten Thousand Reasons Alt\fs47\alpha&H5D&\blur0.5\clip(m 1269 219 l 1248 158 1258 155 1284 221 m 1283 221 l 1257 155 1248 159 1270 218)\b1}INTRODUCTIONS
+Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnKG Ten Thousand Reasons Alt\fs47\alpha&H46&\blur0.5\clip(m 1269 219 l 1247 158 1258 154 1284 222 m 1284 221 l 1258 155 1248 158 1269 219)\b1}INTRODUCTIONS
+Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnKG Ten Thousand Reasons Alt\fs47\alpha&H2E&\blur0.5\clip(m 1269 220 l 1246 158 1258 153 1285 223 m 1284 222 l 1258 154 1247 158 1269 219)\b1}INTRODUCTIONS
+Dialogue: 0,0:23:08.86,0:23:08.99,Sign,,0,0,0,,{\an6\pos(1342.755,178.533)\fnKG Ten Thousand Reasons Alt\fs47\alpha&H17&\blur0.5\clip(m 1268 220 l 1246 158 1258 153 1286 223 m 1285 223 l 1258 153 1246 158 1269 220)\b1}INTRODUCTIONS
+Dialogue: 0,0:23:08.99,0:23:10.95,Sign,,0,0,0,,{\fnKG Ten Thousand Reasons Alt\fs47\b1\an6\pos(1342.755,178.533)\blur0.5}INTRODUCTIONS
+Dialogue: 0,0:23:14.78,0:23:14.83,Sign,,0,0,0,,{=6}{\fscx173.67\fscy173.67\fnKG Ten Thousand Reasons Alt\fs100\blur3.51\an4\pos(1781.48,529.78)}NO PIERCINGS
+Dialogue: 0,0:23:14.83,0:23:14.87,Sign,,0,0,0,,{=6}{\fscx157.12\fscy157.12\fnKG Ten Thousand Reasons Alt\fs100\blur2.89\an4\pos(1707.53,543.16)}NO PIERCINGS
+Dialogue: 0,0:23:14.87,0:23:14.91,Sign,,0,0,0,,{=6}{\fscx140.3\fscy140.3\fnKG Ten Thousand Reasons Alt\fs100\blur2.26\an4\pos(1627.4,542.72)}NO PIERCINGS
+Dialogue: 0,0:23:14.91,0:23:14.95,Sign,,0,0,0,,{=6}{\fscx126.92\fscy126.92\fnKG Ten Thousand Reasons Alt\fs100\blur1.76\an4\pos(1563.62,542.14)}NO PIERCINGS
+Dialogue: 0,0:23:14.95,0:23:14.99,Sign,,0,0,0,,{=6}{\fscx116.32\fscy116.32\fnKG Ten Thousand Reasons Alt\fs100\blur1.36\an4\pos(1513.12,541.81)}NO PIERCINGS
+Dialogue: 0,0:23:14.99,0:23:15.04,Sign,,0,0,0,,{=6}{\fscx108.44\fscy108.44\fnKG Ten Thousand Reasons Alt\fs100\blur1.07\an4\pos(1475.39,540.85)}NO PIERCINGS
+Dialogue: 0,0:23:15.04,0:23:15.08,Sign,,0,0,0,,{=6}{\fscx105.29\fscy105.29\fnKG Ten Thousand Reasons Alt\fs100\blur0.95\an4\pos(1460.31,540.47)}NO PIERCINGS
+Dialogue: 0,0:23:15.08,0:23:15.12,Sign,,0,0,0,,{=6}{\fscx103.45\fscy103.45\fnKG Ten Thousand Reasons Alt\fs100\blur0.88\an4\pos(1451.53,540.4)}NO PIERCINGS
+Dialogue: 0,0:23:15.12,0:23:15.16,Sign,,0,0,0,,{=6}{\fscx102.08\fscy102.08\fnKG Ten Thousand Reasons Alt\fs100\blur0.83\an4\pos(1445,540.27)}NO PIERCINGS
+Dialogue: 0,0:23:15.16,0:23:15.20,Sign,,0,0,0,,{=6}{\fscx101.13\fscy101.13\fnKG Ten Thousand Reasons Alt\fs100\blur0.79\an4\pos(1440.49,540.36)}NO PIERCINGS
+Dialogue: 0,0:23:15.20,0:23:15.24,Sign,,0,0,0,,{=6}{\fscx100.39\fscy100.39\fnKG Ten Thousand Reasons Alt\fs100\blur0.76\an4\pos(1436.99,540.26)}NO PIERCINGS
+Dialogue: 0,0:23:15.24,0:23:15.29,Sign,,0,0,0,,{=6}{\fscx100.03\fscy100.03\fnKG Ten Thousand Reasons Alt\fs100\blur0.75\an4\pos(1435.21,540.12)}NO PIERCINGS
+Dialogue: 0,0:23:15.29,0:23:15.33,Sign,,0,0,0,,{=6}{\fscx100.02\fscy100.02\fnKG Ten Thousand Reasons Alt\fs100\blur0.75\an4\pos(1435.11,540.06)}NO PIERCINGS
+Dialogue: 0,0:23:15.33,0:23:15.49,Sign,,0,0,0,,{=6}{\fscx100\fscy100\fnKG Ten Thousand Reasons Alt\fs100\blur0.75\an4\pos(1435,540)}NO PIERCINGS
+Dialogue: 0,0:23:15.49,0:23:15.54,Sign,,0,0,0,,{=6}{\fscx100\fscy100\fnKG Ten Thousand Reasons Alt\fs100\blur3\an4\pos(1445.27,540.2)}NO PIERCINGS
+Dialogue: 0,0:23:15.54,0:23:15.58,Sign,,0,0,0,,{=6}{\fscx100\fscy100\fnKG Ten Thousand Reasons Alt\fs100\blur7\an4\pos(1657.27,540.2)}NO PIERCINGS
+Dialogue: 0,0:23:15.58,0:23:15.62,Sign,,0,0,0,,{=6}{\fscx57.59\fscy57.59\fnKG Ten Thousand Reasons Alt\fs100\blur9\an4\pos(2066.29,679.37)}NO PIERCINGS
+Dialogue: 0,0:23:19.50,0:23:19.54,Sign,,0,0,0,,{=5}{\fscx173.67\fscy173.67\fnKG Ten Thousand Reasons Alt\b1\fs100\blur3.51\an4\pos(1859.64,529.78)}NO STRlPPlNG
+Dialogue: 0,0:23:19.54,0:23:19.58,Sign,,0,0,0,,{=5}{\fscx157.12\fscy157.12\fnKG Ten Thousand Reasons Alt\b1\fs100\blur2.89\an4\pos(1778.24,543.16)}NO STRlPPlNG
+Dialogue: 0,0:23:19.58,0:23:19.62,Sign,,0,0,0,,{=5}{\fscx140.3\fscy140.3\fnKG Ten Thousand Reasons Alt\b1\fs100\blur2.26\an4\pos(1690.54,542.72)}NO STRlPPlNG
+Dialogue: 0,0:23:19.62,0:23:19.66,Sign,,0,0,0,,{=5}{\fscx126.92\fscy126.92\fnKG Ten Thousand Reasons Alt\b1\fs100\blur1.76\an4\pos(1620.73,542.14)}NO STRlPPlNG
+Dialogue: 0,0:23:19.66,0:23:19.71,Sign,,0,0,0,,{=5}{\fscx116.32\fscy116.32\fnKG Ten Thousand Reasons Alt\b1\fs100\blur1.36\an4\pos(1565.46,541.81)}NO STRlPPlNG
+Dialogue: 0,0:23:19.71,0:23:19.75,Sign,,0,0,0,,{=5}{\fscx108.44\fscy108.44\fnKG Ten Thousand Reasons Alt\b1\fs100\blur1.07\an4\pos(1524.19,540.85)}NO STRlPPlNG
+Dialogue: 0,0:23:19.75,0:23:19.79,Sign,,0,0,0,,{=5}{\fscx105.29\fscy105.29\fnKG Ten Thousand Reasons Alt\b1\fs100\blur0.95\an4\pos(1507.69,540.47)}NO STRlPPlNG
+Dialogue: 0,0:23:19.79,0:23:19.83,Sign,,0,0,0,,{=5}{\fscx103.45\fscy103.45\fnKG Ten Thousand Reasons Alt\b1\fs100\blur0.88\an4\pos(1498.08,540.4)}NO STRlPPlNG
+Dialogue: 0,0:23:19.83,0:23:19.87,Sign,,0,0,0,,{=5}{\fscx102.08\fscy102.08\fnKG Ten Thousand Reasons Alt\b1\fs100\blur0.83\an4\pos(1490.93,540.27)}NO STRlPPlNG
+Dialogue: 0,0:23:19.87,0:23:19.91,Sign,,0,0,0,,{=5}{\fscx101.13\fscy101.13\fnKG Ten Thousand Reasons Alt\b1\fs100\blur0.79\an4\pos(1486,540.36)}NO STRlPPlNG
+Dialogue: 0,0:23:19.91,0:23:19.96,Sign,,0,0,0,,{=5}{\fscx100.39\fscy100.39\fnKG Ten Thousand Reasons Alt\b1\fs100\blur0.76\an4\pos(1482.17,540.26)}NO STRlPPlNG
+Dialogue: 0,0:23:19.96,0:23:20.00,Sign,,0,0,0,,{=5}{\fscx100.03\fscy100.03\fnKG Ten Thousand Reasons Alt\b1\fs100\blur0.75\an4\pos(1480.22,540.12)}NO STRlPPlNG
+Dialogue: 0,0:23:20.00,0:23:20.04,Sign,,0,0,0,,{=5}{\fscx100.02\fscy100.02\fnKG Ten Thousand Reasons Alt\b1\fs100\blur0.75\an4\pos(1480.12,540.06)}NO STRlPPlNG
+Dialogue: 0,0:23:20.04,0:23:20.21,Sign,,0,0,0,,{=5}{\fscx100\fscy100\fnKG Ten Thousand Reasons Alt\b1\fs100\blur0.75\an4\pos(1480,540)}NO STRlPPlNG
+Dialogue: 0,0:23:20.21,0:23:20.25,Sign,,0,0,0,,{=5}{\fscx100\fscy100\fnKG Ten Thousand Reasons Alt\b1\fs100\blur3\an4\pos(1490.27,540.2)}NO STRlPPlNG
+Dialogue: 0,0:23:20.25,0:23:20.29,Sign,,0,0,0,,{=5}{\fscx100\fscy100\fnKG Ten Thousand Reasons Alt\b1\fs100\blur7\an4\pos(1702.27,540.2)}NO STRlPPlNG
+Dialogue: 0,0:23:24.00,0:23:24.04,Sign,,0,0,0,,{=2}{\fscx218.4\fscy218.4\fnKG Ten Thousand Reasons Alt\b1\fs72\an6\blur4.3\pos(1814.61,54.98)}NO HAIR DYE
+Dialogue: 0,0:23:24.04,0:23:24.09,Sign,,0,0,0,,{=2}{\fscx175.76\fscy175.76\fnKG Ten Thousand Reasons Alt\b1\fs72\an6\blur3.02\pos(1655.78,98.63)}NO HAIR DYE
+Dialogue: 0,0:23:24.09,0:23:24.13,Sign,,0,0,0,,{=2}{\fscx147.07\fscy147.07\fnKG Ten Thousand Reasons Alt\b1\fs72\an6\blur2.16\pos(1548.93,127.99)}NO HAIR DYE
+Dialogue: 0,0:23:24.13,0:23:24.17,Sign,,0,0,0,,{=2}{\fscx126.44\fscy126.44\fnKG Ten Thousand Reasons Alt\b1\fs72\an6\blur1.54\pos(1472.12,149.08)}NO HAIR DYE
+Dialogue: 0,0:23:24.17,0:23:24.21,Sign,,0,0,0,,{=2}{\fscx110.91\fscy110.91\fnKG Ten Thousand Reasons Alt\b1\fs72\an6\blur1.08\pos(1414.34,164.93)}NO HAIR DYE
+Dialogue: 0,0:23:24.21,0:23:27.46,Sign,,0,0,0,,{=2}{\fscx100\fscy100\fnKG Ten Thousand Reasons Alt\b1\fs72\an6\blur0.75\pos(1373.8,176)}NO HAIR DYE
+Dialogue: 0,0:23:33.51,0:23:33.55,Sign,,0,0,0,,{=8}{\fscx173.67\fscy173.67\fnKG Ten Thousand Reasons Alt\b1\fs100\blur3.51\an4\pos(1611.29,529.78)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
+Dialogue: 0,0:23:33.55,0:23:33.60,Sign,,0,0,0,,{=8}{\fscx157.12\fscy157.12\fnKG Ten Thousand Reasons Alt\b1\fs100\blur2.89\an4\pos(1553.56,543.16)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
+Dialogue: 0,0:23:33.60,0:23:33.64,Sign,,0,0,0,,{=8}{\fscx140.3\fscy140.3\fnKG Ten Thousand Reasons Alt\b1\fs100\blur2.26\an4\pos(1489.91,542.72)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
+Dialogue: 0,0:23:33.64,0:23:33.68,Sign,,0,0,0,,{=8}{\fscx126.92\fscy126.92\fnKG Ten Thousand Reasons Alt\b1\fs100\blur1.76\an4\pos(1439.24,542.14)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
+Dialogue: 0,0:23:33.68,0:23:33.72,Sign,,0,0,0,,{=8}{\fscx116.32\fscy116.32\fnKG Ten Thousand Reasons Alt\b1\fs100\blur1.36\an4\pos(1399.12,541.81)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
+Dialogue: 0,0:23:33.72,0:23:33.76,Sign,,0,0,0,,{=8}{\fscx108.44\fscy108.44\fnKG Ten Thousand Reasons Alt\b1\fs100\blur1.07\an4\pos(1369.11,540.85)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
+Dialogue: 0,0:23:33.76,0:23:33.80,Sign,,0,0,0,,{=8}{\fscx105.29\fscy105.29\fnKG Ten Thousand Reasons Alt\b1\fs100\blur0.95\an4\pos(1357.12,540.47)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
+Dialogue: 0,0:23:33.80,0:23:33.85,Sign,,0,0,0,,{=8}{\fscx103.45\fscy103.45\fnKG Ten Thousand Reasons Alt\b1\fs100\blur0.88\an4\pos(1350.15,540.4)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
+Dialogue: 0,0:23:33.85,0:23:33.89,Sign,,0,0,0,,{=8}{\fscx102.08\fscy102.08\fnKG Ten Thousand Reasons Alt\b1\fs100\blur0.83\an4\pos(1344.95,540.27)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
+Dialogue: 0,0:23:33.89,0:23:33.93,Sign,,0,0,0,,{=8}{\fscx101.13\fscy101.13\fnKG Ten Thousand Reasons Alt\b1\fs100\blur0.79\an4\pos(1341.39,540.36)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
+Dialogue: 0,0:23:33.93,0:23:33.97,Sign,,0,0,0,,{=8}{\fscx100.39\fscy100.39\fnKG Ten Thousand Reasons Alt\b1\fs100\blur0.76\an4\pos(1338.61,540.26)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
+Dialogue: 0,0:23:33.97,0:23:34.01,Sign,,0,0,0,,{=8}{\fscx100.03\fscy100.03\fnKG Ten Thousand Reasons Alt\b1\fs100\blur0.75\an4\pos(1337.17,540.12)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
+Dialogue: 0,0:23:34.01,0:23:34.05,Sign,,0,0,0,,{=8}{\fscx100.02\fscy100.02\fnKG Ten Thousand Reasons Alt\b1\fs100\blur0.75\an4\pos(1337.09,540.06)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
+Dialogue: 0,0:23:34.05,0:23:34.22,Sign,,0,0,0,,{=8}{\fscx100\fscy100\fnKG Ten Thousand Reasons Alt\b1\fs100\blur0.75\an4\pos(1337,540)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
+Dialogue: 0,0:23:34.22,0:23:34.26,Sign,,0,0,0,,{=8}{\fscx100\fscy100\fnKG Ten Thousand Reasons Alt\b1\fs100\blur3\an4\pos(1347.27,540.2)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
+Dialogue: 0,0:23:34.26,0:23:34.30,Sign,,0,0,0,,{=8}{\fscx100\fscy100\fnKG Ten Thousand Reasons Alt\b1\fs100\blur7\an4\pos(1559.27,540.2)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
+Dialogue: 0,0:23:34.31,0:23:34.35,Sign,,0,0,0,,{=8}{\fscx100\fscy100\fnKG Ten Thousand Reasons Alt\b1\fs100\blur9\an4\pos(1850,540.2)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
 Dialogue: 0,0:23:36.93,0:23:36.97,Sign,,0,0,0,,{\pos(904.98,812.01)\fnQuick Pencil\fs100\alpha&H00&\blur1.2}To Be Continued
 Dialogue: 0,0:23:36.97,0:23:37.02,Sign,,0,0,0,,{\pos(884.89,826.8)\fnQuick Pencil\fs100\alpha&H00&\blur1.2}To Be Continued
 Dialogue: 0,0:23:37.02,0:23:37.06,Sign,,0,0,0,,{\pos(894.26,811.8)\fnQuick Pencil\fs100\alpha&H00&\blur1.2}To Be Continued
@@ -4696,3 +4640,9 @@ Dialogue: 0,0:23:37.31,0:23:37.35,Sign,,0,0,0,,{\pos(907.31,828.53)\fnQuick Penc
 Dialogue: 0,0:23:37.35,0:23:37.43,Sign,,0,0,0,,{\pos(899.97,819.98)\fnQuick Pencil\fs100\alpha&H00&\blur1.2}To Be Continued
 Dialogue: 0,0:23:37.43,0:23:37.47,Sign,,0,0,0,,{\pos(899.99,819.99)\fnQuick Pencil\fs100\alpha&H00&\blur1.2}To Be Continued
 Dialogue: 0,0:23:37.47,0:23:39.93,Sign,,0,0,0,,{\pos(900,820)\fnQuick Pencil\fs100\alpha&H00&\blur1.2}To Be Continued
+
+[Aegisub Extradata]
+Data: 2,a-mo,e{"uuid"#3A"bee870ea-9f29-4b89-b226-3e00d888b045"#2C"originalText"#3A"{\\alpha&H00&\\fnKG Ten Thousand Reasons Alt\\b1\\fs72\\an6\\blur0.75\\pos(1373.8#2C176)}NO HAIR DYE"}
+Data: 5,a-mo,e{"uuid"#3A"2d31476c-b675-420c-8914-10cee4f01a3d"#2C"originalText"#3A"{\\fnKG Ten Thousand Reasons Alt\\b1\\fs100\\blur0.75\\an4\\pos(1480#2C540)}NO STRlPPlNG"}
+Data: 6,a-mo,e{"uuid"#3A"f2d823cf-7e0f-4c30-b236-b1170028ac67"#2C"originalText"#3A"{\\fnKG Ten Thousand Reasons Alt\\fs100\\alpha&H00&\\blur0.75\\an4\\pos(1435#2C540)}NO PIERCINGS"}
+Data: 8,a-mo,e{"uuid"#3A"6727282c-4aeb-4648-8c06-60c5996535c1"#2C"originalText"#3A"{\\fscx100\\fscy100\\fnKG Ten Thousand Reasons Alt\\b1\\fs100\\blur0.75\\an4\\pos(1337#2C540)}NEXT  EPISODE{\\fnInk Free}#3A\\N{\\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO"}
