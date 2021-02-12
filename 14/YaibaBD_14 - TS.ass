@@ -26,7 +26,7 @@ Style: Sign,RSStyle,74,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,0,0,0,0,100,1
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:02:03.60,0:02:07.98,Sign,,0,0,0,,{\an8\move(640,200.5,640,200,0,1150)\fscx60\fscy60\fs122\fsp-12\bord1\c&HFEFFFD&\1a&HC8&\blur8\fad(950,0)\t(0,1100,\fs120\blur3)}E{\fsp0}pisode{\fsp-20}_{\fsp-6}14\N\N\N{\fscx90\fscy90}T{\fsp0}he{\fsp-12}_{\fsp-6}H{\fsp0}ouse\Nwith{\fsp-12}_{\fsp0}the\N{\fsp-6}W{\fsp0}isteria{\fsp-12}_{\fsp-6}F{\fsp0}amily{\fsp-12}_{\fsp-6}C{\fsp0}rest
 Dialogue: 1,0:02:03.60,0:02:07.98,Sign,,0,0,0,,{\an8\move(640,200.5,640,200,0,1150)\fscx60\fscy60\fs122\fsp-12\c&HFEFFFD&\blur8\fad(950,0)\t(0,1100,\fs120\blur0.9)}E{\fsp0}pisode{\fsp-20}_{\fsp-6}14\N\N\N{\fscx90\fscy90}T{\fsp0}he{\fsp-12}_{\fsp-6}H{\fsp0}ouse\Nwith{\fsp-12}_{\fsp0}the\N{\fsp-6}W{\fsp0}isteria{\fsp-12}_{\fsp-6}F{\fsp0}amily{\fsp-12}_{\fsp-6}C{\fsp0}rest
-Dialogue: 0,0:07:54.95,0:08:02.96,Sign,,0,0,0,,{\pos(1539.61,877.22)\fscx100.46\fscy100.46\fnBrushstroke 35\fs48\c&H090415&\3a&H00&\4a&H00&\blur0.56}Demon Slayer
+Dialogue: 0,0:07:54.95,0:08:02.96,Sign,,0,0,0,,{\pos(1536,853)\fscx100.46\fscy100.46\fnBrushstroke 35\fs48\c&H090415&\3a&H00&\4a&H00&\blur0.56}Demon Slayer
 Dialogue: 0,0:22:59.89,0:23:00.27,Sign,,0,0,0,,{\pos(958.999,446.231)\fscx100.46\fscy100.46\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
 Dialogue: 0,0:23:00.27,0:23:00.31,Sign,,0,0,0,,{\pos(958.927,446.503)\fscx100.46\fscy100.46\frz0.1\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
 Dialogue: 0,0:23:00.31,0:23:00.35,Sign,,0,0,0,,{\pos(959.62,446.825)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
@@ -4587,11 +4587,11 @@ Dialogue: 0,0:23:20.00,0:23:20.04,Sign,,0,0,0,,{=5}{\fscx100.02\fscy100.02\fnKG 
 Dialogue: 0,0:23:20.04,0:23:20.21,Sign,,0,0,0,,{=5}{\fscx100\fscy100\fnKG Ten Thousand Reasons Alt\b1\fs100\blur0.75\an4\pos(1480,540)}NO DRESSING\NDOWN
 Dialogue: 0,0:23:20.21,0:23:20.25,Sign,,0,0,0,,{=5}{\fscx100\fscy100\fnKG Ten Thousand Reasons Alt\b1\fs100\blur3\an4\pos(1490.27,540.2)}NO DRESSING\NDOWN
 Dialogue: 0,0:23:20.25,0:23:20.29,Sign,,0,0,0,,{=5}{\fscx100\fscy100\fnKG Ten Thousand Reasons Alt\b1\fs100\blur7\an4\pos(1702.27,540.2)}NO DRESSING\NDOWN
-Dialogue: 0,0:23:24.04,0:23:24.09,Sign,,0,0,0,,{=2}{\fscx175.76\fscy175.76\fnKG Ten Thousand Reasons Alt\b1\fs48\an4\blur5\pos(1877.59,369.3)}NO HAIR DYE
-Dialogue: 0,0:23:24.09,0:23:24.13,Sign,,0,0,0,,{=2}{\fscx147.07\fscy147.07\fnKG Ten Thousand Reasons Alt\b1\fs48\an4\blur4\pos(1734.53,354.48)}NO HAIR DYE
-Dialogue: 0,0:23:24.13,0:23:24.17,Sign,,0,0,0,,{=2}{\fscx126.44\fscy126.44\fnKG Ten Thousand Reasons Alt\b1\fs48\an4\blur3\pos(1631.69,343.8)}NO HAIR DYE
-Dialogue: 0,0:23:24.17,0:23:24.21,Sign,,0,0,0,,{=2}{\fscx110.91\fscy110.91\fnKG Ten Thousand Reasons Alt\b1\fs48\an4\blur2\pos(1554.31,335.73)}NO HAIR DYE
-Dialogue: 0,0:23:24.21,0:23:27.46,Sign,,0,0,0,,{=2}{\fscx100\fscy100\fnKG Ten Thousand Reasons Alt\b1\fs48\an4\blur0.5\pos(1500,330)}NO HAIR DYE
+Dialogue: 0,0:23:24.04,0:23:24.09,Sign,,0,0,0,,{=2}{\fscx175.76\fscy175.76\fnKG Ten Thousand Reasons Alt\b1\fs48\an4\blur5\pos(1877.59,369.3)}NO HAIR \NCOLOURING
+Dialogue: 0,0:23:24.09,0:23:24.13,Sign,,0,0,0,,{=2}{\fscx147.07\fscy147.07\fnKG Ten Thousand Reasons Alt\b1\fs48\an4\blur4\pos(1734.53,354.48)}NO HAIR \NCOLOURING
+Dialogue: 0,0:23:24.13,0:23:24.17,Sign,,0,0,0,,{=2}{\fscx126.44\fscy126.44\fnKG Ten Thousand Reasons Alt\b1\fs48\an4\blur3\pos(1631.69,343.8)}NO HAIR \NCOLOURING
+Dialogue: 0,0:23:24.17,0:23:24.21,Sign,,0,0,0,,{=2}{\fscx110.91\fscy110.91\fnKG Ten Thousand Reasons Alt\b1\fs48\an4\blur2\pos(1554.31,335.73)}NO HAIR \NCOLOURING
+Dialogue: 0,0:23:24.21,0:23:27.46,Sign,,0,0,0,,{=2}{\fscx100\fscy100\fnKG Ten Thousand Reasons Alt\b1\fs48\an4\blur0.5\pos(1500,330)}NO HAIR \NCOLOURING
 Dialogue: 0,0:23:33.51,0:23:33.55,Sign,,0,0,0,,{=8}{\fscx173.67\fscy173.67\fnKG Ten Thousand Reasons Alt\b1\fs100\blur3.51\an4\pos(1611.29,529.78)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
 Dialogue: 0,0:23:33.55,0:23:33.60,Sign,,0,0,0,,{=8}{\fscx157.12\fscy157.12\fnKG Ten Thousand Reasons Alt\b1\fs100\blur2.89\an4\pos(1553.56,543.16)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
 Dialogue: 0,0:23:33.60,0:23:33.64,Sign,,0,0,0,,{=8}{\fscx140.3\fscy140.3\fnKG Ten Thousand Reasons Alt\b1\fs100\blur2.26\an4\pos(1489.91,542.72)}NEXT  EPISODE{\fnInk Free}:\N{\fnKG Ten Thousand Reasons Alt}MT.  NAGANUMO
@@ -4621,7 +4621,7 @@ Dialogue: 0,0:23:37.27,0:23:37.31,Sign,,0,0,0,,{\pos(898.25,827.19)\fnQuick Penc
 Dialogue: 0,0:23:37.31,0:23:37.35,Sign,,0,0,0,,{\pos(907.31,828.53)\fnQuick Pencil\fs100\alpha&H00&\blur1.2}To Be Continued
 Dialogue: 0,0:23:37.35,0:23:37.43,Sign,,0,0,0,,{\pos(899.97,819.98)\fnQuick Pencil\fs100\alpha&H00&\blur1.2}To Be Continued
 Dialogue: 0,0:23:37.43,0:23:37.47,Sign,,0,0,0,,{\pos(899.99,819.99)\fnQuick Pencil\fs100\alpha&H00&\blur1.2}To Be Continued
-Dialogue: 0,0:23:37.47,0:23:39.93,Sign,,0,0,0,,{\pos(900,820)\fnQuick Pencil\fs100\alpha&H00&\blur1.2}To Be Continued
+Dialogue: 0,0:23:37.47,0:23:45.00,Sign,,0,0,0,,{\pos(900,820)\fnQuick Pencil\fs100\alpha&H00&\blur1.2}To Be Continued
 
 [Aegisub Extradata]
 Data: 2,a-mo,e{"uuid"#3A"bee870ea-9f29-4b89-b226-3e00d888b045"#2C"originalText"#3A"{\\alpha&H00&\\fnKG Ten Thousand Reasons Alt\\b1\\fs72\\an6\\blur0.75\\pos(1373.8#2C176)}NO HAIR DYE"}
