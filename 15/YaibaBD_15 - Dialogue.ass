@@ -28,7 +28,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Dialogue: 10,0:00:07.70,0:00:08.74,Default,,0,0,0,,Tanjirou...
 Dialogue: 10,0:00:11.41,0:00:12.95,Default,,0,0,0,,Listen here.
-Dialogue: 10,0:00:14.41,0:00:19.79,Default,,0,0,0,,{\q2}The Demon Slayers isn't something \Nyou join for shits 'n giggles!{### plurality still outta whack}
+Dialogue: 10,0:00:14.41,0:00:19.79,Default,,0,0,0,,You don't become a Demon Slayer for shits 'n giggles!{### plurality still outta whack}
 Dialogue: 10,0:00:19.79,0:00:22.50,Default,,0,0,0,,Guys like you must be purged!
 Dialogue: 10,0:00:22.79,0:00:24.84,Default,,0,0,0,,Pronto!
 Dialogue: 10,0:00:24.84,0:00:29.01,Default,,0,0,0,,Don't you ever underestimate the Demon Slayers!
@@ -36,7 +36,7 @@ Comment: 0,0:01:59.02,0:01:59.02,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:02:16.20,0:02:18.08,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:02:20.16,0:02:23.04,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:02:30.55,0:02:35.22,Default,,0,0,0,,Nezuko!
-Dialogue: 10,0:02:37.47,0:02:40.06,Default,,0,0,0,,Zenitsu! Stop following her already!{### quit?}
+Dialogue: 10,0:02:37.47,0:02:40.06,Default,,0,0,0,,Zenitsu! Quit following her already!{### quit?}
 Dialogue: 10,0:02:42.27,0:02:45.06,Default,,0,0,0,,Ta-n-ji-ro-u!{### I won't suggest alpha timing or other shenanigans here, but the ろう is clearly separated}
 Dialogue: 10,0:02:49.11,0:02:51.82,Default,,0,0,0,,Let's be friends, Tanjirou!
 Dialogue: 10,0:02:52.11,0:02:55.57,Default,,0,0,0,,Zenitsu! Stop chasing us! I beg you!
@@ -234,9 +234,9 @@ Dialogue: 10,0:18:07.07,0:18:09.82,Default,,0,0,0,,{\i1}So these spiders are spi
 Dialogue: 10,0:18:10.24,0:18:11.57,Default,,0,0,0,,{\i1}That means...
 Dialogue: 10,0:18:20.08,0:18:23.33,Default,,0,0,0,,Now then, my sweet little marionettes...
 Dialogue: 10,0:18:23.62,0:18:26.38,Default,,0,0,0,,Dance until your arms and legs fall off.
-Dialogue: 10,0:18:26.96,0:18:29.09,Default,,0,0,0,,We can't get by if all we do is cut the threads!{### Cutting the threads won't be enough!}
-Dialogue: 10,0:18:29.09,0:18:31.55,Default,,0,0,0,,The spiders are just gonna stick more onto them!
-Dialogue: 10,0:18:31.55,0:18:32.42,Default,,0,0,0,,So...
+Dialogue: 10,0:18:26.96,0:18:29.09,Default,,0,0,0,,Cutting the threads won't be enough!
+Dialogue: 10,0:18:29.09,0:18:31.55,Default,,0,0,0,,The spiders will just stick more onto them!
+Dialogue: 10,0:18:31.55,0:18:32.42,Default,,0,0,0,,So we need to...
 Dialogue: 10,0:18:33.55,0:18:35.18,Default,,0,0,0,,{\i1}That acrid smell again!
 Dialogue: 10,0:18:35.18,0:18:36.55,Default,,0,0,0,,{\i1}What is it?
 Dialogue: 10,0:18:36.55,0:18:38.35,Default,,0,0,0,,{\i1}It's coming in on the wind!
@@ -269,8 +269,8 @@ Dialogue: 10,0:20:13.44,0:20:15.57,Default,,0,0,0,,What'd he come here for anywa
 Dialogue: 10,0:20:15.57,0:20:18.86,Default,,0,0,0,,That kid probably isn't the demon pulling the threads!
 Dialogue: 10,0:20:18.86,0:20:20.66,Default,,0,0,0,,First, let's...
 Dialogue: 10,0:20:20.66,0:20:22.66,Default,,0,0,0,,Okay, okay, okay!
-Dialogue: 10,0:20:22.66,0:20:24.04,Default,,0,0,0,,I hear you loud and clear, 'kay?
-Dialogue: 10,0:20:24.91,0:20:27.37,Default,,0,0,0,,I've just gotta find where that demon's at, right?
+Dialogue: 10,0:20:22.66,0:20:24.04,Default,,0,0,0,,Stop nagging already, 'kay?
+Dialogue: 10,0:20:24.91,0:20:27.37,Default,,0,0,0,,You just need me to find that demon, yeah?
 Dialogue: 10,0:20:27.37,0:20:29.25,Default,,0,0,0,,Shut up for once, Mr. Forehead!
 Dialogue: 10,0:20:33.13,0:20:36.51,Default,,0,0,0,,Beast Breathing! Seventh Form!
 Dialogue: 10,0:20:36.51,0:20:38.43,Default,,0,0,0,,Spatial Awareness!
