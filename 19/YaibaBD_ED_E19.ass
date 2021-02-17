@@ -25,6 +25,7 @@ Style: Ep19 ED,Averia Libre,57,&H00F5FAFF,&H000000FF,&H00212A82,&H00212A82,-1,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:21:30.02,0:21:30.02,Default,chapter,0,0,0,sync,{ED}
+Comment: 0,0:17:55.17,0:18:01.18,Ep19 ED,,0,0,0,code once,--[[This exists to satisfy the templater's validation function so that the mux runs. Ideally, the SubKt setup would be updated to not run a template on this ED if it doesn't actually need one, but I don't have time for that.]]
 Dialogue: 1,0:17:55.17,0:18:01.18,Ep19 ED,,0,0,0,,{\an9\bord0\blur0.65\fad(300,400)}When I close my eyes, I can still see it \Nme wo tojite omoidasu
 Dialogue: 0,0:17:55.17,0:18:01.18,Ep19 ED,,0,0,0,,{\an9\shad0.01\1a&HFE&\3a&HFE&\blur10\fad(300,400)}When I close my eyes, I can still see it \Nme wo tojite omoidasu
 Dialogue: 1,0:18:01.31,0:18:07.39,Ep19 ED,,0,0,0,,{\an9\bord0\blur0.65\fad(300,400)}Those times long gone which I held so dear \Nsugisarishi ano koro wo
