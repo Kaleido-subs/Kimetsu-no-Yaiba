@@ -55,13 +55,13 @@ Dialogue: 10,0:03:18.64,0:03:21.22,Default,,0,0,0,,Leave these guys to me and go
 Dialogue: 10,0:03:21.81,0:03:24.27,Default,,0,0,0,,Why you tryna sound so cool, \NMr. Pissed-My-Pants?
 Dialogue: 10,0:03:24.27,0:03:27.56,Default,,0,0,0,,I never pissed my pants, you stupid boar!
 Dialogue: 10,0:03:27.56,0:03:30.36,Default,,0,0,0,,I wasn't talking to you, so butt out!
-Dialogue: 10,0:03:33.57,0:03:38.28,Default,,0,0,0,,{\q2}I know that wasn't my finest moment \Nback there, but I'm a Demon Slayer, too!
+Dialogue: 10,0:03:33.57,0:03:38.28,Default,,0,0,0,,{\q2}I know that wasn't my finest moment back there, \Nbut I'm a Demon Slayer, too!
 Dialogue: 10,0:03:38.28,0:03:40.07,Default,,0,0,0,,I'll find a way to deal with these guys!
 Dialogue: 10,0:03:40.45,0:03:43.29,Default,,0,0,0,,I now know I just need to cut the threads,
 Dialogue: 10,0:03:43.29,0:03:47.00,Default,,0,0,0,,and that they can only move in very basic ways!
 Dialogue: 10,0:03:47.00,0:03:48.96,Default,,0,0,0,,I'll watch out for the spiders as well!
 Dialogue: 10,0:03:48.96,0:03:53.59,Default,,0,0,0,,{\q2}Plus, the demon probably has \Nbetter control the closer they are!
-Dialogue: 10,0:03:53.59,0:03:55.13,Default,,0,0,0,,So both of you should go!
+Dialogue: 10,0:03:53.59,0:03:55.13,Default,,0,0,0,,So you should both go!
 Dialogue: 10,0:03:55.13,0:03:57.55,Default,,0,0,0,,Understood! We appreciate it!
 Dialogue: 10,0:03:57.84,0:03:59.09,Default,,0,0,0,,Let's go, Inosuke!
 Dialogue: 10,0:04:00.93,0:04:02.68,Default,,0,0,0,,Let go of me, dammit!
@@ -106,7 +106,7 @@ Dialogue: 10,0:06:45.72,0:06:46.72,Default,,0,0,0,,{\i1}She's fast!
 Dialogue: 10,0:06:47.22,0:06:49.10,Default,,0,0,0,,I'm being controlled!
 Dialogue: 10,0:06:49.10,0:06:53.10,Default,,0,0,0,,I can't move my own body!
 Dialogue: 10,0:06:53.52,0:06:58.06,Default,,0,0,0,,I was never this strong!
-Dialogue: 10,0:07:07.49,0:07:10.33,Default,,0,0,0,,{\i1\q2}Since the demon's forcing her \Nto move with the threads,
+Dialogue: 10,0:07:07.49,0:07:10.33,Default,,0,0,0,,{\i1\q2}Since the demon's using \Nthe threads to force her to move,
 Dialogue: 10,0:07:10.33,0:07:12.66,Default,,0,0,0,,{\i1}it doesn't care if her bones break!
 Dialogue: 10,0:07:18.71,0:07:19.79,Default,,0,0,0,,{\i1}This is cruel!
 Dialogue: 10,0:07:21.42,0:07:23.30,Default,,0,0,0,,You're so stubborn!
@@ -143,7 +143,7 @@ Dialogue: 10,0:09:04.32,0:09:06.07,Default,,0,0,0,,{\i1}Total Concentration!
 Dialogue: 10,0:09:09.24,0:09:11.03,Default,,0,0,0,,{\i1}What unbelievable strength!
 Dialogue: 10,0:09:17.37,0:09:19.66,Default,,0,0,0,,Good! You're all tangled up!
 Dialogue: 10,0:09:23.13,0:09:23.92,Default,,0,0,0,,Wha—
-Dialogue: 10,0:09:25.71,0:09:27.63,Default,,0,0,0,,The hell is up with that?
+Dialogue: 10,0:09:25.71,0:09:27.63,Default,,0,0,0,,The hell was that?
 Dialogue: 10,0:09:27.63,0:09:29.92,Default,,0,0,0,,I wanna do that, too!
 Dialogue: 10,0:09:35.10,0:09:36.43,Default,,0,0,0,,Take this!
 Dialogue: 10,0:09:46.15,0:09:50.24,Default,,0,0,0,,Y'see that? Whatever you can do, I can do too!
@@ -166,7 +166,7 @@ Dialogue: 10,0:10:56.34,0:10:57.60,Default,,0,0,0,,Chuntarou?
 Dialogue: 10,0:11:00.10,0:11:02.31,Default,,0,0,0,,You mean you came after me?
 Dialogue: 10,0:11:02.31,0:11:04.06,Default,,0,0,0,,You're so adorable!
 Dialogue: 10,0:11:04.06,0:11:06.31,Default,,0,0,0,,Second to Nezuko, but still!
-Dialogue: 10,0:11:09.27,0:11:11.15,Default,,0,0,0,,I apologise for everything!
+Dialogue: 10,0:11:09.27,0:11:11.15,Default,,0,0,0,,I'm sorry for everything!
 Dialogue: 10,0:11:11.15,0:11:14.40,Default,,0,0,0,,All right, let's go look for Nezuko together!
 Dialogue: 10,0:11:19.12,0:11:20.37,Default,,0,0,0,,Look at that!
 Dialogue: 10,0:11:20.37,0:11:23.12,Default,,0,0,0,,Check it out! I've tossed up more than you!
@@ -230,7 +230,7 @@ Dialogue: 10,0:16:01.23,0:16:05.40,Default,,0,0,0,,{\i1}As if it were flowing as
 Dialogue: 10,0:16:07.07,0:16:12.66,Default,,0,0,0,,{\i1}It ain't about being first to him, but...
 Dialogue: 10,0:16:12.66,0:16:15.66,Default,,0,0,0,,{\i1}He's got his eyes set on the overall flow of the battle!
 Dialogue: 10,0:16:35.64,0:16:37.77,Default,,0,0,0,,{\i1}Great! He cut it just right!
-Dialogue: 10,0:16:38.06,0:16:40.69,Default,,0,0,0,,Way to go! You defeated it, Inosuke!
+Dialogue: 10,0:16:38.06,0:16:40.69,Default,,0,0,0,,Way to go! You did it, Inosuke!
 Dialogue: 10,0:16:45.90,0:16:47.03,Default,,0,0,0,,Inosuke?
 Dialogue: 10,0:16:52.32,0:16:56.33,Default,,0,0,0,,Anything you can do, I can do too, dumbass!
 Dialogue: 10,0:17:08.67,0:17:10.30,Default,,0,0,0,,This scent...
@@ -303,5 +303,5 @@ Dialogue: 10,0:23:22.42,0:23:23.21,Default,,0,0,0,,Kamado...
 Dialogue: 10,0:23:24.01,0:23:26.55,Default,,0,0,0,,Hey, who cares about your name anyway?
 Dialogue: 10,0:23:26.55,0:23:28.80,Default,,0,0,0,,I was {\i1}this{\i0} close to hearing it.
 Dialogue: 10,0:23:28.80,0:23:32.18,Default,,0,0,0,,Next, Episode 17, "You Must Master a Single Move"!
-Dialogue: 10,0:23:32.18,0:23:34.48,Default,,0,0,0,,You are you, and I am me.
-Dialogue: 10,0:23:34.48,0:23:36.06,Default,,0,0,0,,Got that, Tanjirou?
+Dialogue: 10,0:23:32.18,0:23:34.48,Default,,0,0,0,,You're you and I'm me.
+Dialogue: 10,0:23:34.48,0:23:36.06,Default,,0,0,0,,Got it, Tanjirou?
