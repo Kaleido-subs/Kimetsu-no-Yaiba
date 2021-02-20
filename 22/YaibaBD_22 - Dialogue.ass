@@ -49,23 +49,23 @@ Dialogue: 10,0:01:01.83,0:01:03.50,Default,,0,0,0,,You're in the presence of the
 Dialogue: 10,0:01:07.50,0:01:09.00,Default,,0,0,0,,{\i1}Hashira?
 Dialogue: 10,0:01:09.00,0:01:10.50,Default,,0,0,0,,{\i1}What's a Hashira?
 Dialogue: 10,0:01:11.46,0:01:12.84,Default,,0,0,0,,{\i1}What's he talking about?
-Dialogue: 10,0:01:14.22,0:01:16.51,Default,,0,0,0,,{\i1}And just who are these people?
+Dialogue: 10,0:01:14.22,0:01:16.51,Default,,0,0,0,,{\i1}Who {\i0}are{\i1} these people?
 Dialogue: 10,0:01:22.39,0:01:23.98,Default,,0,0,0,,{\i1}Where am I?
-Dialogue: 10,0:01:27.02,0:01:29.44,Default,,0,0,0,,This is the Demon Slayers' headquarters.
+Dialogue: 10,0:01:27.02,0:01:29.44,Default,,0,0,0,,{\q2}You're currently at the \NDemon Slayers' headquarters.
 Dialogue: 10,0:01:30.02,0:01:33.03,Default,,0,0,0,,And you're about to be put on trial,
 Dialogue: 10,0:01:33.86,0:01:36.07,Default,,0,0,0,,Kamado Tanjirou.
 Comment: 0,0:03:07.95,0:03:07.95,Default,chapter,0,0,0,,{Part A}
-Dialogue: 10,0:03:18.30,0:03:22.51,Default,,0,0,0,,Before we start the trial, let's go over \Nthe crimes you've been accus—
+Dialogue: 10,0:03:18.30,0:03:22.51,Default,,0,0,0,,First things first, let's go over \Nthe crimes you're being accused o—
 Dialogue: 10,0:03:22.51,0:03:24.47,Default,,0,0,0,,There's no need for a trial!
-Dialogue: 10,0:03:28.14,0:03:31.39,Default,,0,0,0,,Defending a demon is a \Nclear violation of the code!
-Dialogue: 10,0:03:31.39,0:03:33.77,Default,,0,0,0,,It's well within our rights to handle him!
-Dialogue: 10,0:03:33.77,0:03:36.11,Default,,0,0,0,,We shall behead him alongside the demon!
-Dialogue: 10,0:03:38.11,0:03:41.32,Default,,0,0,0,,In that case, I'll be glad to \Ndecapitate him with grandeur.
-Dialogue: 10,0:03:41.32,0:03:44.82,Default,,0,0,0,,I will show you the most grandiose \Nblood splashes the world has ever seen.
+Dialogue: 10,0:03:28.14,0:03:31.39,Default,,0,0,0,,{\q2}Defending a demon is a \Nclear violation of the code!
+Dialogue: 10,0:03:31.39,0:03:33.77,Default,,0,0,0,,{\q2}It's well within our rights to \Nhandle his execution!
+Dialogue: 10,0:03:33.77,0:03:36.11,Default,,0,0,0,,Let's behead him along with that demon!
+Dialogue: 10,0:03:38.11,0:03:41.32,Default,,0,0,0,,{\q2}I'd be glad to decapitate him, \Nwith absolute brilliance.
+Dialogue: 10,0:03:41.32,0:03:44.82,Default,,0,0,0,,I'll show you the most grandiose \Nblood splashes the world has ever seen.
 Dialogue: 10,0:03:44.82,0:03:47.12,Default,,0,0,0,,I'm talking max grandeur.
-Dialogue: 10,0:03:49.12,0:03:50.66,Default,,0,0,0,,{\i1}What?
-Dialogue: 10,0:03:50.66,0:03:53.96,Default,,0,0,0,,{\i1}You'd kill such an adorable child?
-Dialogue: 10,0:03:53.96,0:03:57.13,Default,,0,0,0,,{\i1}That pains my heart! \NIt fills me with anguish!
+Comment: 10,0:03:49.12,0:03:50.66,Default,,0,0,0,,{\i1}Whaaa?{## eeeeeeeeeeeeeeeeeeeehhhhhhhhhhhhhhhhhhhhhh}
+Dialogue: 10,0:03:50.66,0:03:53.96,Default,,0,0,0,,{\i1}You'd kill such a cute little kid?
+Dialogue: 10,0:03:53.96,0:03:57.13,Default,,0,0,0,,{\i1}That pains my heart! It's just too much!
 Dialogue: 10,0:03:59.13,0:04:02.88,Default,,0,0,0,,What a pitiful sight this boy is.
 Dialogue: 10,0:04:03.34,0:04:04.76,Default,,0,0,0,,The poor soul...
 Dialogue: 10,0:04:05.39,0:04:08.47,Default,,0,0,0,,I pity him for having been born at all.
@@ -73,51 +73,51 @@ Dialogue: 10,0:04:11.14,0:04:13.77,Default,,0,0,0,,{\i1}Um, what was that cloud 
 Dialogue: 10,0:04:14.94,0:04:16.61,Default,,0,0,0,,{\i1}What was it called again?
 Dialogue: 10,0:04:17.77,0:04:18.98,Default,,0,0,0,,{\i1}Where's Nezuko?
 Dialogue: 10,0:04:19.57,0:04:20.78,Default,,0,0,0,,{\i1}Nezuko!
-Dialogue: 10,0:04:22.03,0:04:23.28,Default,,0,0,0,,Hey, you...
-Dialogue: 10,0:04:23.65,0:04:26.78,Default,,0,0,0,,Where do you think you're looking? \NThe Hashira are in front of you.
-Dialogue: 10,0:04:27.28,0:04:32.96,Default,,0,0,0,,These are the nine highest-ranking \Nswordsmen in the Demon Slayers.
-Dialogue: 10,0:04:34.33,0:04:35.67,Default,,0,0,0,,Hashira.
+Dialogue: 10,0:04:22.03,0:04:23.28,Default,,0,0,0,,C'mon now, buddy.
+Dialogue: 10,0:04:23.65,0:04:26.78,Default,,0,0,0,,{\q2}Where do you think you're looking? \NThe Hashira are in front of you.
+Dialogue: 10,0:04:27.28,0:04:32.96,Default,,0,0,0,,{\q2}They're the nine highest-ranking \Nswordsmen in the Demon Slayers.
+Dialogue: 10,0:04:34.33,0:04:35.67,Default,,0,0,0,,The Hashira...
 Dialogue: 10,0:04:37.08,0:04:38.50,Default,,0,0,0,,Let's put him out of his misery.
-Dialogue: 10,0:04:38.50,0:04:41.55,Default,,0,0,0,,Yeah! Let's do it. Full of grandeur.
-Dialogue: 10,0:04:43.01,0:04:43.80,Default,,0,0,0,,Hey!
+Dialogue: 10,0:04:38.50,0:04:41.55,Default,,0,0,0,,Yeah, lets! But with full grandeur.
+Dialogue: 10,0:04:43.01,0:04:43.80,Default,,0,0,0,,Dude!
 Dialogue: 10,0:04:44.18,0:04:45.51,Default,,0,0,0,,Nezuko...
 Dialogue: 10,0:04:45.51,0:04:47.80,Default,,0,0,0,,Nezuko, where are you?
 Dialogue: 10,0:04:48.05,0:04:49.14,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:04:49.14,0:04:50.10,Default,,0,0,0,,Zenitsu!
 Dialogue: 10,0:04:50.93,0:04:52.23,Default,,0,0,0,,Inosuke!
 Dialogue: 10,0:04:52.23,0:04:53.89,Default,,0,0,0,,Murata!
-Dialogue: 10,0:04:54.19,0:04:58.06,Default,,0,0,0,,Forget that. What will we do with Tomioka?
-Dialogue: 10,0:05:03.57,0:05:08.45,Default,,0,0,0,,Seeing him just standing there unrestrained \Nputs a heavy weight on my mind.
-Dialogue: 10,0:05:08.45,0:05:13.20,Default,,0,0,0,,Based on what Kochou told us, \NTomioka is just as guilty.
+Dialogue: 10,0:04:54.19,0:04:58.06,Default,,0,0,0,,Forget about him. What do we do with Tomioka?
+Dialogue: 10,0:05:03.57,0:05:08.45,Default,,0,0,0,,{\q2}Seeing him just standing there unrestrained \Nputs a heavy weight on my mind.
+Dialogue: 10,0:05:08.45,0:05:13.20,Default,,0,0,0,,Based on Kochou's report, Tomioka is just as guilty.
 Dialogue: 10,0:05:14.41,0:05:16.04,Default,,0,0,0,,How will we deal with him?
 Dialogue: 10,0:05:16.04,0:05:18.00,Default,,0,0,0,,How should we hold him accountable?
 Dialogue: 10,0:05:18.00,0:05:20.75,Default,,0,0,0,,What kind of lesson should we teach him?
-Dialogue: 10,0:05:23.21,0:05:26.38,Default,,0,0,0,,Don't you have anything to say, Tomioka?
+Dialogue: 10,0:05:23.21,0:05:26.38,Default,,0,0,0,,Don't you have anything to say for yourself, Tomioka?
 Dialogue: 10,0:05:30.18,0:05:32.64,Default,,0,0,0,,{\i1}Because of me, even Tomioka...
-Dialogue: 10,0:05:34.18,0:05:37.98,Default,,0,0,0,,{\i1}Iguro, you're as serpent-like as ever! Such a nag!
+Dialogue: 10,0:05:34.18,0:05:37.98,Default,,0,0,0,,{\i1}Iguro's as serpent-like as ever! Such a nag!
 Dialogue: 10,0:05:37.98,0:05:40.11,Default,,0,0,0,,{\i1}I love how pesky you are!
-Dialogue: 10,0:05:46.57,0:05:50.41,Default,,0,0,0,,{\i1}Tomioka! Standing by his lonesome \Nall the way out there!
-Dialogue: 10,0:05:50.41,0:05:52.08,Default,,0,0,0,,{\i1}How cute!
+Dialogue: 10,0:05:46.57,0:05:50.41,Default,,0,0,0,,{\q2\i1}Meanwhile, Tomioka's keeping \Nhis distance all the way over there!
+Dialogue: 10,0:05:50.41,0:05:52.08,Default,,0,0,0,,{\i1}He's so cute!
 Dialogue: 10,0:05:54.08,0:05:56.00,Default,,0,0,0,,Oh, where's the harm?
-Dialogue: 10,0:05:56.00,0:05:58.37,Default,,0,0,0,,He did come along without resisting.
-Dialogue: 10,0:05:59.21,0:06:01.63,Default,,0,0,0,,Let's come up with a punishment later.
-Dialogue: 10,0:06:05.21,0:06:09.51,Default,,0,0,0,,What I'm more interested in \Nis hearing this boy's story.
+Dialogue: 10,0:05:56.00,0:05:58.37,Default,,0,0,0,,He came along without resisting.
+Dialogue: 10,0:05:59.21,0:06:01.63,Default,,0,0,0,,We can debate a suitable punishment later.
+Dialogue: 10,0:06:05.21,0:06:09.51,Default,,0,0,0,,{\q2}I'm much more interested in \Nhearing this boy's side of the story.
 Dialogue: 10,0:06:10.14,0:06:12.64,Default,,0,0,0,,Why does he act as a Demon Slayer?
 Dialogue: 10,0:06:12.64,0:06:15.10,Default,,0,0,0,,And with a demon in tow, at that.
-Dialogue: 10,0:06:15.56,0:06:19.35,Default,,0,0,0,,I'd love to hear the reasoning out of his own mouth.
-Dialogue: 10,0:06:19.35,0:06:23.61,Default,,0,0,0,,Those actions are a clear breach of \Nthe Demon Slayers' code, of course.
+Dialogue: 10,0:06:15.56,0:06:19.35,Default,,0,0,0,,I'd love to hear the reasoning from his own mouth.
+Dialogue: 10,0:06:19.35,0:06:23.61,Default,,0,0,0,,{\q2}Those actions are a clear breach \Nof the Demon Slayers' code, of course.
 Dialogue: 10,0:06:25.07,0:06:27.07,Default,,0,0,0,,You're well aware of that, aren't you?
 Dialogue: 10,0:06:31.57,0:06:33.62,Default,,0,0,0,,Kamado Tanjirou...
-Dialogue: 10,0:06:33.99,0:06:38.12,Default,,0,0,0,,What is your reason for travelling \Nwith a demon as a Demon Slayer?
+Dialogue: 10,0:06:33.99,0:06:38.12,Default,,0,0,0,,{\q2}Why are you travelling with \Na demon as a Demon Slayer?
 Dialogue: 10,0:06:39.71,0:06:41.50,Default,,0,0,0,,No need to ask.
 Dialogue: 10,0:06:43.00,0:06:46.30,Default,,0,0,0,,You can take your time. Just tell us why.
 Dialogue: 10,0:06:50.76,0:06:52.05,Default,,0,0,0,,She's...
 Dialogue: 10,0:06:52.05,0:06:53.26,Default,,0,0,0,,She's my little—
-Dialogue: 10,0:07:03.11,0:07:05.73,Default,,0,0,0,,I do believe you need some water.
-Dialogue: 10,0:07:09.90,0:07:13.70,Default,,0,0,0,,You've sustained heavy injuries to \Nyour jaw, so please drink slowly.
+Dialogue: 10,0:07:03.11,0:07:05.73,Default,,0,0,0,,Let me give you some water.
+Dialogue: 10,0:07:09.90,0:07:13.70,Default,,0,0,0,,Your jaw's busted, so please drink slowly.
 Dialogue: 10,0:07:14.70,0:07:17.75,Default,,0,0,0,,I've mixed in a painkiller, so you'll feel better soon.
 Dialogue: 10,0:07:25.25,0:07:28.88,Default,,0,0,0,,It's not like it heals your wounds, \Nso you mustn't push yourself.
-Dialogue: 10,0:07:30.47,0:07:33.14,Default,,0,0,0,,Now then, Kamado Tanjirou...
+Dialogue: 10,0:07:30.47,0:07:33.14,Default,,0,0,0,,Well then, Kamado Tanjirou...
 Dialogue: 10,0:07:37.14,0:07:39.27,Default,,0,0,0,,That demon is my little sister!
 Dialogue: 10,0:07:39.93,0:07:42.69,Default,,0,0,0,,While I was out, a demon attacked my family.
 Dialogue: 10,0:07:42.69,0:07:44.90,Default,,0,0,0,,By the time I got home, everyone was dead!
