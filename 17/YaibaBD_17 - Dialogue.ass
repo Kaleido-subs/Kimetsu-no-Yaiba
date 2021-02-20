@@ -26,14 +26,14 @@ Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
-Dialogue: 10,0:00:03.61,0:00:07.74,Default,,0,0,0,,{\i1\q2}The blood of the Twelve Blood Moons \Nshould have a high degree{### concentration? line width/cps concerns. in any case, "degree" seems wrong. "large amount" might have tone issues} of Kibutsuji's blood.
+Dialogue: 10,0:00:03.61,0:00:07.74,Default,,0,0,0,,{\i1\q2}The blood of the Twelve Blood Moons should have \Na high concentration{### concentration? line width/cps concerns. in any case, "degree" seems wrong. "large amount" might have tone issues}{## concentration yeah, since we changed that in earlier eps} of Kibutsuji's blood.
 Dialogue: 10,0:00:08.45,0:00:13.03,Default,,0,0,0,,{\i1\q2}If I can extract some, we'll be one step closer \Nto restoring Nezuko's humanity.
 Dialogue: 10,0:00:15.41,0:00:17.04,Default,,0,0,0,,Oh, right! What about Inosuke?
 Dialogue: 10,0:00:21.33,0:00:23.34,Default,,0,0,0,,Did you beat 'em?
 Dialogue: 10,0:00:23.88,0:00:26.21,Default,,0,0,0,,Are you all right, Inosuke?
 Dialogue: 10,0:00:26.21,0:00:28.63,Default,,0,0,0,,I asked if you killed that damn thing or not!
 Dialogue: 10,0:00:28.63,0:00:29.97,Default,,0,0,0,,Uh, yeah, I did!
-Dialogue: 10,0:00:29.97,0:00:32.35,Default,,0,0,0,,But that aside,{### "never mind that."} how are you feeling?
+Dialogue: 10,0:00:29.97,0:00:32.35,Default,,0,0,0,,Never mind that. How are you feeling?
 Dialogue: 10,0:00:32.35,0:00:35.56,Default,,0,0,0,,Don't go coddling me now, dumbass!
 Dialogue: 10,0:00:36.06,0:00:38.14,Default,,0,0,0,,Y'hear me? Got that?
 Dialogue: 10,0:00:38.14,0:00:41.81,Default,,0,0,0,,Anything you can do, I can do too!
@@ -68,7 +68,7 @@ Comment: 0,0:03:39.99,0:03:39.99,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:03:49.79,0:03:52.63,Default,,0,0,0,,That spider has a human face!
 Dialogue: 10,0:03:52.63,0:03:55.30,Default,,0,0,0,,Is something like that even possible? What the hell?!
 Dialogue: 10,0:03:55.30,0:03:56.97,Default,,0,0,0,,Please be a dream! Please be a dream!
-Dialogue: 10,0:03:56.97,0:03:58.76,Default,,0,0,0,,{\i1}Please{\i0} be a dream!{### I want there to be more words here but I don't know what to put}
+Dialogue: 10,0:03:56.97,0:03:58.76,Default,,0,0,0,,I beg you, {\i1}please{\i0} tell me this is a dream!{### I want there to be more words here but I don't know what to put}{## How's this?}
 Dialogue: 10,0:03:58.76,0:04:02.01,Default,,0,0,0,,{\q2}If this could just be a bad dream, \NI promise I'll work harder from now on!
 Dialogue: 10,0:04:02.01,0:04:04.68,Default,,0,0,0,,{\q2}If I wake up to find my head \Nresting on Nezuko's lap,
 Dialogue: 10,0:04:04.68,0:04:06.77,Default,,0,0,0,,I swear I'll turn over a new leaf!
@@ -95,7 +95,7 @@ Dialogue: 10,0:05:31.73,0:05:33.85,Default,,0,0,0,,Running away is futile.
 Dialogue: 10,0:05:33.85,0:05:35.69,Default,,0,0,0,,You've already lost either way.
 Dialogue: 10,0:05:35.69,0:05:37.61,Default,,0,0,0,,The hell are you blabbering on about?
 Dialogue: 10,0:05:37.61,0:05:39.53,Default,,0,0,0,,Y'know what, drop it! I'm not interested!
-Dialogue: 10,0:05:39.53,0:05:42.03,Default,,0,0,0,,I hate guys like you, capiche?{### capisce}
+Dialogue: 10,0:05:39.53,0:05:42.03,Default,,0,0,0,,I hate guys like you, capiche?{### capisce}{## This is the common way of spelling it}
 Dialogue: 10,0:05:42.49,0:05:46.03,Default,,0,0,0,,{\q2}You already know how dire \Nyour situation is, don't you?
 Dialogue: 10,0:05:46.37,0:05:47.66,Default,,0,0,0,,What are you talking about?
 Dialogue: 10,0:05:47.66,0:05:49.29,Default,,0,0,0,,Look at your hand.
@@ -257,7 +257,7 @@ Dialogue: 10,0:16:03.53,0:16:05.03,Default,,0,0,0,,{\i1}He'd drag me right back.
 Dialogue: 10,0:16:08.32,0:16:11.16,Default,,0,0,0,,{\i1}Well yeah, he did smack me around a tad too much.
 Dialogue: 10,0:16:12.62,0:16:14.91,Default,,0,0,0,,{\i1}But he never abandoned me!
 Dialogue: 10,0:16:16.46,0:16:19.29,Default,,0,0,0,,Sting him! Give him another taste of your venom!
-Dialogue: 10,0:16:32.60,0:16:34.10,Default,,0,0,0,,He's a goner now!{### meh: I'm still not quite happy with this, but it's an improvement}
+Dialogue: 10,0:16:32.60,0:16:34.10,Default,,0,0,0,,He's a goner now!{### meh: I'm still not quite happy with this, but it's an improvement}{## "End of the line for him!", "No way he's walking out of that alive", something like that. Time to look at generic villain oneliners}
 Dialogue: 10,0:16:40.06,0:16:40.94,Default,,0,0,0,,{\i1}What the—?
 Dialogue: 10,0:16:41.69,0:16:43.61,Default,,0,0,0,,{\i1}The very air is vibrating...
 Dialogue: 10,0:16:45.94,0:16:47.40,Default,,0,0,0,,Thunder Breathing.
@@ -310,12 +310,12 @@ Dialogue: 10,0:20:03.14,0:20:05.98,Default,,0,0,0,,I am not hurt at all!
 Dialogue: 10,0:20:09.86,0:20:11.77,Default,,0,0,0,,N-N-No, Inosuke!
 Dialogue: 10,0:20:11.77,0:20:14.86,Default,,0,0,0,,Anyone could see you are just by looking at you!
 Dialogue: 10,0:20:19.61,0:20:20.70,Default,,0,0,0,,{\i1}A demon!
-Dialogue: 10,0:20:21.24,0:20:25.58,Default,,0,0,0,,{\i1\q2}The odour wafting all over this mountain \Ncompletely masked{### covered up} her own scent!
+Dialogue: 10,0:20:21.24,0:20:25.58,Default,,0,0,0,,{\i1\q2}The odour wafting all over this mountain \Ncompletely masked her scent!
 Dialogue: 10,0:20:27.62,0:20:31.38,Default,,0,0,0,,I'm gonna tear you to shreds, you damn demon!
 Dialogue: 10,0:20:32.13,0:20:33.42,Default,,0,0,0,,Get back here!
 Dialogue: 10,0:20:33.42,0:20:34.63,Default,,0,0,0,,Inosuke!
-Dialogue: 10,0:20:36.47,0:20:37.63,Default,,0,0,0,,Father!
-Dialogue: 10,0:20:37.63,0:20:39.76,Default,,0,0,0,,Who you calling "Father"?
+Dialogue: 10,0:20:36.47,0:20:37.63,Default,,0,0,0,,Daddy!
+Dialogue: 10,0:20:37.63,0:20:39.76,Default,,0,0,0,,Who's your "Daddy"?{Who you calling "Father"?}
 Dialogue: 10,0:20:41.43,0:20:42.60,Default,,0,0,0,,Inosuke!
 Dialogue: 10,0:20:54.52,0:20:57.28,Default,,0,0,0,,Stay away...
 Dialogue: 10,0:20:57.65,0:21:00.28,Default,,0,0,0,,from my family!
