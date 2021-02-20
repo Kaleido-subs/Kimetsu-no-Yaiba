@@ -56,7 +56,7 @@ Dialogue: 10,0:03:46.87,0:03:48.50,Default,,0,0,0,,What're you looking at?
 Dialogue: 10,0:03:48.50,0:03:49.17,Default,,0,0,0,,I'm over here!
 Dialogue: 10,0:03:49.71,0:03:51.63,Default,,0,0,0,,Go screw yourself!
 Dialogue: 10,0:03:58.55,0:04:00.39,Default,,0,0,0,,Ouch!
-Dialogue: 10,0:04:00.39,0:04:03.56,Default,,0,0,0,,This guy packs a fuckin' punch!{### note that that wasn't really an actual punch, so "describing his punches" doesn't work}
+Dialogue: 10,0:04:00.39,0:04:03.56,Default,,0,0,0,,That slap packs a fuckin' punch!{### note that that wasn't really an actual punch, so "describing his punches" doesn't work}{## DONT LET YOUR MEMES BE DREAMS}
 Dialogue: 10,0:04:03.56,0:04:06.98,Default,,0,0,0,,What do I do? I'm not strong enough!
 Dialogue: 10,0:04:06.98,0:04:09.85,Default,,0,0,0,,I can barely focus after losing so much blood.
 Dialogue: 10,0:04:17.45,0:04:19.16,Default,,0,0,0,,Water Breathing!
@@ -194,8 +194,8 @@ Dialogue: 10,0:14:46.99,0:14:48.83,Default,,0,0,0,,I refuse!
 Dialogue: 10,0:14:48.83,0:14:51.04,Default,,0,0,0,,I meant every word I said!
 Dialogue: 10,0:14:51.66,0:14:54.50,Default,,0,0,0,,What I said was the truth!
 Dialogue: 10,0:15:01.51,0:15:04.09,Default,,0,0,0,,{\i1}You're{\i0} the one who's in the wrong!
-Dialogue: 10,0:15:20.86,0:15:23.24,Default,,0,0,0,,{\i1}You{### that} son of a bitch!
-Dialogue: 10,0:15:23.24,0:15:25.28,Default,,0,0,0,,{\i1}Where the hell did you{### he} run off to?
+Dialogue: 10,0:15:20.86,0:15:23.24,Default,,0,0,0,,{\i1}You son of a bitch!
+Dialogue: 10,0:15:23.24,0:15:25.28,Default,,0,0,0,,{\i1}Where the hell did you run off to?
 Dialogue: 10,0:15:29.24,0:15:32.70,Default,,0,0,0,,I'm telling ya this doesn't hurt!
 Dialogue: 10,0:15:32.70,0:15:35.87,Default,,0,0,0,,What doesn't hurt doesn't hurt!
 Dialogue: 10,0:15:35.87,0:15:37.71,Default,,0,0,0,,If it's come to this,
