@@ -41,12 +41,12 @@ Dialogue: 10,0:02:47.02,0:02:49.15,Default,,0,0,0,,Fight me, Mismatched Haori!
 Dialogue: 10,0:02:49.40,0:02:51.94,Default,,0,0,0,,You beat that Blood Moon!
 Dialogue: 10,0:02:51.94,0:02:54.78,Default,,0,0,0,,{\q2}And now I'm gonna beat you! \NThat's how it works!
 Dialogue: 10,0:02:54.78,0:02:56.49,Default,,0,0,0,,And once I've done that...
-Dialogue: 10,0:02:58.41,0:03:01.41,Default,,0,0,0,,that'll make me the strongest!{### caps, maybe?}
+Dialogue: 10,0:02:58.41,0:03:01.41,Default,,0,0,0,,That'll make me the strongest!
 Dialogue: 10,0:03:01.70,0:03:04.58,Default,,0,0,0,,Get back to training, you buffoon.
 Dialogue: 10,0:03:07.33,0:03:09.00,Default,,0,0,0,,The f—
 Dialogue: 10,0:03:09.29,0:03:12.05,Default,,0,0,0,,{\q2}That thing didn't even compare \Nto an actual Blood Moon.
 Dialogue: 10,0:03:12.05,0:03:14.09,Default,,0,0,0,,You couldn't even figure that out?
-Dialogue: 10,0:03:14.09,0:03:15.43,Default,,0,0,0,,Sure I can!{### can vs. couldn't - tense disagreement}
+Dialogue: 10,0:03:14.09,0:03:15.43,Default,,0,0,0,,Sure I could!
 Dialogue: 10,0:03:15.43,0:03:19.05,Default,,0,0,0,,{\q2}I never thought that dumbass \Nwas a Blood Moon, either!
 Dialogue: 10,0:03:19.43,0:03:22.31,Default,,0,0,0,,Tanjirou was the one that said he was a Blood Moon!
 Dialogue: 10,0:03:22.31,0:03:25.81,Default,,0,0,0,,All I did was repeat what he said, got it?
@@ -54,7 +54,7 @@ Dialogue: 10,0:03:29.56,0:03:31.57,Default,,0,0,0,,{\i1}What the hell? He tied m
 Dialogue: 10,0:03:31.98,0:03:33.19,Default,,0,0,0,,{\i1}Whoa, he's quick...
 Dialogue: 10,0:03:33.19,0:03:35.03,Default,,0,0,0,,{\i1}What a speed demon.
 Dialogue: 10,0:03:35.03,0:03:37.07,Default,,0,0,0,,Hey, wait! Get back 'ere!
-Dialogue: 10,0:03:37.32,0:03:41.95,Default,,0,0,0,,{\q2}If you don't even realise the state you're in, \Nthen you have no business on the battlefield.
+Dialogue: 10,0:03:37.32,0:03:41.95,Default,,0,0,0,,{\q2}If you can't even realise the state you're in, \Nyou have no business on the battlefield.
 Dialogue: 10,0:03:42.99,0:03:44.00,Default,,0,0,0,,I can't hear you!
 Dialogue: 10,0:03:44.00,0:03:46.33,Default,,0,0,0,,Stop mumbling and walking so fast!
 Dialogue: 10,0:03:46.33,0:03:48.29,Default,,0,0,0,,I told you to get back 'ere, punk!
@@ -103,7 +103,7 @@ Dialogue: 10,0:07:08.74,0:07:09.74,Default,,0,0,0,,You...
 Dialogue: 10,0:07:10.33,0:07:11.74,Default,,0,0,0,,Is that...
 Dialogue: 10,0:07:12.79,0:07:14.50,Default,,0,0,0,,That girl...
 Dialogue: 10,0:07:15.25,0:07:16.83,Default,,0,0,0,,Is she your sibling?
-Dialogue: 10,0:07:16.83,0:07:18.67,Default,,0,0,0,,What's it to you?{### So what if she is?}
+Dialogue: 10,0:07:16.83,0:07:18.67,Default,,0,0,0,,What's it to you?
 Dialogue: 10,0:07:19.38,0:07:21.30,Default,,0,0,0,,{\i1}These wounds are so deep!
 Dialogue: 10,0:07:21.30,0:07:23.67,Default,,0,0,0,,{\i1}Her left hand's about to fall off!{### 手首, yes, but a wrist isn't something that falls off}
 Dialogue: 10,0:07:25.63,0:07:29.05,Default,,0,0,0,,{\i1}Hurry up and heal!
@@ -121,7 +121,7 @@ Dialogue: 10,0:07:48.86,0:07:50.78,Default,,0,0,0,,Please, wait!
 Dialogue: 10,0:07:50.78,0:07:52.37,Default,,0,0,0,,I'm your elder sister!
 Dialogue: 10,0:07:52.37,0:07:53.83,Default,,0,0,0,,Please don't desert me!
 Dialogue: 10,0:07:53.83,0:07:54.70,Default,,0,0,0,,Shut your mouth!
-Dialogue: 10,0:08:06.63,0:08:10.85,Default,,0,0,0,,{\q2}None of you ever managed to \Nfulfill the roles bestowed upon you.
+Dialogue: 10,0:08:06.63,0:08:10.85,Default,,0,0,0,,{\q2}None of you ever managed to \Nfulfil the roles bestowed upon you.
 Dialogue: 10,0:08:11.39,0:08:13.89,Default,,0,0,0,,Not even a single time.
 Dialogue: 10,0:08:14.35,0:08:16.64,Default,,0,0,0,,W-Wait...
 Dialogue: 10,0:08:16.64,0:08:19.56,Default,,0,0,0,,I was the elder sister you wanted, wasn't I?
@@ -151,7 +151,7 @@ Dialogue: 10,0:09:42.94,0:09:46.27,Default,,0,0,0,,You didn't actually think I'd
 Dialogue: 10,0:09:46.52,0:09:49.03,Default,,0,0,0,,Nezuko isn't some item you trade around.
 Dialogue: 10,0:09:49.03,0:09:51.36,Default,,0,0,0,,She's a living being with her own will.
 Dialogue: 10,0:09:51.90,0:09:54.57,Default,,0,0,0,,She will never become your sister!
-Dialogue: 10,0:09:55.53,0:09:58.91,Default,,0,0,0,,It's fine. You have nothing to worry about.{### the main issue was the comma splice. I wouldn't object to reverting the second half}
+Dialogue: 10,0:09:55.53,0:09:58.91,Default,,0,0,0,,It's fine. You have nothing to worry about.
 Dialogue: 10,0:09:58.91,0:10:01.12,Default,,0,0,0,,I'll forge a bond between us.
 Dialogue: 10,0:10:01.12,0:10:05.63,Default,,0,0,0,,{\q2}I'm stronger than her, \Nso I will forge a bond using terror.
 Dialogue: 10,0:10:05.63,0:10:08.13,Default,,0,0,0,,I'll teach her what happens if she defies me.
@@ -176,7 +176,7 @@ Dialogue: 10,0:11:14.74,0:11:16.57,Default,,0,0,0,,{\i1}The parents care for the
 Dialogue: 10,0:11:17.57,0:11:21.29,Default,,0,0,0,,{\i1}and the elder siblings protect the younger ones.
 Dialogue: 10,0:11:22.04,0:11:24.08,Default,,0,0,0,,{\i1}No matter what.
 Dialogue: 10,0:11:24.96,0:11:26.71,Default,,0,0,0,,{\i1}Even at the cost of their own lives.
-Dialogue: 10,0:11:27.83,0:11:32.76,Default,,0,0,0,,The way I see it, if you can't fulfill your role,
+Dialogue: 10,0:11:27.83,0:11:32.76,Default,,0,0,0,,The way I see it, if you can't fulfil your role,
 Dialogue: 10,0:11:32.76,0:11:36.05,Default,,0,0,0,,there's no reason for you to live.
 Dialogue: 10,0:11:36.84,0:11:38.55,Default,,0,0,0,,What about you?
 Dialogue: 10,0:11:38.84,0:11:41.31,Default,,0,0,0,,Do you understand {\i1}your{\i0} role?
@@ -294,7 +294,7 @@ Dialogue: 10,0:19:24.52,0:19:25.81,Default,,0,0,0,,{\i1}My webs!
 Dialogue: 10,0:19:30.65,0:19:32.03,Default,,0,0,0,,{\i1}Don't stop!
 Dialogue: 10,0:19:32.03,0:19:33.74,Default,,0,0,0,,{\i1}Keep going!
 Dialogue: 10,0:19:33.74,0:19:35.20,Default,,0,0,0,,{\i1}If you stop now,
-Dialogue: 10,0:19:35.20,0:19:39.74,Default,,0,0,0,,{\i1\q2}the recoil from forcibly switching \Nbetween breathing forms will kick in!
+Dialogue: 10,0:19:35.20,0:19:39.74,Default,,0,0,0,,{\i1\q2}the whiplash from forcibly switching \Nbetween breathing forms will kick in!
 Dialogue: 10,0:19:40.20,0:19:44.20,Default,,0,0,0,,{\i1\q2}Once that happens, \Nyou won't be able to move for a while!
 Dialogue: 10,0:19:45.16,0:19:48.58,Default,,0,0,0,,{\i1}That's why you have to finish it now!
 Dialogue: 10,0:19:48.58,0:19:50.17,Default,,0,0,0,,{\i1}Run!
