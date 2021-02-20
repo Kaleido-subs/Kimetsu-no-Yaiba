@@ -26,7 +26,7 @@ Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
-Dialogue: 10,0:00:03.61,0:00:07.74,Default,,0,0,0,,{\i1\q2}The blood of the Twelve Blood Moons should have \Na high concentration{### concentration? line width/cps concerns. in any case, "degree" seems wrong. "large amount" might have tone issues}{## concentration yeah, since we changed that in earlier eps} of Kibutsuji's blood.
+Dialogue: 10,0:00:03.61,0:00:07.74,Default,,0,0,0,,{\i1\q2}The blood of the Twelve Blood Moons should have \Na high concentration of Kibutsuji's blood.
 Dialogue: 10,0:00:08.45,0:00:13.03,Default,,0,0,0,,{\i1\q2}If I can extract some, we'll be one step closer \Nto restoring Nezuko's humanity.
 Dialogue: 10,0:00:15.41,0:00:17.04,Default,,0,0,0,,Oh, right! What about Inosuke?
 Dialogue: 10,0:00:21.33,0:00:23.34,Default,,0,0,0,,Did you beat 'em?
@@ -68,7 +68,7 @@ Comment: 0,0:03:39.99,0:03:39.99,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:03:49.79,0:03:52.63,Default,,0,0,0,,That spider has a human face!
 Dialogue: 10,0:03:52.63,0:03:55.30,Default,,0,0,0,,Is something like that even possible? What the hell?!
 Dialogue: 10,0:03:55.30,0:03:56.97,Default,,0,0,0,,Please be a dream! Please be a dream!
-Dialogue: 10,0:03:56.97,0:03:58.76,Default,,0,0,0,,I beg you, {\i1}please{\i0} tell me this is a dream!{### I want there to be more words here but I don't know what to put}{## How's this?}
+Dialogue: 10,0:03:56.97,0:03:58.76,Default,,0,0,0,,I beg you, {\i1}please{\i0} tell me this is a dream!
 Dialogue: 10,0:03:58.76,0:04:02.01,Default,,0,0,0,,{\q2}If this could just be a bad dream, \NI promise I'll work harder from now on!
 Dialogue: 10,0:04:02.01,0:04:04.68,Default,,0,0,0,,{\q2}If I wake up to find my head \Nresting on Nezuko's lap,
 Dialogue: 10,0:04:04.68,0:04:06.77,Default,,0,0,0,,I swear I'll turn over a new leaf!
@@ -257,7 +257,7 @@ Dialogue: 10,0:16:03.53,0:16:05.03,Default,,0,0,0,,{\i1}He'd drag me right back.
 Dialogue: 10,0:16:08.32,0:16:11.16,Default,,0,0,0,,{\i1}Well yeah, he did smack me around a tad too much.
 Dialogue: 10,0:16:12.62,0:16:14.91,Default,,0,0,0,,{\i1}But he never abandoned me!
 Dialogue: 10,0:16:16.46,0:16:19.29,Default,,0,0,0,,Sting him! Give him another taste of your venom!
-Dialogue: 10,0:16:32.60,0:16:34.10,Default,,0,0,0,,He's a goner now!{### meh: I'm still not quite happy with this, but it's an improvement}{## "End of the line for him!", "No way he's walking out of that alive", something like that. Time to look at generic villain oneliners}
+Dialogue: 10,0:16:32.60,0:16:34.10,Default,,0,0,0,,No way he's walking out of that alive!
 Dialogue: 10,0:16:40.06,0:16:40.94,Default,,0,0,0,,{\i1}What the—?
 Dialogue: 10,0:16:41.69,0:16:43.61,Default,,0,0,0,,{\i1}The very air is vibrating...
 Dialogue: 10,0:16:45.94,0:16:47.40,Default,,0,0,0,,Thunder Breathing.
@@ -325,7 +325,7 @@ Dialogue: 10,0:21:11.75,0:21:12.88,Default,,0,0,0,,{\i1}Second Form!
 Dialogue: 10,0:21:12.88,0:21:14.75,Default,,0,0,0,,{\i1}Water Wheel!
 Comment: 0,0:22:59.90,0:22:59.90,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:23:01.40,0:23:02.65,Default,,0,0,0,,Combined Junior and Senior High School!
-Dialogue: 10,0:23:02.65,0:23:04.90,Default,,0,0,0,,Tales of the Demon Slayer Academy!{### out of the 2+2 bits of dialogue + TS, this was the only instance of "a" rather than "the"}
+Dialogue: 10,0:23:02.65,0:23:04.90,Default,,0,0,0,,Tales of the Demon Slayer Academy!
 Dialogue: 10,0:23:04.90,0:23:07.66,Default,,0,0,0,,{\an8\i1}The disciplinary committee's day starts too early!
 Dialogue: 10,0:23:07.66,0:23:09.41,Default,,0,0,0,,{\an8\i1}There's only one reason why I don't quit.
 Dialogue: 10,0:23:09.41,0:23:11.83,Default,,0,0,0,,{\i1}And that reason is the dress code check!
