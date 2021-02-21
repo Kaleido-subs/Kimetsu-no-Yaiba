@@ -10,27 +10,27 @@ plugins {
 }
 
 fun String.isKaraTemplate(): Boolean {
-	return this.startsWith("code") || this.startsWith("template") || this.startsWith("mixin")
+    return this.startsWith("code") || this.startsWith("template") || this.startsWith("mixin")
 }
 
 fun EventLine.isKaraTemplate(): Boolean {
-	return this.comment && this.effect.isKaraTemplate()
+    return this.comment && this.effect.isKaraTemplate()
 }
 
 subs {
     readProperties("sub.properties")
     episodes(getList("episodes"))
 
-	val op_ktemplate by task<Automation> {
+    val op_ktemplate by task<Automation> {
         if (propertyExists("OP")) {
             from(get("OP"))
         }
 
         video(get("premux"))
-		script("0x.KaraTemplater.moon")
-		macro("0x539's Templater")
-		loglevel(Automation.LogLevel.WARNING)
-	}
+        script("0x.KaraTemplater.moon")
+        macro("0x539's Templater")
+        loglevel(Automation.LogLevel.WARNING)
+    }
 
     val ed_ktemplate by task<Automation> {
         if (propertyExists("ED")) {
@@ -38,10 +38,10 @@ subs {
         }
 
         video(get("premux"))
-		script("0x.KaraTemplater.moon")
-		macro("0x539's Templater")
-		loglevel(Automation.LogLevel.WARNING)
-	}
+        script("0x.KaraTemplater.moon")
+        macro("0x539's Templater")
+        loglevel(Automation.LogLevel.WARNING)
+    }
 
     merge {
         from(get("dialogue"))
@@ -69,12 +69,12 @@ subs {
         out(get("mergedname"))
     }
 
-	val cleanmerge by task<ASS> {
-		from(merge.item())
-    	ass {
-			events.lines.removeIf { it.isKaraTemplate() }
-	    }
-	}
+    val cleanmerge by task<ASS> {
+        from(merge.item())
+        ass {
+            events.lines.removeIf { it.isKaraTemplate() }
+        }
+    }
 
     chapters {
         from(merge.item())
@@ -85,28 +85,28 @@ subs {
     mux {
         title(get("title"))
 
-		from(get("premux")) {
-			video {
-				lang("jpn")
-				default(true)
-			}
-			audio {
-				lang("jpn")
-				default(true)
-			}
+        from(get("premux")) {
+            video {
+                lang("jpn")
+                default(true)
+            }
+            audio {
+                lang("jpn")
+                default(true)
+            }
             includeChapters(false)
-			attachments { include(false) }
-		}
+            attachments { include(false) }
+        }
 
-		from(cleanmerge.item()) {
-			tracks {
-				lang("eng")
+        from(cleanmerge.item()) {
+            tracks {
+                lang("eng")
                 name(get("group"))
-				default(true)
-				forced(true)
-				compression(CompressionType.ZLIB)
-			}
-		}
+                default(true)
+                forced(true)
+                compression(CompressionType.ZLIB)
+            }
+        }
 
         chapters(chapters.item()) { lang("eng") }
 
@@ -135,7 +135,7 @@ subs {
 
     // Muxing NCs (really wish I knew how to do it neater)
     // NCOP1v1
-	tasks(listOf("NCOP1")) {
+    tasks(listOf("NCOP1")) {
         val ncop1_ktemplate by task<Automation> {
             from(get("ncop_ass"))
 
@@ -145,8 +145,8 @@ subs {
             loglevel(Automation.LogLevel.WARNING)
         }
 
-		merge {
-			from(ncop1_ktemplate.item())
+        merge {
+            from(ncop1_ktemplate.item())
 
             includeExtraData(false)
             includeProjectGarbage(false)
@@ -155,7 +155,7 @@ subs {
                 title = "Kaleido-Flax"
                 scaledBorderAndShadow = true
             }
-		}
+        }
 
         val cleanmerge by task<ASS> {
             from(merge.item())
@@ -169,21 +169,21 @@ subs {
             chapterMarker("chapter")
         }
 
-		mux {
-			title(get("ncop1_muxtitle"))
+        mux {
+            title(get("ncop1_muxtitle"))
 
-			from(get("ncop1_premux")) {
-				video {
-					lang("jpn")
-					default(true)
-				}
-				audio {
-					lang("jpn")
-					default(true)
-				}
+            from(get("ncop1_premux")) {
+                video {
+                    lang("jpn")
+                    default(true)
+                }
+                audio {
+                    lang("jpn")
+                    default(true)
+                }
                 includeChapters(false)
-		    	attachments { include(false) }
-			}
+                attachments { include(false) }
+            }
 
             from(cleanmerge.item()) {
                 tracks {
@@ -197,14 +197,14 @@ subs {
 
             chapters(chapters.item()) { lang("eng") }
 
-			attach(get("opfonts"))
+            attach(get("opfonts"))
 
-			out(get("ncop1_muxout"))
-		}
-	}
+            out(get("ncop1_muxout"))
+        }
+    }
 
     // NCOP1v2
-	tasks(listOf("NCOP2")) {
+    tasks(listOf("NCOP2")) {
         val ncop2_ktemplate by task<Automation> {
             from(get("ncop_ass"))
 
@@ -214,8 +214,8 @@ subs {
             loglevel(Automation.LogLevel.WARNING)
         }
 
-		merge {
-			from(ncop2_ktemplate.item())
+        merge {
+            from(ncop2_ktemplate.item())
 
             includeExtraData(false)
             includeProjectGarbage(false)
@@ -224,7 +224,7 @@ subs {
                 title = "Kaleido-Flax"
                 scaledBorderAndShadow = true
             }
-		}
+        }
 
         val cleanmerge by task<ASS> {
             from(merge.item())
@@ -238,21 +238,21 @@ subs {
             chapterMarker("chapter")
         }
 
-		mux {
-			title(get("ncop2_muxtitle"))
+        mux {
+            title(get("ncop2_muxtitle"))
 
-			from(get("ncop2_premux")) {
-				video {
-					lang("jpn")
-					default(true)
-				}
-				audio {
-					lang("jpn")
-					default(true)
-				}
+            from(get("ncop2_premux")) {
+                video {
+                    lang("jpn")
+                    default(true)
+                }
+                audio {
+                    lang("jpn")
+                    default(true)
+                }
                 includeChapters(false)
-		    	attachments { include(false) }
-			}
+                attachments { include(false) }
+            }
 
             from(cleanmerge.item()) {
                 tracks {
@@ -266,14 +266,14 @@ subs {
 
             chapters(chapters.item()) { lang("eng") }
 
-			attach(get("opfonts"))
+            attach(get("opfonts"))
 
-			out(get("ncop2_muxout"))
-		}
-	}
+            out(get("ncop2_muxout"))
+        }
+    }
 
     // NCOP1v3
-	tasks(listOf("NCOP3")) {
+    tasks(listOf("NCOP3")) {
         val ncop3_ktemplate by task<Automation> {
             from(get("ncop_ass"))
 
@@ -283,8 +283,8 @@ subs {
             loglevel(Automation.LogLevel.WARNING)
         }
 
-		merge {
-			from(ncop3_ktemplate.item())
+        merge {
+            from(ncop3_ktemplate.item())
 
             includeExtraData(false)
             includeProjectGarbage(false)
@@ -293,7 +293,7 @@ subs {
                 title = "Kaleido-Flax"
                 scaledBorderAndShadow = true
             }
-		}
+        }
 
         val cleanmerge by task<ASS> {
             from(merge.item())
@@ -307,21 +307,21 @@ subs {
             chapterMarker("chapter")
         }
 
-		mux {
-			title(get("ncop3_muxtitle"))
+        mux {
+            title(get("ncop3_muxtitle"))
 
-			from(get("ncop3_premux")) {
-				video {
-					lang("jpn")
-					default(true)
-				}
-				audio {
-					lang("jpn")
-					default(true)
-				}
+            from(get("ncop3_premux")) {
+                video {
+                    lang("jpn")
+                    default(true)
+                }
+                audio {
+                    lang("jpn")
+                    default(true)
+                }
                 includeChapters(false)
-		    	attachments { include(false) }
-			}
+                attachments { include(false) }
+            }
 
             from(cleanmerge.item()) {
                 tracks {
@@ -335,14 +335,14 @@ subs {
 
             chapters(chapters.item()) { lang("eng") }
 
-			attach(get("opfonts"))
+            attach(get("opfonts"))
 
-			out(get("ncop3_muxout"))
-		}
-	}
+            out(get("ncop3_muxout"))
+        }
+    }
 
     // NCOP1v4
-	tasks(listOf("NCOP4")) {
+    tasks(listOf("NCOP4")) {
         val ncop4_ktemplate by task<Automation> {
             from(get("ncop_ass"))
 
@@ -352,8 +352,8 @@ subs {
             loglevel(Automation.LogLevel.WARNING)
         }
 
-		merge {
-			from(ncop4_ktemplate.item())
+        merge {
+            from(ncop4_ktemplate.item())
 
             includeExtraData(false)
             includeProjectGarbage(false)
@@ -362,7 +362,7 @@ subs {
                 title = "Kaleido-Flax"
                 scaledBorderAndShadow = true
             }
-		}
+        }
 
         val cleanmerge by task<ASS> {
             from(merge.item())
@@ -376,21 +376,21 @@ subs {
             chapterMarker("chapter")
         }
 
-		mux {
-			title(get("ncop4_muxtitle"))
+        mux {
+            title(get("ncop4_muxtitle"))
 
-			from(get("ncop4_premux")) {
-				video {
-					lang("jpn")
-					default(true)
-				}
-				audio {
-					lang("jpn")
-					default(true)
-				}
+            from(get("ncop4_premux")) {
+                video {
+                    lang("jpn")
+                    default(true)
+                }
+                audio {
+                    lang("jpn")
+                    default(true)
+                }
                 includeChapters(false)
-		    	attachments { include(false) }
-			}
+                attachments { include(false) }
+            }
 
             from(cleanmerge.item()) {
                 tracks {
@@ -404,14 +404,14 @@ subs {
 
             chapters(chapters.item()) { lang("eng") }
 
-			attach(get("opfonts"))
+            attach(get("opfonts"))
 
-			out(get("ncop4_muxout"))
-		}
-	}
+            out(get("ncop4_muxout"))
+        }
+    }
 
     // NCED1
-	tasks(listOf("NCED1")) {
+    tasks(listOf("NCED1")) {
         val nced1_ktemplate by task<Automation> {
             from(get("nced_ass"))
 
@@ -421,8 +421,8 @@ subs {
             loglevel(Automation.LogLevel.WARNING)
         }
 
-		merge {
-			from(nced1_ktemplate.item())
+        merge {
+            from(nced1_ktemplate.item())
 
             includeExtraData(false)
             includeProjectGarbage(false)
@@ -431,7 +431,7 @@ subs {
                 title = "Kaleido-Flax"
                 scaledBorderAndShadow = true
             }
-		}
+        }
 
         val cleanmerge by task<ASS> {
             from(merge.item())
@@ -445,21 +445,21 @@ subs {
             chapterMarker("chapter")
         }
 
-		mux {
-			title(get("nced1_muxtitle"))
+        mux {
+            title(get("nced1_muxtitle"))
 
-			from(get("nced1_premux")) {
-				video {
-					lang("jpn")
-					default(true)
-				}
-				audio {
-					lang("jpn")
-					default(true)
-				}
+            from(get("nced1_premux")) {
+                video {
+                    lang("jpn")
+                    default(true)
+                }
+                audio {
+                    lang("jpn")
+                    default(true)
+                }
                 includeChapters(false)
-		    	attachments { include(false) }
-			}
+                attachments { include(false) }
+            }
 
             from(cleanmerge.item()) {
                 tracks {
@@ -473,14 +473,14 @@ subs {
 
             chapters(chapters.item()) { lang("eng") }
 
-			attach(get("edfonts"))
+            attach(get("edfonts"))
 
-			out(get("nced1_muxout"))
-		}
-	}
+            out(get("nced1_muxout"))
+        }
+    }
 
     // Ep19 NCED
-	tasks(listOf("NCEDE19")) {
+    tasks(listOf("NCEDE19")) {
         val ncede19_ktemplate by task<Automation> {
             from(get("nced19_ass"))
 
@@ -490,8 +490,8 @@ subs {
             loglevel(Automation.LogLevel.WARNING)
         }
 
-		merge {
-			from(ncede19_ktemplate.item())
+        merge {
+            from(ncede19_ktemplate.item())
 
             includeExtraData(false)
             includeProjectGarbage(false)
@@ -500,7 +500,7 @@ subs {
                 title = "Kaleido-Flax"
                 scaledBorderAndShadow = true
             }
-		}
+        }
 
         val cleanmerge by task<ASS> {
             from(merge.item())
@@ -514,21 +514,21 @@ subs {
             chapterMarker("chapter")
         }
 
-		mux {
-			title(get("ncede19_muxtitle"))
+        mux {
+            title(get("ncede19_muxtitle"))
 
-			from(get("ncede19_premux")) {
-				video {
-					lang("jpn")
-					default(true)
-				}
-				audio {
-					lang("jpn")
-					default(true)
-				}
+            from(get("ncede19_premux")) {
+                video {
+                    lang("jpn")
+                    default(true)
+                }
+                audio {
+                    lang("jpn")
+                    default(true)
+                }
                 includeChapters(false)
-		    	attachments { include(false) }
-			}
+                attachments { include(false) }
+            }
 
             from(cleanmerge.item()) {
                 tracks {
@@ -542,9 +542,9 @@ subs {
 
             chapters(chapters.item()) { lang("eng") }
 
-			attach(get("ed19fonts"))
+            attach(get("ed19fonts"))
 
-			out(get("ncede19_muxout"))
-		}
-	}
+            out(get("ncede19_muxout"))
+        }
+    }
 }
