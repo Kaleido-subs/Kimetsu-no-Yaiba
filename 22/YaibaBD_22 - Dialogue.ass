@@ -95,9 +95,9 @@ Dialogue: 10,0:05:18.00,0:05:20.75,Default,,0,0,0,,What kind of lesson should we
 Dialogue: 10,0:05:23.21,0:05:26.38,Default,,0,0,0,,Don't you have anything to say for yourself, Tomioka?
 Dialogue: 10,0:05:30.18,0:05:32.64,Default,,0,0,0,,{\i1}Because of me, even Tomioka...
 Dialogue: 10,0:05:34.18,0:05:37.98,Default,,0,0,0,,{\i1}Iguro's as serpent-like as ever! Such a nag!
-Dialogue: 10,0:05:37.98,0:05:40.11,Default,,0,0,0,,{\i1}I love how pesky you are!
+Dialogue: 10,0:05:37.98,0:05:40.11,Default,,0,0,0,,{\i1}I absolutely adore how pesky you are!
 Dialogue: 10,0:05:46.57,0:05:50.41,Default,,0,0,0,,{\q2\i1}Meanwhile, Tomioka's keeping \Nhis distance all the way over there!
-Dialogue: 10,0:05:50.41,0:05:52.08,Default,,0,0,0,,{\i1}He's so cute!
+Dialogue: 10,0:05:50.41,0:05:52.08,Default,,0,0,0,,{\i1}He's {\i0}sooo{\i1} cute!
 Dialogue: 10,0:05:54.08,0:05:56.00,Default,,0,0,0,,Oh, where's the harm?
 Dialogue: 10,0:05:56.00,0:05:58.37,Default,,0,0,0,,He came along without resisting.
 Dialogue: 10,0:05:59.21,0:06:01.63,Default,,0,0,0,,We can debate a suitable punishment later.
@@ -106,9 +106,9 @@ Dialogue: 10,0:06:10.14,0:06:12.64,Default,,0,0,0,,Why does he act as a Demon Sl
 Dialogue: 10,0:06:12.64,0:06:15.10,Default,,0,0,0,,And with a demon in tow, at that.
 Dialogue: 10,0:06:15.56,0:06:19.35,Default,,0,0,0,,I'd love to hear the reasoning from his own mouth.
 Dialogue: 10,0:06:19.35,0:06:23.61,Default,,0,0,0,,{\q2}Those actions are a clear breach \Nof the Demon Slayers' code, of course.
-Dialogue: 10,0:06:25.07,0:06:27.07,Default,,0,0,0,,You're well aware of that, aren't you?
+Dialogue: 10,0:06:25.07,0:06:27.07,Default,,0,0,0,,But you were well aware of that, right?
 Dialogue: 10,0:06:31.57,0:06:33.62,Default,,0,0,0,,Kamado Tanjirou...
-Dialogue: 10,0:06:33.99,0:06:38.12,Default,,0,0,0,,{\q2}Why are you travelling with \Na demon as a Demon Slayer?
+Dialogue: 10,0:06:33.99,0:06:38.12,Default,,0,0,0,,{\q2}Why are you travelling with a demon \Ndespite being a Demon Slayer?
 Dialogue: 10,0:06:39.71,0:06:41.50,Default,,0,0,0,,No need to ask.
 Dialogue: 10,0:06:43.00,0:06:46.30,Default,,0,0,0,,You can take your time. Just tell us why.
 Dialogue: 10,0:06:50.76,0:06:52.05,Default,,0,0,0,,She's...
@@ -116,65 +116,65 @@ Dialogue: 10,0:06:52.05,0:06:53.26,Default,,0,0,0,,She's my little—
 Dialogue: 10,0:07:03.11,0:07:05.73,Default,,0,0,0,,Let me give you some water.
 Dialogue: 10,0:07:09.90,0:07:13.70,Default,,0,0,0,,Your jaw's busted, so please drink slowly.
 Dialogue: 10,0:07:14.70,0:07:17.75,Default,,0,0,0,,I've mixed in a painkiller, so you'll feel better soon.
-Dialogue: 10,0:07:25.25,0:07:28.88,Default,,0,0,0,,It's not like it heals your wounds, \Nso you mustn't push yourself.
+Dialogue: 10,0:07:25.25,0:07:28.88,Default,,0,0,0,,{\q2}It's not like it heals your wounds, \Nso you mustn't push yourself.
 Dialogue: 10,0:07:30.47,0:07:33.14,Default,,0,0,0,,Well then, Kamado Tanjirou...
 Dialogue: 10,0:07:37.14,0:07:39.27,Default,,0,0,0,,That demon is my little sister!
 Dialogue: 10,0:07:39.93,0:07:42.69,Default,,0,0,0,,While I was out, a demon attacked my family.
 Dialogue: 10,0:07:42.69,0:07:44.90,Default,,0,0,0,,By the time I got home, everyone was dead!
-Dialogue: 10,0:07:45.56,0:07:49.07,Default,,0,0,0,,My sister was turned into a demon, \Nbut she's never eaten anyone!
+Dialogue: 10,0:07:45.56,0:07:49.07,Default,,0,0,0,,{\q2}My sister became a demon back then, \Nbut she's never eaten anyone!
 Dialogue: 10,0:07:49.78,0:07:50.70,Default,,0,0,0,,She never has
 Dialogue: 10,0:07:51.20,0:07:52.24,Default,,0,0,0,,and never will!
 Dialogue: 10,0:07:53.41,0:07:56.53,Default,,0,0,0,,No matter what, she'll never hurt humans!
 Dialogue: 10,0:07:56.99,0:08:00.12,Default,,0,0,0,,Spare us your absurd ravings.
-Dialogue: 10,0:08:00.12,0:08:03.17,Default,,0,0,0,,It's no wonder you're defending her \Nif she's a family member.
+Dialogue: 10,0:08:00.12,0:08:03.17,Default,,0,0,0,,It's no wonder you're defending her if she's family.
 Dialogue: 10,0:08:03.17,0:08:05.63,Default,,0,0,0,,I can't trust a single word you're saying.
 Dialogue: 10,0:08:05.63,0:08:07.92,Default,,0,0,0,,I, for one, don't believe you.
 Dialogue: 10,0:08:09.80,0:08:12.05,Default,,0,0,0,,She's been possessed by a demon.
-Dialogue: 10,0:08:12.63,0:08:16.64,Default,,0,0,0,,Let us kill this poor child immediately \Nso that she may be liberated!
-Dialogue: 10,0:08:17.47,0:08:19.27,Default,,0,0,0,,Listen to me, please!
-Dialogue: 10,0:08:19.27,0:08:22.77,Default,,0,0,0,,I became a swordsman to cure Nezuko!
+Dialogue: 10,0:08:12.63,0:08:16.64,Default,,0,0,0,,{\q2}Let us kill this poor child post-haste \Nso she may be liberated!
+Dialogue: 10,0:08:17.47,0:08:19.27,Default,,0,0,0,,Hear me out, please!
+Dialogue: 10,0:08:19.27,0:08:22.77,Default,,0,0,0,,I became a swordsman so I can cure Nezuko!
 Dialogue: 10,0:08:22.77,0:08:26.40,Default,,0,0,0,,It's been two years since Nezuko became a demon!
 Dialogue: 10,0:08:26.40,0:08:29.32,Default,,0,0,0,,And in all that time, she hasn't eaten a single human!
-Dialogue: 10,0:08:29.78,0:08:33.49,Default,,0,0,0,,Your story's spinning in the \Nmost dull way possible, idiot.
-Dialogue: 10,0:08:33.49,0:08:36.53,Default,,0,0,0,,Just because she hasn't eaten anyone yet \Ndoesn't mean she never will.
-Dialogue: 10,0:08:37.28,0:08:40.70,Default,,0,0,0,,Lip service is cheap. \NProve it with maximum grandeur.
-Dialogue: 10,0:08:45.58,0:08:47.79,Default,,0,0,0,,What was that bird called again?
+Dialogue: 10,0:08:29.78,0:08:33.49,Default,,0,0,0,,Your story hinges on vapid circular logic, dimwit.
+Dialogue: 10,0:08:33.49,0:08:36.53,Default,,0,0,0,,{\q2}Who's to say she'll never eat anyone \Njust because she hasn't so far?
+Dialogue: 10,0:08:37.28,0:08:40.70,Default,,0,0,0,,{\q2}Lip service is cheap. \NProve it with maximum grandeur.
+Dialogue: 10,0:08:45.58,0:08:47.79,Default,,0,0,0,,What's that bird called again?
 Dialogue: 10,0:08:49.04,0:08:50.50,Default,,0,0,0,,Um...
 Dialogue: 10,0:08:50.50,0:08:52.05,Default,,0,0,0,,Excuse me?
-Dialogue: 10,0:08:52.42,0:08:54.72,Default,,0,0,0,,I do have my doubts, y'know.
-Dialogue: 10,0:08:55.09,0:08:59.47,Default,,0,0,0,,I just can't imagine the Master being \Nin the dark about this situation.
-Dialogue: 10,0:09:02.64,0:09:05.56,Default,,0,0,0,,Do you really think it's okay to \Ndeal with him without his permission?
-Dialogue: 10,0:09:10.73,0:09:13.15,Default,,0,0,0,,Shouldn't we at least wait until he arrives?
+Dialogue: 10,0:08:52.42,0:08:54.72,Default,,0,0,0,,I'm not entirely sure about this, y'know.
+Dialogue: 10,0:08:55.09,0:08:59.47,Default,,0,0,0,,{\q2}I can't really see the Master being \Nin the dark about his situation.
+Dialogue: 10,0:09:02.64,0:09:05.56,Default,,0,0,0,,{\q2}Should we really be handling this \Nwithout his permission?
+Dialogue: 10,0:09:10.73,0:09:13.15,Default,,0,0,0,,Shouldn't we at least wait until he returns?
 Dialogue: 10,0:09:13.15,0:09:14.24,Default,,0,0,0,,My sister...
 Dialogue: 10,0:09:14.65,0:09:17.07,Default,,0,0,0,,My sister will fight by my side!
 Dialogue: 10,0:09:17.53,0:09:21.20,Default,,0,0,0,,She can fight as a Demon Slayer to protect humans!
 Dialogue: 10,0:09:21.41,0:09:22.75,Default,,0,0,0,,So please...
-Dialogue: 10,0:09:23.54,0:09:27.54,Default,,0,0,0,,Well, well, I see you have some fun brewing here.
-Dialogue: 10,0:09:30.38,0:09:33.46,Default,,0,0,0,,That the moron Slayer that had this demon?
-Dialogue: 10,0:09:39.05,0:09:42.22,Default,,0,0,0,,Exactly what kinda stunt are you trying to pull here?
+Dialogue: 10,0:09:23.54,0:09:27.54,Default,,0,0,0,,Well, well, I see some fun brewing here.
+Dialogue: 10,0:09:30.38,0:09:33.46,Default,,0,0,0,,That the moron Slayer with the demon?
+Dialogue: 10,0:09:39.05,0:09:42.22,Default,,0,0,0,,{\q2}Boy, do I wonder what he's trying to pull!
 Dialogue: 10,0:09:44.14,0:09:45.68,Default,,0,0,0,,{\i1}Shinazugawa!
-Dialogue: 10,0:09:45.68,0:09:48.15,Default,,0,0,0,,{\i1}You've gained even more gorgeous scars!
-Dialogue: 10,0:09:48.65,0:09:50.90,Default,,0,0,0,,This won't do, Master Shinazugawa!
-Dialogue: 10,0:09:50.90,0:09:53.53,Default,,0,0,0,,Please, would you mind putting that box down?
-Dialogue: 10,0:09:58.03,0:10:01.45,Default,,0,0,0,,{\i1}Shinobu looks pretty angry! How unusual!
+Dialogue: 10,0:09:45.68,0:09:48.15,Default,,0,0,0,,{\i1}You've gained even more lovely scars!
+Dialogue: 10,0:09:48.65,0:09:50.90,Default,,0,0,0,,That won't do, Master Shinazugawa!
+Dialogue: 10,0:09:50.90,0:09:53.53,Default,,0,0,0,,Please, could you put that box down?
+Dialogue: 10,0:09:58.03,0:10:01.45,Default,,0,0,0,,{\i1}Shinobu looks pissed! How unusual!
 Dialogue: 10,0:10:01.45,0:10:02.99,Default,,0,0,0,,{\i1}She's so cool!
 Dialogue: 10,0:10:03.83,0:10:07.79,Default,,0,0,0,,Shinazugawa, please don't act out of line.
-Dialogue: 10,0:10:08.08,0:10:10.25,Default,,0,0,0,,What did you say about that demon, kid?
-Dialogue: 10,0:10:11.54,0:10:15.30,Default,,0,0,0,,That she can fight as a \NDemon Slayer to protect humans?
+Dialogue: 10,0:10:08.08,0:10:10.25,Default,,0,0,0,,What was that about this demon, kid?
+Dialogue: 10,0:10:11.54,0:10:15.30,Default,,0,0,0,,She can act as a Demon Slayer? Protect humans?
 Dialogue: 10,0:10:15.63,0:10:17.55,Default,,0,0,0,,You know what we call that?
-Dialogue: 10,0:10:18.68,0:10:21.14,Default,,0,0,0,,A total delusion, you moron!
-Dialogue: 10,0:10:28.73,0:10:31.44,Default,,0,0,0,,Hashira or not,
-Dialogue: 10,0:10:31.44,0:10:34.53,Default,,0,0,0,,I won't let anyone that hurts Nezuko get away with it!
+Dialogue: 10,0:10:18.68,0:10:21.14,Default,,0,0,0,,Being delusional, jackass!
+Dialogue: 10,0:10:28.73,0:10:31.44,Default,,0,0,0,,Hashira or not, I don't care!
+Dialogue: 10,0:10:31.44,0:10:34.53,Default,,0,0,0,,If you hurt Nezuko, I {\i1}will{\i0} make you pay!
 Dialogue: 10,0:10:39.11,0:10:41.41,Default,,0,0,0,,That so? Good for you!
-Dialogue: 10,0:10:43.28,0:10:44.29,Default,,0,0,0,,Stop it!
+Dialogue: 10,0:10:43.28,0:10:44.29,Default,,0,0,0,,Stop!
 Dialogue: 10,0:10:44.29,0:10:46.91,Default,,0,0,0,,The Master will be arriving soon!
-Dialogue: 10,0:11:05.85,0:11:07.39,Default,,0,0,0,,Pardon me.
+Dialogue: 10,0:11:05.85,0:11:07.39,Default,,0,0,0,,Sorry.
 Dialogue: 10,0:11:11.60,0:11:12.90,Default,,0,0,0,,Damn you!
-Dialogue: 10,0:11:13.90,0:11:19.65,Default,,0,0,0,,{\i1}Even with Tomioka intervening, I'm surprised \Nhe managed to land a blow on Shinazugawa.
-Dialogue: 10,0:11:20.65,0:11:24.20,Default,,0,0,0,,If you can't even tell the difference \Nbetween a good demon and a bad demon,
-Dialogue: 10,0:11:24.58,0:11:26.70,Default,,0,0,0,,you should just quit being a Hashira!
+Dialogue: 10,0:11:13.90,0:11:19.65,Default,,0,0,0,,{\q2\i1}Tomioka may have intervened, but I'm still surprised \Nhe managed to land a blow on Shinazugawa.
+Dialogue: 10,0:11:20.65,0:11:24.20,Default,,0,0,0,,{\q2}If you can't even tell the difference between \Na good demon and a bad demon,
+Dialogue: 10,0:11:24.58,0:11:26.70,Default,,0,0,0,,then you have no business being a Hashira!
 Dialogue: 10,0:11:27.62,0:11:29.66,Default,,0,0,0,,You little...
-Dialogue: 10,0:11:32.33,0:11:34.13,Default,,0,0,0,,I'll destroy you!
+Dialogue: 10,0:11:32.33,0:11:34.13,Default,,0,0,0,,You're dead, kiddo!
 Dialogue: 10,0:11:37.96,0:11:39.34,Default,,0,0,0,,The Master
 Dialogue: 10,0:11:39.63,0:11:40.97,Default,,0,0,0,,has arrived.
 Dialogue: 10,0:11:53.19,0:11:54.94,Default,,0,0,0,,So good of you to come,
@@ -185,11 +185,11 @@ Dialogue: 10,0:12:12.71,0:12:14.25,Default,,0,0,0,,has arrived.
 Dialogue: 10,0:12:48.58,0:12:50.29,Default,,0,0,0,,Good morning, everyone.
 Dialogue: 10,0:12:50.74,0:12:53.00,Default,,0,0,0,,The weather is splendid today.
 Dialogue: 10,0:12:54.71,0:12:56.79,Default,,0,0,0,,I wonder if the sky is blue.
-Dialogue: 10,0:12:57.33,0:13:04.26,Default,,0,0,0,,It pleases me that we've made it to our biannual \NHashira Meeting with no personnel changes.
+Dialogue: 10,0:12:57.33,0:13:04.26,Default,,0,0,0,,{\q2}It pleases me that we've made it to our biannual \NHashira Meeting with no personnel changes.
 Dialogue: 10,0:13:05.84,0:13:07.18,Default,,0,0,0,,{\i1}Those scars...
 Dialogue: 10,0:13:07.18,0:13:08.85,Default,,0,0,0,,{\i1}No wait, an illness?
 Dialogue: 10,0:13:09.72,0:13:11.60,Default,,0,0,0,,{\i1}So that man's the Master?
-Dialogue: 10,0:13:14.73,0:13:18.23,Default,,0,0,0,,{\i1}So quick! I couldn't even react!
+Dialogue: 10,0:13:14.73,0:13:18.23,Default,,0,0,0,,{\i1}What the? I couldn't even react!
 Dialogue: 10,0:13:18.23,0:13:19.27,Default,,0,0,0,,{\i1}This...
 Dialogue: 10,0:13:31.37,0:13:35.08,Default,,0,0,0,,I am pleased to see you in \Ngood health as well, Master.
 Dialogue: 10,0:13:35.91,0:13:39.92,Default,,0,0,0,,I fervently pray for your continued good fortune.
