@@ -30,16 +30,16 @@ Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor rom,{\an8}
 Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line,!retime('line',-0,0)!{\fad(250,250)}
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,sync,{ED}
 Dialogue: 0,0:00:04.02,0:00:09.53,ED1,eng,0,0,0,kara,I don't want to be a prisoner of my own misery
-Dialogue: 0,0:00:09.57,0:00:13.20,ED1,eng,0,0,0,kara,I don't want to go back
+Dialogue: 0,0:00:09.57,0:00:13.20,ED1,eng,0,0,0,kara,I don't ever want to go back
 Dialogue: 0,0:00:13.24,0:00:18.83,ED1,eng,0,0,0,kara,To the place I cast my head down crying
 Dialogue: 0,0:00:18.87,0:00:22.12,ED1,eng,0,0,0,kara,Free from the shackles of fate
 Dialogue: 0,0:00:22.16,0:00:24.96,ED1,eng,0,0,0,kara,You're supposed to start running
 Dialogue: 0,0:00:25.00,0:00:28.09,ED1,eng,0,0,0,kara,That dream is meant to come true
 Dialogue: 0,0:00:28.13,0:00:31.67,ED1,eng,0,0,0,kara,Break free from the troubles of yesterday
-Dialogue: 0,0:00:36.84,0:00:39.81,ED1,eng,0,0,0,kara,Ride the wind leading the way
+Dialogue: 0,0:00:36.84,0:00:39.81,ED1,eng,0,0,0,kara,Ride the wind that leads the way
 Dialogue: 0,0:00:39.85,0:00:43.14,ED1,eng,0,0,0,kara,Face the unseen beyond the storm
 Dialogue: 0,0:00:43.18,0:00:46.10,ED1,eng,0,0,0,kara,There's just one path for you to take:
-Dialogue: 0,0:00:46.15,0:00:48.27,ED1,eng,0,0,0,kara,Making it out alive!
+Dialogue: 0,0:00:46.15,0:00:48.27,ED1,eng,0,0,0,kara,Make it out alive!
 Dialogue: 0,0:00:48.31,0:00:53.19,ED1,eng,0,0,0,kara,The choice between love and light
 Dialogue: 0,0:00:53.24,0:00:56.20,ED1,eng,0,0,0,kara,Will always cast doubt upon your mind
 Dialogue: 0,0:00:56.24,0:01:03.00,ED1,eng,0,0,0,kara,Now rise up once more
