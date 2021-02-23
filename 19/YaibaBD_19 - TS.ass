@@ -131,7 +131,8 @@ Dialogue: 1,0:11:27.29,0:11:36.05,Sign,,0,0,0,,{\an4\pos(784.709,621.809)\fscx45
 Dialogue: 1,0:11:27.29,0:11:36.05,Sign,,0,0,0,,{\an4\pos(919.826,931.389)\fscx54\fscy64.8\frz336.1\fax0.2\fnClose your eyes\fs200\fsp10\bord1\c&H2D2020&\3c&H2D2020&\3a&H00&\4a&H00&\blur0.8}Five
 Dialogue: 1,0:11:27.29,0:11:36.05,Sign,,0,0,0,,{\an4\pos(784.709,621.809)\fscx45\fscy53\frz343.3\fax0.2\fnClose your eyes\fs200\fsp10\c&H2D2020&\3a&H00&\4a&HFF&\blur0.8}Waning
 Dialogue: 1,0:11:27.29,0:11:36.05,Sign,,0,0,0,,{\an4\pos(919.826,931.389)\fscx54\fscy64.8\frz336.1\fax0.2\fnClose your eyes\fs200\fsp10\c&H2D2020&\3a&H00&\4a&HFF&\blur0.8}Five
-Comment: 1,0:11:38.55,0:11:38.59,Sign,,0,0,0,,Feels weird to skip specifically this unmoving shot.
+Dialogue: 1,0:11:38.55,0:11:38.59,Eye Sign,,0,0,0,,{\c&H0B0706&\3c&H0B0706&\4c&H0B0706&\1a&HFE&\3a&HFE&\yshad0.01\bord0.1\org(383.1,159.2)\fry-10.14\frx-4.57\frz21.08\fs11\pos(359.04,491.79)\blur0.8}Waning
+Dialogue: 1,0:11:38.55,0:11:38.59,Eye Sign,,0,0,0,,{\c&H0B0706&\3c&H0B0706&\4c&H0B0706&\1a&HFE&\3a&HFE&\yshad0.01\bord0.1\org(383.1,159.2)\fry-10.14\frx-4.57\frz21.08\fs11\blur0.8\pos(367.95,509.06)}Fi{\4c&H463F30&}ve
 Dialogue: 1,0:11:48.72,0:11:51.98,Sign,,0,0,0,,{\an6\pos(1604.799,534.967)\fscx136.94\fscy156.64\frz354.8\fncreation\fs20\c&H0D0607&\3a&H00&\4a&HFF&\blur0.8}Waning
 Dialogue: 1,0:11:48.72,0:11:51.98,Sign,,0,0,0,,{\an6\pos(1579.467,603.566)\fscx136.94\fscy156.64\frz352.5\fncreation\fs20\c&H0D0607&\3a&H00&\4a&HFF&\blur0.8}Five
 Dialogue: 1,0:11:48.72,0:11:51.98,Sign,,0,0,0,,{\an6\pos(1604.799,534.967)\fscx136.94\fscy156.64\frz354.8\fncreation\fs20\c&H0D0607&\3a&H00&\4a&HFF&\blur0.8}Waning
