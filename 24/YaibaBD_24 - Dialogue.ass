@@ -102,12 +102,12 @@ Dialogue: 10,0:05:20.88,0:05:25.30,Default,,0,0,0,,{\q2}Well, how about we start
 Dialogue: 10,0:05:25.76,0:05:28.18,Default,,0,0,0,,Rehabilitation Training?
 Dialogue: 10,0:05:28.39,0:05:29.23,Default,,0,0,0,,Yes!
 Dialogue: 10,0:05:29.81,0:05:31.81,Default,,0,0,0,,I'm sorry for being so weak...
-Dialogue: 10,0:05:33.60,0:05:37.44,Default,,0,0,0,,{\q2\i1}Tanjirou and Inosuke were taken away \Nby the Hashira, Lady Shinobu,
+Dialogue: 10,0:05:33.60,0:05:37.44,Default,,0,0,0,,{\i1\q2}Tanjirou and Inosuke were taken away \Nby the Hashira, Lady Shinobu,
 Dialogue: 10,0:05:37.44,0:05:40.57,Default,,0,0,0,,{\i1}and started some kind of "Rehabilitation Training".
 Dialogue: 10,0:05:41.24,0:05:45.07,Default,,0,0,0,,{\i1}Lady Shinobu's voice is like no other.
 Dialogue: 10,0:05:45.07,0:05:47.33,Default,,0,0,0,,{\i1}I don't think I've ever heard anything like it.
 Dialogue: 10,0:05:47.91,0:05:50.58,Default,,0,0,0,,{\i1}It's irregular, and that scares me a little.
-Dialogue: 10,0:05:50.96,0:05:56.09,Default,,0,0,0,,{\q2}{\i1}But she seemed like a goddess back when she \Ntreated all those people that turned into spiderlings.
+Dialogue: 10,0:05:50.96,0:05:56.09,Default,,0,0,0,,{\i1\q2}But she seemed like a goddess back when she \Ntreated all those people that turned into spiderlings.
 Dialogue: 10,0:05:56.09,0:05:59.84,Default,,0,0,0,,{\i1}No wonder everyone crawled to her in tears.
 Dialogue: 10,0:06:00.30,0:06:03.30,Default,,0,0,0,,{\i1}Not only that, but she's cute beyond compare!
 Dialogue: 10,0:06:03.30,0:06:05.85,Default,,0,0,0,,{\i1}I bet she could make a living on her looks alone.
@@ -205,15 +205,15 @@ Dialogue: 10,0:10:48.34,0:10:49.71,Default,,0,0,0,,{\i1}For the next five days,
 Dialogue: 10,0:10:50.09,0:10:52.59,Default,,0,0,0,,{\i1}my losing streak against Kanao kept racking up.
 Dialogue: 10,0:10:53.72,0:10:54.72,Default,,0,0,0,,{\i1}As did Inosuke's.
 Dialogue: 10,0:10:55.89,0:10:56.97,Default,,0,0,0,,{\i1}Zenitsu's, too.
-Dialogue: 10,0:10:57.72,0:11:01.22,Default,,0,0,0,,{\q2\i1}We couldn't so much as lay a finger \Non a strand of her hair.
-Dialogue: 10,0:11:01.97,0:11:05.27,Default,,0,0,0,,{\q2\i1}And then one day, the other two \Nstopped coming to the dojo entirely.
+Dialogue: 10,0:10:57.72,0:11:01.22,Default,,0,0,0,,{\i1\q2}We couldn't so much as lay a finger \Non a strand of her hair.
+Dialogue: 10,0:11:01.97,0:11:05.27,Default,,0,0,0,,{\i1\q2}And then one day, the other two \Nstopped coming to the dojo entirely.
 Dialogue: 10,0:11:05.98,0:11:08.23,Default,,0,0,0,,Z-Zenitsu? Inosuke?
 Dialogue: 10,0:11:11.07,0:11:12.61,Default,,0,0,0,,Please train me!
 Dialogue: 10,0:11:16.07,0:11:18.57,Default,,0,0,0,,Thank you for the good workout.
 Dialogue: 10,0:11:22.62,0:11:24.50,Default,,0,0,0,,{\i1}Why can't I beat her?
 Dialogue: 10,0:11:25.04,0:11:27.25,Default,,0,0,0,,{\i1}What gives her the edge over me?
 Dialogue: 10,0:11:27.63,0:11:30.92,Default,,0,0,0,,{\i1}Let's see. Her reflexes are way faster.
-Dialogue: 10,0:11:30.92,0:11:33.80,Default,,0,0,0,,{\q2\i1}Even if I were in top form, \NI'd probably be no match for her.
+Dialogue: 10,0:11:30.92,0:11:33.80,Default,,0,0,0,,{\i1\q2}Even if I were in top form, \NI'd probably be no match for her.
 Dialogue: 10,0:11:34.26,0:11:36.22,Default,,0,0,0,,{\i1}Her scent is totally different.
 Dialogue: 10,0:11:36.59,0:11:39.43,Default,,0,0,0,,{\i1}It reminds me of the scent of the Hashira.
 Dialogue: 10,0:11:37.80,0:11:39.43,Default,,0,0,0,,{\an8}Master Tanjirou?
@@ -252,29 +252,29 @@ Dialogue: 10,0:13:12.98,0:13:13.98,Default,,0,0,0,,Yup!
 Dialogue: 10,0:13:13.98,0:13:15.82,Default,,0,0,0,,I think I did a splendid job.
 Dialogue: 10,0:13:15.82,0:13:18.15,Default,,0,0,0,,Just tell 'em my injury's taken a turn for the worse!
 Dialogue: 10,0:13:18.15,0:13:19.95,Default,,0,0,0,,Hey, Kakushi lady over there!
-Dialogue: 10,0:13:19.95,0:13:22.07,Default,,0,0,0,,Would you like to have some tea with me?
+Dialogue: 10,0:13:19.95,0:13:22.07,Default,,0,0,0,,How's a drink with me sound?
 Dialogue: 10,0:13:29.33,0:13:31.12,Default,,0,0,0,,{\i1}Total Concentration Breathing.
 Dialogue: 10,0:13:31.83,0:13:33.54,Default,,0,0,0,,{\i1}From dawn to dusk, and even in my sleep.
 Dialogue: 10,0:13:33.54,0:13:37.21,Default,,0,0,0,,{\i1}I said I'd try to keep it up around the clock.
 Dialogue: 10,0:13:39.67,0:13:41.55,Default,,0,0,0,,{\i1}But there's no way I can do that!
 Dialogue: 10,0:13:41.55,0:13:43.09,Default,,0,0,0,,{\i1}I seriously can't!
-Dialogue: 10,0:13:43.09,0:13:48.14,Default,,0,0,0,,{\i1}If I try keeping it up for prolonged amounts of time, \NI just end up feeling like I'm on the verge of death!
+Dialogue: 10,0:13:43.09,0:13:48.14,Default,,0,0,0,,{\i1\q2}If I try to keep it up for a long time, \Nit just makes me feel like I'm about to die!
 Dialogue: 10,0:13:48.14,0:13:49.77,Default,,0,0,0,,{\i1}The toll is too much for me to endure.
 Dialogue: 10,0:13:49.77,0:13:53.77,Default,,0,0,0,,{\i1}My lungs and ears hurt! \NMy ears are ringing like crazy!
 Dialogue: 10,0:13:53.77,0:13:55.15,Default,,0,0,0,,{\i1}My eardrums!
 Dialogue: 10,0:13:58.90,0:14:00.78,Default,,0,0,0,,{\i1}That scared the heck out of me!
-Dialogue: 10,0:14:00.78,0:14:05.03,Default,,0,0,0,,{\i1}I thought my heart was about to \Ncome out through my eardrums!
-Dialogue: 10,0:14:05.24,0:14:08.24,Default,,0,0,0,,{\i1}I'll never make it at this rate!
+Dialogue: 10,0:14:00.78,0:14:05.03,Default,,0,0,0,,{\i1\q2}I thought my heart was about to \Ncome out through my eardrums!
+Dialogue: 10,0:14:05.24,0:14:08.24,Default,,0,0,0,,{\i1}This endeavour is gonna be fruitless at this rate!
 Dialogue: 10,0:14:08.24,0:14:10.62,Default,,0,0,0,,{\i1}When in doubt, return to the basics!
 Dialogue: 10,0:14:11.25,0:14:12.96,Default,,0,0,0,,You spineless fool!
 Dialogue: 10,0:14:18.75,0:14:20.34,Default,,0,0,0,,{\i1}Breathing is all about lung capacity.
-Dialogue: 10,0:14:20.96,0:14:24.55,Default,,0,0,0,,{\i1}If I can't get the hang of it, \Nthat means my lungs are too weak.
+Dialogue: 10,0:14:20.96,0:14:24.55,Default,,0,0,0,,{\i1\q2}If I can't get the hang of it, \Nthat means my lungs are too weak.
 Dialogue: 10,0:14:24.55,0:14:25.89,Default,,0,0,0,,{\i1}I have to improve it!
 Dialogue: 10,0:14:26.22,0:14:28.47,Default,,0,0,0,,{\i1}I have to give it my all.
-Dialogue: 10,0:14:28.47,0:14:30.02,Default,,0,0,0,,{\i1}That's always been how I did it!
-Dialogue: 10,0:14:30.77,0:14:33.35,Default,,0,0,0,,{\i1}Hard work is a daily process!
-Dialogue: 10,0:14:33.35,0:14:36.52,Default,,0,0,0,,{\i1}Slow and steady wins the race! \NI just need to take one step at a time.
-Dialogue: 10,0:14:36.81,0:14:37.94,Default,,0,0,0,,Right!
+Dialogue: 10,0:14:28.47,0:14:30.02,Default,,0,0,0,,{\i1}That's how I've always managed!
+Dialogue: 10,0:14:30.77,0:14:33.35,Default,,0,0,0,,{\i1}Improvement is a daily process!
+Dialogue: 10,0:14:33.35,0:14:36.52,Default,,0,0,0,,{\i1\q2}Slow and steady wins the race! \NI've gotta take it one step at a time.
+Dialogue: 10,0:14:36.81,0:14:37.94,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:14:38.65,0:14:41.90,Default,,0,0,0,,Master Tanjirou works hard every day!
 Dialogue: 10,0:14:41.90,0:14:44.66,Default,,0,0,0,,Yeah! Let's bring him some rice balls, okay?
 Dialogue: 10,0:14:44.66,0:14:47.45,Default,,0,0,0,,Good idea! And also...
@@ -283,18 +283,18 @@ Dialogue: 10,0:14:50.45,0:14:51.70,Default,,0,0,0,,That's right.
 Dialogue: 10,0:14:51.70,0:14:54.12,Default,,0,0,0,,Whenever she trained Lady Kanao,
 Dialogue: 10,0:14:54.12,0:14:57.67,Default,,0,0,0,,Lady Shinobu often had her blow into gourds.
 Dialogue: 10,0:14:57.67,0:14:58.96,Default,,0,0,0,,Oh, really?
-Dialogue: 10,0:15:00.17,0:15:02.17,Default,,0,0,0,,That's an interesting training technique, huh?
+Dialogue: 10,0:15:00.17,0:15:02.17,Default,,0,0,0,,That's an interesting technique, huh?
 Dialogue: 10,0:15:02.17,0:15:04.22,Default,,0,0,0,,What kind of sound are you supposed to make?
-Dialogue: 10,0:15:04.42,0:15:05.59,Default,,0,0,0,,Oh, no. Not that.
+Dialogue: 10,0:15:04.42,0:15:05.59,Default,,0,0,0,,Oh, no. Not like that.
 Dialogue: 10,0:15:05.59,0:15:08.85,Default,,0,0,0,,She blew into it to make it explode.
 Dialogue: 10,0:15:08.85,0:15:10.39,Default,,0,0,0,,Oh, really?
-Dialogue: 10,0:15:10.72,0:15:12.35,Default,,0,0,0,,{\i1}Explode?
+Dialogue: 10,0:15:10.85,0:15:12.35,Default,,0,0,0,,{\i1}Explode?
 Dialogue: 10,0:15:12.35,0:15:15.06,Default,,0,0,0,,What? You mean you blow these up?
 Dialogue: 10,0:15:16.65,0:15:18.11,Default,,0,0,0,,Something this hard?
 Dialogue: 10,0:15:18.11,0:15:19.06,Default,,0,0,0,,Yes!
 Dialogue: 10,0:15:19.06,0:15:22.03,Default,,0,0,0,,Not to mention, this is a special gourd,
 Dialogue: 10,0:15:22.03,0:15:24.74,Default,,0,0,0,,so it's tougher than normal ones.
-Dialogue: 10,0:15:24.95,0:15:28.74,Default,,0,0,0,,{\i1}A girl that petite was able to \Nblow up such strong gourds?
+Dialogue: 10,0:15:24.95,0:15:28.74,Default,,0,0,0,,{\i1\q2}A girl that petite was able to \Nblow up such strong gourds?
 Dialogue: 10,0:15:28.95,0:15:32.91,Default,,0,0,0,,The gourds get bigger and bigger the better you get.
 Dialogue: 10,0:15:32.91,0:15:36.75,Default,,0,0,0,,The biggest one Lady Kanao can blow up
 Dialogue: 10,0:15:37.71,0:15:39.25,Default,,0,0,0,,is this one.
@@ -304,29 +304,29 @@ Dialogue: 10,0:15:43.38,0:15:45.13,Default,,0,0,0,,They're not coming today, eit
 Dialogue: 10,0:15:45.42,0:15:46.76,Default,,0,0,0,,I'm so sorry.
 Dialogue: 10,0:15:46.76,0:15:48.72,Default,,0,0,0,,I'll bring them tomorrow.
 Dialogue: 10,0:15:48.72,0:15:50.14,Default,,0,0,0,,Again, I'm really sorry.
-Dialogue: 10,0:15:50.43,0:15:53.77,Default,,0,0,0,,No. You need not concern yourself \Nwith those two anymore!
+Dialogue: 10,0:15:50.43,0:15:53.77,Default,,0,0,0,,{\q2}No. You need not concern yourself \Nwith those two anymore!
 Dialogue: 10,0:15:54.47,0:15:56.14,Default,,0,0,0,,I'll work hard.
 Dialogue: 10,0:15:56.14,0:15:57.60,Default,,0,0,0,,I'll work hard!
-Dialogue: 10,0:15:59.48,0:16:02.86,Default,,0,0,0,,{\i1}While throwing myself into the drills \Nthat Master Urokodaki pounded into me,
+Dialogue: 10,0:15:59.48,0:16:02.86,Default,,0,0,0,,{\i1\q2}While throwing myself into the drills \NMaster Urokodaki pounded into me,
 Dialogue: 10,0:16:03.11,0:16:05.74,Default,,0,0,0,,{\i1}I'm also trying to maintain my Breathing Technique.
-Dialogue: 10,0:16:05.74,0:16:09.74,Default,,0,0,0,,{\i1}I imagine myself running down the mountain \Nand race all around the mansion's garden!
-Dialogue: 10,0:16:09.95,0:16:14.24,Default,,0,0,0,,{\i1}All the obstacles are stand-ins \Nfor the trees on that mountain!
+Dialogue: 10,0:16:05.74,0:16:09.74,Default,,0,0,0,,{\i1\q2}I imagine myself running down the mountain \Nand race all around the mansion's garden!
+Dialogue: 10,0:16:09.95,0:16:14.24,Default,,0,0,0,,{\i1\q2}All the obstacles are stand-ins \Nfor the trees on that mountain!
 Dialogue: 10,0:16:14.24,0:16:15.04,Default,,0,0,0,,Hard work!
 Dialogue: 10,0:16:17.04,0:16:21.75,Default,,0,0,0,,Hard work!
-Dialogue: 10,0:16:23.05,0:16:24.76,Default,,0,0,0,,{\i1}I've regained most of my stamina.
-Dialogue: 10,0:16:25.71,0:16:30.76,Default,,0,0,0,,{\i1}And now I can run farther than I could before, \Nand my lungs are getting stronger!
+Dialogue: 10,0:16:23.05,0:16:24.76,Default,,0,0,0,,{\i1}I've regained most of my strength.
+Dialogue: 10,0:16:25.71,0:16:30.76,Default,,0,0,0,,{\i1\q2}And now I can run farther than before, \Nand my lungs have also gotten stronger!
 Dialogue: 10,0:16:30.76,0:16:32.26,Default,,0,0,0,,{\i1}I'm making good progress!
-Dialogue: 10,0:16:32.60,0:16:37.43,Default,,0,0,0,,{\i1}During the day, I run all over the place and \Nput my lungs into overdrive with swift movements.
+Dialogue: 10,0:16:32.60,0:16:37.43,Default,,0,0,0,,{\i1\q2}During the day, I run all over the place and \Nput my lungs into overdrive with swift movements.
 Dialogue: 10,0:16:37.43,0:16:38.73,Default,,0,0,0,,{\i1}So now, I'll breathe in slowly.
 Dialogue: 10,0:16:39.44,0:16:41.77,Default,,0,0,0,,{\i1}Take slow, deep breaths
 Dialogue: 10,0:16:41.77,0:16:44.23,Default,,0,0,0,,{\i1}and send air all the way to my fingertips.
 Dialogue: 10,0:16:44.78,0:16:47.44,Default,,0,0,0,,{\i1}Meditation boosts concentration.
 Dialogue: 10,0:16:48.07,0:16:49.95,Default,,0,0,0,,{\i1}Master Urokodaki said so himself.
 Dialogue: 10,0:16:51.53,0:16:52.82,Default,,0,0,0,,{\i1}Master Urokodaki...
-Dialogue: 10,0:16:53.49,0:16:57.29,Default,,0,0,0,,{\i1}How dare you break my sword!
+Dialogue: 10,0:16:53.49,0:16:57.29,Default,,0,0,0,,How dare you break my sword!
 Dialogue: 10,0:16:57.75,0:16:59.33,Default,,0,0,0,,{\i1}Please forgive me.
-Dialogue: 10,0:16:59.79,0:17:02.75,Default,,0,0,0,,{\i1}They're reforging my sword for me now,
-Dialogue: 10,0:17:03.04,0:17:05.25,Default,,0,0,0,,{\i1}but I apologise from the bottom of my heart.
+Dialogue: 10,0:16:59.79,0:17:02.75,Default,,0,0,0,,{\i1}They're reforging my sword for me now, but...
+Dialogue: 10,0:17:03.04,0:17:05.25,Default,,0,0,0,,{\i1}I apologise from the bottom of my heart.
 Dialogue: 10,0:17:06.76,0:17:09.17,Default,,0,0,0,,{\i1}Concentrate! You need to concentrate!
 Dialogue: 10,0:17:09.17,0:17:10.93,Default,,0,0,0,,{\i1}Concentrate on your breathing!
 Dialogue: 10,0:17:11.30,0:17:12.30,Default,,0,0,0,,Yoo-hoo!
@@ -334,10 +334,10 @@ Dialogue: 10,0:17:12.80,0:17:14.14,Default,,0,0,0,,Yoo-hoo!
 Dialogue: 10,0:17:14.35,0:17:16.97,Default,,0,0,0,,Yoo-hoo!
 Dialogue: 10,0:17:17.39,0:17:18.14,Default,,0,0,0,,Yes?
 Dialogue: 10,0:17:18.14,0:17:19.94,Default,,0,0,0,,I can see you're working very hard.
-Dialogue: 10,0:17:21.98,0:17:25.48,Default,,0,0,0,,Even though your friends went off somewhere...
+Dialogue: 10,0:17:21.98,0:17:25.48,Default,,0,0,0,,Even though your friends ran off somewhere.
 Dialogue: 10,0:17:27.99,0:17:30.07,Default,,0,0,0,,Don't you feel lonely all by yourself?
-Dialogue: 10,0:17:30.49,0:17:35.20,Default,,0,0,0,,No! Because once I've mastered it myself, \NI can teach them how to do it, too!
-Dialogue: 10,0:17:36.24,0:17:38.75,Default,,0,0,0,,You really have a pure soul.
+Dialogue: 10,0:17:30.49,0:17:35.20,Default,,0,0,0,,{\q2}No! Because once I've mastered it myself, \NI can teach them how to do it, too!
+Dialogue: 10,0:17:36.24,0:17:38.75,Default,,0,0,0,,You really are one of pure heart.
 Dialogue: 10,0:17:42.87,0:17:43.75,Default,,0,0,0,,Hey,
 Dialogue: 10,0:17:44.13,0:17:47.42,Default,,0,0,0,,why did you take us all here?
 Dialogue: 10,0:17:48.51,0:17:51.97,Default,,0,0,0,,Nezuko's situation has officially been acknowledged,
@@ -347,63 +347,63 @@ Dialogue: 10,0:17:59.06,0:18:03.23,Default,,0,0,0,,I'd like to entrust my dream 
 Dialogue: 10,0:18:04.02,0:18:04.94,Default,,0,0,0,,Dream?
 Dialogue: 10,0:18:05.31,0:18:06.27,Default,,0,0,0,,Yes.
 Dialogue: 10,0:18:07.36,0:18:09.61,Default,,0,0,0,,My dream for humans to befriend the demons.
-Dialogue: 10,0:18:09.99,0:18:12.11,Default,,0,0,0,,I'm sure that if anyone can \Naccomplish that, it'd be you guys.
+Dialogue: 10,0:18:09.99,0:18:12.11,Default,,0,0,0,,I'm sure if anyone could do it, it'd be you guys.
 Dialogue: 10,0:18:19.54,0:18:21.04,Default,,0,0,0,,Are you angry?
 Dialogue: 10,0:18:22.58,0:18:25.46,Default,,0,0,0,,I always pick up this angry scent from you
-Dialogue: 10,0:18:26.08,0:18:27.71,Default,,0,0,0,,even though you're always smiling.
+Dialogue: 10,0:18:26.08,0:18:27.71,Default,,0,0,0,,but you're always smiling.
 Dialogue: 10,0:18:31.72,0:18:32.84,Default,,0,0,0,,Yes.
 Dialogue: 10,0:18:33.55,0:18:35.01,Default,,0,0,0,,You're right.
-Dialogue: 10,0:18:35.34,0:18:38.26,Default,,0,0,0,,It might be true that I'm \Nin a constant state of anger.
+Dialogue: 10,0:18:35.34,0:18:38.26,Default,,0,0,0,,{\q2}It might be true that I'm \Nin a constant state of anger.
 Dialogue: 10,0:18:39.39,0:18:42.73,Default,,0,0,0,,Ever since a demon slaughtered my beloved sister.
-Dialogue: 10,0:18:43.85,0:18:48.23,Default,,0,0,0,,Every time I see the tears of those \Nwho've lost their loved ones to demons,
+Dialogue: 10,0:18:43.85,0:18:48.23,Default,,0,0,0,,{\q2}Every time I see the tears of those \Nwho've lost their loved ones to demons,
 Dialogue: 10,0:18:49.82,0:18:52.32,Default,,0,0,0,,every time I hear those cries of despair,
-Dialogue: 10,0:18:53.32,0:18:58.33,Default,,0,0,0,,the anger keeps building up \Ninside me and continues to swell.
-Dialogue: 10,0:18:58.83,0:19:04.12,Default,,0,0,0,,Deep down in the innermost depths of my body, \Nthere's a revulsion that I can't fight.
-Dialogue: 10,0:19:05.12,0:19:08.21,Default,,0,0,0,,I'm sure the other Hashira feel something similar.
-Dialogue: 10,0:19:09.88,0:19:15.55,Default,,0,0,0,,This time they saw Nezuko, who's never \Ndevoured a human, with their own eyes.
+Dialogue: 10,0:18:53.32,0:18:58.33,Default,,0,0,0,,{\q2}the anger keeps building up \Ninside me and continues to swell.
+Dialogue: 10,0:18:58.83,0:19:04.12,Default,,0,0,0,,{\q2}Deep down in the innermost depths of my body, \Nthere's a revulsion that I can't fight.
+Dialogue: 10,0:19:05.12,0:19:08.21,Default,,0,0,0,,I'm sure the same holds true for the other Hashira.
+Dialogue: 10,0:19:09.88,0:19:15.55,Default,,0,0,0,,{\q2}This time they saw Nezuko, who's never \Ndevoured a human, with their own eyes.
 Dialogue: 10,0:19:15.55,0:19:17.72,Default,,0,0,0,,And they've memorised her presence.
 Dialogue: 10,0:19:18.22,0:19:20.51,Default,,0,0,0,,Out of respect for the Master's wishes,
 Dialogue: 10,0:19:20.51,0:19:23.89,Default,,0,0,0,,I doubt anyone would raise a hand to her.
-Dialogue: 10,0:19:28.90,0:19:32.53,Default,,0,0,0,,My big sister was a kind-hearted person like you.
+Dialogue: 10,0:19:28.90,0:19:32.53,Default,,0,0,0,,My sister was a kind-hearted person, much like you.
 Dialogue: 10,0:19:33.53,0:19:35.49,Default,,0,0,0,,She, too, felt sympathy for demons.
-Dialogue: 10,0:19:36.11,0:19:39.87,Default,,0,0,0,,Even while on the brink of death, \Nshe never stopped pitying them.
+Dialogue: 10,0:19:36.11,0:19:39.87,Default,,0,0,0,,{\q2}Even on the brink of death, \Nshe never stopped pitying them.
 Dialogue: 10,0:19:40.62,0:19:43.66,Default,,0,0,0,,But I was never able to feel that way.
-Dialogue: 10,0:19:44.16,0:19:47.12,Default,,0,0,0,,How can you feel sorry \Nfor something that kills humans?
-Dialogue: 10,0:19:47.12,0:19:49.67,Default,,0,0,0,,I've yet to hear anything equally ridiculous.
+Dialogue: 10,0:19:44.16,0:19:47.12,Default,,0,0,0,,{\q2}How can you feel sorry for \Nsomething that kills humans?
+Dialogue: 10,0:19:47.12,0:19:49.67,Default,,0,0,0,,I've yet to hear anything equally ludicrous.
 Dialogue: 10,0:19:50.38,0:19:54.46,Default,,0,0,0,,But if that was how my sister truly felt,
 Dialogue: 10,0:19:54.46,0:19:56.30,Default,,0,0,0,,then I must carry on that feeling.
-Dialogue: 10,0:19:57.01,0:20:00.55,Default,,0,0,0,,If there's some way to prevent us from \Nhaving to kill those pitiful demons,
+Dialogue: 10,0:19:57.01,0:20:00.55,Default,,0,0,0,,{\q2}If there's a way for us to no longer \Nhave to kill those pitiful demons out there,
 Dialogue: 10,0:20:00.55,0:20:02.64,Default,,0,0,0,,then I must continue searching for it.
-Dialogue: 10,0:20:03.39,0:20:07.10,Default,,0,0,0,,All while preserving that smile my sister loved.
-Dialogue: 10,0:20:07.98,0:20:09.02,Default,,0,0,0,,{\i1}Sister!
-Dialogue: 10,0:20:10.98,0:20:12.52,Default,,0,0,0,,{\i1}Sister!
-Dialogue: 10,0:20:13.23,0:20:14.78,Default,,0,0,0,,{\i1}Sister!
+Dialogue: 10,0:20:03.39,0:20:07.10,Default,,0,0,0,,All without losing that smile my sister always loved.
+Dialogue: 10,0:20:07.98,0:20:09.02,Default,,0,0,0,,{\i1}Kanae! {## no strong feelings on not having "Sister" instead}
+Dialogue: 10,0:20:10.98,0:20:12.52,Default,,0,0,0,,{\i1}Kanae!
+Dialogue: 10,0:20:13.23,0:20:14.78,Default,,0,0,0,,{\i1}Kanae!
 Dialogue: 10,0:20:16.65,0:20:20.24,Default,,0,0,0,,But I'm exhausted.
 Dialogue: 10,0:20:21.95,0:20:23.95,Default,,0,0,0,,Demons do nothing but lie.
 Dialogue: 10,0:20:24.66,0:20:28.54,Default,,0,0,0,,Losing all reason out of self-preservation,
 Dialogue: 10,0:20:28.54,0:20:31.54,Default,,0,0,0,,they murder humans with their instincts laid bare.
 Dialogue: 10,0:20:34.92,0:20:38.13,Default,,0,0,0,,Tanjirou, please continue doing all that you can.
-Dialogue: 10,0:20:38.72,0:20:41.26,Default,,0,0,0,,Please protect Nezuko until the bitter end.
-Dialogue: 10,0:20:42.80,0:20:48.69,Default,,0,0,0,,Knowing that you're working so hard \Nin my place reassures me to no end.
-Dialogue: 10,0:20:49.23,0:20:50.90,Default,,0,0,0,,I can rest easier now.
+Dialogue: 10,0:20:38.72,0:20:41.26,Default,,0,0,0,,Please be there for Nezuko until the bitter end.
+Dialogue: 10,0:20:42.80,0:20:48.69,Default,,0,0,0,,{\q2}Knowing that you're working so hard \Nin my place reassures me to no end.
+Dialogue: 10,0:20:49.23,0:20:50.90,Default,,0,0,0,,It makes me rest easier.
 Dialogue: 10,0:20:54.94,0:20:57.78,Default,,0,0,0,,Your Breathing has come to a halt.
 Dialogue: 10,0:21:05.45,0:21:06.75,Default,,0,0,0,,I'll do my best.
 Dialogue: 10,0:21:07.50,0:21:09.50,Default,,0,0,0,,{\i1}Total Concentration Breathing!
 Dialogue: 10,0:21:13.96,0:21:15.96,Default,,0,0,0,,{\i1}Mom, Hanako,
 Dialogue: 10,0:21:16.38,0:21:17.96,Default,,0,0,0,,{\i1}Takeo, Shigeru,
 Dialogue: 10,0:21:18.42,0:21:19.42,Default,,0,0,0,,{\i1}Rokuta...
-Dialogue: 10,0:21:22.30,0:21:26.31,Default,,0,0,0,,{\i1}I will turn Nezuko back into \Na human no matter what!
+Dialogue: 10,0:21:22.30,0:21:26.31,Default,,0,0,0,,{\i1}I'll restore Nezuko's humanity no matter what!
 Comment: 0,0:22:59.94,0:22:59.94,Default,chapter,0,0,0,,{Outro}
-Dialogue: 10,0:23:02.15,0:23:04.82,Default,,0,0,0,,Sniff, sniff! Lady Shinobu, \Ndid something nice happen to you?
-Dialogue: 10,0:23:04.82,0:23:07.66,Default,,0,0,0,,Yes! Because I've acquired a precious drug.
+Dialogue: 10,0:23:02.15,0:23:04.82,Default,,0,0,0,,{\q2}Sniff, sniff! Miss Shinobu, \Ndid something nice happen to you?
+Dialogue: 10,0:23:04.82,0:23:07.66,Default,,0,0,0,,Yes! I've acquired a precious drug.
 Dialogue: 10,0:23:07.66,0:23:09.37,Default,,0,0,0,,Sniff, sniff! Are you angry?
 Dialogue: 10,0:23:09.37,0:23:12.41,Default,,0,0,0,,Someone keeps swiping the candy from the shelves.
 Dialogue: 10,0:23:12.41,0:23:14.16,Default,,0,0,0,,Sniff, sniff! You're also sad, right?
 Dialogue: 10,0:23:14.16,0:23:16.67,Default,,0,0,0,,There's a disturbance in the mountain behind us.
 Dialogue: 10,0:23:16.67,0:23:19.04,Default,,0,0,0,,Now, time for a Taisho secret!
-Dialogue: 10,0:23:19.04,0:23:21.50,Default,,0,0,0,,Since Aoi has been training under Lady Shinobu,
+Dialogue: 10,0:23:19.04,0:23:21.50,Default,,0,0,0,,Since Aoi has been training under Miss Shinobu,
 Dialogue: 10,0:23:21.50,0:23:24.17,Default,,0,0,0,,I hear she can concoct the simpler medicines!
-Dialogue: 10,0:23:24.17,0:23:27.55,Default,,0,0,0,,Nothing escapes your nose, \Ndoes it, Tanjirou? That's amazing!
+Dialogue: 10,0:23:24.17,0:23:27.55,Default,,0,0,0,,{\q2}Nothing escapes your nose, \Ndoes it, Tanjirou? That's amazing!
 Dialogue: 10,0:23:27.55,0:23:29.10,Default,,0,0,0,,Sniff, sniff! For some reason—
 Dialogue: 10,0:23:29.10,0:23:32.27,Default,,0,0,0,,Because I enjoy talking with you, Tanjirou.
 Dialogue: 10,0:23:32.27,0:23:34.02,Default,,0,0,0,,Thank you so much!
