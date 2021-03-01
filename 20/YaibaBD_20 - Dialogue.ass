@@ -236,7 +236,7 @@ Dialogue: 10,0:16:54.95,0:16:57.37,Default,,0,0,0,,your victims will never recei
 Dialogue: 10,0:16:58.37,0:17:00.46,Default,,0,0,0,,I could gouge out your eyeballs
 Dialogue: 10,0:17:00.96,0:17:04.46,Default,,0,0,0,,or cut your stomach open and play with your insides.
 Dialogue: 10,0:17:04.46,0:17:09.72,Default,,0,0,0,,{\q2}For every person you've killed, \NI'll administer the appropriate amount of torture.
-Dialogue: 10,0:17:09.72,0:17:15.97,Default,,0,0,0,,{\q2}And once you've endured all that pain and suffering, \Nyour sins will be forgiven.{### it'd be really great if one of us could find a way to fit "atone(ment)" somewhere in here}
+Dialogue: 10,0:17:09.72,0:17:15.97,Default,,0,0,0,,{\q2}And once you've endured all that pain and suffering, \Nyou will have atoned for your sins and be forgiven.{### it'd be really great if one of us could find a way to fit "atone(ment)" somewhere in here}{## How's this?}
 Dialogue: 10,0:17:16.18,0:17:18.02,Default,,0,0,0,,Let's both do our best here.
 Dialogue: 10,0:17:18.93,0:17:20.19,Default,,0,0,0,,It'll be fine!
 Dialogue: 10,0:17:20.19,0:17:25.73,Default,,0,0,0,,{\q2}You're a demon, so you don't have to be afraid of me \Nkilling you or leaving you riddled with scars!
