@@ -32,7 +32,7 @@ Dialogue: 10,0:00:47.32,0:00:48.99,Default,,0,0,0,,What are you doing?
 Dialogue: 10,0:00:48.99,0:00:51.24,Default,,0,0,0,,You know you're not supposed to go outside!
 Comment: 0,0:02:22.00,0:02:22.00,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:02:31.34,0:02:33.34,Default,,0,0,0,,{\i1}From the moment I was born,
-Dialogue: 10,0:02:33.97,0:02:35.13,Default,,0,0,0,,{\i1}I'd always been frail.{### not actually sure how the conjugation works here but this seems nicer}
+Dialogue: 10,0:02:33.97,0:02:35.13,Default,,0,0,0,,{\i1}I'd always been frail.{### not actually sure how the conjugation works here but this seems nicer}{## Funny that you say that, because for me 've seems much nicer :lul:}
 Dialogue: 10,0:02:36.97,0:02:38.72,Default,,0,0,0,,{\i1}I was never able to run.
 Dialogue: 10,0:02:39.81,0:02:42.64,Default,,0,0,0,,{\i1}Even walking was a struggle.
 Dialogue: 10,0:02:47.77,0:02:51.03,Default,,0,0,0,,{\i1\q2}But everything changed \Nwhen Lord Muzan appeared.
@@ -134,7 +134,7 @@ Dialogue: 10,0:11:00.26,0:11:01.10,Default,,0,0,0,,Oh-ho?
 Dialogue: 10,0:11:05.60,0:11:08.98,Default,,0,0,0,,{\q2}So, what's your excuse for \Ngetting in my way there, Tomioka?
 Dialogue: 10,0:11:09.73,0:11:13.49,Default,,0,0,0,,{\q2}Weren't you the one who told me man \Nand demon could never become friends?
 Dialogue: 10,0:11:13.49,0:11:15.49,Default,,0,0,0,,I mean, how do I put this...
-Dialogue: 10,0:11:16.16,0:11:17.49,Default,,0,0,0,,This is a good example...
+Dialogue: 10,0:11:16.16,0:11:17.49,Default,,0,0,0,,This is a good example
 Dialogue: 10,0:11:17.99,0:11:20.45,Default,,0,0,0,,of why nobody likes you, y'know?
 Comment: 0,0:11:27.00,0:11:27.00,Default,chapter,0,0,0,,{Part B}
 Dialogue: 10,0:11:46.06,0:11:50.02,Default,,0,0,0,,Man, Lady Kochou's antidote is really effective!
