@@ -276,7 +276,7 @@ Dialogue: 10,0:21:23.72,0:21:25.51,Default,,0,0,0,,You're in the presence of the
 Comment: 0,0:22:59.94,0:23:00.03,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:23:01.94,0:23:05.91,Default,,0,0,0,,{\q2}We've been teaming up on missions \Nquite frequently as of late, haven't we?
 Dialogue: 10,0:23:07.03,0:23:08.83,Default,,0,0,0,,Could you at least answer me, please?
-Dialogue: 10,0:23:08.83,0:23:13.04,Default,,0,0,0,,{\q2}Or are you perhaps still angry at me for \Npointing out that nobody likes you?
+Dialogue: 10,0:23:08.83,0:23:13.04,Default,,0,0,0,,{\q2}Or are you perhaps still angry at me \Nfor pointing out that nobody likes you?
 Dialogue: 10,0:23:14.04,0:23:16.04,Default,,0,0,0,,Don't you have anything to say?
 Dialogue: 10,0:23:16.54,0:23:18.59,Default,,0,0,0,,Time for a Taisho secret.
 Dialogue: 10,0:23:18.59,0:23:22.92,Default,,0,0,0,,{\q2}Apparently, Kochou can't stand cats, \Ndogs, or any kind of furry creature.
