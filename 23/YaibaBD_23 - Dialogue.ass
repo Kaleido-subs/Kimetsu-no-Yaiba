@@ -43,7 +43,7 @@ Dialogue: 10,0:02:41.64,0:02:44.56,Default,,0,0,0,,I like it! Sounds bombastic!
 Dialogue: 10,0:02:44.56,0:02:46.52,Default,,0,0,0,,Come on! Start bursting!
 Dialogue: 10,0:02:49.52,0:02:51.36,Default,,0,0,0,,Poor soul.
 Dialogue: 10,0:02:51.86,0:02:54.65,Default,,0,0,0,,Such a weak, pitiful child.
-Dialogue: 10,0:02:55.07,0:02:57.66,Default,,0,0,0,,Namu Amida Butsu.
+Dialogue: 10,0:02:55.07,0:02:57.66,Default,,0,0,0,,Praise to Amida Buddha.
 Dialogue: 10,0:03:11.13,0:03:12.42,Default,,0,0,0,,Kamado?
 Dialogue: 10,0:03:22.56,0:03:23.81,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:03:35.82,0:03:37.03,Default,,0,0,0,,She's my sister!
@@ -211,7 +211,7 @@ Dialogue: 10,0:13:41.43,0:13:44.43,Default,,0,0,0,,I've got stumps for limbs now
 Dialogue: 10,0:13:44.43,0:13:46.01,Default,,0,0,0,,Is that right?
 Dialogue: 10,0:13:46.43,0:13:47.81,Default,,0,0,0,,Where's Inosuke?
 Dialogue: 10,0:13:47.81,0:13:49.64,Default,,0,0,0,,Have you seen Murata?
-Dialogue: 10,0:13:50.10,0:13:52.85,Default,,0,0,0,,I don't know this Murata bloke,{### ...bloke? I know this is supposed to BrE but}
+Dialogue: 10,0:13:50.10,0:13:52.85,Default,,0,0,0,,I don't know this Murata bloke,{### ...bloke? I know this is supposed to BrE but}{## seems fine to me?}
 Dialogue: 10,0:13:52.85,0:13:55.19,Default,,0,0,0,,but Inosuke's right next to me.
 Dialogue: 10,0:13:56.40,0:13:57.98,Default,,0,0,0,,Hey, you're right!
 Dialogue: 10,0:13:58.40,0:14:00.03,Default,,0,0,0,,He's been here all this time!
