@@ -99,10 +99,10 @@ Dialogue: 0,0:23:37.43,0:23:37.47,Sign,,0,0,0,,{\an2\pos(1079.01,1008.57)\fnFOT 
 Dialogue: 1,0:23:37.43,0:23:37.47,Sign,,0,0,0,,{\an2\pos(1079.01,1008.57)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\3a&H00&\4a&H00&\blur1}To Be Continued
 Dialogue: 2,0:23:37.43,0:23:37.47,Sign,,0,0,0,,{\an2\pos(1079.01,1008.57)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\3a&H00&\4a&HFF&\blur1}To Be Continued
 Dialogue: 3,0:23:37.43,0:23:37.47,Sign,,0,0,0,,{\an2\pos(1079.01,1008.57)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\3a&H00&\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.47,0:23:40.06,Sign,,0,0,0,,{\an2\pos(1081.49,1011.15)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord23\c&H000000&\3c&H080118&\3a&H00&\4a&H00&\blur1}To Be Continued
-Dialogue: 1,0:23:37.47,0:23:40.06,Sign,,0,0,0,,{\an2\pos(1081.49,1011.15)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\3a&H00&\4a&H00&\blur1}To Be Continued
-Dialogue: 2,0:23:37.47,0:23:40.06,Sign,,0,0,0,,{\an2\pos(1081.49,1011.15)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\3a&H00&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.47,0:23:40.06,Sign,,0,0,0,,{\an2\pos(1081.49,1011.15)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\3a&H00&\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:23:37.47,0:23:41.00,Sign,,0,0,0,,{\an2\pos(1081.49,1011.15)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord23\c&H000000&\3c&H080118&\3a&H00&\4a&H00&\blur1}To Be Continued
+Dialogue: 1,0:23:37.47,0:23:41.00,Sign,,0,0,0,,{\an2\pos(1081.49,1011.15)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord13\c&HFFF14C&\3c&HFFF14C&\1a&HFF&\3a&H00&\4a&H00&\blur1}To Be Continued
+Dialogue: 2,0:23:37.47,0:23:41.00,Sign,,0,0,0,,{\an2\pos(1081.49,1011.15)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord8.5\c&H81402F&\3c&H81402F&\1a&HAE&\3a&H00&\4a&HFF&\blur1}To Be Continued
+Dialogue: 3,0:23:37.47,0:23:41.00,Sign,,0,0,0,,{\an2\pos(1081.49,1011.15)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\3a&H00&\4a&HFF&\blur1}To Be Continued
 Dialogue: 2,0:12:46.74,0:12:50.24,Sign,,0,0,0,,{\an2\pos(1057.455,593.707)\fscx26\fscy44\frz328.8\fnsplatter\fs100\c&HEAEAEA&\3a&H00&\blur2}SJDKFHSD\NSDFJHRKJHGT\NEJKSHFKJ
 Dialogue: 2,0:12:46.74,0:12:50.24,Sign,,0,0,0,,{\an2\pos(1091.233,623.929)\fscx26\fscy44\frz328.8\fnsplatter\fs100\c&HEAEAEA&\3a&H00&\blur2}SJDKFHSD\NSDFJHRKJHGT\NEJKSHFKJ
 Dialogue: 1,0:12:46.74,0:12:50.24,Sign,,0,0,0,,{\an2\pos(1055.232,603.04)\fscx17\fscy47\frz328.8\fnsplatter\fs100\c&HD2D4D2&\3a&H00&\blur2}SJDKFHSD\NSDFJHRKJHGT\NEJKSHFKJ
