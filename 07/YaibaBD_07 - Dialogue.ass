@@ -148,7 +148,7 @@ Dialogue: 10,0:15:13.39,0:15:14.43,Default,,0,0,0,,Got it...
 Dialogue: 10,0:15:30.45,0:15:31.87,Default,,0,0,0,,{\i1}It's not just me.
 Dialogue: 10,0:15:33.25,0:15:37.88,Default,,0,0,0,,{\i1\q2}How many people have you killed, \Ntortured, and tormented?
 Dialogue: 10,0:15:39.50,0:15:41.25,Default,,0,0,0,,{\i1}Kibutsuji Muzan,
-Dialogue: 10,0:15:41.84,0:15:45.38,Default,,0,0,0,,{\i1}I will {\i0}never{\i1} forgive you for the misery you've caused!
+Dialogue: 10,0:15:41.84,0:15:45.38,Default,,0,0,0,,{\i1\q2}I {\i0}will{\i1} make you pay \Nfor the misery you've caused!
 Dialogue: 10,0:15:54.39,0:15:57.77,Default,,0,0,0,,Next on the list: Asakusa, Tokyo!
 Dialogue: 10,0:15:57.77,0:16:00.77,Default,,0,0,0,,Rumours speak of a demon lurking there!
 Dialogue: 10,0:16:03.07,0:16:04.82,Default,,0,0,0,,It's time for my next mission already?
