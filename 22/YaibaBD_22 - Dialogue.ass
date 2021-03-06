@@ -185,7 +185,7 @@ Dialogue: 10,0:12:12.71,0:12:14.25,Default,,0,0,0,,has arrived.
 Dialogue: 10,0:12:48.58,0:12:50.29,Default,,0,0,0,,Good morning, everyone.
 Dialogue: 10,0:12:50.75,0:12:53.00,Default,,0,0,0,,The weather is splendid today.
 Dialogue: 10,0:12:54.71,0:12:56.80,Default,,0,0,0,,I wonder if the sky is blue.
-Dialogue: 10,0:12:57.34,0:13:04.26,Default,,0,0,0,,{\q2}It pleases me that we've made it to our semiannual{### biannual is technically still correct here, but it's misused often enough to be ambiguous} \NHashira Meeting with no personnel changes.
+Dialogue: 10,0:12:57.34,0:13:04.26,Default,,0,0,0,,{\q2}It pleases me that we've made it to our semi-annual{### biannual is technically still correct here, but it's misused often enough to be ambiguous}{## Sure, although I don't think other people misusing it means we should avoid it when we're using it correctly} \NHashira Meeting with no personnel changes.
 Dialogue: 10,0:13:05.85,0:13:07.18,Default,,0,0,0,,{\i1}Those scars...
 Dialogue: 10,0:13:07.18,0:13:08.85,Default,,0,0,0,,{\i1}No wait, is it an illness?
 Dialogue: 10,0:13:09.73,0:13:11.60,Default,,0,0,0,,{\i1}So that man's the Master?
@@ -294,7 +294,7 @@ Dialogue: 10,0:23:02.36,0:23:05.91,Default,,0,0,0,,{\q2}Imagine, Shinazugawa fal
 Dialogue: 10,0:23:05.91,0:23:07.70,Default,,0,0,0,,That was a mighty fine headbutt!
 Dialogue: 10,0:23:07.70,0:23:09.74,Default,,0,0,0,,Yeah! It made quite the magnificent sound!
 Dialogue: 10,0:23:09.74,0:23:11.20,Default,,0,0,0,,How painful it must've been...
-Dialogue: 10,0:23:11.20,0:23:12.54,Default,,0,0,0,,Praise to Amida Buddha.{### inconsistent with 23 @ 02:55}
+Dialogue: 10,0:23:11.20,0:23:12.54,Default,,0,0,0,,Praise to Amida Buddha.{### inconsistent with 23 @ 02:55}{## Changed in 23}
 Dialogue: 10,0:23:12.54,0:23:15.83,Default,,0,0,0,,{\q2}But the way that boy stood up \Nto a Hashira was so brave!
 Dialogue: 10,0:23:15.83,0:23:17.33,Default,,0,0,0,,What is this, a free-for-all?
 Dialogue: 10,0:23:17.33,0:23:20.17,Default,,0,0,0,,{\q2}You know I could've dodged it \Nif Tomioka hadn't distracted me!
@@ -303,4 +303,4 @@ Dialogue: 10,0:23:22.30,0:23:24.09,Default,,0,0,0,,I see none of you have change
 Dialogue: 10,0:23:24.09,0:23:26.68,Default,,0,0,0,,And now, time for a Taisho secret!
 Dialogue: 10,0:23:26.68,0:23:30.01,Default,,0,0,0,,{\q2}The first one among us to speak \Ngets to greet the Master,
 Dialogue: 10,0:23:30.01,0:23:33.43,Default,,0,0,0,,{\q2}so we all had butterflies in our stomachs \Nuntil the Master got here!
-Dialogue: 10,0:23:33.85,0:23:37.73,Default,,0,0,0,,{\q2}Oh, next, Episode 23, \N"The Hashira's Meeting".{inconsistent with 22 ("Meeting"), and also just weird to use a possessive like this}
+Dialogue: 10,0:23:33.85,0:23:37.73,Default,,0,0,0,,{\q2}Oh, next, Episode 23, \N"The Hashira's Meeting".{inconsistent with 22 ("Meeting"), and also just weird to use a possessive like this}{## Other sources use "Hashira Meeting". We can change it to that if we'd rather do that.}
