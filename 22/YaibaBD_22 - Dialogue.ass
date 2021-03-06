@@ -98,8 +98,8 @@ Dialogue: 10,0:05:34.19,0:05:37.98,Default,,0,0,0,,{\i1}Iguro's as serpent-like 
 Dialogue: 10,0:05:37.98,0:05:40.11,Default,,0,0,0,,{\i1}I absolutely adore how pesky you are!
 Dialogue: 10,0:05:46.58,0:05:50.41,Default,,0,0,0,,{\i1\q2}Meanwhile, Tomioka's keeping \Nhis distance all the way over there!
 Dialogue: 10,0:05:50.41,0:05:52.08,Default,,0,0,0,,{\i1}He's {\i0}sooo{\i1} cute!
-Dialogue: 10,0:05:54.08,0:05:56.00,Default,,0,0,0,,Oh, where's the harm?
-Dialogue: 10,0:05:56.00,0:05:58.38,Default,,0,0,0,,He came along without resisting.
+Dialogue: 10,0:05:54.08,0:05:56.00,Default,,0,565,0,,Oh, where's the harm?
+Dialogue: 10,0:05:56.00,0:05:58.38,Default,,0,565,0,,He came along without resisting.
 Dialogue: 10,0:05:59.21,0:06:01.63,Default,,0,0,0,,We can debate a suitable punishment later.
 Dialogue: 10,0:06:05.22,0:06:09.52,Default,,0,0,0,,{\q2}I'm much more interested in \Nhearing this boy's side of the story.
 Dialogue: 10,0:06:10.14,0:06:12.64,Default,,0,0,0,,Why does he act as a Demon Slayer?
@@ -118,7 +118,7 @@ Dialogue: 10,0:07:09.91,0:07:13.70,Default,,0,0,0,,Your jaw's busted, so please 
 Dialogue: 10,0:07:14.71,0:07:17.75,Default,,0,0,0,,I've mixed in a painkiller, so you'll feel better soon.
 Dialogue: 10,0:07:25.26,0:07:28.89,Default,,0,0,0,,{\q2}It's not like it heals your wounds, \Nso you mustn't push yourself.
 Dialogue: 10,0:07:30.47,0:07:33.14,Default,,0,0,0,,Well then, Kamado Tanjirou...
-Dialogue: 10,0:07:37.14,0:07:39.27,Default,,0,0,0,,That demon is my little sister!
+Dialogue: 10,0:07:37.14,0:07:39.27,Default,,0,0,0,,That demon is my little sister.
 Dialogue: 10,0:07:39.94,0:07:42.69,Default,,0,0,0,,While I was out, a demon attacked my family.
 Dialogue: 10,0:07:42.69,0:07:44.90,Default,,0,0,0,,By the time I got home, everyone was dead!
 Dialogue: 10,0:07:45.57,0:07:49.07,Default,,0,0,0,,{\q2}My sister became a demon back then, \Nbut she's never eaten anyone!
@@ -132,7 +132,7 @@ Dialogue: 10,0:08:05.63,0:08:07.93,Default,,0,0,0,,I, for one, don't believe you
 Dialogue: 10,0:08:09.80,0:08:12.05,Default,,0,0,0,,She's been possessed by a demon.
 Dialogue: 10,0:08:12.64,0:08:16.64,Default,,0,0,0,,{\q2}Let us kill this poor child post-haste \Nso she may be liberated!
 Dialogue: 10,0:08:17.48,0:08:19.27,Default,,0,0,0,,Hear me out, please!
-Dialogue: 10,0:08:19.27,0:08:22.77,Default,,0,0,0,,I became a swordsman so I can cure Nezuko!
+Dialogue: 10,0:08:19.27,0:08:22.77,Default,,0,0,0,,I took up the sword so I can cure Nezuko!
 Dialogue: 10,0:08:22.77,0:08:26.40,Default,,0,0,0,,It's been two years since Nezuko became a demon!
 Dialogue: 10,0:08:26.40,0:08:29.32,Default,,0,0,0,,And in all that time, she hasn't eaten a single human!
 Dialogue: 10,0:08:29.78,0:08:33.49,Default,,0,0,0,,Your story hinges on vapid circular logic, dimwit.
@@ -162,21 +162,21 @@ Dialogue: 10,0:10:03.83,0:10:07.80,Default,,0,0,0,,Shinazugawa, please don't act
 Dialogue: 10,0:10:08.09,0:10:10.26,Default,,0,0,0,,What was that about this demon, kid?
 Dialogue: 10,0:10:11.55,0:10:15.30,Default,,0,0,0,,She can act as a Demon Slayer? Protect humans?
 Dialogue: 10,0:10:15.64,0:10:17.56,Default,,0,0,0,,You know what we call that?
-Dialogue: 10,0:10:18.68,0:10:21.14,Default,,0,0,0,,Being delusional, jackass!
-Dialogue: 10,0:10:28.73,0:10:31.44,Default,,0,0,0,,Hashira or not, I don't care!
-Dialogue: 10,0:10:31.44,0:10:34.53,Default,,0,0,0,,If you hurt Nezuko, I {\i1}will{\i0} make you pay!
+Dialogue: 10,0:10:18.68,0:10:21.14,Default,,0,0,0,,A delusion, jackass!
+Dialogue: 10,0:10:28.73,0:10:31.44,Default,,0,0,0,,Keep your hands off {of }my sister!
+Dialogue: 10,0:10:31.44,0:10:34.53,Default,,0,0,0,,Hashira or not, I {\i1}will{\i0} make you pay!
 Dialogue: 10,0:10:39.12,0:10:41.41,Default,,0,0,0,,That so? Good for you!
 Dialogue: 10,0:10:43.29,0:10:44.29,Default,,0,0,0,,Stop!
 Dialogue: 10,0:10:44.29,0:10:46.92,Default,,0,0,0,,The Master will be arriving soon!
 Dialogue: 10,0:11:05.85,0:11:07.40,Default,,0,0,0,,Sorry.
 Dialogue: 10,0:11:11.61,0:11:12.90,Default,,0,0,0,,Damn you!
-Dialogue: 10,0:11:13.90,0:11:19.66,Default,,0,0,0,,{\i1\q2}Tomioka may have intervened, but I'm still surprised \Nhe managed to land a blow on Shinazugawa.
+Dialogue: 10,0:11:13.90,0:11:19.66,Default,,0,0,0,,{\i1\q2}Tomioka may have intervened, but I'm still surprised \Nthis kid managed to land a hit on Shinazugawa.
 Dialogue: 10,0:11:20.66,0:11:24.20,Default,,0,0,0,,{\q2}If you can't even tell the difference between \Na good demon and a bad demon,
 Dialogue: 10,0:11:24.58,0:11:26.71,Default,,0,0,0,,then you have no business being a Hashira!
 Dialogue: 10,0:11:27.63,0:11:29.67,Default,,0,0,0,,You little...
 Dialogue: 10,0:11:32.34,0:11:34.13,Default,,0,0,0,,You're dead, kiddo!
 Dialogue: 10,0:11:37.97,0:11:39.35,Default,,0,0,0,,The Master
-Dialogue: 10,0:11:39.64,0:11:40.97,Default,,0,0,0,,has arrived.
+Dialogue: 10,0:11:39.35,0:11:40.97,Default,,0,0,0,,has arrived.{### the post-eyecatch line was linked like this}
 Dialogue: 10,0:11:53.19,0:11:54.94,Default,,0,0,0,,So good of you to come,
 Dialogue: 10,0:11:58.74,0:12:01.49,Default,,0,0,0,,my beloved children.
 Comment: 0,0:12:06.96,0:12:06.96,Default,chapter,0,0,0,,{Part B}
@@ -185,7 +185,7 @@ Dialogue: 10,0:12:12.71,0:12:14.25,Default,,0,0,0,,has arrived.
 Dialogue: 10,0:12:48.58,0:12:50.29,Default,,0,0,0,,Good morning, everyone.
 Dialogue: 10,0:12:50.75,0:12:53.00,Default,,0,0,0,,The weather is splendid today.
 Dialogue: 10,0:12:54.71,0:12:56.80,Default,,0,0,0,,I wonder if the sky is blue.
-Dialogue: 10,0:12:57.34,0:13:04.26,Default,,0,0,0,,{\q2}It pleases me that we've made it to our biannual \NHashira Meeting with no personnel changes.
+Dialogue: 10,0:12:57.34,0:13:04.26,Default,,0,0,0,,{\q2}It pleases me that we've made it to our semiannual{### biannual is technically still correct here, but it's misused often enough to be ambiguous} \NHashira Meeting with no personnel changes.
 Dialogue: 10,0:13:05.85,0:13:07.18,Default,,0,0,0,,{\i1}Those scars...
 Dialogue: 10,0:13:07.18,0:13:08.85,Default,,0,0,0,,{\i1}No wait, is it an illness?
 Dialogue: 10,0:13:09.73,0:13:11.60,Default,,0,0,0,,{\i1}So that man's the Master?
@@ -196,10 +196,10 @@ Dialogue: 10,0:13:35.92,0:13:39.92,Default,,0,0,0,,I fervently pray for your con
 Dialogue: 10,0:13:40.67,0:13:42.63,Default,,0,0,0,,Thank you, Sanemi.
 Dialogue: 10,0:13:44.64,0:13:49.68,Default,,0,0,0,,{\i1}But {\i0}I{\i1} wanted to be the one to greet the Master!
 Dialogue: 10,0:13:51.19,0:13:52.69,Default,,0,0,0,,If I may, Master,
-Dialogue: 10,0:13:53.06,0:13:58.36,Default,,0,0,0,,{\q2}before we start the Hashira Meeting, \Nwould you be so king as to enlighten us
+Dialogue: 10,0:13:53.06,0:13:58.36,Default,,0,0,0,,{\q2}before we start the Hashira Meeting, \Nwould you be so kind as to enlighten us
 Dialogue: 10,0:13:58.36,0:14:02.28,Default,,0,0,0,,{\q2}about this swordsman here that has \Nbeen journeying with a demon?
 Dialogue: 10,0:14:03.24,0:14:08.58,Default,,0,0,0,,{\i1\q2}He didn't seem to have a shred of intellect or \Ntact before, but he's as meek as a lamb now.
-Dialogue: 10,0:14:09.91,0:14:11.41,Default,,0,0,0,,Right.
+Dialogue: 10,0:14:09.91,0:14:11.41,Default,,0,0,0,,Of course.
 Dialogue: 10,0:14:11.41,0:14:14.04,Default,,0,0,0,,I apologise for startling you all.
 Dialogue: 10,0:14:15.04,0:14:18.96,Default,,0,0,0,,{\q2}Regarding Tanjirou and Nezuko, \NI've sanctioned their activities.
 Dialogue: 10,0:14:20.88,0:14:24.47,Default,,0,0,0,,I'd also like you all to accept it.
@@ -214,7 +214,7 @@ Dialogue: 10,0:15:02.63,0:15:05.43,Default,,0,0,0,,I despise demons.
 Dialogue: 10,0:15:06.22,0:15:10.47,Default,,0,0,0,,{\q2}Although I respect you from the bottom of my heart, \Nthat's an incomprehensible notion, Master!
 Dialogue: 10,0:15:10.89,0:15:12.89,Default,,0,0,0,,I oppose it with everything I've got!
 Dialogue: 10,0:15:13.23,0:15:16.35,Default,,0,0,0,,The Demon Slayers' mission is to {\i1}slay{\i0} demons.
-Dialogue: 10,0:15:16.35,0:15:19.44,Default,,0,0,0,,I request you punish both Kamado and Tomioka!
+Dialogue: 10,0:15:16.35,0:15:19.44,Default,,0,0,0,,I request {that }you punish both Kamado and Tomioka!
 Dialogue: 10,0:15:24.44,0:15:25.49,Default,,0,0,0,,The letter.
 Dialogue: 10,0:15:26.28,0:15:27.07,Default,,0,0,0,,Yes, Master.
 Dialogue: 10,0:15:33.66,0:15:40.09,Default,,0,0,0,,{\q2}This is a letter we have received from \Nthe former Hashira, Urokodaki Sakonji.
@@ -225,14 +225,14 @@ Dialogue: 10,0:15:53.77,0:15:56.48,Default,,0,0,0,,"Nezuko has not lost her huma
 Dialogue: 10,0:15:57.39,0:15:59.98,Default,,0,0,0,,{\i1\q2}"Even on the brink of starvation, \Nshe never devoured humans,"
 Dialogue: 10,0:15:59.98,0:16:04.19,Default,,0,0,0,,{\i1}"and this remains true more than two years later."
 Dialogue: 10,0:16:04.19,0:16:09.11,Default,,0,0,0,,{\i1\q2}"Far-fetched as it may seem, \Nthis is an indisputable fact."
-Dialogue: 10,0:16:09.11,0:16:14.70,Default,,0,0,0,,{\i1\q2}"In the event that Nezuko {\i0}does{\i1} assault \Na human, Kamado Tanjirou,"
+Dialogue: 10,0:16:09.11,0:16:14.70,Default,,0,0,0,,{\i1\q2}"In the event that Nezuko {\i0}does{\i1} \Nassault a human, Kamado Tanjirou,"
 Dialogue: 10,0:16:14.70,0:16:18.46,Default,,0,0,0,,"as well as Urokodaki Sakonji and Tomioka Giyuu,"
-Dialogue: 10,0:16:18.46,0:16:20.79,Default,,0,0,0,,{\q2}"shall atone by committing \Nritual suicide by disembowelment."
+Dialogue: 10,0:16:18.46,0:16:20.79,Default,,0,0,0,,"shall atone by committing ritual suicide."{###the disembowelment part isn't actually important and we're short on time}
 Dialogue: 10,0:16:37.89,0:16:40.90,Default,,0,0,0,,So what if they commit suicide?
 Dialogue: 10,0:16:42.15,0:16:44.86,Default,,0,0,0,,{\q2}If they have a death wish, \Nthey can rot for all I care!
 Dialogue: 10,0:16:45.69,0:16:48.24,Default,,0,0,0,,{\q2}That statement guarantees {\i1}nothing{\i0}.
 Dialogue: 10,0:16:48.57,0:16:50.66,Default,,0,0,0,,Shinazugawa is right!
-Dialogue: 10,0:16:50.66,0:16:53.41,Default,,0,0,0,,It'll be too late when she {\i1}does{\i0} eat a person.
+Dialogue: 10,0:16:50.66,0:16:53.41,Default,,0,0,0,,When she {\i1}does{\i0} eat a person, it'll be too late!{### I despise the "you have to translate sentences backwards" meme. it's just... wrong, so often}
 Dialogue: 10,0:16:53.41,0:16:55.33,Default,,0,0,0,,We can't bring back the dead!
 Dialogue: 10,0:16:57.25,0:16:59.04,Default,,0,0,0,,You do have a point.
 Dialogue: 10,0:16:59.83,0:17:00.79,Default,,0,0,0,,In that case...
@@ -263,7 +263,7 @@ Dialogue: 10,0:18:32.42,0:18:35.97,Default,,0,0,0,,Though the purpose may simply
 Dialogue: 10,0:18:35.97,0:18:40.72,Default,,0,0,0,,{\q2}this has also opened him up to your pursuits. \NI don't wish to squander that chance.
 Dialogue: 10,0:18:41.98,0:18:47.69,Default,,0,0,0,,{\q2}I also believe something's happening to \NNezuko that Kibutsuji never saw coming.
 Dialogue: 10,0:18:51.11,0:18:53.32,Default,,0,0,0,,Can you try to understand?
-Dialogue: 10,0:18:56.82,0:18:58.99,Default,,0,0,0,,No. I can't, Master.
+Dialogue: 10,0:18:56.82,0:18:58.99,Default,,0,0,0,,I'm afraid I can't, Master.
 Dialogue: 10,0:18:59.45,0:19:03.04,Default,,0,0,0,,{\q2}I'd be fine with it if it were a human, \Nbut a demon is a different story!
 Dialogue: 10,0:19:03.04,0:19:06.33,Default,,0,0,0,,{\q2}Not after all that we, the Demon Slayers, \Nhave gone through in combat!
 Dialogue: 10,0:19:06.33,0:19:09.25,Default,,0,0,0,,Not after so many people have given their lives!
@@ -272,13 +272,13 @@ Dialogue: 10,0:19:21.26,0:19:23.27,Default,,0,0,0,,{\i1}What do you think you're
 Dialogue: 10,0:19:23.56,0:19:25.56,Default,,0,0,0,,{\i1}You're soiling the garden!
 Dialogue: 10,0:19:26.56,0:19:27.94,Default,,0,0,0,,Master!
 Dialogue: 10,0:19:27.94,0:19:30.27,Default,,0,0,0,,I will prove it to you myself!
-Dialogue: 10,0:19:30.27,0:19:32.94,Default,,0,0,0,,The sheer ugliness of a demon!
+Dialogue: 10,0:19:30.27,0:19:32.94,Default,,0,0,0,,The sheer hideousness of a demon!
 Dialogue: 10,0:19:33.24,0:19:34.53,Default,,0,0,0,,Sanemi...
 Dialogue: 10,0:19:38.24,0:19:39.24,Default,,0,0,0,,Hey, demon!
 Dialogue: 10,0:19:39.62,0:19:41.45,Default,,0,0,0,,It's time for breakfast!
 Dialogue: 10,0:19:41.45,0:19:43.04,Default,,0,0,0,,Sink your teeth into this!
 Dialogue: 10,0:19:57.55,0:19:59.55,Default,,0,0,0,,No need to hold back.
-Dialogue: 10,0:19:59.55,0:20:04.22,Default,,0,0,0,,{\q2}Show us your true colours and \Nlet me obliterate you right here!
+Dialogue: 10,0:19:59.55,0:20:04.22,Default,,0,0,0,,{\q2}Show us your true colours \Nand let me obliterate you right here!
 Dialogue: 10,0:20:04.64,0:20:06.23,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:20:06.81,0:20:09.77,Default,,0,0,0,,Shinazugawa, there's no point doing it out in the sun.
 Dialogue: 10,0:20:10.56,0:20:13.48,Default,,0,0,0,,{\q2}The demon won't show its face \Nunless it's in the shadows.
@@ -290,17 +290,17 @@ Dialogue: 10,0:20:38.63,0:20:40.14,Default,,0,0,0,,{\i1}I can't breathe!
 Dialogue: 10,0:20:40.64,0:20:41.89,Default,,0,0,0,,{\i1}Or move!
 Dialogue: 10,0:21:13.46,0:21:16.30,Default,,0,0,0,,Nezuko...
 Comment: 0,0:22:59.94,0:22:59.94,Default,chapter,0,0,0,,{Outro}
-Dialogue: 10,0:23:02.36,0:23:05.91,Default,,0,0,0,,{\q2}Imagine, Shinazugawa falling victim \Nto a head-butt by a mere rookie.
-Dialogue: 10,0:23:05.91,0:23:07.70,Default,,0,0,0,,That was a mighty fine head-butt!
-Dialogue: 10,0:23:07.70,0:23:09.74,Default,,0,0,0,,Yeah! The sound it made was grandiose!
+Dialogue: 10,0:23:02.36,0:23:05.91,Default,,0,0,0,,{\q2}Imagine, Shinazugawa falling victim \Nto a headbutt by a mere rookie.
+Dialogue: 10,0:23:05.91,0:23:07.70,Default,,0,0,0,,That was a mighty fine headbutt!
+Dialogue: 10,0:23:07.70,0:23:09.74,Default,,0,0,0,,Yeah! It made quite the magnificent sound!
 Dialogue: 10,0:23:09.74,0:23:11.20,Default,,0,0,0,,How painful it must've been...
-Dialogue: 10,0:23:11.20,0:23:12.54,Default,,0,0,0,,Praise to Amida Buddha.
+Dialogue: 10,0:23:11.20,0:23:12.54,Default,,0,0,0,,Praise to Amida Buddha.{### inconsistent with 23 @ 02:55}
 Dialogue: 10,0:23:12.54,0:23:15.83,Default,,0,0,0,,{\q2}But the way that boy stood up \Nto a Hashira was so brave!
 Dialogue: 10,0:23:15.83,0:23:17.33,Default,,0,0,0,,What is this, a free-for-all?
-Dialogue: 10,0:23:17.33,0:23:20.17,Default,,0,0,0,,{\q2}You know I could've dodged it \Nif Tomioka hadn't gotten in the way!
+Dialogue: 10,0:23:17.33,0:23:20.17,Default,,0,0,0,,{\q2}You know I could've dodged it \Nif Tomioka hadn't distracted me!
 Dialogue: 10,0:23:20.17,0:23:21.59,Default,,0,0,0,,Excuses, excuses.
 Dialogue: 10,0:23:22.30,0:23:24.09,Default,,0,0,0,,I see none of you have changed.
 Dialogue: 10,0:23:24.09,0:23:26.68,Default,,0,0,0,,And now, time for a Taisho secret!
 Dialogue: 10,0:23:26.68,0:23:30.01,Default,,0,0,0,,{\q2}The first one among us to speak \Ngets to greet the Master,
 Dialogue: 10,0:23:30.01,0:23:33.43,Default,,0,0,0,,{\q2}so we all had butterflies in our stomachs \Nuntil the Master got here!
-Dialogue: 10,0:23:33.85,0:23:37.73,Default,,0,0,0,,{\q2}Oh, next, Episode 23, \N"The Hashira's Meeting".
+Dialogue: 10,0:23:33.85,0:23:37.73,Default,,0,0,0,,{\q2}Oh, next, Episode 23, \N"The Hashira's Meeting".{inconsistent with 22 ("Meeting"), and also just weird to use a possessive like this}
