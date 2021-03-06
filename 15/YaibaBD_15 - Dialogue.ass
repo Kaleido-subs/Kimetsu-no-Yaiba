@@ -202,7 +202,44 @@ Dialogue: 10,0:15:14.10,0:15:17.31,Default,,0,0,0,,{\q2}Why did he have to take 
 Dialogue: 10,0:15:17.31,0:15:19.52,Default,,0,0,0,,Damn you, Tanjirou!
 Dialogue: 10,0:15:19.52,0:15:21.65,Default,,0,0,0,,Don't bring a young lass into danger!
 Dialogue: 10,0:15:21.65,0:15:23.15,Default,,0,0,0,,Idiot! Idiot! Idiot! Idiot! Idiot!
-Dialogue: 10,0:15:23.15,0:15:27.11,Default,,0,0,0,,Nezuko!{### do the thing}
+Dialogue: 10,0:15:23.49,0:15:23.53,Default,,0,0,0,,{\frz9.892\fscx120\fscy120\pos(1730,1160.44)}Nezuko!
+Dialogue: 10,0:15:23.53,0:15:23.57,Default,,0,0,0,,{\frz9.892\fscx120\fscy120\pos(1630,1121.77)}Nezuko!
+Dialogue: 10,0:15:23.57,0:15:23.61,Default,,0,0,0,,{\frz9.892\fscx120\fscy120\pos(1486.54,1084.17)}Nezuko!
+Dialogue: 10,0:15:23.61,0:15:23.65,Default,,0,0,0,,{\frz9.892\fscx120\fscy120\pos(1430,1053.77)}Nezuko!
+Dialogue: 10,0:15:23.65,0:15:23.69,Default,,0,0,0,,{\frz9.892\fscx120\fscy120\pos(1310.34,974.1)}Nezuko!
+Dialogue: 10,0:15:23.69,0:15:23.78,Default,,0,0,0,,{\frz9.892\fscx120\fscy120\pos(1240.67,931.1)}Nezuko!
+Dialogue: 10,0:15:23.78,0:15:23.82,Default,,0,0,0,,{\frz9.892\fscx140\fscy140\pos(1135.01,834.1)}Nezuko!
+Dialogue: 10,0:15:23.82,0:15:23.86,Default,,0,0,0,,{\frz9.892\fscx140\fscy140\pos(1139.98,848.78)}Nezuko!
+Dialogue: 10,0:15:23.86,0:15:23.94,Default,,0,0,0,,{\frz9.892\fscx145\fscy145\pos(986.66,758.33)}Nezuko!
+Dialogue: 10,0:15:23.94,0:15:23.99,Default,,0,0,0,,{\frz9.892\fscx145\fscy145\pos(882.78,685.35)}Nezuko!
+Dialogue: 10,0:15:23.99,0:15:24.03,Default,,0,0,0,,{\frz9.892\fscx145\fscy145\pos(860.65,649.35)}Nezuko!
+Dialogue: 10,0:15:24.03,0:15:24.07,Default,,0,0,0,,{\frz9.892\fscx145\fscy145\pos(847.58,638.67)}Nezuko!
+Dialogue: 10,0:15:24.07,0:15:24.11,Default,,0,0,0,,{\frz9.892\fscx145\fscy145\pos(831.57,596.68)}Nezuko!
+Dialogue: 10,0:15:24.11,0:15:24.15,Default,,0,0,0,,{\frz9.892\fscx145\fscy145\pos(782.73,562.23)}Nezuko!
+Dialogue: 10,0:15:24.15,0:15:24.19,Default,,0,0,0,,{\frz9.892\fscx145\fscy145\pos(756.06,533.78)}Nezuko!
+Dialogue: 10,0:15:24.19,0:15:24.24,Default,,0,0,0,,{\frz9.892\fscx145\fscy145\pos(711.09,520.44)}Nezuko!
+Dialogue: 10,0:15:24.24,0:15:24.28,Default,,0,0,0,,{\frz9.892\fscx145\fscy145\pos(723.02,506.86)}Nezuko!
+Dialogue: 10,0:15:24.28,0:15:24.32,Default,,0,0,0,,{\fscx145\fscy145\frz5.005\pos(675.14,508.22)}Nezuko!
+Dialogue: 10,0:15:24.32,0:15:24.36,Default,,0,0,0,,{\fscx145\fscy145\frz5.005\pos(674.18,491.4)}Nezuko!
+Dialogue: 10,0:15:24.36,0:15:24.40,Default,,0,0,0,,{\fscx145\fscy145\frz2.522\pos(662.04,489.66)}Nezuko!
+Dialogue: 10,0:15:24.40,0:15:24.44,Default,,0,0,0,,{\fscx145\fscy145\frz2.522\pos(657.85,485.13)}Nezuko!
+Dialogue: 10,0:15:24.44,0:15:24.49,Default,,0,0,0,,{\fscx145\fscy145\frz2.522\pos(640.4,474.22)}Nezuko!
+Dialogue: 10,0:15:24.49,0:15:24.53,Default,,0,0,0,,{\fscx145\fscy145\frz2.522\pos(643.73,458.89)}Nezuko!
+Dialogue: 10,0:15:24.53,0:15:24.57,Default,,0,0,0,,{\fscx145\fscy145\frz2.522\pos(662,444)}Nezuko!
+Dialogue: 10,0:15:24.57,0:15:24.61,Default,,0,0,0,,{\fscx145\fscy145\frz2.522\pos(640.79,430.83)}Nezuko!
+Dialogue: 10,0:15:24.61,0:15:24.65,Default,,0,0,0,,{\frz2.522\pos(650.92,421.23)\fscy152.692\fscx152.692}Nezuko!
+Dialogue: 10,0:15:24.65,0:15:24.70,Default,,0,0,0,,{\frz2.522\pos(624.25,431.23)\fscy160.385\fscx160.385}Nezuko!
+Dialogue: 10,0:15:24.70,0:15:24.74,Default,,0,0,0,,{\frz2.522\pos(622.4,420.77)\fscy168.077\fscx168.077}Nezuko!
+Dialogue: 10,0:15:24.74,0:15:24.78,Default,,0,0,0,,{\frz2.522\pos(620.22,406.95)\fscy175.769\fscx175.769}Nezuko!
+Dialogue: 10,0:15:24.78,0:15:24.82,Default,,0,0,0,,{\frz2.522\pos(620.22,389.5)\fscy183.462\fscx183.462}Nezuko!
+Dialogue: 10,0:15:24.82,0:15:24.86,Default,,0,0,0,,{\frz2.522\pos(618.77,365.5)\fscy191.154\fscx191.154}Nezuko!
+Dialogue: 10,0:15:24.86,0:15:24.90,Default,,0,0,0,,{\frz2.522\pos(614.77,340.7)\fscy198.846\fscx198.846}Nezuko!
+Dialogue: 10,0:15:24.90,0:15:24.95,Default,,0,0,0,,{\frz2.522\pos(613.88,319.37)\fscy206.538\fscx206.538}Nezuko!
+Dialogue: 10,0:15:24.95,0:15:24.99,Default,,0,0,0,,{\frz2.522\pos(613.88,264.97)\fscy214.231\fscx214.231}Nezuko!
+Dialogue: 10,0:15:24.99,0:15:25.03,Default,,0,0,0,,{\frz2.522\pos(623.48,216.97)\fscy221.923\fscx221.923}Nezuko!
+Dialogue: 10,0:15:25.03,0:15:25.07,Default,,0,0,0,,{\frz2.522\pos(623.48,175.37)\fscy229.615\fscx229.615}Nezuko!
+Dialogue: 10,0:15:25.07,0:15:25.11,Default,,0,0,0,,{\frz2.522\pos(629.88,95.37)\fscy237.308\fscx237.308}Nezuko!
+Dialogue: 10,0:15:25.11,0:15:25.20,Default,,0,0,0,,{\fscx245\fscy245\frz2.522\pos(625.08,47.37)}Nezuko!
 Dialogue: 10,0:15:35.66,0:15:38.50,Default,,0,0,0,,What's that sound?
 Dialogue: 10,0:15:38.50,0:15:39.59,Default,,0,0,0,,There it is again.
 Dialogue: 10,0:15:40.67,0:15:42.75,Default,,0,0,0,,It's that sound again!
