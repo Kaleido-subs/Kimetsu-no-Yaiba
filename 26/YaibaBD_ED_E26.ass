@@ -24,121 +24,71 @@ Style: Ep26 ED,WILD1 Toxia,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:22:09.84,0:22:09.84,Default,,0,0,0,code once,--[[light, please don't tell SubKt to run my templater on things that aren't templates]]
 Comment: 0,0:22:09.84,0:22:09.84,Default,chapter,0,0,0,sync,{ED}
-Dialogue: 0,0:20:44.84,0:20:51.31,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}tsuyoku nareru riyuu wo shitta \N{\fs48\shad0.01}I've found my reason to become stronger
-Dialogue: 1,0:20:44.84,0:20:51.31,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}tsuyoku nareru riyuu wo shitta \N{\fs48\bord0\blur0.6}I've found my reason to become stronger
-Dialogue: 0,0:20:51.35,0:20:59.19,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}boku wo tsurete susume \N{\fs48\shad0.01}So let's go and press on 'til the end
-Dialogue: 1,0:20:51.35,0:20:59.19,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}boku wo tsurete susume \N{\fs48\bord0\blur0.6}So let's go and press on 'til the end
-Dialogue: 0,0:21:02.74,0:21:07.20,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}dorodarake no soumatou ni you \N{\fs48\shad0.01}Hung up on memories of a life of suffering
-Dialogue: 1,0:21:02.74,0:21:07.20,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}dorodarake no soumatou ni you \N{\fs48\bord0\blur0.6}Hung up on memories of a life of suffering
-Dialogue: 0,0:21:08.24,0:21:09.87,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}kowabaru kokoro \N{\fs48\shad0.01}My heart barely stirs
-Dialogue: 1,0:21:08.24,0:21:09.87,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}kowabaru kokoro \N{\fs48\bord0\blur0.6}My heart barely stirs
-Dialogue: 0,0:21:09.87,0:21:14.66,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}furueru te wa tsukamitai mono ga aru \N{\fs48\shad0.01}My trembling hands are still looking for the thing they long to grasp
-Dialogue: 1,0:21:09.87,0:21:14.66,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}furueru te wa tsukamitai mono ga aru \N{\fs48\bord0\blur0.6}My trembling hands are still looking for the thing they long to grasp
-Dialogue: 0,0:21:14.83,0:21:16.67,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}sore dakesa \N{\fs48\shad0.01}And that's all I need
-Dialogue: 1,0:21:14.83,0:21:16.67,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}sore dakesa \N{\fs48\bord0\blur0.6}And that's all I need
-Dialogue: 0,0:21:16.71,0:21:19.00,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}yoru no nioi ni \N{\fs48\shad0.01}Even glaring up at the sky
-Dialogue: 1,0:21:16.71,0:21:19.00,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}yoru no nioi ni \N{\fs48\bord0\blur0.6}Even glaring up at the sky
-Dialogue: 0,0:21:19.00,0:21:20.21,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\fs64\1a&H00&\3a&HFE&\shad0.01\pos(1860,50)}I spent all thirty nights
-Dialogue: 1,0:21:19.00,0:21:20.21,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\fs64\bord0\blur0.6\pos(1860,50)}I spent all thirty nights
-Dialogue: 0,0:21:20.21,0:21:22.34,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}sora nirandemo \N{\fs48\shad0.01}Through the fragrance of the night
-Dialogue: 1,0:21:20.21,0:21:22.34,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}sora nirandemo \N{\fs48\bord0\blur0.6}Through the fragrance of the night
-Dialogue: 0,0:21:22.34,0:21:23.84,Ep26 ED,,0,0,0,,{\pos(1860,39)\fad(200,200)\an9\fs64\1a&H00&\3a&HFE&\shad0.01\pos(1860,50)}Staring into the sky
-Dialogue: 1,0:21:22.34,0:21:23.84,Ep26 ED,,0,0,0,,{\pos(1860,39)\fad(200,200)\an9\fs64\bord0\blur0.6\pos(1860,50)}Staring into the sky
-Dialogue: 0,0:21:23.84,0:21:28.72,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}kawatte ikeru no wa jibun jishin dake \N{\fs48\shad0.01}The only thing I can change is myself
-Dialogue: 1,0:21:23.84,0:21:28.72,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}kawatte ikeru no wa jibun jishin dake \N{\fs48\bord0\blur0.6}The only thing I can change is myself
-Dialogue: 0,0:21:29.01,0:21:30.93,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}sore dakesa \N{\fs48\shad0.01}And nothing more
-Dialogue: 1,0:21:29.01,0:21:30.93,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}sore dakesa \N{\fs48\bord0\blur0.6}And nothing more
-Dialogue: 0,0:21:31.18,0:21:37.40,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}tsuyoku nareru riyuu wo shitta \N{\fs48\shad0.01}I've found my reason to become stronger
-Dialogue: 1,0:21:31.18,0:21:37.40,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}tsuyoku nareru riyuu wo shitta \N{\fs48\bord0\blur0.6}I've found my reason to become stronger
-Dialogue: 0,0:21:37.52,0:21:43.65,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}boku wo tsurete susume \N{\fs48\shad0.01}So let's go and press on 'til the end
-Dialogue: 1,0:21:37.52,0:21:43.65,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}boku wo tsurete susume \N{\fs48\bord0\blur0.6}So let's go and press on 'til the end
-Dialogue: 0,0:21:44.03,0:21:45.40,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}doushitatte \N{\fs48\shad0.01}No matter what!
-Dialogue: 1,0:21:44.03,0:21:45.40,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}doushitatte \N{\fs48\bord0\blur0.6}No matter what!
-Dialogue: 0,0:21:45.40,0:21:46.99,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}kesenai yume mo \N{\fs48\shad0.01}My dreams can't be erased
-Dialogue: 1,0:21:45.40,0:21:46.99,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}kesenai yume mo \N{\fs48\bord0\blur0.6}My dreams can't be erased
-Dialogue: 0,0:21:46.99,0:21:48.78,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}tomarenai ima mo \N{\fs48\shad0.01}And time refuses to wait
-Dialogue: 1,0:21:46.99,0:21:48.78,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}tomarenai ima mo \N{\fs48\bord0\blur0.6}And time refuses to wait
-Dialogue: 0,0:21:48.78,0:21:53.08,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}dareka no tame ni tsuyoku nareru nara \N{\fs48\shad0.01}But so long as I have someone left to protect
-Dialogue: 1,0:21:48.78,0:21:53.08,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}dareka no tame ni tsuyoku nareru nara \N{\fs48\bord0\blur0.6}But so long as I have someone left to protect
-Dialogue: 0,0:21:53.12,0:21:57.87,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}nandemo tachiagare \N{\fs48\shad0.01}I'll keep rising to my feet as many times as it takes
-Dialogue: 1,0:21:53.12,0:21:57.87,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}nandemo tachiagare \N{\fs48\bord0\blur0.6}I'll keep rising to my feet as many times as it takes
-Dialogue: 0,0:21:58.08,0:22:01.13,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}sekai ni uchinomesarete \N{\fs48\shad0.01}I learnt what it meant to lose
-Dialogue: 1,0:21:58.08,0:22:01.13,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}sekai ni uchinomesarete \N{\fs48\bord0\blur0.6}I learnt what it meant to lose
-Dialogue: 0,0:22:01.13,0:22:02.92,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}makeru imi wo shitta \N{\fs48\shad0.01}As the world brought me down
-Dialogue: 1,0:22:01.13,0:22:02.92,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}makeru imi wo shitta \N{\fs48\bord0\blur0.6}As the world brought me down
-Dialogue: 0,0:22:02.92,0:22:07.30,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}guren no hana yo sakihokore \N{\fs48\shad0.01}May the blood-soaked lotuses bloom bright
-Dialogue: 1,0:22:02.92,0:22:07.30,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}guren no hana yo sakihokore \N{\fs48\bord0\blur0.6}May the blood-soaked lotuses bloom bright
-Dialogue: 0,0:22:07.34,0:22:14.06,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\1a&H00&\3a&HFE&\shad0.01}unmei wo terashite \N{\fs48\shad0.01}Illuminating our path ahead
-Dialogue: 1,0:22:07.34,0:22:14.06,Ep26 ED,,0,0,0,,{\fad(200,200)\an9\bord0\blur0.6}unmei wo terashite \N{\fs48\bord0\blur0.6}Illuminating our path ahead
-Dialogue: 1,0:22:25.07,0:22:28.61,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\c&H0000AC&\blur3\1a&HFE&\3a&HFE&\shad0.01\4c&H0000AC&\pos(960,26)\bord0.7}hito shirezu hakanai
-Dialogue: 2,0:22:25.15,0:22:28.45,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,26)\an8}hito shirezu hakanai
-Dialogue: 1,0:22:25.07,0:22:28.61,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0.7\shad0.01\c&H0000AC&\4c&H0000AC&\1a&HFE&\3a&HFE&\pos(960,1050)\blur3}Ever-fleeting visions of what could have been
-Dialogue: 2,0:22:25.15,0:22:28.45,Ep26 ED,,0,0,0,,{\pos(960,1050)\fad(200,200)}Ever-fleeting visions of what could have been
-Dialogue: 1,0:22:28.66,0:22:32.20,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\c&H0000AC&\blur3\1a&HFE&\3a&HFE&\shad0.01\4c&H0000AC&\pos(960,26)\bord0.7}chiriyuku ketsumatsu
-Dialogue: 2,0:22:28.74,0:22:32.03,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,26)\an8}chiriyuku ketsumatsu
-Dialogue: 1,0:22:28.66,0:22:32.20,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0.7\shad0.01\c&H0000AC&\4c&H0000AC&\1a&HFE&\3a&HFE&\pos(960,1050)\blur3}Wilting away before my very eyes
-Dialogue: 2,0:22:28.74,0:22:32.03,Ep26 ED,,0,0,0,,{\pos(960,1050)\fad(200,200)}Wilting away before my very eyes
-Dialogue: 1,0:22:32.24,0:22:35.70,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\c&H0000AC&\blur3\1a&HFE&\3a&HFE&\shad0.01\4c&H0000AC&\pos(960,26)\bord0.7}mujou ni yabureta
-Dialogue: 2,0:22:32.33,0:22:35.54,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,26)\an8}mujou ni yabureta
-Dialogue: 1,0:22:32.24,0:22:35.70,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0.7\shad0.01\c&H0000AC&\4c&H0000AC&\1a&HFE&\3a&HFE&\pos(960,1050)\blur3}Dominated by selfish cruelty
-Dialogue: 2,0:22:32.33,0:22:35.54,Ep26 ED,,0,0,0,,{\pos(960,1050)\fad(200,200)}Dominated by selfish cruelty
-Dialogue: 1,0:22:35.75,0:22:39.37,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\c&H0000AC&\blur3\1a&HFE&\3a&HFE&\shad0.01\4c&H0000AC&\pos(960,26)\bord0.7}himei no kaze fuku
-Dialogue: 2,0:22:35.83,0:22:39.21,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,26)\an8}himei no kaze fuku
-Dialogue: 1,0:22:35.75,0:22:39.37,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0.7\shad0.01\c&H0000AC&\4c&H0000AC&\1a&HFE&\3a&HFE&\pos(960,1050)\blur3}A raging storm plows over the land
-Dialogue: 2,0:22:35.83,0:22:39.21,Ep26 ED,,0,0,0,,{\pos(960,1050)\fad(200,200)}A raging storm plows over the land
-Dialogue: 1,0:22:39.42,0:22:42.75,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\c&H0000AC&\blur3\1a&HFE&\3a&HFE&\shad0.01\4c&H0000AC&\pos(960,26)\bord0.7}dareka no warau kage
-Dialogue: 2,0:22:39.50,0:22:42.59,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,26)\an8}dareka no warau kage
-Dialogue: 1,0:22:39.42,0:22:42.75,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0.7\shad0.01\c&H0000AC&\4c&H0000AC&\1a&HFE&\3a&HFE&\pos(960,1050)\blur3}Crying out with laments of others
-Dialogue: 2,0:22:39.50,0:22:42.59,Ep26 ED,,0,0,0,,{\pos(960,1050)\fad(200,200)}Crying out with laments of others
-Dialogue: 1,0:22:42.79,0:22:45.84,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\c&H0000AC&\blur3\1a&HFE&\3a&HFE&\shad0.01\4c&H0000AC&\pos(960,26)\bord0.7}dareka no nakigoe
-Dialogue: 2,0:22:42.88,0:22:45.67,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,26)\an8}dareka no nakigoe
-Dialogue: 1,0:22:42.79,0:22:45.84,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0.7\shad0.01\c&H0000AC&\4c&H0000AC&\1a&HFE&\3a&HFE&\pos(960,1050)\blur3}As everyone willingly sacrifices one another
-Dialogue: 2,0:22:42.88,0:22:45.67,Ep26 ED,,0,0,0,,{\pos(960,1050)\fad(200,200)}As everyone willingly sacrifices one another
-Dialogue: 1,0:22:45.88,0:22:51.39,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\c&H0000AC&\blur3\1a&HFE&\3a&HFE&\shad0.01\4c&H0000AC&\pos(960,26)\bord0.7}daremo ga shiawase wo negatteru
-Dialogue: 2,0:22:45.96,0:22:51.22,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,26)\an8}daremo ga shiawase wo negatteru
-Dialogue: 1,0:22:45.88,0:22:51.39,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0.7\shad0.01\c&H0000AC&\4c&H0000AC&\1a&HFE&\3a&HFE&\pos(960,1050)\blur3}Just wishing for their own happiness
-Dialogue: 2,0:22:45.96,0:22:51.22,Ep26 ED,,0,0,0,,{\pos(960,1050)\fad(200,200)}Just wishing for their own happiness
-Dialogue: 1,0:22:51.59,0:22:52.93,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\c&H0000AC&\blur3\1a&HFE&\3a&HFE&\shad0.01\4c&H0000AC&\pos(960,26)\bord0.7}doushitatte
-Dialogue: 2,0:22:51.68,0:22:52.76,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,26)\an8}doushitatte
-Dialogue: 1,0:22:51.59,0:22:52.93,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0.7\shad0.01\c&H0000AC&\4c&H0000AC&\1a&HFE&\3a&HFE&\pos(960,1050)\blur3}No matter what!
-Dialogue: 2,0:22:51.68,0:22:52.76,Ep26 ED,,0,0,0,,{\pos(960,1050)\fad(200,200)}No matter what!
-Dialogue: 1,0:22:52.89,0:22:54.51,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\c&H0000AC&\blur3\1a&HFE&\3a&HFE&\shad0.01\4c&H0000AC&\pos(960,26)\bord0.7}kesenai yume mo
-Dialogue: 2,0:22:52.98,0:22:54.35,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,26)\an8}kesenai yume mo
-Dialogue: 1,0:22:52.89,0:22:54.51,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0.7\shad0.01\c&H0000AC&\4c&H0000AC&\1a&HFE&\3a&HFE&\pos(960,1052)\blur3}My dreams can't be erased
-Dialogue: 2,0:22:52.98,0:22:54.35,Ep26 ED,,0,0,0,,{\pos(960,1050)\fad(200,200)}My dreams can't be erased
-Dialogue: 1,0:22:54.56,0:22:56.31,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\c&H0000AC&\blur3\1a&HFE&\3a&HFE&\shad0.01\4c&H0000AC&\pos(960,26)\bord0.7}tomarenai ima mo
-Dialogue: 2,0:22:54.64,0:22:56.14,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,26)\an8}tomarenai ima mo
-Dialogue: 1,0:22:54.56,0:22:56.31,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0.7\shad0.01\c&H0000AC&\4c&H0000AC&\1a&HFE&\3a&HFE&\pos(960,1050)\blur3}And time refuses to wait
-Dialogue: 2,0:22:54.64,0:22:56.14,Ep26 ED,,0,0,0,,{\pos(960,1050)\fad(200,200)}And time refuses to wait
-Dialogue: 1,0:22:56.35,0:23:00.56,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\c&H0000AC&\blur3\1a&HFE&\3a&HFE&\shad0.01\4c&H0000AC&\pos(960,26)\bord0.7}dareka no tame ni tsuyoku nareru nara
-Dialogue: 2,0:22:56.43,0:23:00.40,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,26)\an8}dareka no tame ni tsuyoku nareru nara
-Dialogue: 1,0:22:56.35,0:23:00.56,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0.7\shad0.01\c&H0000AC&\4c&H0000AC&\1a&HFE&\3a&HFE&\pos(960,1050)\blur3}But so long as I have someone left to protect
-Dialogue: 2,0:22:56.43,0:23:00.40,Ep26 ED,,0,0,0,,{\pos(960,1050)\fad(200,200)}But so long as I have someone left to protect
-Dialogue: 1,0:23:00.65,0:23:05.48,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\c&H0000AC&\blur3\1a&HFE&\3a&HFE&\shad0.01\4c&H0000AC&\pos(960,26)\bord0.7}arigatou kanashimi yo
-Dialogue: 2,0:23:00.73,0:23:05.32,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,26)\an8}arigatou kanashimi yo
-Dialogue: 1,0:23:00.65,0:23:05.48,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0.7\shad0.01\c&H0000AC&\4c&H0000AC&\1a&HFE&\3a&HFE&\pos(960,1050)\blur3}I'll take pride in bearing their pain
-Dialogue: 2,0:23:00.73,0:23:05.32,Ep26 ED,,0,0,0,,{\pos(960,1050)\fad(200,200)}I'll take pride in bearing their pain
-Dialogue: 1,0:23:05.61,0:23:08.78,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\c&H0000AC&\blur3\1a&HFE&\3a&HFE&\shad0.01\4c&H0000AC&\pos(960,26)\bord0.7}sekai ni uchinomesarete
-Dialogue: 2,0:23:05.69,0:23:08.61,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,26)\an8}sekai ni uchinomesarete
-Dialogue: 1,0:23:05.61,0:23:08.78,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0.7\shad0.01\c&H0000AC&\4c&H0000AC&\1a&HFE&\3a&HFE&\pos(960,1050)\blur3}I learnt what it meant to lose
-Dialogue: 2,0:23:05.69,0:23:08.61,Ep26 ED,,0,0,0,,{\pos(960,1050)\fad(200,200)}I learnt what it meant to lose
-Dialogue: 1,0:23:08.82,0:23:10.57,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\c&H0000AC&\blur3\1a&HFE&\3a&HFE&\shad0.01\4c&H0000AC&\pos(960,26)\bord0.7}makeru imi wo shitta
-Dialogue: 2,0:23:08.90,0:23:10.41,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,26)\an8}makeru imi wo shitta
-Dialogue: 1,0:23:08.82,0:23:10.57,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0.7\shad0.01\c&H0000AC&\4c&H0000AC&\1a&HFE&\3a&HFE&\pos(960,1050)\blur3}As the world brought me down
-Dialogue: 2,0:23:08.90,0:23:10.41,Ep26 ED,,0,0,0,,{\pos(960,1050)\fad(200,200)}As the world brought me down
-Dialogue: 1,0:23:10.61,0:23:14.95,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\c&H0000AC&\blur3\1a&HFE&\3a&HFE&\shad0.01\4c&H0000AC&\pos(960,26)\bord0.7}guren no hana yo sakihokore
-Dialogue: 2,0:23:10.70,0:23:14.78,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,26)\an8}guren no hana yo sakihokore
-Dialogue: 1,0:23:10.61,0:23:14.95,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0.7\shad0.01\c&H0000AC&\4c&H0000AC&\1a&HFE&\3a&HFE&\pos(960,1050)\blur3}May the blood-soaked lotuses bloom bright
-Dialogue: 2,0:23:10.70,0:23:14.78,Ep26 ED,,0,0,0,,{\pos(960,1050)\fad(200,200)}May the blood-soaked lotuses bloom bright
-Dialogue: 1,0:23:14.99,0:23:21.62,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\c&H0000AC&\blur3\1a&HFE&\3a&HFE&\shad0.01\4c&H0000AC&\pos(960,26)\bord0.7}unmei wo terashite
-Dialogue: 2,0:23:15.08,0:23:21.46,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,26)\an8}unmei wo terashite
-Dialogue: 1,0:23:14.99,0:23:21.62,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,1050)\bord0.7\shad0.01\c&H0000AC&\4c&H0000AC&\1a&HFE&\3a&HFE&\blur3}Illuminating our path ahead
-Dialogue: 2,0:23:15.08,0:23:21.46,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,1050)}Illuminating our path ahead
-Dialogue: 1,0:23:25.55,0:23:28.76,Ep26 ED,,0,0,0,,{\fad(200,200)\an8\c&H0000AC&\blur3\1a&HFE&\3a&HFE&\shad0.01\4c&H0000AC&\pos(960,26)\bord0.7}unmei wo terashite
-Dialogue: 2,0:23:25.63,0:23:28.68,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,26)\an8}unmei wo terashite
-Dialogue: 1,0:23:25.55,0:23:28.76,Ep26 ED,,0,0,0,,{\fad(200,200)\bord0.7\shad0.01\c&H0000AC&\4c&H0000AC&\1a&HFE&\3a&HFE&\blur3\pos(960,1050)}My fate dyed a deep red
-Dialogue: 2,0:23:25.63,0:23:28.68,Ep26 ED,,0,0,0,,{\fad(200,200)\pos(960,1050)}My fate dyed a deep red
-Dialogue: 0,0:22:09.51,0:23:33.43,Ep26 ED,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H000000&\blur20\an9}m -10 -100 l 1930 -100 1930 120 -10 120
-Dialogue: 0,0:22:09.51,0:23:33.43,Ep26 ED,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H000000&\blur20\an9}m -10 960 l 1930 960 1930 1150 -10 1150
+Comment: 1,0:20:44.84,0:20:44.84,Ep26 ED,,0,0,0,template line actor a notext,{\1a&H00&\3a&HFE&\shad0.01}
+Comment: 2,0:20:44.84,0:20:44.84,Ep26 ED,,0,0,0,template line actor a notext,{\bord0\blur0.6}
+Comment: 1,0:20:44.84,0:20:44.84,Ep26 ED,,0,0,0,template line actor b,{\bord0.7\shad0.01\c&H0000AC&\4c&H0000AC&\1a&HFE&\3a&HFE&\blur3}
+Comment: 2,0:20:44.84,0:20:44.84,Ep26 ED,,0,0,0,template line actor b,!retime('line', 83, -167)!
+Comment: 0,0:22:09.84,0:22:09.84,Ep26 ED,,0,0,0,mixin line,{\fad(200,200)}
+Comment: 0,0:22:09.84,0:22:09.84,Ep26 ED,,0,0,0,mixin line actor nights,{\pos(1860,50)\fs64}
+Comment: 0,0:22:09.84,0:22:09.84,Ep26 ED,,0,0,0,mixin line actor a,{\an9}!line.text:gsub(' / ', ' \\N{\\fs48}')!
+Comment: 0,0:22:09.84,0:22:09.84,Ep26 ED,,0,0,0,mixin line actor rom,{\an8\pos(960,26)}
+Comment: 0,0:22:09.84,0:22:09.84,Ep26 ED,,0,0,0,mixin line actor eng,{\an2\pos(960,1050)}
+Dialogue: 0,0:22:09.51,0:23:33.43,Ep26 ED,mask,0,0,0,,{\an7\bord0\pos(0,0)\p1\c&H000000&\blur20}m -10 -100 l 1930 -100 1930 120 -10 120 m -10 960 l 1930 960 1930 1150 -10 1150
+Comment: 0,0:20:44.84,0:20:51.31,Ep26 ED,a,0,0,0,kara,tsuyoku nareru riyuu wo shitta / I've found my reason to become stronger
+Comment: 0,0:20:51.35,0:20:59.19,Ep26 ED,a,0,0,0,kara,boku wo tsurete susume / So let's go and press on 'til the end
+Comment: 0,0:21:02.74,0:21:07.20,Ep26 ED,a,0,0,0,kara,dorodarake no soumatou ni you / Hung up on memories of a life of suffering
+Comment: 0,0:21:08.24,0:21:09.87,Ep26 ED,a,0,0,0,kara,kowabaru kokoro / My heart barely stirs
+Comment: 0,0:21:09.87,0:21:14.66,Ep26 ED,a,0,0,0,kara,furueru te wa tsukamitai mono ga aru / My trembling hands are still looking for the thing they long to grasp
+Comment: 0,0:21:14.83,0:21:16.67,Ep26 ED,a,0,0,0,kara,sore dakesa / And that's all I need
+Comment: 0,0:21:16.71,0:21:19.00,Ep26 ED,a,0,0,0,kara,yoru no nioi ni / Even glaring up at the sky
+Comment: 0,0:21:19.00,0:21:20.21,Ep26 ED,a nights,0,0,0,kara,I spent all thirty nights
+Comment: 0,0:21:20.21,0:21:22.34,Ep26 ED,a,0,0,0,kara,sora nirandemo / Through the fragrance of the night
+Comment: 0,0:21:22.34,0:21:23.84,Ep26 ED,a nights,0,0,0,kara,Staring into the sky
+Comment: 0,0:21:23.84,0:21:28.72,Ep26 ED,a,0,0,0,kara,kawatte ikeru no wa jibun jishin dake / The only thing I can change is myself
+Comment: 0,0:21:29.01,0:21:30.93,Ep26 ED,a,0,0,0,kara,sore dakesa / And nothing more
+Comment: 0,0:21:31.18,0:21:37.40,Ep26 ED,a,0,0,0,kara,tsuyoku nareru riyuu wo shitta / I've found my reason to become stronger
+Comment: 0,0:21:37.52,0:21:43.65,Ep26 ED,a,0,0,0,kara,boku wo tsurete susume / So let's go and press on 'til the end
+Comment: 0,0:21:44.03,0:21:45.40,Ep26 ED,a,0,0,0,kara,doushitatte / No matter what!
+Comment: 0,0:21:45.40,0:21:46.99,Ep26 ED,a,0,0,0,kara,kesenai yume mo / My dreams can't be erased
+Comment: 0,0:21:46.99,0:21:48.78,Ep26 ED,a,0,0,0,kara,tomarenai ima mo / And time refuses to wait
+Comment: 0,0:21:48.78,0:21:53.08,Ep26 ED,a,0,0,0,kara,dareka no tame ni tsuyoku nareru nara / But so long as I have someone left to protect
+Comment: 0,0:21:53.12,0:21:57.87,Ep26 ED,a,0,0,0,kara,nandemo tachiagare / I'll keep rising to my feet as many times as it takes
+Comment: 0,0:21:58.08,0:22:01.13,Ep26 ED,a,0,0,0,kara,sekai ni uchinomesarete / I learnt what it meant to lose
+Comment: 0,0:22:01.13,0:22:02.92,Ep26 ED,a,0,0,0,kara,makeru imi wo shitta / As the world brought me down
+Comment: 0,0:22:02.92,0:22:07.30,Ep26 ED,a,0,0,0,kara,guren no hana yo sakihokore / May the blood-soaked lotuses bloom bright
+Comment: 0,0:22:07.34,0:22:14.06,Ep26 ED,a,0,0,0,kara,unmei wo terashite / Illuminating our path ahead
+Comment: 0,0:22:25.07,0:22:28.61,Ep26 ED,b rom,0,0,0,kara,hito shirezu hakanai
+Comment: 0,0:22:25.07,0:22:28.61,Ep26 ED,b eng,0,0,0,kara,Ever-fleeting visions of what could have been
+Comment: 0,0:22:28.66,0:22:32.20,Ep26 ED,b rom,0,0,0,kara,chiriyuku ketsumatsu
+Comment: 0,0:22:28.66,0:22:32.20,Ep26 ED,b eng,0,0,0,kara,Wilting away before my very eyes
+Comment: 0,0:22:32.24,0:22:35.70,Ep26 ED,b rom,0,0,0,kara,mujou ni yabureta
+Comment: 0,0:22:32.24,0:22:35.70,Ep26 ED,b eng,0,0,0,kara,Dominated by selfish cruelty
+Comment: 0,0:22:35.75,0:22:39.37,Ep26 ED,b rom,0,0,0,kara,himei no kaze fuku
+Comment: 0,0:22:35.75,0:22:39.37,Ep26 ED,b eng,0,0,0,kara,A raging storm plows over the land
+Comment: 0,0:22:39.42,0:22:42.75,Ep26 ED,b rom,0,0,0,kara,dareka no warau kage
+Comment: 0,0:22:39.42,0:22:42.75,Ep26 ED,b eng,0,0,0,kara,Crying out with laments of others
+Comment: 0,0:22:42.79,0:22:45.84,Ep26 ED,b rom,0,0,0,kara,dareka no nakigoe
+Comment: 0,0:22:42.79,0:22:45.84,Ep26 ED,b eng,0,0,0,kara,As everyone willingly sacrifices one another
+Comment: 0,0:22:45.88,0:22:51.39,Ep26 ED,b rom,0,0,0,kara,daremo ga shiawase wo negatteru
+Comment: 0,0:22:45.88,0:22:51.39,Ep26 ED,b eng,0,0,0,kara,Just wishing for their own happiness
+Comment: 0,0:22:51.59,0:22:52.93,Ep26 ED,b rom,0,0,0,kara,doushitatte
+Comment: 0,0:22:51.59,0:22:52.93,Ep26 ED,b eng,0,0,0,kara,No matter what!
+Comment: 0,0:22:52.89,0:22:54.51,Ep26 ED,b rom,0,0,0,kara,kesenai yume mo
+Comment: 0,0:22:52.89,0:22:54.51,Ep26 ED,b eng,0,0,0,kara,My dreams can't be erased
+Comment: 0,0:22:54.56,0:22:56.31,Ep26 ED,b rom,0,0,0,kara,tomarenai ima mo
+Comment: 0,0:22:54.56,0:22:56.31,Ep26 ED,b eng,0,0,0,kara,And time refuses to wait
+Comment: 0,0:22:56.35,0:23:00.56,Ep26 ED,b rom,0,0,0,kara,dareka no tame ni tsuyoku nareru nara
+Comment: 0,0:22:56.35,0:23:00.56,Ep26 ED,b eng,0,0,0,kara,But so long as I have someone left to protect
+Comment: 0,0:23:00.65,0:23:05.48,Ep26 ED,b rom,0,0,0,kara,arigatou kanashimi yo
+Comment: 0,0:23:00.65,0:23:05.48,Ep26 ED,b eng,0,0,0,kara,I'll take pride in bearing their pain
+Comment: 0,0:23:05.61,0:23:08.78,Ep26 ED,b rom,0,0,0,kara,sekai ni uchinomesarete
+Comment: 0,0:23:05.61,0:23:08.78,Ep26 ED,b eng,0,0,0,kara,I learnt what it meant to lose
+Comment: 0,0:23:08.82,0:23:10.57,Ep26 ED,b rom,0,0,0,kara,makeru imi wo shitta
+Comment: 0,0:23:08.82,0:23:10.57,Ep26 ED,b eng,0,0,0,kara,As the world brought me down
+Comment: 0,0:23:10.61,0:23:14.95,Ep26 ED,b rom,0,0,0,kara,guren no hana yo sakihokore
+Comment: 0,0:23:10.61,0:23:14.95,Ep26 ED,b eng,0,0,0,kara,May the blood-soaked lotuses bloom bright
+Comment: 0,0:23:14.99,0:23:21.62,Ep26 ED,b rom,0,0,0,kara,unmei wo terashite
+Comment: 0,0:23:14.99,0:23:21.62,Ep26 ED,b eng,0,0,0,kara,Illuminating our path ahead
+Comment: 0,0:23:25.55,0:23:28.76,Ep26 ED,b rom,0,0,0,kara,unmei wo terashite
+Comment: 0,0:23:25.55,0:23:28.76,Ep26 ED,b eng,0,0,0,kara,My fate dyed a deep red
