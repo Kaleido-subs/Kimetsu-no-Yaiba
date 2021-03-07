@@ -28,8 +28,8 @@ Style: To Be Continued Sign,FOT Manyo Gyosho Std Strp E,70,&H00FFFFFF,&H000000FF
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:04:15.65,0:04:20.03,Sign,,0,0,0,,{\an8\move(640,200.5,640,200,0,1150)\fscx60\fscy60\fs122\fsp-12\bord1\c&H0001BE&\1a&HC8&\blur8\fad(950,0)\t(0,1100,\fs120\blur3)}E{\fsp0}pisode{\fsp-20}_{\fsp-6}15\N\N\N{\fscx90\fscy90}M{\fsp0}ount{\fsp-12}_{\fsp-6}N{\fsp0}atagumo
-Dialogue: 1,0:04:15.65,0:04:20.03,Sign,,0,0,0,,{\an8\move(640,200.5,640,200,0,1150)\fscx60\fscy60\fs122\fsp-12\c&H0001BE&\blur8\fad(950,0)\t(0,1100,\fs120\blur0.9)}E{\fsp0}pisode{\fsp-20}_{\fsp-6}15\N\N\N{\fscx90\fscy90}M{\fsp0}ount{\fsp-12}_{\fsp-6}N{\fsp0}atagumo
+Dialogue: 0,0:04:15.65,0:04:20.03,Sign,,0,0,0,,{\an8\move(640,200.5,640,200,0,1150)\fscx60\fscy60\fs122\fsp-12\bord1\c&H0001BE&\1a&HC8&\blur8\fad(1450,0)\t(0,1100,\fscx58\fscy58\blur3)}E{\fsp0}pisode{\fsp-20}_{\fsp-6}15\N\N\N{\fscx90\fscy90}M{\fsp0}ount{\fsp-12}_{\fsp-6}N{\fsp0}atagumo
+Dialogue: 1,0:04:15.65,0:04:20.03,Sign,,0,0,0,,{\an8\move(640,200.5,640,200,0,1150)\fscx60\fscy60\fs122\fsp-12\c&H0001BE&\blur8\fad(950,0)\t(0,1100,\fscx58\fscy58\blur0.9)}E{\fsp0}pisode{\fsp-20}_{\fsp-6}15\N\N\N{\fscx90\fscy90}M{\fsp0}ount{\fsp-12}_{\fsp-6}N{\fsp0}atagumo
 Dialogue: 0,0:01:59.01,0:02:02.39,To Be Continued Sign,,0,0,0,,{\an5\pos(927.924,769.562)\org(966.4,816.8)\frz7.44\fry9.63\frx-0.4\fax-0.12\fnYellow Ginger\fs12\b0\c&H080509&\blur1}Wisteria
 Dialogue: 0,0:01:59.01,0:02:02.39,To Be Continued Sign,,0,0,0,,{\an5\pos(927.924,769.562)\org(966.4,816.8)\frz7.44\fry9.63\frx-0.4\fax-0.12\fnYellow Ginger\fs12\b0\c&H080509&\blur1}Wisteria
 Dialogue: 0,0:05:39.65,0:05:39.69,To Be Continued Sign,,0,0,0,,{\an5\pos(1259.2,1113.98)\org(1261.4,694.38)\frz-2.03\fry-6.72\frx-0.53\fnYellow Ginger\fs50\b0\c&H141415&\blur1}Wisteria

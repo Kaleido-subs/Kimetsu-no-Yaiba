@@ -24,8 +24,8 @@ Style: Sign,RSStyle,74,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,0,0,0,0,100,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:59.65,0:03:04.03,Sign,,0,0,0,,{\an8\move(640,200.5,640,200,0,1150)\fscx60\fscy60\fs122\fsp-12\bord1\c&HFEFFFD&\1a&HC8&\blur8\fad(950,0)\t(0,1100,\fs120\blur3)}E{\fsp0}pisode{\fsp-20}_{\fsp-6}18\N\N\N{\fscx90\fscy90}A{\fsp-12}_{\fsp-6}F{\fsp0}ake{\fsp-12}_{\fsp-6}B{\fsp0}ond
-Dialogue: 1,0:02:59.65,0:03:04.03,Sign,,0,0,0,,{\an8\move(640,200.5,640,200,0,1150)\fscx60\fscy60\fs122\fsp-12\c&HFEFFFD&\blur8\fad(950,0)\t(0,1100,\fs120\blur0.9)}E{\fsp0}pisode{\fsp-20}_{\fsp-6}18\N\N\N{\fscx90\fscy90}A{\fsp-12}_{\fsp-6}F{\fsp0}ake{\fsp-12}_{\fsp-6}B{\fsp0}ond
+Dialogue: 0,0:02:59.65,0:03:04.03,Sign,,0,0,0,,{\an8\move(640,200.5,640,200,0,1150)\fscx60\fscy60\fs122\fsp-12\bord1\c&HFEFFFD&\1a&HC8&\blur8\fad(1450,0)\t(0,1100,\fscx58\fscy58\blur3)}E{\fsp0}pisode{\fsp-20}_{\fsp-6}18\N\N\N{\fscx90\fscy90}A{\fsp-12}_{\fsp-6}F{\fsp0}ake{\fsp-12}_{\fsp-6}B{\fsp0}ond
+Dialogue: 1,0:02:59.65,0:03:04.03,Sign,,0,0,0,,{\an8\move(640,200.5,640,200,0,1150)\fscx60\fscy60\fs122\fsp-12\c&HFEFFFD&\blur8\fad(950,0)\t(0,1100,\fscx58\fscy58\blur0.9)}E{\fsp0}pisode{\fsp-20}_{\fsp-6}18\N\N\N{\fscx90\fscy90}A{\fsp-12}_{\fsp-6}F{\fsp0}ake{\fsp-12}_{\fsp-6}B{\fsp0}ond
 Dialogue: 0,0:12:16.04,0:12:24.05,Sign,,0,0,0,,{\an2\pos(1539.61,877.22)\fscx100.46\fscy100.46\fnBrushstroke 35\fs48\c&H090415&\3a&H00&\4a&H00&\blur0.8}Demon Slayer
 Dialogue: 0,0:23:00.02,0:23:00.27,Sign,,0,0,0,,{\an3\pos(1103.48,494.42)\fscx100.46\fscy100.46\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
 Dialogue: 0,0:23:00.27,0:23:00.31,Sign,,0,0,0,,{\an3\pos(1103.48,494.42)\fscx100.46\fscy100.46\frz0.1\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
