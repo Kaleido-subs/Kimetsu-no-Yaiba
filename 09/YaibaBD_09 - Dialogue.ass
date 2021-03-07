@@ -99,7 +99,7 @@ Dialogue: 10,0:06:43.80,0:06:45.26,Default,,0,0,0,,Yushirou!
 Dialogue: 10,0:06:56.65,0:06:57.77,Default,,0,0,0,,La—
 Dialogue: 10,0:06:59.27,0:07:00.78,Default,,0,0,0,,Lady Tamayo!
 Dialogue: 10,0:07:01.19,0:07:03.28,Default,,0,0,0,,Didn't I tell you?
-Dialogue: 10,0:07:03.61,0:07:06.28,Default,,0,0,0,,We shouldn't get involved with that demon hunter!
+Dialogue: 10,0:07:03.61,0:07:06.28,Default,,0,0,0,,{\q2}We shouldn't have gotten involved \Nwith that demon hunter!
 Dialogue: 10,0:07:06.28,0:07:08.32,Default,,0,0,0,,I told you from the start!
 Dialogue: 10,0:07:08.32,0:07:11.83,Default,,0,0,0,,My masking technique is still a work in progress!
 Dialogue: 10,0:07:11.83,0:07:14.79,Default,,0,0,0,,I know you're well aware of that yourself!
@@ -278,7 +278,7 @@ Dialogue: 10,0:20:15.61,0:20:19.03,Default,,0,0,0,,{\i1}First, use the Sixth For
 Dialogue: 10,0:20:21.58,0:20:24.08,Default,,0,0,0,,{\i1}Then use the footwork of the Third Form
 Dialogue: 10,0:20:25.29,0:20:26.79,Default,,0,0,0,,{\i1}to close in on him!
 Dialogue: 10,0:20:31.75,0:20:32.75,Default,,0,0,0,,{\i1}Twist!
-Dialogue: 10,0:20:32.75,0:20:34.25,Default,,0,0,0,,{\i1}Envelope!
+Dialogue: 10,0:20:32.75,0:20:34.25,Default,,0,0,0,,{\i1}Envelop!
 Dialogue: 10,0:20:36.80,0:20:40.26,Default,,0,0,0,,{\i1}Flowing Maelström Spin!
 Dialogue: 10,0:20:45.77,0:20:47.85,Default,,0,0,0,,{\i1}My sword feels so heavy!
 Dialogue: 10,0:20:48.85,0:20:50.65,Default,,0,0,0,,{\i1}But even so!

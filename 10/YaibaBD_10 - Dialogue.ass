@@ -28,7 +28,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Dialogue: 10,0:00:03.19,0:00:05.19,Default,,0,0,0,,It's about time you died!
 Dialogue: 10,0:00:13.74,0:00:14.87,Default,,0,0,0,,{\i1}Twist!
-Dialogue: 10,0:00:14.87,0:00:16.37,Default,,0,0,0,,{\i1}Envelope!
+Dialogue: 10,0:00:14.87,0:00:16.37,Default,,0,0,0,,{\i1}Envelop!
 Dialogue: 10,0:00:18.87,0:00:22.38,Default,,0,0,0,,{\i1}Flowing Maelström Spin!
 Dialogue: 10,0:00:27.84,0:00:29.72,Default,,0,0,0,,{\i1}My sword feels so heavy!
 Dialogue: 10,0:00:31.05,0:00:32.43,Default,,0,0,0,,{\i1}But even so!
@@ -38,7 +38,7 @@ Comment: 0,0:02:12.99,0:02:12.99,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:02:32.30,0:02:33.30,Default,,0,0,0,,{\i1}I did it!
 Dialogue: 10,0:02:33.30,0:02:36.30,Default,,0,0,0,,{\i1\q2}The Maelström technique loses \Na lot of force when it's not underwater!
 Dialogue: 10,0:02:36.80,0:02:39.31,Default,,0,0,0,,{\i1\q2}But thanks to my opponent's attack, \Nit gained more spin,
-Dialogue: 10,0:02:39.31,0:02:41.10,Default,,0,0,0,,{\i1}and I was able to envelope the arrows!
+Dialogue: 10,0:02:39.31,0:02:41.10,Default,,0,0,0,,{\i1}and I was able to envelop the arrows!
 Dialogue: 10,0:02:43.43,0:02:46.19,Default,,0,0,0,,Curse you! Curse you! Curse you!
 Dialogue: 10,0:02:46.19,0:02:51.03,Default,,0,0,0,,{\q2}All I had to do was bring back your head, \Nand I would've won his approval!
 Dialogue: 10,0:02:51.03,0:02:52.40,Default,,0,0,0,,You won't get away with this...
@@ -46,7 +46,7 @@ Dialogue: 10,0:02:52.40,0:02:55.66,Default,,0,0,0,,{\q2}I'll never, ever, {\i1}e
 Dialogue: 10,0:02:55.66,0:02:59.16,Default,,0,0,0,,How {\i1}dare{\i0} you shove my face into this vile dirt?!
 Dialogue: 10,0:02:59.53,0:03:01.79,Default,,0,0,0,,Don't think I'm going down alone!
 Dialogue: 10,0:03:04.91,0:03:07.04,Default,,0,0,0,,{\i1}Crap! He got me!
-Dialogue: 10,0:03:08.38,0:03:12.00,Default,,0,0,0,,{\i1\q2}The force of these arrows is \Nmuch stronger than the ones he used before!
+Dialogue: 10,0:03:08.38,0:03:12.00,Default,,0,0,0,,{\i1\q2}These arrows are a lot more forceful \Nthan the ones he used before!
 Dialogue: 10,0:03:12.26,0:03:16.18,Default,,0,0,0,,{\i1\q2}I've gotta keep up using my techniques, \Nor my body's gonna get smashed!
 Dialogue: 10,0:03:17.14,0:03:18.14,Default,,0,0,0,,Fourth Form!
 Dialogue: 10,0:03:18.34,0:03:19.55,Default,,0,0,0,,Striking Tide!
@@ -177,7 +177,7 @@ Dialogue: 10,0:13:03.10,0:13:04.51,Default,,0,0,0,,At that level?
 Dialogue: 10,0:13:04.51,0:13:07.60,Default,,0,0,0,,If Lady Tamayo says so, there's no mistake.
 Dialogue: 10,0:13:08.23,0:13:11.60,Default,,0,0,0,,Still, who knew there were such stupid demons?
 Dialogue: 10,0:13:12.10,0:13:15.02,Default,,0,0,0,,She had the gall to harm Lady Tamayo.
-Dialogue: 10,0:13:15.02,0:13:17.03,Default,,0,0,0,,Got her just desserts if you ask me.
+Dialogue: 10,0:13:15.02,0:13:17.03,Default,,0,0,0,,Got her just deserts if you ask me.
 Dialogue: 10,0:13:21.24,0:13:26.99,Default,,0,0,0,,{\q2}I hope this blood will be instrumental \Nin developing the healing serum.
 Dialogue: 10,0:13:29.29,0:13:31.96,Default,,0,0,0,,I will treat Nezuko.
 Dialogue: 10,0:13:32.29,0:13:36.46,Default,,0,0,0,,{\q2}Not only did I medicate her, \Nshe also inadvertently inhaled my spell.
@@ -249,7 +249,7 @@ Dialogue: 10,0:18:11.49,0:18:14.99,Default,,0,0,0,,{\i1}Do you still wish to liv
 Dialogue: 10,0:18:16.07,0:18:20.62,Default,,0,0,0,,{\i1\q2}Do you still wish to live, even if \Nit means giving up your humanity?
 Dialogue: 10,0:18:22.62,0:18:26.59,Default,,0,0,0,,{\i1\q2}If this goes on, you will most likely \Nsuccumb to your illness.
 Dialogue: 10,0:18:27.13,0:18:28.17,Default,,0,0,0,,{\i1}However,
-Dialogue: 10,0:18:28.50,0:18:32.59,Default,,0,0,0,,{\i1\q2}to stop being human will \Ncause you much pain and grief.
+Dialogue: 10,0:18:28.50,0:18:32.59,Default,,0,0,0,,{\i1\q2}to stop being human will \Nbring you much pain and grief.
 Dialogue: 10,0:18:34.13,0:18:37.47,Default,,0,0,0,,{\i1}Regardless, do you still wish to live?
 Dialogue: 10,0:18:46.86,0:18:49.40,Default,,0,0,0,,Yushirou and I will leave this region.
 Dialogue: 10,0:18:51.03,0:18:53.65,Default,,0,0,0,,We've gotten too close to Kibutsuji.
