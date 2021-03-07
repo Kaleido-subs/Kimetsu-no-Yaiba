@@ -1323,8 +1323,6 @@ Dialogue: 0,0:08:11.67,0:08:11.72,Sign,,0,0,0,,{\pos(1177.44,331.34)\fscx94.57\f
 Dialogue: 0,0:08:11.72,0:08:11.76,Sign,,0,0,0,,{\pos(1177.49,331.11)\fscx94.67\fscy94.67\frz337.01\frx12\fnBrushstrokes Heavy ModByArmonth\fs16\b900\c&H181816&\blur0.8}Waning \NOne
 Dialogue: 0,0:08:11.76,0:08:11.80,Sign,,0,0,0,,{\pos(1177.56,330.94)\fscx94.64\fscy94.64\frz337.02\frx12\fnBrushstrokes Heavy ModByArmonth\fs16\b900\c&H181816&\blur0.8}Waning \NOne
 Dialogue: 0,0:08:11.80,0:08:11.84,Sign,,0,0,0,,{\pos(1177.64,330.78)\fscx94.65\fscy94.65\frz337.05\frx12\fnBrushstrokes Heavy ModByArmonth\fs16\b900\c&H181816&\blur0.8}Waning \NOne
-Dialogue: 0,0:23:33.89,0:23:43.48,Sign,,0,0,0,,{\an7\pos(0,0)\c&H000000&\blur1\p1}m 0 0 l 1920 0 1920 1080 0 1080
-Dialogue: 1,0:23:35.14,0:23:39.94,Sign,,0,0,0,,{\pos(960,300)\fnBrushstroke 35\fs280\blur0.95\fad(0,1000)}Demon Slayer
-Dialogue: 1,0:23:35.14,0:23:39.94,Sign,,0,0,0,,{\pos(960,530)\fnAcme\fs80\blur0.95\fad(0,1000)}Kamado Tanjirou
-Dialogue: 1,0:23:35.14,0:23:39.94,Sign,,0,0,0,,{\pos(960,612)\fnAcme\fs96\blur0.95\fad(0,1000)}Coming-of-Age Arc
-Dialogue: 1,0:23:36.47,0:23:39.94,Sign,,0,0,0,,{\pos(1692,908)\fnKmETypeMercurius-Medium\fs160\fsp7.5\blur0.95\fad(1000,1000)}Fin
+Dialogue: 0,0:23:35.52,0:23:41.00,Sign,,0,0,0,,{\an7\pos(72,0)\fnBrushstroke 35\fs120\fscx200\fscy200\blur0.9}Demon Slayer
+Dialogue: 0,0:23:35.52,0:23:41.00,Sign,,0,0,0,,{\an7\pos(72,300)\fnAcme\fs80\blur0.9}\h\h\h\h\hKamado Tanjirou\N{\fs96}\h\h\h\hComing-of-Age Arc
+Dialogue: 0,0:23:35.52,0:23:41.00,Sign,,0,0,0,,{\an3\pos(1824,984)\fscx250\fscy250\fnBrushstroke 35\fs120\blur0.9}Fin
