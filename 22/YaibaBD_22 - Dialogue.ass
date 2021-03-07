@@ -303,4 +303,4 @@ Dialogue: 10,0:23:22.30,0:23:24.09,Default,,0,0,0,,I see none of you have change
 Dialogue: 10,0:23:24.09,0:23:26.68,Default,,0,0,0,,And now, time for a Taisho secret!
 Dialogue: 10,0:23:26.68,0:23:30.01,Default,,0,0,0,,{\q2}The first one among us to speak \Ngets to greet the Master,
 Dialogue: 10,0:23:30.01,0:23:33.43,Default,,0,0,0,,{\q2}so we all had butterflies in our stomachs \Nuntil the Master got here!
-Dialogue: 10,0:23:33.85,0:23:37.73,Default,,0,0,0,,{\q2}Oh, next, Episode 23, \N"The Hashira's Meeting".{inconsistent with 22 ("Meeting"), and also just weird to use a possessive like this}{## Other sources use "Hashira Meeting". We can change it to that if we'd rather do that.}
+Dialogue: 10,0:23:33.85,0:23:37.73,Default,,0,0,0,,{\q2}Oh, next, Episode 23, \N"Hashira Meeting".
