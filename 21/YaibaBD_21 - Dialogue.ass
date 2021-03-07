@@ -32,7 +32,7 @@ Dialogue: 10,0:00:47.32,0:00:48.99,Default,,0,0,0,,What are you doing?
 Dialogue: 10,0:00:48.99,0:00:51.24,Default,,0,0,0,,You know you're not supposed to go outside!
 Comment: 0,0:02:22.00,0:02:22.00,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:02:31.34,0:02:33.34,Default,,0,0,0,,{\i1}From the moment I was born,
-Dialogue: 10,0:02:33.97,0:02:35.13,Default,,0,0,0,,{\i1}I'd always been frail.{### not actually sure how the conjugation works here but this seems nicer}{## Funny that you say that, because for me 've seems much nicer :lul:}
+Dialogue: 10,0:02:33.97,0:02:35.13,Default,,0,0,0,,{\i1}I'd always been frail.
 Dialogue: 10,0:02:36.97,0:02:38.72,Default,,0,0,0,,{\i1}I was never able to run.
 Dialogue: 10,0:02:39.81,0:02:42.64,Default,,0,0,0,,{\i1}Even walking was a struggle.
 Dialogue: 10,0:02:47.77,0:02:51.03,Default,,0,0,0,,{\i1\q2}But everything changed \Nwhen Lord Muzan appeared.
@@ -55,7 +55,7 @@ Dialogue: 10,0:04:17.99,0:04:20.57,Default,,0,0,0,,{\i1}My very own parents...
 Dialogue: 10,0:04:21.12,0:04:22.70,Default,,0,0,0,,{\i1}tried to kill me.
 Dialogue: 10,0:04:24.16,0:04:26.00,Default,,0,0,0,,{\i1}All my mother did was sob,
 Dialogue: 10,0:04:26.00,0:04:29.08,Default,,0,0,0,,{\i1}not even lifting a finger to protect me.
-Dialogue: 10,0:04:43.26,0:04:45.06,Default,,0,0,0,,{\i1}They must've been impostors.{### google books supports this as historically the preferred spelling, especially in the early 20th century}
+Dialogue: 10,0:04:43.26,0:04:45.06,Default,,0,0,0,,{\i1}They must've been impostors.
 Dialogue: 10,0:04:46.72,0:04:50.48,Default,,0,0,0,,{\i1}The bond between us wasn't real.
 Dialogue: 10,0:04:52.73,0:04:56.28,Default,,0,0,0,,I'm sorry...
 Dialogue: 10,0:04:57.74,0:04:59.32,Default,,0,0,0,,{\i1}She's trying to say something.
@@ -143,7 +143,7 @@ Dialogue: 10,0:11:55.32,0:11:57.53,Default,,0,0,0,,She's truly amazing.
 Dialogue: 10,0:11:58.07,0:11:59.53,Default,,0,0,0,,That goes for him, too.
 Dialogue: 10,0:12:00.70,0:12:02.45,Default,,0,0,0,,Oh, that guy?
 Dialogue: 10,0:12:02.45,0:12:04.95,Default,,0,0,0,,When he defeated the demon,
-Dialogue: 10,0:12:04.95,0:12:07.87,Default,,0,0,0,,the venom's circulation slowed down a bit.{### it slowed down the venom's circulation a bit}
+Dialogue: 10,0:12:04.95,0:12:07.87,Default,,0,0,0,,the venom's circulation slowed down a bit.
 Dialogue: 10,0:12:09.29,0:12:11.29,Default,,0,0,0,,All right! That should do it!
 Dialogue: 10,0:12:12.25,0:12:14.05,Default,,0,0,0,,Looking good!
 Dialogue: 10,0:12:14.05,0:12:16.38,Default,,0,0,0,,Chances are they'll all pull through.
@@ -260,7 +260,7 @@ Dialogue: 10,0:19:47.04,0:19:48.71,Default,,0,0,0,,{\q2}Should we bring them to 
 Dialogue: 10,0:19:48.71,0:19:51.50,Default,,0,0,0,,Yes, bring all of the injured to our place.
 Dialogue: 10,0:19:51.50,0:19:55.80,Default,,0,0,0,,{\q2}I'll be hunting down the demons in the area \Nso you can work uninterrupted.
 Dialogue: 10,0:19:56.22,0:19:58.59,Default,,0,0,0,,{\i1}Actually, I've heard of these guys before.
-Dialogue: 10,0:19:58.59,0:20:00.72,Default,,0,0,0,,{\i1}The clean-up crew, the Kakushi. {## tl kudaplease}
+Dialogue: 10,0:19:58.59,0:20:00.72,Default,,0,0,0,,{\i1}The clean-up crew, the Kakushi.
 Dialogue: 10,0:20:01.30,0:20:05.31,Default,,0,0,0,,{\i1\q2}They're the unit that cleans up after \Nthe Demon Slayers battle demons.
 Dialogue: 10,0:20:05.98,0:20:11.02,Default,,0,0,0,,{\i1\q2}They say that most of its members are people \Nwho have no swordsmanship skills.
 Dialogue: 10,0:20:18.66,0:20:20.24,Default,,0,0,0,,The sun's coming up.

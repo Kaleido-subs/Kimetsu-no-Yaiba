@@ -176,7 +176,7 @@ Dialogue: 10,0:11:24.58,0:11:26.71,Default,,0,0,0,,then you have no business bei
 Dialogue: 10,0:11:27.63,0:11:29.67,Default,,0,0,0,,You little...
 Dialogue: 10,0:11:32.34,0:11:34.13,Default,,0,0,0,,You're dead, kiddo!
 Dialogue: 10,0:11:37.97,0:11:39.35,Default,,0,0,0,,The Master
-Dialogue: 10,0:11:39.35,0:11:40.97,Default,,0,0,0,,has arrived.{### the post-eyecatch line was linked like this}
+Dialogue: 10,0:11:39.35,0:11:40.97,Default,,0,0,0,,has arrived.
 Dialogue: 10,0:11:53.19,0:11:54.94,Default,,0,0,0,,So good of you to come,
 Dialogue: 10,0:11:58.74,0:12:01.49,Default,,0,0,0,,my beloved children.
 Comment: 0,0:12:06.96,0:12:06.96,Default,chapter,0,0,0,,{Part B}
@@ -227,12 +227,12 @@ Dialogue: 10,0:15:59.98,0:16:04.19,Default,,0,0,0,,{\i1}"and this remains true m
 Dialogue: 10,0:16:04.19,0:16:09.11,Default,,0,0,0,,{\i1\q2}"Far-fetched as it may seem, \Nthis is an indisputable fact."
 Dialogue: 10,0:16:09.11,0:16:14.70,Default,,0,0,0,,{\i1\q2}"In the event that Nezuko {\i0}does{\i1} \Nassault a human, Kamado Tanjirou,"
 Dialogue: 10,0:16:14.70,0:16:18.46,Default,,0,0,0,,"as well as Urokodaki Sakonji and Tomioka Giyuu,"
-Dialogue: 10,0:16:18.46,0:16:20.79,Default,,0,0,0,,"shall atone by committing ritual suicide."{###the disembowelment part isn't actually important and we're short on time}
+Dialogue: 10,0:16:18.46,0:16:20.79,Default,,0,0,0,,"shall atone by committing ritual suicide."{### the disembowelment part isn't actually important and we're short on time}
 Dialogue: 10,0:16:37.89,0:16:40.90,Default,,0,0,0,,So what if they commit suicide?
 Dialogue: 10,0:16:42.15,0:16:44.86,Default,,0,0,0,,{\q2}If they have a death wish, \Nthey can rot for all I care!
 Dialogue: 10,0:16:45.69,0:16:48.24,Default,,0,0,0,,{\q2}That statement guarantees {\i1}nothing{\i0}.
 Dialogue: 10,0:16:48.57,0:16:50.66,Default,,0,0,0,,Shinazugawa is right!
-Dialogue: 10,0:16:50.66,0:16:53.41,Default,,0,0,0,,When she {\i1}does{\i0} eat a person, it'll be too late!{### I despise the "you have to translate sentences backwards" meme. it's just... wrong, so often}
+Dialogue: 10,0:16:50.66,0:16:53.41,Default,,0,0,0,,When she {\i1}does{\i0} eat a person, it'll be too late!
 Dialogue: 10,0:16:53.41,0:16:55.33,Default,,0,0,0,,We can't bring back the dead!
 Dialogue: 10,0:16:57.25,0:16:59.04,Default,,0,0,0,,You do have a point.
 Dialogue: 10,0:16:59.83,0:17:00.79,Default,,0,0,0,,In that case...
@@ -294,7 +294,7 @@ Dialogue: 10,0:23:02.36,0:23:05.91,Default,,0,0,0,,{\q2}Imagine, Shinazugawa fal
 Dialogue: 10,0:23:05.91,0:23:07.70,Default,,0,0,0,,That was a mighty fine headbutt!
 Dialogue: 10,0:23:07.70,0:23:09.74,Default,,0,0,0,,Yeah! It made quite the magnificent sound!
 Dialogue: 10,0:23:09.74,0:23:11.20,Default,,0,0,0,,How painful it must've been...
-Dialogue: 10,0:23:11.20,0:23:12.54,Default,,0,0,0,,Praise to Amida Buddha.{### inconsistent with 23 @ 02:55}{## Changed in 23}
+Dialogue: 10,0:23:11.20,0:23:12.54,Default,,0,0,0,,Praise to Amida Buddha.
 Dialogue: 10,0:23:12.54,0:23:15.83,Default,,0,0,0,,{\q2}But the way that boy stood up \Nto a Hashira was so brave!
 Dialogue: 10,0:23:15.83,0:23:17.33,Default,,0,0,0,,What is this, a free-for-all?
 Dialogue: 10,0:23:17.33,0:23:20.17,Default,,0,0,0,,{\q2}You know I could've dodged it \Nif Tomioka hadn't distracted me!

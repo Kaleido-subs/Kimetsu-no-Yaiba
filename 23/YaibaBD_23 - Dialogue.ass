@@ -102,7 +102,7 @@ Dialogue: 10,0:07:55.54,0:07:57.67,Default,,0,0,0,,Pardon me for cutting in fron
 Dialogue: 10,0:08:10.59,0:08:13.06,Default,,0,0,0,,Now then, let us begin the Hashira Meet—
 Dialogue: 10,0:08:13.06,0:08:16.48,Default,,0,0,0,,Hold on! I'm not done yet!
 Dialogue: 10,0:08:15.10,0:08:16.48,Default,,0,0,0,,{\an8}Come back here!
-Dialogue: 10,0:08:19.44,0:08:23.57,Default,,0,0,0,,Please allow me to give that man \Ncovered in scars a good headbuttin'!{### could go either way on this particular hyphen}
+Dialogue: 10,0:08:19.44,0:08:23.57,Default,,0,0,0,,Please allow me to give that man \Ncovered in scars a good headbuttin'!
 Dialogue: 10,0:08:23.98,0:08:24.82,Default,,0,0,0,,I've gotta—
 Dialogue: 10,0:08:24.82,0:08:26.74,Default,,0,0,0,,Shut it! Keep your mouth shut!
 Dialogue: 10,0:08:26.74,0:08:29.82,Default,,0,0,0,,{\q2}I must trade a headbutt for \Nevery time he stabbed Nezuko!
@@ -134,7 +134,7 @@ Dialogue: 10,0:09:25.92,0:09:27.30,Default,,0,0,0,,I was about to piss my pants!
 Dialogue: 10,0:09:28.80,0:09:30.88,Default,,0,0,0,,You have no clue how terrifying the Hashira are!
 Dialogue: 10,0:09:30.88,0:09:32.51,Default,,0,0,0,,Try to read the room! Please!
 Dialogue: 10,0:09:32.51,0:09:34.68,Default,,0,0,0,,Don't think I'll ever forget this!
-Dialogue: 10,0:09:34.68,0:09:36.14,Default,,0,0,0,,Me {n}either!{### meh, but what was here before is just pure jank}
+Dialogue: 10,0:09:34.68,0:09:36.14,Default,,0,0,0,,Me {n}either!
 Dialogue: 10,0:09:36.43,0:09:37.14,Default,,0,0,0,,Apologise!
 Dialogue: 10,0:09:37.14,0:09:39.48,Default,,0,0,0,,Apologise! Right now!
 Dialogue: 10,0:09:40.60,0:09:43.27,Default,,0,0,0,,I-I'm sorry.
@@ -211,7 +211,7 @@ Dialogue: 10,0:13:41.43,0:13:44.43,Default,,0,0,0,,I've got stumps for limbs now
 Dialogue: 10,0:13:44.43,0:13:46.01,Default,,0,0,0,,Is that right?
 Dialogue: 10,0:13:46.43,0:13:47.81,Default,,0,0,0,,Where's Inosuke?
 Dialogue: 10,0:13:47.81,0:13:49.64,Default,,0,0,0,,Have you seen Murata?
-Dialogue: 10,0:13:50.10,0:13:52.85,Default,,0,0,0,,I don't know this Murata bloke,{### ...bloke? I know this is supposed to BrE but}{## seems fine to me?}
+Dialogue: 10,0:13:50.10,0:13:52.85,Default,,0,0,0,,I don't know this Murata bloke,
 Dialogue: 10,0:13:52.85,0:13:55.19,Default,,0,0,0,,but Inosuke's right next to me.
 Dialogue: 10,0:13:56.40,0:13:57.98,Default,,0,0,0,,Hey, you're right!
 Dialogue: 10,0:13:58.40,0:14:00.03,Default,,0,0,0,,He's been here all this time!
@@ -303,7 +303,7 @@ Dialogue: 10,0:19:41.87,0:19:44.16,Default,,0,0,0,,he may have the power to draw
 Dialogue: 10,0:19:44.16,0:19:47.21,Default,,0,0,0,,Even we rarely get the chance to confront one!
 Dialogue: 10,0:19:47.21,0:19:48.96,Default,,0,0,0,,It makes me envious!
 Dialogue: 10,0:19:49.92,0:19:51.17,Default,,0,0,0,,Agreed.
-Dialogue: 10,0:19:51.88,0:19:57.51,Default,,0,0,0,,{\q2}But the fact that a Waning Blood Moon \Ntook such drastic action{### this was missing some kind of word, but this is just a guess as to what}
+Dialogue: 10,0:19:51.88,0:19:57.51,Default,,0,0,0,,{\q2}But the fact that a Waning Blood Moon \Ntook such drastic action
 Dialogue: 10,0:19:57.51,0:20:01.10,Default,,0,0,0,,{\q2}probably means that Muzan is \Nnowhere near Mt. Natagumo.
 Dialogue: 10,0:20:02.18,0:20:04.27,Default,,0,0,0,,After all, as in the case of Asakusa,
 Dialogue: 10,0:20:04.27,0:20:06.69,Default,,0,0,0,,whenever Muzan wishes to hide something,

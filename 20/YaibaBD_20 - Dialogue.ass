@@ -28,7 +28,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Dialogue: 10,0:00:00.98,0:00:02.73,Default,,0,0,0,,{\i1}Blood Arts!
 Dialogue: 10,0:00:03.23,0:00:04.73,Default,,0,0,0,,{\i1}Blood Burst!
-Dialogue: 10,0:00:12.53,0:00:15.25,Default,,0,0,0,,No one will{### consistency with 19} ever sever
+Dialogue: 10,0:00:12.53,0:00:15.25,Default,,0,0,0,,No one will ever sever
 Dialogue: 10,0:00:15.75,0:00:17.25,Default,,0,0,0,,the bond
 Dialogue: 10,0:00:17.25,0:00:19.25,Default,,0,0,0,,between us!
 Comment: 0,0:01:55.01,0:01:55.01,Default,chapter,0,0,0,,{Part A}
@@ -92,7 +92,7 @@ Dialogue: 10,0:05:31.77,0:05:33.65,Default,,0,0,0,,Cutting Web Mandala!
 Dialogue: 10,0:05:35.77,0:05:37.48,Default,,0,0,0,,Total Concentration.
 Dialogue: 10,0:05:37.48,0:05:38.94,Default,,0,0,0,,Water Breathing.
 Dialogue: 10,0:05:39.36,0:05:40.99,Default,,0,0,0,,Eleventh Form.
-Dialogue: 10,0:05:42.99,0:05:43.99,Default,,0,0,0,,Lull. {## Manga had "dead calm", I forgot what the official anime subs used. The move is described as "A dead calm is a sea with no winds and no waves. The water's surface becomes like a mirror. It calms any technique that comes within his reach and turns it into nothing", so I think "Lull" fits well enough (and feels more like the name of a technique than "calm" does)}
+Dialogue: 10,0:05:42.99,0:05:43.99,Default,,0,0,0,,Lull.
 Dialogue: 10,0:05:44.99,0:05:47.12,Default,,0,0,0,,Eleventh Form?
 Dialogue: 10,0:05:47.12,0:05:49.95,Default,,0,0,0,,Who gives a damn about your Eleventh Form?
 Dialogue: 10,0:05:52.75,0:05:53.50,Default,,0,0,0,,Huh?
@@ -148,7 +148,7 @@ Dialogue: 10,0:10:40.62,0:10:43.62,Default,,0,0,0,,It's just that I revert by ac
 Dialogue: 10,0:10:52.63,0:10:55.26,Default,,0,0,0,,I don't want to hear your excuses, Mother.
 Dialogue: 10,0:10:58.51,0:11:01.06,Default,,0,0,0,,Play the role of a mother, like you should.
 Dialogue: 10,0:11:01.31,0:11:03.56,Default,,0,0,0,,I know what I must do, Rui.
-Dialogue: 10,0:11:06.06,0:11:10.48,Default,,0,0,0,,{\q2}We were all scared of the demon hunters, \Nand just wanted companionship{### company? eh}.
+Dialogue: 10,0:11:06.06,0:11:10.48,Default,,0,0,0,,{\q2}We were all scared of the demon hunters, \Nand just wanted companionship.
 Dialogue: 10,0:11:12.40,0:11:17.74,Default,,0,0,0,,{\q2}No one really wanted to take part in \Nthis baffling "Pretend Family" game.
 Dialogue: 10,0:11:18.20,0:11:22.08,Default,,0,0,0,,{\q2}But those who fail to accede to \NRui's demands get mutilated,
 Dialogue: 10,0:11:22.08,0:11:25.75,Default,,0,0,0,,have their sentience stripped from them,
@@ -163,7 +163,7 @@ Dialogue: 10,0:11:48.85,0:11:53.28,Default,,0,0,0,,{\q2}You're the one person \N
 Dialogue: 10,0:12:01.70,0:12:06.12,Default,,0,0,0,,{\q2}Tomorrow, Rui will be summoned by \Nour lord and descend the mountain.
 Dialogue: 10,0:12:06.83,0:12:09.33,Default,,0,0,0,,That's when we make our getaway.
 Dialogue: 10,0:12:45.16,0:12:46.75,Default,,0,0,0,,How disappointing.
-Dialogue: 10,0:13:10.27,0:13:13.52,Default,,0,0,0,,{\i1}They were all stupid, every last{### could go either way here} \None of them. But I was different!
+Dialogue: 10,0:13:10.27,0:13:13.52,Default,,0,0,0,,{\i1}They were all stupid, every last \None of them. But I was different!
 Dialogue: 10,0:13:13.73,0:13:16.23,Default,,0,0,0,,{\i1}But despite that, I still messed up!
 Dialogue: 10,0:13:19.40,0:13:20.28,Default,,0,0,0,,Rui!
 Dialogue: 10,0:13:20.65,0:13:21.57,Default,,0,0,0,,Rui!
@@ -191,7 +191,7 @@ Dialogue: 10,0:14:30.52,0:14:34.27,Default,,0,0,0,,{\q2}You'll be reduced to mus
 Dialogue: 10,0:14:35.27,0:14:36.98,Default,,0,0,0,,That's quite impressive!
 Dialogue: 10,0:14:36.98,0:14:39.82,Default,,0,0,0,,{\q2}Do you shoot out those webs from \Nthe palms of your hands?
 Dialogue: 10,0:14:41.03,0:14:42.36,Default,,0,0,0,,Good evening.
-Dialogue: 10,0:14:43.53,0:14:46.49,Default,,0,0,0,,{\q2}The moon is quite lovely tonight, \Nwouldn't you agree?{### this struck me as somehow off while watching, and it looks like the cps is high-ish}
+Dialogue: 10,0:14:43.53,0:14:46.49,Default,,0,0,0,,{\q2}The moon is quite lovely tonight, \Nwouldn't you agree?
 Dialogue: 10,0:15:00.09,0:15:03.92,Default,,0,0,0,,I see you have no interest in being my friend.
 Dialogue: 10,0:15:04.13,0:15:06.84,Default,,0,0,0,,W-W-Wait!
 Dialogue: 10,0:15:06.84,0:15:07.93,Default,,0,0,0,,I beg you!
@@ -219,7 +219,7 @@ Dialogue: 10,0:16:01.77,0:16:04.03,Default,,0,0,0,,No, of course not.
 Dialogue: 10,0:16:04.03,0:16:06.24,Default,,0,0,0,,I only killed those five.
 Dialogue: 10,0:16:06.49,0:16:09.41,Default,,0,0,0,,Did you know I came here from the west?
 Dialogue: 10,0:16:09.99,0:16:12.74,Default,,0,0,0,,The west, my dear.
-Dialogue: 10,0:16:12.99,0:16:18.33,Default,,0,0,0,,{\q2}On the west side of the mountain, \NI found a collection{### there's nothing right about "hordes" here} of cocoons hanging from the trees.
+Dialogue: 10,0:16:12.99,0:16:18.33,Default,,0,0,0,,{\q2}On the west side of the mountain, \NI found a collection of cocoons hanging from the trees.
 Dialogue: 10,0:16:18.79,0:16:21.25,Default,,0,0,0,,The humans inside had been liquefied.
 Dialogue: 10,0:16:21.25,0:16:23.75,Default,,0,0,0,,Every single one had been murdered.
 Dialogue: 10,0:16:23.75,0:16:28.18,Default,,0,0,0,,In that area alone, I counted at least fourteen cocoons.
@@ -236,7 +236,7 @@ Dialogue: 10,0:16:54.95,0:16:57.37,Default,,0,0,0,,your victims will never recei
 Dialogue: 10,0:16:58.37,0:17:00.46,Default,,0,0,0,,I could gouge out your eyeballs
 Dialogue: 10,0:17:00.96,0:17:04.46,Default,,0,0,0,,or cut your stomach open and play with your insides.
 Dialogue: 10,0:17:04.46,0:17:09.72,Default,,0,0,0,,{\q2}For every person you've killed, \NI'll administer the appropriate amount of torture.
-Dialogue: 10,0:17:09.72,0:17:15.97,Default,,0,0,0,,{\q2}And once you've endured all that pain and suffering, \Nyou'll have atoned for your sins and will be forgiven.{### it'd be really great if one of us could find a way to fit "atone(ment)" somewhere in here}{## How's this?}{### how's *this*?}
+Dialogue: 10,0:17:09.72,0:17:15.97,Default,,0,0,0,,{\q2}And once you've endured all that pain and suffering, \Nyou'll have atoned for your sins and will be forgiven.
 Dialogue: 10,0:17:16.18,0:17:18.02,Default,,0,0,0,,Let's both do our best here.
 Dialogue: 10,0:17:18.93,0:17:20.19,Default,,0,0,0,,It'll be fine!
 Dialogue: 10,0:17:20.19,0:17:25.73,Default,,0,0,0,,{\q2}You're a demon, so you don't have to be afraid of me \Nkilling you or leaving you riddled with scars!

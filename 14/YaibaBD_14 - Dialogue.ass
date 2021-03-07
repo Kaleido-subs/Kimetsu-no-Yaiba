@@ -50,10 +50,10 @@ Dialogue: 10,0:03:00.24,0:03:03.20,Default,,0,0,0,,We'll settle this with fistic
 Dialogue: 10,0:03:03.20,0:03:06.25,Default,,0,0,0,,No, no, I don't think you get it at all!
 Dialogue: 10,0:03:06.25,0:03:07.00,Default,,0,0,0,,To begin with...
 Dialogue: 10,0:03:09.25,0:03:11.84,Default,,0,0,0,,We're not supposed to fight each other, period!
-Dialogue: 10,0:03:13.21,0:03:15.05,Default,,0,0,0,,It being barehanded doesn't make it okay!{### "unarmed"? I generally don't like the way this is phrased, but don't quite know how to improve it}{## I think it's probably fine as-is tbh}
+Dialogue: 10,0:03:13.21,0:03:15.05,Default,,0,0,0,,It being barehanded doesn't make it okay!
 Dialogue: 10,0:03:15.51,0:03:17.43,Default,,0,0,0,,Listen to me!
 Dialogue: 10,0:03:29.23,0:03:32.19,Default,,0,0,0,,{\i1}Gee, look at him go! How can he move like that?
-Dialogue: 10,0:03:32.19,0:03:35.19,Default,,0,0,0,,{\i1}Tanjirou {\i0}just{\i1} fractured some of his ribs.{### would do an inosuke-shaped clip if it weren't for the blur}{## I did one before but skiddie deleted it while timing :(}
+Dialogue: 10,0:03:32.19,0:03:35.19,Default,,0,0,0,,{\i1}Tanjirou {\i0}just{\i1} fractured some of his ribs.
 Dialogue: 10,0:03:49.96,0:03:54.80,Default,,0,0,0,,Actually, isn't Tanjirou breaking the rules, too?
 Dialogue: 10,0:03:54.80,0:03:56.01,Default,,0,0,0,,Oh, and he's got broken bones, too.
 Dialogue: 10,0:04:14.32,0:04:16.19,Default,,0,0,0,,{\i1}Th-This guy...
@@ -151,7 +151,7 @@ Dialogue: 10,0:09:48.61,0:09:50.24,Default,,0,0,0,,Are you mocking me, you basta
 Dialogue: 10,0:09:50.24,0:09:53.20,Default,,0,0,0,,{\q2}I can bury a hundred—No, \N{\i1}two hundred{\i0} of your damn corpses!
 Dialogue: 10,0:09:53.66,0:09:56.70,Default,,0,0,0,,Just you watch! I can bury more than any of you!
 Dialogue: 10,0:10:09.92,0:10:12.05,Default,,0,0,0,,What is that guy doing?
-Dialogue: 10,0:10:12.05,0:10:13.43,Default,,0,0,0,,Don't worry about him.{### this is questionable but I like it}
+Dialogue: 10,0:10:12.05,0:10:13.43,Default,,0,0,0,,Don't worry about him.
 Dialogue: 10,0:10:13.43,0:10:14.39,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:10:21.02,0:10:25.10,Default,,0,0,0,,Descend the mountain!
 Dialogue: 10,0:10:26.69,0:10:28.86,Default,,0,0,0,,That crow is talking!
@@ -254,8 +254,8 @@ Dialogue: 10,0:15:43.13,0:15:44.26,Default,,0,0,0,,Say sorry!
 Dialogue: 10,0:15:44.26,0:15:45.09,Default,,0,0,0,,I'll pass!
 Dialogue: 10,0:15:45.09,0:15:46.47,Default,,0,0,0,,Just say you're sorry!
 Dialogue: 10,0:15:47.18,0:15:51.05,Default,,0,0,0,,{\q2}If you're gonna be like that, \Nwe'll stop eating together with you.
-Dialogue: 10,0:15:52.01,0:15:53.56,Default,,0,0,0,,Why should I give a damn?{### "why'd" is "why did"}
-Dialogue: 10,0:15:53.81,0:15:57.06,Default,,0,0,0,,{\q2}Food always tastes better when \Nyou've got company, y'know.{### something something "with company"?}
+Dialogue: 10,0:15:52.01,0:15:53.56,Default,,0,0,0,,Why should I give a damn?
+Dialogue: 10,0:15:53.81,0:15:57.06,Default,,0,0,0,,{\q2}Food always tastes better when \Nyou've got company, y'know.
 Dialogue: 10,0:15:57.31,0:15:58.77,Default,,0,0,0,,He's right about that.
 Dialogue: 10,0:15:58.77,0:16:00.77,Default,,0,0,0,,Did you guys hit your heads or something?
 Dialogue: 10,0:16:00.77,0:16:03.23,Default,,0,0,0,,Who are you to talk?
@@ -332,7 +332,7 @@ Dialogue: 10,0:20:34.46,0:20:39.34,Default,,0,0,0,,{\q2}I didn't suffer through 
 Dialogue: 10,0:20:39.34,0:20:44.10,Default,,0,0,0,,{\q2}That's {\i1}not{\i0} what I got pummelled and \Nbeaten by that weird wild boar for!
 Dialogue: 10,0:20:44.10,0:20:46.02,Default,,0,0,0,,Zenitsu, calm down!
 Dialogue: 10,0:20:46.02,0:20:47.48,Default,,0,0,0,,What's gotten into you?
-Dialogue: 10,0:20:47.48,0:20:52.81,Default,,0,0,0,,You don't become a Demon Slayer for shits 'n giggles!{### plurality outta whack}{## This should deal with that}
+Dialogue: 10,0:20:47.48,0:20:52.81,Default,,0,0,0,,You don't become a Demon Slayer for shits 'n giggles!
 Dialogue: 10,0:20:52.81,0:20:56.49,Default,,0,0,0,,Guys like you must be purged! Pronto!
 Dialogue: 10,0:20:56.78,0:21:03.78,Default,,0,0,0,,{\q2}Come to think of it, there's also the crimes of \Nthwarting my marriage and sending Shouichi home.
 Dialogue: 10,0:21:03.78,0:21:06.04,Default,,0,0,0,,Urgent purging!
