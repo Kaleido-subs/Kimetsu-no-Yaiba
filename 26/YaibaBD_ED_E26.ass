@@ -34,7 +34,15 @@ Comment: 0,0:22:09.84,0:22:09.84,Ep26 ED,,0,0,0,mixin line actor nights,{\pos(18
 Comment: 0,0:22:09.84,0:22:09.84,Ep26 ED,,0,0,0,mixin line actor a,{\an9}!line.text:gsub(' / ', ' \\N{\\fs48}')!
 Comment: 0,0:22:09.84,0:22:09.84,Ep26 ED,,0,0,0,mixin line actor rom,{\an8\pos(960,26)}
 Comment: 0,0:22:09.84,0:22:09.84,Ep26 ED,,0,0,0,mixin line actor eng,{\an2\pos(960,1050)}
-Dialogue: 0,0:22:09.51,0:23:33.43,Ep26 ED,mask,0,0,0,,{\an7\bord0\pos(0,0)\p1\c&H000000&\blur20}m -10 -100 l 1930 -100 1930 120 -10 120 m -10 960 l 1930 960 1930 1150 -10 1150
+Dialogue: 0,0:22:09.51,0:22:19.48,Ep26 ED,mask,0,0,0,,{\an7\bord0\pos(0,0)\p1\c&H000000&\blur20}m -10 -100 l 1930 -100 1930 120 -10 120 m -10 960 l 1930 960 1930 1150 -10 1150
+Dialogue: 0,0:22:19.48,0:22:29.45,Ep26 ED,mask,0,0,0,,{\an7\bord0\pos(0,0)\p1\c&H000000&\blur20}m -10 -100 l 1930 -100 1930 120 -10 120 m -10 960 l 1930 960 1930 1150 -10 1150
+Dialogue: 0,0:22:29.45,0:22:39.42,Ep26 ED,mask,0,0,0,,{\an7\bord0\pos(0,0)\p1\c&H000000&\blur20}m -10 -100 l 1930 -100 1930 120 -10 120 m -10 960 l 1930 960 1930 1150 -10 1150
+Dialogue: 0,0:22:39.42,0:22:49.39,Ep26 ED,mask,0,0,0,,{\an7\bord0\pos(0,0)\p1\c&H000000&\blur20}m -10 -100 l 1930 -100 1930 120 -10 120 m -10 960 l 1930 960 1930 1150 -10 1150
+Dialogue: 0,0:22:49.39,0:22:59.36,Ep26 ED,mask,0,0,0,,{\an7\bord0\pos(0,0)\p1\c&H000000&\blur20}m -10 -100 l 1930 -100 1930 120 -10 120 m -10 960 l 1930 960 1930 1150 -10 1150
+Dialogue: 0,0:22:59.36,0:23:09.33,Ep26 ED,mask,0,0,0,,{\an7\bord0\pos(0,0)\p1\c&H000000&\blur20}m -10 -100 l 1930 -100 1930 120 -10 120 m -10 960 l 1930 960 1930 1150 -10 1150
+Dialogue: 0,0:23:09.33,0:23:19.29,Ep26 ED,mask,0,0,0,,{\an7\bord0\pos(0,0)\p1\c&H000000&\blur20}m -10 -100 l 1930 -100 1930 120 -10 120 m -10 960 l 1930 960 1930 1150 -10 1150
+Dialogue: 0,0:23:19.29,0:23:29.26,Ep26 ED,mask,0,0,0,,{\an7\bord0\pos(0,0)\p1\c&H000000&\blur20}m -10 -100 l 1930 -100 1930 120 -10 120 m -10 960 l 1930 960 1930 1150 -10 1150
+Dialogue: 0,0:23:29.26,0:23:33.43,Ep26 ED,mask,0,0,0,,{\an7\bord0\pos(0,0)\p1\c&H000000&\blur20}m -10 -100 l 1930 -100 1930 120 -10 120 m -10 960 l 1930 960 1930 1150 -10 1150
 Comment: 0,0:20:44.84,0:20:51.31,Ep26 ED,a,0,0,0,kara,tsuyoku nareru riyuu wo shitta / I've found my reason to become stronger
 Comment: 0,0:20:51.35,0:20:59.19,Ep26 ED,a,0,0,0,kara,boku wo tsurete susume / So let's go and press on 'til the end
 Comment: 0,0:21:02.74,0:21:07.20,Ep26 ED,a,0,0,0,kara,dorodarake no soumatou ni you / Hung up on memories of a life of grief
