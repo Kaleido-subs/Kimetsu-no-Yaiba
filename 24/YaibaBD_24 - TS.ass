@@ -51,12 +51,6 @@ Dialogue: 0,0:23:01.06,0:23:16.66,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\f
 Dialogue: 1,0:23:01.06,0:23:16.66,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H3F5958&\3a&H00&\4a&HFF&\blur0.6}PREVIEW
 Dialogue: 0,0:23:24.17,0:23:37.56,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HB2DBE5&\3c&HB2DBE5&\3a&H00&\4a&H00&\blur0.6}PREVIEW
 Dialogue: 1,0:23:24.17,0:23:37.56,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H3F5958&\3a&H00&\4a&HFF&\blur0.6}PREVIEW
-Dialogue: 0,0:23:00.85,0:23:00.90,Sign,,0,0,0,,{\an2\pos(681.724,140.394)\fscx90\fscy90\frz16.92\fnDeathRattle BB\fs40\bord3\c&HB5DEE7&\2c&H666667&\3c&H304044&\3a&H00&\4a&H00&\blur0.6\clip(m 732 272 l 684 94 582 68 631 249)}Rustle
-Dialogue: 1,0:23:00.85,0:23:00.90,Sign,,0,0,0,,{\an2\pos(681.724,140.394)\fscx90\fscy90\frz16.92\fnDeathRattle BB\fs40\c&HB5DEE7&\2c&H666667&\3a&H00&\4a&HFF&\blur0.6\clip(m 732 272 l 684 94 580 78 631 249)}Rustle
-Dialogue: 0,0:23:00.90,0:23:16.66,Sign,,0,0,0,,{\an2\pos(681.724,140.394)\fscx90\fscy90\frz16.92\fnDeathRattle BB\fs40\bord3\c&HB5DEE7&\2c&H666667&\3c&H304044&\3a&H00&\4a&H00&\blur0.6}Rustle
-Dialogue: 1,0:23:00.90,0:23:16.66,Sign,,0,0,0,,{\an2\pos(681.724,140.394)\fscx90\fscy90\frz16.92\fnDeathRattle BB\fs40\c&HB5DEE7&\2c&H666667&\3a&H00&\4a&HFF&\blur0.6}Rustle
-Dialogue: 0,0:23:24.17,0:23:37.56,Sign,,0,0,0,,{\an2\pos(681.724,140.394)\fscx90\fscy90\frz16.92\fnDeathRattle BB\fs40\bord3\c&HB5DEE7&\2c&H666667&\3c&H304044&\3a&H00&\4a&H00&\blur0.6}Rustle
-Dialogue: 1,0:23:24.17,0:23:37.56,Sign,,0,0,0,,{\an2\pos(681.724,140.394)\fscx90\fscy90\frz16.92\fnDeathRattle BB\fs40\c&HB5DEE7&\2c&H666667&\3a&H00&\4a&HFF&\blur0.6}Rustle
 Dialogue: 0,0:23:37.64,0:23:37.68,Sign,,0,0,0,,{\an2\pos(1019.57,1185.48)\fnFOT Manyo Gyosho Std Strp E\fs152\b1\bord23\c&H000000&\3c&H080118&\alpha&H00&\1a&HFF&\blur9}To Be Continued
 Dialogue: 1,0:23:37.64,0:23:37.68,Sign,,0,0,0,,{\an2\pos(1019.57,1185.48)\fnFOT Manyo Gyosho Std Strp E\fs152\b1\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur9}To Be Continued
 Dialogue: 2,0:23:37.64,0:23:37.68,Sign,,0,0,0,,{\an2\pos(1019.57,1185.48)\fnFOT Manyo Gyosho Std Strp E\fs152\b1\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur9}To Be Continued
