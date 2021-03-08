@@ -24,7 +24,7 @@ Style: Ep26 ED,WILD1 Toxia,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:22:09.84,0:22:09.84,Default,chapter,0,0,0,sync,{ED}
+Comment: 0,0:22:09.14,0:22:09.14,Default,chapter,0,0,0,sync,{ED}
 Comment: 1,0:20:44.84,0:20:44.84,Ep26 ED,,0,0,0,template line actor intro notext,{\1a&HFF&\3a&HFE&\shad0.01\t(199,199,\1a&HFE&)\t(!orgline.duration-199!,!orgline.duration!,\1a&HFF&)}
 Comment: 2,0:20:44.84,0:20:44.84,Ep26 ED,,0,0,0,template line actor intro notext,{\bord0\blur0.6}
 Comment: 1,0:20:44.84,0:20:44.84,Ep26 ED,,0,0,0,template line actor main,{\1a&HFF&\3a&HFE&\bord0.7\shad0.01\blur3\t(199,199,\1a&HFE&)\t(!orgline.duration-199!,!orgline.duration!,\1a&HFF&)}
