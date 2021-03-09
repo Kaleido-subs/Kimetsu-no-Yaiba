@@ -575,11 +575,12 @@ Dialogue: 1,0:05:55.58,0:05:58.58,Sign,,0,0,0,,{\an7\pos(907.285,647.618)\c&HFAF
 Dialogue: 1,0:05:55.58,0:05:58.58,Sign,,0,0,0,,{\an7\pos(907.285,647.618)\c&HFAF9F9&\blur1\clip(1507,861,1923,862)\p1}m 605 68 l 817 172 929 214 1163 -40 849 -156
 Dialogue: 1,0:05:55.58,0:05:58.58,Sign,,0,0,0,,{\an7\pos(907.285,647.618)\c&HFAF9F9&\blur1\clip(1507,862,1923,863)\p1}m 605 68 l 817 172 929 214 1163 -40 849 -156
 Dialogue: 1,0:05:55.58,0:05:58.58,Sign,,0,0,0,,{\an7\pos(907.285,647.618)\c&HFAF9F9&\blur1\clip(1507,863,1923,864)\p1}m 605 68 l 817 172 929 214 1163 -40 849 -156
-Dialogue: 2,0:05:55.58,0:05:58.58,Sign,,0,0,0,,{\pos(1918.047,502.781)\frz-21.94\fry-1\frx9.64\fax-0.43\fnHand Of Sean\fs48\c&H5F5F5F&\1a&H14&\blur0.9}Medicine
-Dialogue: 2,0:05:55.58,0:05:58.58,Sign,,0,0,0,,{\pos(1881.316,585.29)\frz334.7\fry-1\frx9.64\fax-0.4\fnHand Of Sean\fs45\c&H5F5F5F&\1a&H14&\blur0.9}For Agatsuma Zenitsu:
-Dialogue: 2,0:05:55.58,0:05:58.58,Sign,,0,0,0,,{\pos(1833.316,623.69)\frz334.7\fry-1\frx9.64\fax-0.4\fnHand Of Sean\fs51\c&H5F5F5F&\1a&H14&\blur0.9}Take 5 times daily
-Dialogue: 2,0:05:55.58,0:05:58.58,Sign,,0,0,0,,{\pos(1807.716,665.29)\frz334.7\fry-1\frx9.64\fax-0.4\fnHand Of Sean\fs51\c&H5F5F5F&\1a&H14&\blur0.9}After each meal
-Dialogue: 2,0:05:55.58,0:05:58.58,Sign,,0,0,0,,{\pos(1729.316,734.09)\frz334.7\fry-1\frx9.64\fax-0.4\fnHand Of Sean\fs51\c&H5F5F5F&\1a&H14&\blur0.9}7 days' worth
+Dialogue: 2,0:05:55.58,0:05:58.58,Sign,,0,0,0,,{\pos(1915.05,507.78)\frz-21.94\fry-1\frx9.64\fax-0.43\fnstandard pilot demo\fs56\c&H320F0E&\1a&H14&\blur0.9}MEDICINE
+Dialogue: 2,0:05:55.58,0:05:58.58,Sign,,0,0,0,,{\pos(1883.32,569.29)\frz337.7\fry-1\frx9.64\fax-0.4\fnstandard pilot demo\fs60\c&H320F0E&\1a&H14&\blur0.9}Fo{\fsp3}r{\fsp}: Agatsuma Zenitsu
+Dialogue: 2,0:05:55.58,0:05:58.58,Sign,,0,0,0,,{\fnstandard pilot demo\fs60\c&H320F0E&\1a&H14&\blur0.9\frz66.5\fscy500\fscx50\pos(1875,597)}l
+Dialogue: 2,0:05:55.58,0:05:58.58,Sign,,0,0,0,,{\pos(1830.32,629.69)\frz335.7\fry-1\frx9.64\fax-0.4\fnstandard pilot demo\fs60\c&H320F0E&\1a&H14&\blur0.9}Take 5 times daily
+Dialogue: 2,0:05:55.58,0:05:58.58,Sign,,0,0,0,,{\pos(1800.72,673.29)\frz335.7\fry-1\frx9.64\fax-0.4\fnstandard pilot demo\fs60\c&H320F0E&\1a&H14&\blur0.9}after each meal
+Dialogue: 2,0:05:55.58,0:05:58.58,Sign,,0,0,0,,{\pos(1731.32,735.09)\frz335.7\fry-1\frx9.64\fax-0.4\fnstandard pilot demo\fs60\c&H320F0E&\1a&H14&\blur0.9}Contains 35 doses
 Dialogue: 2,0:17:24.23,0:17:27.90,Sign,,0,0,0,,{\pos(961.571,281.143)\frz357.7\fry358.1\frx16.33\fax0.04\fnMarker SD\fs32\c&H3F4761&\1a&H28&\blur0.6}Tan
 Dialogue: 1,0:17:24.23,0:17:27.90,Sign,,0,0,0,,{\pos(961.571,281.143)\frz357.7\fry358.1\frx16.33\fax0.04\fnMarker SD\fs32\c&H3F4761&\1a&H28&\blur0.6}Tan
 Comment: 0,0:17:24.23,0:17:27.90,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(940,666)\p1\c&HADD0F6&}m -8 -409 l 31 -418 45 -403 44 -344 -3 -346
