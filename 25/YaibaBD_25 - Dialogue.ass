@@ -55,7 +55,7 @@ Dialogue: 10,0:03:07.83,0:03:09.34,Default,,0,0,0,,{\an8}Four-hundred-ninety-eig
 Dialogue: 10,0:03:09.34,0:03:10.71,Default,,0,0,0,,{\an8}Four-hundred-ninety-nine!
 Dialogue: 10,0:03:10.71,0:03:11.38,Default,,0,0,0,,{\an8}Five hundred!
 Dialogue: 10,0:03:11.38,0:03:12.46,Default,,0,0,0,,{\an8}Five-hundred-one!
-Dialogue: 10,0:03:06.92,0:03:12.46,Default,,0,0,0,,{\i1\q2}but the longer I last, \Nthe more stamina I build up!{### meh}
+Dialogue: 10,0:03:06.92,0:03:12.46,Default,,0,0,0,,{\i1\q2}but the longer I last, \Nthe more stamina I build up!
 Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\clip(m 786 1012 b 815 973 859 902 874 858 l 1030 870 1028 1043)}You can do it!
 Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\clip(m 786 1012 b 815 973 859 902 874 858 l 1042 872 1010 1045)}You can do it!
 Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&H24&\2a&H24&\3a&H24&\4a&HAE&\clip(m 784 1013 b 814 972 858 902 873 857 l 1021 869 1017 1034 m 1016 1033 l 1020 870 874 858 b 859 902 815 973 786 1012)}You can do it!
@@ -165,7 +165,7 @@ Dialogue: 10,0:11:37.43,0:11:38.34,Default,,0,0,0,,It's fine!
 Dialogue: 10,0:11:38.34,0:11:39.97,Default,,0,0,0,,Please excuse us!
 Dialogue: 10,0:11:40.30,0:11:42.93,Default,,0,0,0,,Hands off! It's my property!
 Dialogue: 10,0:11:43.43,0:11:45.35,Default,,0,0,0,,Oh, my.
-Dialogue: 10,0:12:07.58,0:12:09.63,Default,,0,0,0,,Kanae! Kanae! {## If we undo the "Sister" change in the previous eps, we need to sort that here too}
+Dialogue: 10,0:12:07.58,0:12:09.63,Default,,0,0,0,,Kanae! Kanae!
 Dialogue: 10,0:12:09.63,0:12:12.63,Default,,0,0,0,,Kanae, this child is hopeless!
 Dialogue: 10,0:12:15.46,0:12:19.01,Default,,0,0,0,,{\q2}She won't even touch her food \Nunless we order her!
 Dialogue: 10,0:12:19.01,0:12:21.64,Default,,0,0,0,,She doesn't do anything unless told to act!
@@ -366,7 +366,7 @@ Dialogue: 10,0:19:31.02,0:19:33.07,Default,,0,0,0,,I'm expecting great things fr
 Dialogue: 10,0:19:35.49,0:19:36.49,Default,,0,0,0,,Got it!
 Dialogue: 10,0:19:53.05,0:19:55.26,Default,,0,0,0,,She's slept through the entire day again.
 Dialogue: 10,0:19:59.05,0:20:03.97,Default,,0,0,0,,{\q2}I know they said you could be \Nsleeping to recover your stamina,
-Dialogue: 10,0:20:03.97,0:20:09.15,Default,,0,0,0,,{\q2}but if you don't open your eyes \N{every }once in a while, I {start to }get worried.{### mixed feelings about this reorder}
+Dialogue: 10,0:20:03.97,0:20:09.15,Default,,0,0,0,,{\q2}but if you don't open your eyes \Nevery once in a while, I {start to }get worried.
 Dialogue: 10,0:20:14.19,0:20:18.53,Default,,0,0,0,,{\q2}Hey, your brother's probably gonna \Nbe heading out on his next mission soon.
 Dialogue: 10,0:20:19.03,0:20:22.24,Default,,0,0,0,,{\q2}My wounds have healed, \Nand I've gotten even stronger!
 Dialogue: 10,0:20:22.70,0:20:25.33,Default,,0,0,0,,I'm maintaining my Breathing even now!
@@ -375,7 +375,7 @@ Dialogue: 10,0:20:30.33,0:20:32.67,Default,,0,0,0,,Having those two by my side f
 Dialogue: 10,0:20:35.80,0:20:36.76,Default,,0,0,0,,I see.
 Dialogue: 10,0:20:37.17,0:20:38.84,Default,,0,0,0,,You think so, too, Nezuko?
 Dialogue: 10,0:20:39.84,0:20:41.68,Default,,0,0,0,,They're good guys.
-Dialogue: 10,0:20:42.10,0:20:44.43,Default,,0,0,0,,If I want to restore your humanity,{### I could go either way}
+Dialogue: 10,0:20:42.10,0:20:44.43,Default,,0,0,0,,If I want to restore your humanity,
 Dialogue: 10,0:20:44.43,0:20:49.10,Default,,0,0,0,,{\q2}I must take down the strongest demons I can find \Nand send Miss Tamayo their blood samples.
 Dialogue: 10,0:20:50.06,0:20:52.52,Default,,0,0,0,,{\i1}Am I capable of doing that?
 Dialogue: 10,0:20:53.32,0:20:55.44,Default,,0,0,0,,{\i1}I know you can do it, Tanjirou.
@@ -383,7 +383,7 @@ Dialogue: 10,0:21:04.87,0:21:08.33,Default,,0,0,0,,Thanks, Nezuko. You just enco
 Dialogue: 10,0:21:08.33,0:21:10.54,Default,,0,0,0,,I'll do my best, okay?
 Comment: 0,0:22:59.98,0:22:59.98,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:23:02.99,0:23:05.66,Default,,0,0,0,,Maintaining my Breathing is way too demanding!
-Dialogue: 10,0:23:05.66,0:23:08.07,Default,,0,0,0,,There's just no damn way.{### I don't see inosuke dropping an f-bomb in this state}
+Dialogue: 10,0:23:05.66,0:23:08.07,Default,,0,0,0,,There's just no damn way.
 Dialogue: 10,0:23:08.07,0:23:10.37,Default,,0,0,0,,You both look wiped out.
 Dialogue: 10,0:23:10.37,0:23:11.16,Default,,0,0,0,,Oh, I know!
 Dialogue: 10,0:23:11.16,0:23:14.12,Default,,0,0,0,,Here's a Taisho secret for you!
