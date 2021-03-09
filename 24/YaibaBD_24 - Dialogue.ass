@@ -37,7 +37,7 @@ Dialogue: 10,0:00:30.05,0:00:33.89,Default,,0,0,0,,{\q2}But I trust I'll have no
 Dialogue: 10,0:00:34.64,0:00:38.69,Default,,0,0,0,,{\q2}Kochou, what are you planning? \NWhy take that head-butting boy in?
 Dialogue: 10,0:00:38.69,0:00:41.19,Default,,0,0,0,,{\q2}You mentioned wanting to add \Nmore Tsuguko to your ranks,
 Dialogue: 10,0:00:41.19,0:00:43.15,Default,,0,0,0,,but I'm sure you've got other reasons in mind.
-Dialogue: 10,0:00:43.15,0:00:47.61,Default,,0,0,0,,Relax. It's not like I'm gonna gobble him up, right?{### meh}
+Dialogue: 10,0:00:43.15,0:00:47.61,Default,,0,0,0,,Relax. It's not like I'm gonna gobble him up, right?
 Dialogue: 10,0:00:47.61,0:00:49.03,Default,,0,0,0,,Of course you're not!
 Dialogue: 10,0:00:54.62,0:00:56.29,Default,,0,0,0,,Be careful.
 Comment: 0,0:02:27.00,0:02:27.00,Default,chapter,0,0,0,,{Part A}
@@ -66,7 +66,7 @@ Dialogue: 10,0:03:30.94,0:03:33.28,Default,,0,0,0,,And you ended up with throat 
 Dialogue: 10,0:03:34.65,0:03:36.53,Default,,0,0,0,,What's up with him?
 Dialogue: 10,0:03:37.16,0:03:38.74,Default,,0,0,0,,He went through a lot.
 Dialogue: 10,0:03:38.74,0:03:40.78,Default,,0,0,0,,If you could please let him be...
-Dialogue: 10,0:03:40.78,0:03:43.20,Default,,0,0,0,,But for this guy of all people to be so out of it—{### looking it up, listless seems to be fine, but the fact that I actually had to look it up to check is a strike against it. the context is enough that the audience could infer meaning here even for a made-up word, but since when do I consider that a valid excuse}
+Dialogue: 10,0:03:40.78,0:03:43.20,Default,,0,0,0,,But for this guy of all people to be so out of it—
 Dialogue: 10,0:03:43.20,0:03:44.45,Default,,0,0,0,,Tanjirou!
 Dialogue: 10,0:03:45.16,0:03:47.42,Default,,0,0,0,,Who's this?
 Dialogue: 10,0:03:47.42,0:03:50.71,Default,,0,0,0,,This is Murata. He fought with us on Mt. Natagumo.
@@ -88,7 +88,7 @@ Dialogue: 10,0:04:28.96,0:04:35.30,Default,,0,0,0,,{\q2}I was summoned to the Ha
 Dialogue: 10,0:04:35.30,0:04:39.26,Default,,0,0,0,,{\q2}I thought I accidentally walked into Hell! \NThey're absolutely terrifying!
 Dialogue: 10,0:04:39.47,0:04:44.97,Default,,0,0,0,,{\q2}They were pissed at how poorly the newer \NDemon Slayers have been performing as of late.
 Dialogue: 10,0:04:44.97,0:04:50.19,Default,,0,0,0,,{\q2}Especially since it seems some of us \Nweren't following orders back on Mt. Natagumo.
-Dialogue: 10,0:04:50.19,0:04:53.90,Default,,0,0,0,,They asked us who in their right mind even trained us.
+Dialogue: 10,0:04:50.19,0:04:53.90,Default,,0,0,0,,They asked me who in their right mind even trained us.
 Dialogue: 10,0:04:53.90,0:04:58.57,Default,,0,0,0,,{\q2}Like, how is someone of {\i1}my{\i0} rank \Nsupposed to answer that?
 Dialogue: 10,0:05:00.24,0:05:03.12,Default,,0,0,0,,The Hashira terrify me...
 Dialogue: 10,0:05:03.62,0:05:04.74,Default,,0,0,0,,Hello there.
@@ -183,7 +183,7 @@ Dialogue: 10,0:09:32.51,0:09:35.35,Default,,0,0,0,,{\q2}The hell's wrong with yo
 Dialogue: 10,0:09:36.01,0:09:38.85,Default,,0,0,0,,I can get as many girls as I want!
 Dialogue: 10,0:09:40.85,0:09:43.10,Default,,0,0,0,,Please train me well!
 Dialogue: 10,0:09:52.49,0:09:54.24,Default,,0,0,0,,This is fine! All good!
-Dialogue: 10,0:09:54.24,0:09:56.95,Default,,0,0,0,,This guy ain't normal.{There's something seriously wrong with this guy.}{### meh}
+Dialogue: 10,0:09:54.24,0:09:56.95,Default,,0,0,0,,This guy ain't normal.{There's something seriously wrong with this guy.}
 Dialogue: 10,0:09:56.95,0:10:01.08,Default,,0,0,0,,{\q2}I'm always fighting back tears from the pain, \Nbut he's just laughing it off.
 Dialogue: 10,0:10:02.58,0:10:04.50,Default,,0,0,0,,I shall take you on.
 Dialogue: 10,0:10:05.21,0:10:06.25,Default,,0,0,0,,Begin!
@@ -237,7 +237,7 @@ Dialogue: 10,0:12:19.43,0:12:22.26,Default,,0,0,0,,No, I don't. That's never eve
 Dialogue: 10,0:12:22.89,0:12:25.18,Default,,0,0,0,,Is that even possible?
 Dialogue: 10,0:12:25.18,0:12:26.48,Default,,0,0,0,,It is!
 Dialogue: 10,0:12:26.48,0:12:31.44,Default,,0,0,0,,{\q2}We're told that being able to \Nmakes all the difference in the world!
-Dialogue: 10,0:12:31.44,0:12:36.44,Default,,0,0,0,,{\q2}Just using it a couple of minutes \Nat a time already takes its toll on me,{### "for a couple of minutes"? something feels a little off and I wish I could put my finger on what}
+Dialogue: 10,0:12:31.44,0:12:36.44,Default,,0,0,0,,{\q2}Just using it for a couple of minutes \Nat a time already takes its toll on me,
 Dialogue: 10,0:12:36.44,0:12:39.07,Default,,0,0,0,,and you want me to do it around the clock?
 Dialogue: 10,0:12:39.07,0:12:42.28,Default,,0,0,0,,Some people have already mastered it.
 Dialogue: 10,0:12:42.28,0:12:45.29,Default,,0,0,0,,Every Hashira has—and even Miss Kanao!
@@ -281,7 +281,7 @@ Dialogue: 10,0:14:44.66,0:14:47.45,Default,,0,0,0,,Good idea! And also...
 Dialogue: 10,0:14:48.16,0:14:50.20,Default,,0,0,0,,Blow into these gourds?
 Dialogue: 10,0:14:50.45,0:14:51.70,Default,,0,0,0,,That's right.
 Dialogue: 10,0:14:51.70,0:14:54.12,Default,,0,0,0,,When she was training Lady Kanao,
-Dialogue: 10,0:14:54.12,0:14:57.67,Default,,0,0,0,,Lady Shinobu often had her blow into gourds.{### "whenever" + "often" doesn't work. "while" is an alternative here, I think}
+Dialogue: 10,0:14:54.12,0:14:57.67,Default,,0,0,0,,Lady Shinobu often had her blow into gourds.
 Dialogue: 10,0:14:57.67,0:14:58.96,Default,,0,0,0,,Oh, really?
 Dialogue: 10,0:15:00.17,0:15:02.17,Default,,0,0,0,,That's an interesting technique, huh?
 Dialogue: 10,0:15:02.17,0:15:04.22,Default,,0,0,0,,What kind of sound are you supposed to make?
@@ -369,13 +369,13 @@ Dialogue: 10,0:19:33.53,0:19:35.49,Default,,0,0,0,,She, too, felt sympathy for d
 Dialogue: 10,0:19:36.11,0:19:39.87,Default,,0,0,0,,{\q2}Even on the brink of death, \Nshe never stopped pitying them.
 Dialogue: 10,0:19:40.62,0:19:43.66,Default,,0,0,0,,But I was never able to feel that way.
 Dialogue: 10,0:19:44.16,0:19:47.12,Default,,0,0,0,,{\q2}How can you feel sorry for \Nsomething that kills humans?
-Dialogue: 10,0:19:47.12,0:19:49.67,Default,,0,0,0,,I've never heard anything {quite }so ludicrous.{That's the most ludicrous thing I've ever heard.}
+Dialogue: 10,0:19:47.12,0:19:49.67,Default,,0,0,0,,I've never heard anything {quite }so ludicrous.
 Dialogue: 10,0:19:50.38,0:19:54.46,Default,,0,0,0,,But if that was how my sister truly felt,
 Dialogue: 10,0:19:54.46,0:19:56.30,Default,,0,0,0,,then I must carry on that feeling.
-Dialogue: 10,0:19:57.01,0:20:00.55,Default,,0,0,0,,{\q2}If there's a way for us to no longer \Nhave to kill those pitiful demons out there,
+Dialogue: 10,0:19:57.01,0:20:00.55,Default,,0,0,0,,{\q2}If there's a way for us to no longer \Nhave to kill those pitiful demons,
 Dialogue: 10,0:20:00.55,0:20:02.64,Default,,0,0,0,,then I must continue searching for it.
 Dialogue: 10,0:20:03.39,0:20:07.10,Default,,0,0,0,,All without losing that smile my sister always loved.
-Dialogue: 10,0:20:07.98,0:20:09.02,Default,,0,0,0,,{\i1}Kanae! {## no strong feelings on not having "Sister" instead}
+Dialogue: 10,0:20:07.98,0:20:09.02,Default,,0,0,0,,{\i1}Kanae!
 Dialogue: 10,0:20:10.98,0:20:12.52,Default,,0,0,0,,{\i1}Kanae!
 Dialogue: 10,0:20:13.23,0:20:14.78,Default,,0,0,0,,{\i1}Kanae!
 Dialogue: 10,0:20:16.65,0:20:20.24,Default,,0,0,0,,But I'm exhausted.
