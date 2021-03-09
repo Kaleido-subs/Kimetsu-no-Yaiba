@@ -86,4 +86,4 @@ Dialogue: 0,0:01:19.22,0:01:23.56,OP1,rom overlap,0,0,0,kara,{\k1}{\k18}gu{\k37}
 Dialogue: 0,0:01:23.64,0:01:29.11,OP1,rom,0,0,0,kara,{\k1}{\k43}un{\k22}me{\k19}i {\k63}wo{\k28} {\k18}te{\k31}ra{\k19}shi{\k248}te{\k55}
 Dialogue: 0,0:00:35.13,0:00:36.64,OP1,alt,0,0,0,kara,I spent all thirty nights
 Dialogue: 0,0:00:38.64,0:00:40.14,OP1,alt,0,0,0,kara,Staring into the sky
-Dialogue: 0,0:00:11.95,0:00:16.78,Sign,,0,0,0,,{\move(1004,699,1009,720,-1,0)\fscx111.8\fscy111.8\fnBrushstroke 35\c&H000024&\blur8\fad(0,100)\t(0,240,\c&H000000&\blur0.7)\t(4570,4862,1.4,\blur8\c&H000024&)\t(24,4862,\fscx126.4\fscy126.4)}Demon Slayer
+Dialogue: 0,0:00:11.95,0:00:16.78,Sign,,0,0,0,,{\move(1004,699,1009,720,-1,0)\fscx111.8\fscy111.8\fnBrushstroke 35\c&H000024&\blur8\fad(0,100)\t(0,240,\c&H070616&\blur0.7)\t(4570,4862,1.4,\blur8\c&H000024&)\t(24,4862,\fscx126.4\fscy126.4)}Demon Slayer
