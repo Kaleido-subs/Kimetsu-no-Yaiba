@@ -33,7 +33,7 @@ Comment: 0,0:01:52.01,0:01:52.01,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:02:00.35,0:02:01.39,Default,,0,0,0,,What the—?!
 Dialogue: 10,0:02:01.39,0:02:02.52,Default,,0,0,0,,What happened?
 Dialogue: 10,0:02:02.52,0:02:03.85,Default,,0,0,0,,I-Is that blood?
-Dialogue: 10,0:02:05.94,0:02:07.82,Default,,0,0,0,,Stop!
+Dialogue: 10,0:02:06.02,0:02:07.82,Default,,0,0,0,,Stop!
 Dialogue: 10,0:02:15.74,0:02:16.82,Default,,0,0,0,,Honey!
 Dialogue: 10,0:02:17.53,0:02:18.49,Default,,0,0,0,,Ma'am!
 Dialogue: 10,0:02:18.49,0:02:20.45,Default,,0,0,0,,Worry about yourself first!
@@ -41,14 +41,14 @@ Dialogue: 10,0:02:20.45,0:02:24.00,Default,,0,0,0,,Please take a cloth and apply
 Dialogue: 10,0:02:27.92,0:02:30.67,Default,,0,0,0,,{\i1}It'll be okay. I'll figure out a way to handle this.
 Dialogue: 10,0:02:30.67,0:02:33.17,Default,,0,0,0,,{\i1}Her wound isn't fatal!
 Dialogue: 10,0:02:33.17,0:02:34.68,Default,,0,0,0,,Apply more pressure!
-Dialogue: 10,0:02:34.68,0:02:37.35,Default,,0,0,0,,More! Tie it up with a rope!
+Dialogue: 10,0:02:34.68,0:02:37.43,Default,,0,0,0,,More! Tie it up with a rope!
 Dialogue: 10,0:02:37.85,0:02:39.60,Default,,0,0,0,,{\i1}Everything's gonna be okay.
 Dialogue: 10,0:02:39.60,0:02:41.43,Default,,0,0,0,,{\i1}He hasn't killed anyone yet!
 Dialogue: 10,0:02:43.60,0:02:47.69,Default,,0,0,0,,{\i1\q2}He was walking down the street \Nlike normal just a second ago.
-Dialogue: 10,0:02:49.11,0:02:50.73,Default,,0,0,0,,Are you okay?
+Dialogue: 10,0:02:49.19,0:02:50.73,Default,,0,0,0,,Are you okay?
 Dialogue: 10,0:02:50.73,0:02:52.78,Default,,0,0,0,,You mustn't look.
-Dialogue: 10,0:02:52.78,0:02:55.61,Default,,0,0,0,,It isn't safe here, Rei. Let's be on our way.
-Dialogue: 10,0:02:55.61,0:02:56.78,Default,,0,0,0,,{\i1}Where'd he go?
+Dialogue: 10,0:02:52.78,0:02:55.66,Default,,0,0,0,,It isn't safe here, Rei. Let's be on our way.
+Dialogue: 10,0:02:55.66,0:02:56.78,Default,,0,0,0,,{\i1}Where'd he go?
 Dialogue: 10,0:03:10.00,0:03:10.96,Default,,0,0,0,,{\i1}Dammit!
 Dialogue: 10,0:03:11.46,0:03:13.21,Default,,0,0,0,,{\i1}Dammit!
 Dialogue: 10,0:03:16.43,0:03:18.85,Default,,0,0,0,,{\i1}I can't just leave this guy here!
@@ -61,10 +61,10 @@ Dialogue: 10,0:03:35.49,0:03:37.41,Default,,0,0,0,,It doesn't matter how far you
 Dialogue: 10,0:03:37.41,0:03:39.57,Default,,0,0,0,,I'll follow you to the depths of Hell,
 Dialogue: 10,0:03:39.57,0:03:42.24,Default,,0,0,0,,and my blade {\i1}will{\i0} claim your head!
 Dialogue: 10,0:03:42.24,0:03:44.58,Default,,0,0,0,,{\q2}So long as I breathe, \Nyou will {\i1}never{\i0} know peace!
-Dialogue: 10,0:03:45.50,0:03:47.54,Default,,0,0,0,,What the hell is going on here?
-Dialogue: 10,0:03:47.54,0:03:48.92,Default,,0,0,0,,Is it a drunken brawl?
-Dialogue: 10,0:03:48.92,0:03:51.17,Default,,0,0,0,,Step away from that man, kiddo!
-Dialogue: 10,0:03:51.17,0:03:52.38,Default,,0,0,0,,I can't!
+Dialogue: 10,0:03:45.50,0:03:47.37,Default,,0,0,0,,What the hell is going on here?
+Dialogue: 10,0:03:47.37,0:03:48.92,Default,,0,0,0,,Is it a drunken brawl?
+Dialogue: 10,0:03:48.92,0:03:51.21,Default,,0,0,0,,Step away from that man, kiddo!
+Dialogue: 10,0:03:51.21,0:03:52.38,Default,,0,0,0,,I can't!
 Dialogue: 10,0:03:52.38,0:03:54.26,Default,,0,0,0,,Please get some restraints!
 Dialogue: 10,0:03:54.26,0:03:55.05,Default,,0,0,0,,I beg you!
 Dialogue: 10,0:03:55.05,0:03:56.72,Default,,0,0,0,,Shut up and get off him already!
@@ -111,7 +111,7 @@ Dialogue: 10,0:05:58.92,0:06:01.67,Default,,0,0,0,,Daddy, come home soon, okay?
 Dialogue: 10,0:06:01.67,0:06:04.43,Default,,0,0,0,,I will. You be a good girl now.
 Dialogue: 10,0:06:04.43,0:06:06.51,Default,,0,0,0,,Take them back to our house.
 Dialogue: 10,0:06:06.51,0:06:07.68,Default,,0,0,0,,Go on.
-Dialogue: 10,0:06:20.82,0:06:23.49,Default,,0,0,0,,C'mon, Bro! Let's hit another bar!
+Dialogue: 10,0:06:20.90,0:06:23.49,Default,,0,0,0,,C'mon, Bro! Let's hit another bar!
 Dialogue: 10,0:06:23.49,0:06:25.99,Default,,0,0,0,,You good, Yacchan?
 Dialogue: 10,0:06:25.99,0:06:27.78,Default,,0,0,0,,Never been better!
 Dialogue: 10,0:06:27.78,0:06:30.54,Default,,0,0,0,,I ain't even drunk ye—
@@ -129,7 +129,7 @@ Dialogue: 10,0:07:13.16,0:07:14.54,Default,,0,0,0,,Yacchan!
 Dialogue: 10,0:07:14.54,0:07:16.37,Default,,0,0,0,,What're you doin' to my little brother?!
 Dialogue: 10,0:07:16.71,0:07:17.96,Default,,0,0,0,,Love!
 Dialogue: 10,0:07:17.96,0:07:19.13,Default,,0,0,0,,He's dead!
-Dialogue: 10,0:07:19.13,0:07:21.42,Default,,0,0,0,,Yacchan's not breathing!
+Dialogue: 10,0:07:19.13,0:07:21.50,Default,,0,0,0,,Yacchan's not breathing!
 Dialogue: 10,0:07:23.21,0:07:24.30,Default,,0,0,0,,You son of a—
 Dialogue: 10,0:07:43.73,0:07:47.53,Default,,0,0,0,,Does my complexion look unhealthy to you?
 Dialogue: 10,0:07:49.12,0:07:51.91,Default,,0,0,0,,Is my face pale?
@@ -253,7 +253,7 @@ Dialogue: 10,0:15:47.51,0:15:48.34,Default,,0,0,0,,Two...
 Dialogue: 10,0:15:50.22,0:15:52.10,Default,,0,0,0,,Two hundred years...
 Dialogue: 10,0:15:52.10,0:15:57.39,Default,,0,0,0,,{\q2}Yushirou's the only one you \Ntransformed in {\i1}two hundred years{\i0}?
 Dialogue: 10,0:15:57.39,0:15:59.23,Default,,0,0,0,,Just how old {\i1}are{\i0} you, Miss Tamayo?
-Dialogue: 10,0:16:00.48,0:16:04.36,Default,,0,0,0,,{\q2}Don't ask a lady her age, \Nyou ill-mannered scoundrel!
+Dialogue: 10,0:16:00.44,0:16:04.36,Default,,0,0,0,,{\q2}Don't ask a lady her age, \Nyou ill-mannered scoundrel!
 Dialogue: 10,0:16:04.36,0:16:05.61,Default,,0,0,0,,Yushirou!
 Dialogue: 10,0:16:05.61,0:16:08.41,Default,,0,0,0,,{\q2}The next time you hit that boy, \NI'll make you regret it!
 Dialogue: 10,0:16:09.20,0:16:10.37,Default,,0,0,0,,Yes, madam!
@@ -281,12 +281,12 @@ Dialogue: 10,0:17:47.67,0:17:51.22,Default,,0,0,0,,It's all thanks to the blood 
 Dialogue: 10,0:17:52.55,0:17:56.39,Default,,0,0,0,,We shall be slaying them brutally, of course.
 Dialogue: 10,0:17:57.60,0:18:00.27,Default,,0,0,0,,A way to restore one's humanity...
 Dialogue: 10,0:18:01.10,0:18:02.10,Default,,0,0,0,,does exist.
-Dialogue: 10,0:18:03.06,0:18:03.94,Default,,0,0,0,,Please tell me how—
+Dialogue: 10,0:18:03.06,0:18:03.90,Default,,0,0,0,,Please tell me how—
 Dialogue: 10,0:18:04.31,0:18:08.07,Default,,0,0,0,,Don't you dare get close to Lady Tamayo!
 Dialogue: 10,0:18:09.40,0:18:10.57,Default,,0,0,0,,Yushirou...
 Dialogue: 10,0:18:11.78,0:18:15.24,Default,,0,0,0,,I only threw him, Lady Tamayo. I did not hit him.
 Dialogue: 10,0:18:15.24,0:18:16.66,Default,,0,0,0,,You mustn't do either.
-Dialogue: 10,0:18:16.66,0:18:17.58,Default,,0,0,0,,Yes, madam!
+Dialogue: 10,0:18:16.66,0:18:17.53,Default,,0,0,0,,Yes, madam!
 Dialogue: 10,0:18:18.04,0:18:20.04,Default,,0,0,0,,Ow, ow, ow.
 Dialogue: 10,0:18:20.58,0:18:22.37,Default,,0,0,0,,Please tell me how.
 Dialogue: 10,0:18:23.37,0:18:29.05,Default,,0,0,0,,{\q2}No matter the wound or ailment, \Nthere is always a cure or treatment.
@@ -298,13 +298,13 @@ Dialogue: 10,0:18:45.35,0:18:49.27,Default,,0,0,0,,Towards that end, I'd like to
 Dialogue: 10,0:18:50.32,0:18:52.36,Default,,0,0,0,,To produce such an elixir,
 Dialogue: 10,0:18:52.36,0:18:55.49,Default,,0,0,0,,it is necessary to study the blood of numerous demons.
 Dialogue: 10,0:18:56.37,0:18:59.28,Default,,0,0,0,,I have two favours to ask of you.
-Dialogue: 10,0:18:59.70,0:19:04.25,Default,,0,0,0,,One, permission to study your sister's blood.
-Dialogue: 10,0:19:04.25,0:19:11.80,Default,,0,0,0,,{\q2}Two, to collect as many blood samples from demons \Nwith a high concentration of Kibutsuji's blood as you can.
-Dialogue: 10,0:19:12.55,0:19:17.09,Default,,0,0,0,,Nezuko's condition is extremely rare and unique.
+Dialogue: 10,0:18:59.70,0:19:04.25,Default,,0,0,0,,First, permission to study your sister's blood.
+Dialogue: 10,0:19:04.25,0:19:11.80,Default,,0,0,0,,{\q2}Second, to collect as many blood samples from demons \Nwith a high concentration of Kibutsuji's blood as you can.
+Dialogue: 10,0:19:12.55,0:19:17.09,Default,,0,0,0,,Nezuko's condition is exceedingly rare and peculiar.
 Dialogue: 10,0:19:17.68,0:19:20.56,Default,,0,0,0,,{\q2}I understand that she was \Nasleep for two straight years,
 Dialogue: 10,0:19:20.56,0:19:24.06,Default,,0,0,0,,{\q2}and I believe that her body \Nunderwent changes during that time.
-Dialogue: 10,0:19:24.39,0:19:31.40,Default,,0,0,0,,{\q2}Normally, any demon who went that long without \Nconsuming the flesh or blood of human or beast
-Dialogue: 10,0:19:31.40,0:19:34.40,Default,,0,0,0,,would unquestionably go berserk.
+Dialogue: 10,0:19:24.39,0:19:31.40,Default,,0,0,0,,{\q2}Normally, if a demon were to go that long without \Nconsuming the flesh or blood of human or beast,
+Dialogue: 10,0:19:31.40,0:19:34.40,Default,,0,0,0,,they would unquestionably go berserk.
 Dialogue: 10,0:19:34.82,0:19:37.49,Default,,0,0,0,,{\i1}Lady Tamayo is beautiful today, too!
 Dialogue: 10,0:19:37.49,0:19:39.74,Default,,0,0,0,,{\i1}I'm sure she'll be beautiful again tomorrow!
 Dialogue: 10,0:19:40.70,0:19:46.12,Default,,0,0,0,,{\q2}And yet, surprisingly, \NNezuko shows none of those signs.
@@ -320,8 +320,8 @@ Dialogue: 10,0:20:37.09,0:20:39.47,Default,,0,0,0,,If that happens, it won't jus
 Dialogue: 10,0:20:40.47,0:20:43.39,Default,,0,0,0,,We'll be able to save lots of people, right?
 Dialogue: 10,0:20:46.81,0:20:48.48,Default,,0,0,0,,That's right.
 Dialogue: 10,0:20:54.82,0:20:55.36,Default,,0,0,0,,Get down!
-Dialogue: 10,0:21:08.58,0:21:10.62,Default,,0,0,0,,Have you decided how to kill them?
-Dialogue: 10,0:21:10.62,0:21:12.92,Default,,0,0,0,,Brutally, of course!
+Dialogue: 10,0:21:08.58,0:21:10.54,Default,,0,0,0,,Have you decided how to kill them?
+Dialogue: 10,0:21:10.54,0:21:12.92,Default,,0,0,0,,Brutally, of course!
 Comment: 0,0:23:00.03,0:23:00.03,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:23:03.24,0:23:06.07,Default,,0,0,0,,I'm starting with the Taisho secret today!
 Dialogue: 10,0:23:06.07,0:23:08.91,Default,,0,0,0,,{\q2}Yushirou's hobby is to \Nwrite in his Lady Tamayo journal.
@@ -332,5 +332,5 @@ Dialogue: 10,0:23:17.42,0:23:20.96,Default,,0,0,0,,{\q2}"January 10th. Lady Tama
 Dialogue: 10,0:23:20.96,0:23:24.30,Default,,0,0,0,,"At 17:10, she called my name. Twice, no less!"
 Dialogue: 10,0:23:24.30,0:23:26.05,Default,,0,0,0,,"Her voice was beautiful."
 Dialogue: 10,0:23:26.05,0:23:31.06,Default,,0,0,0,,{\q2}"At 17:29, when Lady Tamayo, \Ndeep in thought, slipped on the step..."
-Dialogue: 10,0:23:31.68,0:23:34.68,Default,,0,0,0,,{\q2}Next time, Episode Nine, \N"The Temari Demon and The Arrow Demon"!
+Dialogue: 10,0:23:31.68,0:23:34.68,Default,,0,0,0,,{\q2}Next, Episode 9, "The Temari Demon \Nand The Arrow Demon"!
 Dialogue: 10,0:23:34.68,0:23:36.48,Default,,0,0,0,,Let's pretend we never saw this.

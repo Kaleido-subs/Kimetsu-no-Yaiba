@@ -35,7 +35,7 @@ Dialogue: 10,0:00:32.35,0:00:33.76,Default,,0,0,0,,{\i1}First Form!
 Dialogue: 10,0:00:41.77,0:00:43.52,Default,,0,0,0,,{\i1}Surface Water Slash!
 Comment: 0,0:02:14.99,0:02:14.99,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:03:43.74,0:03:45.00,Default,,0,0,0,,{\i1}Urokodaki!
-Dialogue: 10,0:03:55.67,0:03:59.22,Default,,0,0,0,,{\i1}Damn it, damn it, {\i0}damn it{\i1}!
+Dialogue: 10,0:03:55.67,0:03:59.22,Default,,0,0,0,,{\i1}Damn it, damn it, damn it!{### third iteration isn't emphasized, so I guess it makes sense not to de-italicize}
 Dialogue: 10,0:03:59.68,0:04:03.26,Default,,0,0,0,,{\i1}My body's crumbling away.
 Dialogue: 10,0:04:03.26,0:04:05.06,Default,,0,0,0,,{\i1}I can't stop it!
 Dialogue: 10,0:04:13.02,0:04:14.53,Default,,0,0,0,,{\i1}Damn it!
@@ -170,7 +170,7 @@ Dialogue: 10,0:16:27.55,0:16:32.30,Default,,0,0,0,,But I'm sure you'll manage ju
 Dialogue: 10,0:16:33.76,0:16:34.68,Default,,0,0,0,,Right.
 Dialogue: 10,0:16:37.06,0:16:38.31,Default,,0,0,0,,Say...
 Dialogue: 10,0:16:38.31,0:16:41.81,Default,,0,0,0,,{\q2}I think Nezuko's somehow different \Nfrom the other demons.
-Dialogue: 10,0:16:42.06,0:16:45.57,Default,,0,0,0,,You think it could it be that Whatchamacallit-Arts?
+Dialogue: 10,0:16:42.06,0:16:45.57,Default,,0,0,0,,You think it could it be one of those {Blood }Art things?
 Dialogue: 10,0:16:45.57,0:16:48.70,Default,,0,0,0,,No, I don't think so.
 Dialogue: 10,0:16:48.70,0:16:51.99,Default,,0,0,0,,I wouldn't call that an example of a Blood Art.
 Dialogue: 10,0:16:53.12,0:16:55.62,Default,,0,0,0,,I'm just taking a guess here,

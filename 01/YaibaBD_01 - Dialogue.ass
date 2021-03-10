@@ -26,7 +26,7 @@ Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
-Dialogue: 10,0:00:25.34,0:00:26.42,Default,,0,0,0,,{\i1}How?
+Dialogue: 10,0:00:25.34,0:00:26.46,Default,,0,0,0,,{\i1}How?
 Dialogue: 10,0:00:29.88,0:00:32.14,Default,,0,0,0,,{\i1}How did this happen?
 Dialogue: 10,0:00:34.60,0:00:37.14,Default,,0,0,0,,Nezuko, don't die! Don't you die on me!
 Dialogue: 10,0:00:39.35,0:00:41.52,Default,,0,0,0,,I will save you no matter what!
@@ -233,7 +233,7 @@ Dialogue: 10,0:13:40.80,0:13:43.51,Default,,0,0,0,,That's how they multiply.
 Dialogue: 10,0:13:44.09,0:13:46.51,Default,,0,0,0,,Nezuko would never eat humans!
 Dialogue: 10,0:13:47.01,0:13:49.02,Default,,0,0,0,,You can't be serious.
 Dialogue: 10,0:13:49.02,0:13:52.06,Default,,0,0,0,,She was about to eat you just now.
-Dialogue: 10,0:13:53.10,0:13:54.40,Default,,0,0,0,,You're wrong!
+Dialogue: 10,0:13:53.02,0:13:54.40,Default,,0,0,0,,You're wrong!
 Dialogue: 10,0:13:54.40,0:13:57.11,Default,,0,0,0,,I'm sure she still recognises me!
 Dialogue: 10,0:13:57.36,0:13:59.65,Default,,0,0,0,,I won't let her hurt anyone!
 Dialogue: 10,0:13:59.65,0:14:01.95,Default,,0,0,0,,I'll make her human again!
