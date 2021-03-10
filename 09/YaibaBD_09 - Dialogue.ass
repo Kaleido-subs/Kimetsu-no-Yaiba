@@ -35,7 +35,7 @@ Dialogue: 10,0:00:34.39,0:00:36.31,Default,,0,0,0,,Have you decided how to kill 
 Dialogue: 10,0:00:36.56,0:00:38.69,Default,,0,0,0,,Brutally, of course!
 Comment: 0,0:02:24.00,0:02:24.00,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:02:44.10,0:02:46.27,Default,,0,0,0,,You were spot on, Yahaba!
-Dialogue: 10,0:02:46.52,0:02:50.15,Default,,0,0,0,,A building just popped up out of thin air!
+Dialogue: 10,0:02:46.27,0:02:50.15,Default,,0,0,0,,A building just popped up out of thin air!
 Dialogue: 10,0:02:51.82,0:02:56.36,Default,,0,0,0,,The handiwork of a demon adept at hiding objects.
 Dialogue: 10,0:02:57.78,0:03:01.66,Default,,0,0,0,,And is the demon hunter accompanied by a demon?
 Dialogue: 10,0:03:02.25,0:03:03.79,Default,,0,0,0,,What's going on here?
@@ -88,7 +88,7 @@ Dialogue: 10,0:06:01.92,0:06:03.43,Default,,0,0,0,,{\i1}Total Concentration!
 Dialogue: 10,0:06:03.43,0:06:04.93,Default,,0,0,0,,{\i1}Water Breathing!
 Dialogue: 10,0:06:05.22,0:06:06.18,Default,,0,0,0,,{\i1}Seventh Form!
 Dialogue: 10,0:06:06.68,0:06:09.43,Default,,0,0,0,,{\i1}Droplet Ripple Thrust-curve!
-Dialogue: 10,0:06:12.48,0:06:17.90,Default,,0,0,0,,{\i1\q2}Oh, so your plan's to thrust at it \Ndiagonally to soften the temari's blow?
+Dialogue: 10,0:06:12.48,0:06:17.90,Default,,0,0,0,,{\i1\q2}Oh, so you plan on thrusting at it \Ndiagonally to soften the temari's blow?
 Dialogue: 10,0:06:18.94,0:06:19.94,Default,,0,0,0,,{\i1}Well...
 Dialogue: 10,0:06:25.07,0:06:27.45,Default,,0,0,0,,{\i1}How can that temari move around like that?
 Dialogue: 10,0:06:28.03,0:06:31.87,Default,,0,0,0,,{\i1}It swerved unnaturally when it struck Yushirou, too!
@@ -109,7 +109,7 @@ Dialogue: 10,0:07:23.17,0:07:25.88,Default,,0,0,0,,The greater our numbers, the 
 Dialogue: 10,0:07:25.88,0:07:28.89,Default,,0,0,0,,which increases the odds of Kibutsuji discovering us!
 Dialogue: 10,0:07:29.93,0:07:32.39,Default,,0,0,0,,{\i1}Those demons got so close,
 Dialogue: 10,0:07:32.39,0:07:34.68,Default,,0,0,0,,{\i1}but I didn't catch their scent until they attacked!
-Dialogue: 10,0:07:35.94,0:07:38.31,Default,,0,0,0,,{\i1}So that was the work of Yushirou's Blood Arts, huh?
+Dialogue: 10,0:07:35.94,0:07:38.31,Default,,0,0,0,,{\i1}So that was the work of Yushirou's Blood Art, huh?
 Dialogue: 10,0:07:39.48,0:07:43.44,Default,,0,0,0,,Those who ruin the time I spend alone with you...
 Dialogue: 10,0:07:43.44,0:07:45.19,Default,,0,0,0,,I despise such people!
 Dialogue: 10,0:07:46.11,0:07:47.95,Default,,0,0,0,,I despise them with all my heart!
@@ -125,7 +125,7 @@ Dialogue: 10,0:08:21.27,0:08:23.07,Default,,0,0,0,,{\i1}She grew more arms!
 Dialogue: 10,0:08:27.36,0:08:30.57,Default,,0,0,0,,Let's keep playing!
 Dialogue: 10,0:08:30.57,0:08:32.41,Default,,0,0,0,,Until the break of dawn!
 Dialogue: 10,0:08:32.66,0:08:34.66,Default,,0,0,0,,Until you meet your demise!
-Dialogue: 10,0:08:44.75,0:08:48.88,Default,,0,0,0,,{\i1\q2}If I were to cast my Blood Arts now, \Nit would affect Tanjirou as well.
+Dialogue: 10,0:08:44.75,0:08:48.88,Default,,0,0,0,,{\i1\q2}If I were to cast my Blood Art now, \Nit would affect Tanjirou as well.
 Dialogue: 10,0:08:49.72,0:08:53.68,Default,,0,0,0,,{\i1\q2}And Yushirou needs time \Nto prepare before he can attack.
 Dialogue: 10,0:08:54.31,0:08:55.64,Default,,0,0,0,,{\i1}But if this goes on...
 Dialogue: 10,0:08:59.19,0:09:00.27,Default,,0,0,0,,{\i1}There it is again!
@@ -173,8 +173,8 @@ Dialogue: 10,0:11:51.02,0:11:52.48,Default,,0,0,0,,In that case...
 Dialogue: 10,0:11:52.78,0:11:55.32,Default,,0,0,0,,I'm going to be extracting their blood!
 Comment: 0,0:12:00.99,0:12:00.99,Default,chapter,0,0,0,,{Part B}
 Dialogue: 10,0:12:09.00,0:12:11.88,Default,,0,0,0,,I have two favours to ask of you.
-Dialogue: 10,0:12:12.34,0:12:16.88,Default,,0,0,0,,One, permission to study your sister's blood.
-Dialogue: 10,0:12:16.88,0:12:24.39,Default,,0,0,0,,{\q2}Two, to collect as many blood samples from demons \Nwith a high concentration of Kibutsuji's blood as you can.
+Dialogue: 10,0:12:12.34,0:12:16.88,Default,,0,0,0,,First, permission to study your sister's blood.
+Dialogue: 10,0:12:16.88,0:12:24.39,Default,,0,0,0,,{\q2}Second, to collect as many blood samples from demons \Nwith a high concentration of Kibutsuji's blood as you can.
 Dialogue: 10,0:12:25.14,0:12:33.69,Default,,0,0,0,,{\q2}A demon with a high concentration of Kibutsuji's blood \Nmeans a demon close in strength to Kibutsuji himself.
 Dialogue: 10,0:12:34.19,0:12:38.15,Default,,0,0,0,,{\q2\t(3690,4000,\1c&HFEFEFE&\3c&HFEFEFE&\4c&HFEFEFE&)}Extracting blood from such demons will be no easy task.
 Dialogue: 10,0:12:40.24,0:12:41.78,Default,,0,0,0,,{\i1}Third Form!
@@ -229,7 +229,7 @@ Dialogue: 10,0:16:25.59,0:16:27.09,Default,,0,0,0,,{\i1}A technique!
 Dialogue: 10,0:16:28.43,0:16:31.01,Default,,0,0,0,,{\i1\q2}I need to soften my landing \Nwith one of my techniques!
 Dialogue: 10,0:16:31.30,0:16:32.97,Default,,0,0,0,,{\i1}Eighth Form!
 Dialogue: 10,0:16:32.97,0:16:34.22,Default,,0,0,0,,{\i1}Waterfall Basin!
-Dialogue: 10,0:16:53.28,0:16:54.41,Default,,0,0,0,,He's gone?
+Dialogue: 10,0:16:53.28,0:16:54.41,Default,,0,0,0,,He's gone?!
 Dialogue: 10,0:17:04.96,0:17:07.76,Default,,0,0,0,,You hurt Lady Tamayo!
 Dialogue: 10,0:17:07.76,0:17:09.88,Default,,0,0,0,,You'll pay for that!
 Dialogue: 10,0:17:10.68,0:17:12.30,Default,,0,0,0,,Tamayo?

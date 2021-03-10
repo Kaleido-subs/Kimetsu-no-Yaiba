@@ -165,7 +165,7 @@ Dialogue: 10,0:11:23.00,0:11:26.42,Default,,0,0,0,,You seem awfully lively for a
 Dialogue: 10,0:11:27.25,0:11:31.25,Default,,0,0,0,,Your flesh will be well worth gouging out!
 Dialogue: 10,0:11:36.30,0:11:39.01,Default,,0,0,0,,Self-taught! Beast Breathing!
 Dialogue: 10,0:11:39.55,0:11:43.35,Default,,0,0,0,,It's gonna be {\i1}so{\i0} worth it to rip up such a big target!
-Dialogue: 10,0:11:44.64,0:11:48.27,Default,,0,0,0,,It takes guts to charge me head-on!
+Dialogue: 10,0:11:44.64,0:11:48.27,Default,,0,0,0,,It takes guts to charge{ at} me head-on!
 Dialogue: 10,0:11:50.94,0:11:53.69,Default,,0,0,0,,Owwie!
 Dialogue: 10,0:11:53.98,0:11:55.69,Default,,0,0,0,,Flaunt your corpse
 Dialogue: 10,0:11:55.69,0:11:57.82,Default,,0,0,0,,and serve as my springboard!
@@ -243,10 +243,10 @@ Dialogue: 10,0:16:08.36,0:16:09.82,Default,,0,0,0,,Oh, shush.
 Dialogue: 10,0:16:10.45,0:16:13.45,Default,,0,0,0,,What do you mean by "delicate blood"?
 Dialogue: 10,0:16:13.45,0:16:17.58,Default,,0,0,0,,{\q2}The blood of all living species \Ncan be categorised into types, moron!
 Dialogue: 10,0:16:17.87,0:16:19.54,Default,,0,0,0,,And for demons,
-Dialogue: 10,0:16:19.54,0:16:24.42,Default,,0,0,0,,the less common the blood is...
+Dialogue: 10,0:16:19.54,0:16:24.42,Default,,0,0,0,,uncommon varieties of blood are, well...{### wow how did I sign off on what this used to be. still meh, and the BD volume version of this sequence seems totally different. FIXME}
 Dialogue: 10,0:16:24.42,0:16:25.51,Default,,0,0,0,,A delicacy.
 Dialogue: 10,0:16:25.51,0:16:28.43,Default,,0,0,0,,{\q2}A single rareblood human has the \Nsame nutritional value as fifty!
-Dialogue: 10,0:16:28.43,0:16:29.64,Default,,0,0,0,,One hundred!
+Dialogue: 10,0:16:28.43,0:16:29.64,Default,,0,0,0,,One hundred, even!
 Dialogue: 10,0:16:29.64,0:16:33.26,Default,,0,0,0,,For demons, rarebloods are a feast!
 Dialogue: 10,0:16:34.26,0:16:39.02,Default,,0,0,0,,Rareblood is their favourite food!
 Dialogue: 10,0:16:48.53,0:16:52.03,Default,,0,0,0,,Rareblood...
