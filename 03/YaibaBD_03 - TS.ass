@@ -28,9 +28,9 @@ Dialogue: 0,0:03:20.17,0:03:24.55,Sign,,0,0,0,,{\an8\move(640,200.5,640,200,0,11
 Dialogue: 1,0:03:20.17,0:03:24.55,Sign,,0,0,0,,{\an8\move(640,200.5,640,200,0,1150)\fscx60\fscy60\fs122\fsp-12\c&HFEFFFD&\blur8\fad(950,0)\t(0,1100,\fscx58\fscy58\blur0.9)}E{\fsp0}pisode{\fsp-20}_{\fsp-6}3\N\N\N{\fscx90\fscy90}S{\fsp0}abito{\fsp-12}_{\fsp-6}and{\fsp-12}_{\fsp-6}M{\fsp0}akomo
 Dialogue: 0,0:13:32.00,0:13:36.00,Sign,,0,0,0,,{\an2\pos(1547.613,882.554)\fscx100.46\fscy100.46\fnBrushstroke 35\fs49\c&H090616&\3a&H00&\4a&H00&\blur0.53}Demon Slayer
 Dialogue: 0,0:13:36.00,0:13:40.00,Sign,,0,0,0,,{\an2\pos(1537.478,877.22)\fscx100.46\fscy100.46\fnBrushstroke 35\fs47\c&H090616&\3a&H00&\4a&H00&\blur0.56}Demon Slayer
-Dialogue: 0,0:00:10.32,0:00:14.32,Sign,,0,0,0,,{\pos(949.333,169)\fscx280\fscy63\frz359.4\frx12.18\fs51.8\c&H5D7896&\3a&H00&\blur1\t(1560,2020,\c&H2A2D2F&)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:00:10.32,0:00:14.32,Sign,,0,0,0,,{\pos(946.952,154.145)\frz-0.73\fry1.46\frx15.71\fax0.01\fnFOT Manyo Gyosho Std Strp E\fs52\b800\c&H070C18&\3a&H00&\blur0.7\t(1560,2020,\c&H0A0B0E&)}Journal
-Dialogue: 1,0:00:10.32,0:00:14.32,Sign,,0,0,0,,{\pos(947.228,189.104)\frz-0.77\fry1.48\frx15.82\fax0.01\fnArturo Trial\fs20\c&H070C18&\3a&H00&\blur0.7\t(1560,2020,\c&H0A0B0E&)}Tanjirou Kamado
+Comment: 0,0:00:10.32,0:00:14.32,Sign,,0,0,0,,{\org(939.4,909.3)\fry0.03\frx6.59\frz0.01\clip(m 664.6 117.3 l 1197 118 1302.29 898.43 552.79 898.57)}
+Dialogue: 0,0:00:10.32,0:00:14.32,Sign,,0,0,0,,{\org(939.4,909.3)\fry0.03\frx6.59\frz0.01\fnArturo Trial\c&H0F1328&\t(1560,2020,\c&H0A0B0E&)\fs21\blur0.6\pos(987.2,466.56)}Journal
+Dialogue: 0,0:00:10.32,0:00:14.32,Sign,,0,0,0,,{\org(939.4,909.3)\fry0.03\frx6.59\frz0.01\fnArturo Trial\c&H0F1328&\t(1560,2020,\c&H0A0B0E&)\fs18\blur0.6\pos(987.2,530.7)}Kamado\NTanjirou
 Dialogue: 0,0:22:59.94,0:23:00.19,Sign,,0,0,0,,{\pos(968.999,453.231)\fscx100.46\fscy100.46\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
 Dialogue: 0,0:23:00.19,0:23:00.23,Sign,,0,0,0,,{\pos(968.927,453.503)\fscx100.46\fscy100.46\frz0.1\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
 Dialogue: 0,0:23:00.23,0:23:00.27,Sign,,0,0,0,,{\pos(969.62,453.825)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
