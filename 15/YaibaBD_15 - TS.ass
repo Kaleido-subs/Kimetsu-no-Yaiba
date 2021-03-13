@@ -147,6 +147,8 @@ Dialogue: 0,0:05:44.65,0:05:44.74,Sign,,0,0,0,,{\an5\pos(1259.2,44.52)\org(1261.
 Dialogue: 0,0:05:44.74,0:05:45.28,Sign,,0,0,0,,{\an5\pos(1259.2,44.53)\org(1261.4,-375.07)\frz-2.03\fry-6.72\frx-0.53\fnYellow Ginger\fs50\b0\c&H141415&\blur1}Wisteria
 Dialogue: 0,0:05:45.28,0:05:45.32,Sign,,0,0,0,,{\an5\pos(1259.2,44.52)\org(1261.4,-375.07)\frz-2.03\fry-6.72\frx-0.53\fnYellow Ginger\fs50\b0\c&H141415&\blur1}Wisteria
 Dialogue: 0,0:05:45.32,0:05:47.45,Sign,,0,0,0,,{\an5\pos(1259.2,44.52)\org(1261.4,-375.08)\frz-2.03\fry-6.72\frx-0.53\fnYellow Ginger\fs50\b0\c&H141415&\blur1}Wisteria
+Comment: 0,0:05:56.88,0:06:01.38,Sign,,0,0,0,,{\an5\fnYellow Ginger\fs42\b0\c&H141415&\blur1\pos(886.67,491)\iclip(m 900 516.8 b 895.27 491.87 906.6 484.13 917.33 478.93 l 933.5 470.25 976.25 480.75 943.25 520)}Wisteria
+Dialogue: 0,0:05:56.88,0:06:01.38,Sign,,0,0,0,,{=0}{\fscx100\t(18,4481,\fscx91.99)\fscy100\t(18,4481,\fscy91.99)\an5\fnYellow Ginger\fs42\b0\c&H1B1B1D&\blur0.9\t(18,4481,\blur0.88)\move(886.67,491,892.56,494.9,18,4481)}Wiste{\alpha&HFF&}ria
 Dialogue: 0,0:14:43.82,0:14:47.15,Sign,,0,0,0,,{\pos(786,953)\fnSimplicity\fs70\fsp10\bord1.5\c&HE3E5E7&\3c&HE3E5E7&\blur0.6\fad(238,0)\q2}Sulking won't do you any good. \NYou have to go help your friends.
 Dialogue: 1,0:14:43.82,0:14:47.15,Sign,,0,0,0,,{\pos(786,953)\fnSimplicity\fs70\fsp10\c&HE3E5E7&\4a&HFF&\blur0.6\fad(238,0)\q2}Sulking won't do you any good. \NYou have to go help your friends.
 Dialogue: 0,0:14:02.02,0:14:10.03,Sign,,0,0,0,,{\pos(1536,853)\fscx100.46\fscy100.46\fnBrushstroke 35\fs48\c&H090415&\3a&H00&\4a&H00&\blur0.8}Demon Slayer
@@ -775,3 +777,6 @@ Dialogue: 0,0:23:38.35,0:23:40.89,Sign,,0,0,0,,{\pos(1081.49,946.15)\fnFOT Manyo
 Dialogue: 1,0:23:38.35,0:23:40.89,Sign,,0,0,0,,{\pos(1081.49,946.15)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
 Dialogue: 2,0:23:38.35,0:23:40.89,Sign,,0,0,0,,{\pos(1081.49,946.15)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
 Dialogue: 3,0:23:38.35,0:23:40.89,Sign,,0,0,0,,{\pos(1081.49,946.15)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\alpha&H00&\4a&HFF&\blur1}To Be Continued
+
+[Aegisub Extradata]
+Data: 0,a-mo,e{"uuid"#3A"b3e5678e-b303-45bd-88f4-c619f7125346"#2C"originalText"#3A"{\\an5\\fnYellow Ginger\\fs42\\b0\\c&H1B1B1D&\\blur0.9\\pos(886.67#2C491)}Wiste{\\alpha&HFF&}ria"}
