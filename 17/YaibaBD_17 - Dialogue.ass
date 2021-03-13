@@ -66,15 +66,15 @@ Dialogue: 10,0:02:02.35,0:02:03.44,Default,,0,0,0,,Shut up and stay still!
 Dialogue: 10,0:02:06.44,0:02:09.98,Default,,0,0,0,,The hell is {\i1}that{\i0} thing?!
 Comment: 0,0:03:39.99,0:03:39.99,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:03:49.79,0:03:52.63,Default,,0,0,0,,That spider has a human face!
-Dialogue: 10,0:03:52.63,0:03:55.30,Default,,0,0,0,,Is something like that even possible? What the hell?!
+Dialogue: 10,0:03:52.63,0:03:55.30,Default,,0,0,0,,Is something like that even possible? What the hell?
 Dialogue: 10,0:03:55.30,0:03:56.97,Default,,0,0,0,,Please be a dream! Please be a dream!
 Dialogue: 10,0:03:56.97,0:03:58.76,Default,,0,0,0,,I beg you, {\i1}please{\i0} tell me this is a dream!
 Dialogue: 10,0:03:58.76,0:04:02.01,Default,,0,0,0,,{\q2}If this could just be a bad dream, \NI promise I'll work harder from now on!
 Dialogue: 10,0:04:02.01,0:04:04.68,Default,,0,0,0,,{\q2}If I wake up to find my head \Nresting on Nezuko's lap,
 Dialogue: 10,0:04:04.68,0:04:06.77,Default,,0,0,0,,I swear I'll turn over a new leaf!
 Dialogue: 10,0:04:06.77,0:04:08.31,Default,,0,0,0,,I'd even plough fields!
-Dialogue: 10,0:04:08.31,0:04:11.44,Default,,0,0,0,,I'll plough as many acres as you want!
-Dialogue: 10,0:04:11.44,0:04:13.27,Default,,0,0,0,,So please,
+Dialogue: 10,0:04:08.31,0:04:11.27,Default,,0,0,0,,I'll plough as many acres as you want!
+Dialogue: 10,0:04:11.27,0:04:13.27,Default,,0,0,0,,So please,
 Dialogue: 10,0:04:13.27,0:04:18.78,Default,,0,0,0,,wake me up from this nightmare!
 Dialogue: 10,0:04:31.25,0:04:34.13,Default,,0,0,0,,{\i1}What the hell is going on here?
 Dialogue: 10,0:04:34.13,0:04:37.76,Default,,0,0,0,,{\i1}Are those humans transforming into spiders?
@@ -163,7 +163,7 @@ Dialogue: 10,0:09:27.63,0:09:30.84,Default,,0,0,0,,{\i1}Sure, I was thankful jus
 Dialogue: 10,0:09:33.14,0:09:34.22,Default,,0,0,0,,{\i1}I...
 Dialogue: 10,0:09:34.68,0:09:37.39,Default,,0,0,0,,{\i1}I hate myself more than anyone else.
 Dialogue: 10,0:09:39.18,0:09:42.27,Default,,0,0,0,,{\i1\q2}I always think about how I need to \Nget my act together already,
-Dialogue: 10,0:09:42.27,0:09:46.36,Default,,0,0,0,,{\i1\q2}but in the end I just end up cowering, \Nrunning away, and snivelling.
+Dialogue: 10,0:09:42.27,0:09:46.36,Default,,0,0,0,,{\i1\q2}but in the end, I just end up cowering, \Nrunning away, and snivelling.
 Dialogue: 10,0:09:48.11,0:09:51.61,Default,,0,0,0,,{\i1}I want to change. I want to become a better person!
 Dialogue: 10,0:09:52.91,0:09:54.24,Default,,0,0,0,,But...
 Dialogue: 10,0:09:54.53,0:09:56.99,Default,,0,0,0,,I'm doing the best I can, y'hear me?
@@ -217,7 +217,7 @@ Dialogue: 10,0:13:19.40,0:13:21.28,Default,,0,0,0,,{\i1}And you call yourself a 
 Dialogue: 10,0:13:21.74,0:13:25.24,Default,,0,0,0,,{\i1\q2}Any minute now and that venom \Nwill render you immobile!
 Dialogue: 10,0:13:26.70,0:13:29.29,Default,,0,0,0,,{\i1}Zenitsu, perfect it!
 Dialogue: 10,0:13:29.50,0:13:31.00,Default,,0,0,0,,It's all right to cry.
-Dialogue: 10,0:13:31.00,0:13:32.79,Default,,0,0,0,,It's all right to run away!
+Dialogue: 10,0:13:31.00,0:13:32.79,Default,,0,0,0,,It's all right to run away.
 Dialogue: 10,0:13:33.46,0:13:35.63,Default,,0,0,0,,But never give up!
 Dialogue: 10,0:13:36.67,0:13:38.76,Default,,0,0,0,,Believe in yourself.
 Dialogue: 10,0:13:38.76,0:13:42.43,Default,,0,0,0,,{\i1}You endured all that hellish training!
@@ -261,8 +261,8 @@ Dialogue: 10,0:16:32.60,0:16:34.10,Default,,0,0,0,,No way he's walking out of th
 Dialogue: 10,0:16:40.06,0:16:40.94,Default,,0,0,0,,{\i1}What the—?
 Dialogue: 10,0:16:41.69,0:16:43.61,Default,,0,0,0,,{\i1}The very air is vibrating...
 Dialogue: 10,0:16:45.94,0:16:47.40,Default,,0,0,0,,Thunder Breathing.
-Dialogue: 10,0:16:47.40,0:16:48.99,Default,,0,0,0,,First form.
-Comment: 10,0:16:45.94,0:16:48.99,Default,,0,0,0,,Thunder Breathing, first form.
+Dialogue: 10,0:16:47.40,0:16:48.99,Default,,0,0,0,,First Form.
+Comment: 10,0:16:45.94,0:16:48.99,Default,,0,0,0,,Thunder Breathing, First Form.
 Dialogue: 10,0:16:49.61,0:16:51.28,Default,,0,0,0,,Thunderclap and Flash!
 Dialogue: 10,0:16:54.08,0:16:55.12,Default,,0,0,0,,Sixfold!
 Dialogue: 10,0:17:01.25,0:17:02.38,Default,,0,0,0,,He disappeared?
@@ -271,7 +271,7 @@ Dialogue: 10,0:17:24.69,0:17:27.32,Default,,0,0,0,,{\i1}Me? For real?
 Dialogue: 10,0:17:28.03,0:17:29.44,Default,,0,0,0,,{\i1}This guy?
 Dialogue: 10,0:17:30.36,0:17:31.86,Default,,0,0,0,,{\i1}I lost to someone like him?
 Dialogue: 10,0:17:38.87,0:17:40.62,Default,,0,0,0,,You've gotta be kidding me!
-Dialogue: 10,0:17:40.62,0:17:45.25,Default,,0,0,0,,How did I lose to a guy who can barely move?!
+Dialogue: 10,0:17:40.62,0:17:45.25,Default,,0,0,0,,How did I lose to a guy who can barely move?
 Dialogue: 10,0:17:53.84,0:17:55.60,Default,,0,0,0,,{\i1}It's time to dream...
 Dialogue: 10,0:17:56.97,0:17:59.52,Default,,0,0,0,,{\i1}I want a happy dream.
 Dialogue: 10,0:17:59.52,0:18:01.31,Default,,0,0,0,,{\i1}One where I'm powerful.
@@ -283,7 +283,7 @@ Dialogue: 10,0:18:12.86,0:18:14.70,Default,,0,0,0,,{\i1}all the time he spent on
 Dialogue: 10,0:18:14.95,0:18:16.37,Default,,0,0,0,,{\i1}It wouldn't be for nothing!
 Dialogue: 10,0:18:17.66,0:18:20.75,Default,,0,0,0,,{\i1}A dream where, thanks to Gramps,
 Dialogue: 10,0:18:20.75,0:18:25.08,Default,,0,0,0,,{\i1}I become powerful and help out a lot of people.
-Dialogue: 10,0:18:26.96,0:18:30.05,Default,,0,0,0,,{\i1}But now, that's all over!
+Dialogue: 10,0:18:26.96,0:18:30.05,Default,,0,0,0,,{\i1}But now, that's all over.
 Dialogue: 10,0:18:35.80,0:18:38.26,Default,,0,0,0,,Chuntarou...
 Dialogue: 10,0:18:39.72,0:18:42.39,Default,,0,0,0,,I'm so sorry.
 Dialogue: 10,0:18:53.20,0:18:54.82,Default,,0,0,0,,{\i1}Never give up!
@@ -320,9 +320,9 @@ Dialogue: 10,0:20:41.43,0:20:42.60,Default,,0,0,0,,Inosuke!
 Dialogue: 10,0:20:54.52,0:20:57.28,Default,,0,0,0,,Stay away...
 Dialogue: 10,0:20:57.65,0:21:00.28,Default,,0,0,0,,from my family!
 Dialogue: 10,0:21:03.20,0:21:06.16,Default,,0,0,0,,I'm leaving the rest to you, Father.
-Dialogue: 10,0:21:10.62,0:21:11.75,Default,,0,0,0,,{\i1}Water Breathing!
-Dialogue: 10,0:21:11.75,0:21:12.88,Default,,0,0,0,,{\i1}Second Form!
-Dialogue: 10,0:21:12.88,0:21:14.75,Default,,0,0,0,,{\i1}Water Wheel!
+Dialogue: 10,0:21:10.62,0:21:11.75,Default,,0,0,0,,Water Breathing!
+Dialogue: 10,0:21:11.75,0:21:12.88,Default,,0,0,0,,Second Form!
+Dialogue: 10,0:21:12.88,0:21:14.75,Default,,0,0,0,,Water Wheel!
 Comment: 0,0:22:59.90,0:22:59.90,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:23:01.40,0:23:02.65,Default,,0,0,0,,Combined Junior and Senior High School!
 Dialogue: 10,0:23:02.65,0:23:04.90,Default,,0,0,0,,Tales of the Demon Slayer Academy!
@@ -334,7 +334,7 @@ Dialogue: 10,0:23:14.16,0:23:15.67,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:23:19.00,0:23:21.13,Default,,0,0,0,,Makomo's looking cute today, too!
 Dialogue: 10,0:23:21.13,0:23:23.21,Default,,0,0,0,,And that upperclassman's gorgeous, as well!
 Dialogue: 10,0:23:23.97,0:23:25.13,Default,,0,0,0,,Mr. Tomioka!
-Dialogue: 10,0:23:25.59,0:23:28.30,Default,,0,0,0,,{\q2}It's not what it looks like! \NI'm just regulating the dress code.
+Dialogue: 10,0:23:25.59,0:23:28.30,Default,,0,0,0,,{\q2}It's not what it looks like! \NI'm just regulating the dress code!
 Dialogue: 10,0:23:28.85,0:23:31.72,Default,,0,0,0,,{\q2}Make your hair follow regulations \Nbefore regulating others!
 Dialogue: 10,0:23:31.72,0:23:32.93,Default,,0,0,0,,This is my natural hair colour!
 Dialogue: 10,0:23:32.93,0:23:35.81,Default,,0,0,0,,Next, Episode 18, "A Fake Bond"!

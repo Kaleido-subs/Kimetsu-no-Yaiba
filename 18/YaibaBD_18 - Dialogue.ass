@@ -181,7 +181,7 @@ Dialogue: 10,0:13:47.01,0:13:49.43,Default,,0,0,0,,The answer is actually pretty
 Dialogue: 10,0:13:49.43,0:13:54.90,Default,,0,0,0,,If one sword don't work, just use more sword!
 Dialogue: 10,0:13:54.90,0:13:56.36,Default,,0,0,0,,I mean, look at this!
 Dialogue: 10,0:13:56.36,0:13:59.19,Default,,0,0,0,,I've got two of these bad boys!
-Dialogue: 10,0:14:01.61,0:14:03.45,Default,,0,0,0,,I'm almighty!
+Dialogue: 10,0:14:01.61,0:14:03.45,Default,,0,0,0,,I'm unstoppable!
 Dialogue: 10,0:14:08.87,0:14:11.16,Default,,0,0,0,,Where the fuck do you think you're going?
 Dialogue: 10,0:14:11.16,0:14:12.33,Default,,0,0,0,,Screw you!
 Dialogue: 10,0:14:12.33,0:14:14.25,Default,,0,0,0,,Get back here, asshole!
@@ -200,10 +200,10 @@ Dialogue: 10,0:15:29.24,0:15:32.70,Default,,0,0,0,,I'm telling ya this doesn't h
 Dialogue: 10,0:15:32.70,0:15:35.87,Default,,0,0,0,,What doesn't hurt doesn't hurt!
 Dialogue: 10,0:15:35.87,0:15:37.71,Default,,0,0,0,,If it's come to this,
 Dialogue: 10,0:15:37.71,0:15:40.09,Default,,0,0,0,,I'll hafta sniff 'im out!
-Dialogue: 10,0:15:52.14,0:15:54.02,Default,,0,0,0,,There you are!
-Dialogue: 10,0:15:54.02,0:15:57.73,Default,,0,0,0,,{\q2}You dumb piece of shit! \NWhy'd you climb so high up?
+Dialogue: 10,0:15:52.14,0:15:53.89,Default,,0,0,0,,There you are!
+Dialogue: 10,0:15:53.89,0:15:57.73,Default,,0,0,0,,{\q2}You dumb piece of shit! \NWhy'd you climb so high up?
 Dialogue: 10,0:15:58.40,0:16:00.06,Default,,0,0,0,,Damn you!
-Dialogue: 10,0:16:00.06,0:16:03.82,Default,,0,0,0,,Tryna make me use my head again, are ya?
+Dialogue: 10,0:16:00.06,0:16:03.82,Default,,0,0,0,,Tryna make me use my head again, are ya?{"are ya" is deliberate and quite different from "aren't ya"}
 Dialogue: 10,0:16:03.82,0:16:05.40,Default,,0,0,0,,In your dreams!
 Dialogue: 10,0:16:09.41,0:16:10.87,Default,,0,0,0,,What the...
 Dialogue: 10,0:16:11.28,0:16:13.16,Default,,0,0,0,,Oh, I get it!
@@ -211,7 +211,7 @@ Dialogue: 10,0:16:13.16,0:16:16.83,Default,,0,0,0,,He's trembling at the sight o
 Dialogue: 10,0:16:18.58,0:16:20.50,Default,,0,0,0,,It's a little late for that!
 Dialogue: 10,0:16:26.01,0:16:27.26,Default,,0,0,0,,What the...
 Dialogue: 10,0:16:27.26,0:16:28.34,Default,,0,0,0,,Now what?
-Dialogue: 10,0:16:33.35,0:16:35.89,Default,,0,0,0,,D-Did he just fucking molt?
+Dialogue: 10,0:16:33.35,0:16:35.89,Default,,0,0,0,,D-Did he just fucking molt?!
 Dialogue: 10,0:16:46.94,0:16:48.28,Default,,0,0,0,,{\i1}Nope.
 Dialogue: 10,0:16:48.28,0:16:51.91,Default,,0,0,0,,{\i1}That's too big, even for me.
 Dialogue: 10,0:16:52.28,0:16:54.41,Default,,0,0,0,,{\i1}This is looking pretty bad!
@@ -245,10 +245,10 @@ Dialogue: 10,0:18:34.93,0:18:36.05,Default,,0,0,0,,{\i1}Eat this!
 Dialogue: 10,0:18:36.05,0:18:37.93,Default,,0,0,0,,{\i1}Pierce and Bore!
 Dialogue: 10,0:18:39.89,0:18:41.68,Default,,0,0,0,,{\i1}They're in!
 Dialogue: 10,0:18:41.68,0:18:43.69,Default,,0,0,0,,{\i1}They're in, but...
-Dialogue: 10,0:18:43.69,0:18:45.48,Default,,0,0,0,,{\i1}You've gotta be kiddin' me.
+Dialogue: 10,0:18:43.69,0:18:45.48,Default,,0,0,0,,{\i1}You've gotta be kiddin' me!
 Dialogue: 10,0:18:45.48,0:18:47.69,Default,,0,0,0,,{\i1}It doesn't even make him flinch!
 Dialogue: 10,0:19:07.88,0:19:09.21,Default,,0,0,0,,{\i1}I'm sorry.
-Dialogue: 10,0:19:11.80,0:19:14.59,Default,,0,0,0,,{\i1}Forgive me, Inosuke.
+Dialogue: 10,0:19:11.80,0:19:15.09,Default,,0,0,0,,{\i1\t(2228,3271,\1c&H000000&)}Forgive me, Inosuke.
 Dialogue: 10,0:19:26.94,0:19:28.98,Default,,0,0,0,,{\i1}I want at least you to survive,
 Dialogue: 10,0:19:29.90,0:19:31.11,Default,,0,0,0,,{\i1}Inosuke.
 Dialogue: 10,0:19:37.74,0:19:41.41,Default,,0,0,0,,{\i1}Wh-Who's that?
@@ -275,7 +275,7 @@ Dialogue: 10,0:21:20.88,0:21:22.64,Default,,0,0,0,,{\i1}First Form!
 Dialogue: 10,0:21:22.64,0:21:25.06,Default,,0,0,0,,{\i1}Water Surface Slash!
 Comment: 0,0:23:00.03,0:23:00.03,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:23:02.15,0:23:03.40,Default,,0,0,0,,Hey!
-Dialogue: 10,0:23:03.40,0:23:06.36,Default,,0,0,0,,{\q2}Wow! I'd be damned if you didn't \Ntake out that demon in a flash!
+Dialogue: 10,0:23:03.40,0:23:06.36,Default,,0,0,0,,{\q2}Wow! I'll be damned if you didn't \Ntake out that demon in a flash!
 Dialogue: 10,0:23:06.36,0:23:07.66,Default,,0,0,0,,Who are you?
 Dialogue: 10,0:23:08.33,0:23:11.45,Default,,0,0,0,,{\q2}I saw you using the same attack \Nas Monjirou! You his friend?
 Dialogue: 10,0:23:12.08,0:23:15.00,Default,,0,0,0,,{\q2}What, you don't see me here? \NLook at me, dammit!

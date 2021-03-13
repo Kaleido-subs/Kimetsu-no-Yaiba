@@ -36,7 +36,7 @@ Dialogue: 10,0:02:23.00,0:02:26.71,Default,,0,0,0,,{\i1\q2}He sliced through tha
 Dialogue: 10,0:02:26.71,0:02:30.05,Default,,0,0,0,,{\i1}Amazing! Amazing! Simply amazing!
 Dialogue: 10,0:02:31.67,0:02:33.22,Default,,0,0,0,,{\i1}Who {\i0}is{\i1} this guy?
 Dialogue: 10,0:02:33.22,0:02:36.22,Default,,0,0,0,,{\i1}Damn, I still have goosebumps!
-Dialogue: 10,0:02:45.23,0:02:46.73,Default,,0,0,0,,Hey, you!
+Dialogue: 10,0:02:45.14,0:02:46.73,Default,,0,0,0,,Hey, you!
 Dialogue: 10,0:02:47.02,0:02:49.15,Default,,0,0,0,,Fight me, Mismatched Haori!
 Dialogue: 10,0:02:49.40,0:02:51.94,Default,,0,0,0,,You beat that Blood Moon!
 Dialogue: 10,0:02:51.94,0:02:54.78,Default,,0,0,0,,{\q2}And now I'm gonna beat you! \NThat's how it works!
@@ -52,7 +52,7 @@ Dialogue: 10,0:03:19.43,0:03:22.31,Default,,0,0,0,,Tanjirou was the one that sai
 Dialogue: 10,0:03:22.31,0:03:25.81,Default,,0,0,0,,All I did was repeat what he said, got it?
 Dialogue: 10,0:03:29.56,0:03:31.57,Default,,0,0,0,,{\i1}What the hell? He tied me up?
 Dialogue: 10,0:03:31.98,0:03:33.19,Default,,0,0,0,,{\i1}Whoa, he's quick...
-Dialogue: 10,0:03:33.19,0:03:35.03,Default,,0,0,0,,{\i1}What a speed demon.
+Dialogue: 10,0:03:33.19,0:03:34.57,Default,,0,0,0,,{\i1}What a speed demon.
 Dialogue: 10,0:03:35.03,0:03:37.07,Default,,0,0,0,,Hey, wait! Get back 'ere!
 Dialogue: 10,0:03:37.32,0:03:41.95,Default,,0,0,0,,{\q2}If you can't even realise the state you're in, \Nyou have no business on the battlefield.
 Dialogue: 10,0:03:42.99,0:03:44.00,Default,,0,0,0,,I can't hear you!
@@ -68,7 +68,7 @@ Dialogue: 10,0:04:20.95,0:04:23.24,Default,,0,0,0,,Whoever might you be calling 
 Dialogue: 10,0:04:23.66,0:04:26.79,Default,,0,0,0,,I saw Gramps just now.
 Dialogue: 10,0:04:27.37,0:04:29.75,Default,,0,0,0,,He told me not to give up.
 Dialogue: 10,0:04:30.58,0:04:32.79,Default,,0,0,0,,{\q2}That would've been your life \Nflashing before your eyes.
-Dialogue: 10,0:04:32.79,0:04:37.51,Default,,0,0,0,,{\q2}There's a theory that suggests that you \Nsee such images right before dying
+Dialogue: 10,0:04:32.79,0:04:37.51,Default,,0,0,0,,{\q2}There's a theory that suggests{suggesting} that you \Nsee such images right before dying
 Dialogue: 10,0:04:37.51,0:04:44.10,Default,,0,0,0,,{\q2}because your brain is searching through \Nyour memories for a way to avoid death.
 Dialogue: 10,0:04:45.14,0:04:49.94,Default,,0,0,0,,{\q2}Well, it's not like I can confirm that, \Nsince I've never experienced it myself.
 Dialogue: 10,0:04:52.19,0:04:56.53,Default,,0,0,0,,{\q2}You did an outstanding job slowing down \Nthe venom with your breathing.
@@ -222,7 +222,7 @@ Dialogue: 10,0:14:42.28,0:14:47.16,Default,,0,0,0,,{\q2}If you can't even cut th
 Dialogue: 10,0:14:57.00,0:14:59.29,Default,,0,0,0,,{\i1}H-He's strong...
 Dialogue: 10,0:14:59.67,0:15:03.88,Default,,0,0,0,,{\i1\q2}His power's on a completely different level \Nfrom any demon I've faced so far!
 Dialogue: 10,0:15:03.88,0:15:06.80,Default,,0,0,0,,{\i1}So this is a Blood Moon's power.
-Dialogue: 10,0:15:07.76,0:15:11.18,Default,,0,0,0,,{\i1\q2}The power of a demon with a \Nhigh concentration of Kibutsuji's blood.
+Dialogue: 10,0:15:07.76,0:15:11.18,Default,,0,0,0,,{\i1\q2}The power of a demon with \Na high concentration of Kibutsuji's blood.
 Dialogue: 10,0:15:17.10,0:15:18.61,Default,,0,0,0,,You're so loud.
 Dialogue: 10,0:15:18.61,0:15:19.86,Default,,0,0,0,,Could you shut up for a bit?
 Dialogue: 10,0:15:23.28,0:15:24.78,Default,,0,0,0,,Stop that!
@@ -293,8 +293,8 @@ Dialogue: 10,0:19:22.27,0:19:23.56,Default,,0,0,0,,{\i1}Waltz!
 Dialogue: 10,0:19:24.52,0:19:25.81,Default,,0,0,0,,{\i1}My webs!
 Dialogue: 10,0:19:30.65,0:19:32.03,Default,,0,0,0,,{\i1}Don't stop!
 Dialogue: 10,0:19:32.03,0:19:33.74,Default,,0,0,0,,{\i1}Keep going!
-Dialogue: 10,0:19:33.74,0:19:35.20,Default,,0,0,0,,{\i1}If you stop now,
-Dialogue: 10,0:19:35.20,0:19:39.74,Default,,0,0,0,,{\i1\q2}the whiplash from forcibly \Nswitching forms will kick in!
+Dialogue: 10,0:19:33.74,0:19:34.95,Default,,0,0,0,,{\i1}If you stop now,
+Dialogue: 10,0:19:34.95,0:19:39.74,Default,,0,0,0,,{\i1\q2}the whiplash from forcibly \Nswitching forms will kick in!
 Dialogue: 10,0:19:40.20,0:19:44.20,Default,,0,0,0,,{\i1\q2}Once that happens, \Nyou won't be able to move for a while!
 Dialogue: 10,0:19:45.16,0:19:48.58,Default,,0,0,0,,{\i1}That's why you have to finish it now!
 Dialogue: 10,0:19:48.58,0:19:50.17,Default,,0,0,0,,{\i1}Run!
