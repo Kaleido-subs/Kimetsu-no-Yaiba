@@ -78,7 +78,7 @@ Dialogue: 10,0:04:53.48,0:04:54.82,Default,,0,0,0,,I'll never give up!
 Dialogue: 10,0:04:58.24,0:05:00.74,Default,,0,0,0,,{\i1}Just give it up, will you?
 Dialogue: 10,0:05:01.66,0:05:05.49,Default,,0,0,0,,I'm going to get my hands on some rareblood
 Dialogue: 10,0:05:05.49,0:05:08.16,Default,,0,0,0,,and reclaim my spot among the Twelve Blood Moons!
-Dialogue: 10,0:05:20.84,0:05:23.26,Default,,0,0,0,,{\i1}Just give it up, will you?
+Dialogue: 10,0:05:20.84,0:05:24.80,Default,,0,0,0,,{\i1\fad(0,1500)}Just give it up, will you?
 Dialogue: 10,0:05:26.56,0:05:28.98,Default,,0,0,0,,It's really boring!
 Dialogue: 10,0:05:35.02,0:05:39.32,Default,,0,0,0,,There's no excitement to be had in your writing.
 Dialogue: 10,0:05:40.65,0:05:44.37,Default,,0,0,0,,Every last word is utter tripe!
@@ -207,7 +207,7 @@ Dialogue: 10,0:14:31.52,0:14:36.61,Default,,0,0,0,,{\i1}One time, I knew what pe
 Dialogue: 10,0:14:37.44,0:14:39.32,Default,,0,0,0,,{\i1}Everyone was creeped out.
 Dialogue: 10,0:14:42.24,0:14:44.20,Default,,0,0,0,,{\i1}I don't hear any demons anymore.
 Dialogue: 10,0:14:45.16,0:14:48.33,Default,,0,0,0,,{\i1}Tanjirou, you defeated them, didn't you?
-Dialogue: 10,0:14:49.20,0:14:55.00,Default,,0,0,0,,{\i1\q2}I can hear you guys, and also \Nthese weird, loud footsteps.
+Dialogue: 10,0:14:49.20,0:14:55.00,Default,,0,0,0,,{\i1\q2}I can hear you guys, \Nand also these weird, loud footsteps.
 Dialogue: 10,0:14:56.46,0:14:59.25,Default,,0,0,0,,...itsu! Zenitsu!
 Dialogue: 10,0:14:59.96,0:15:01.84,Default,,0,0,0,,Zenitsu!
 Dialogue: 10,0:15:05.76,0:15:08.85,Default,,0,0,0,,Thank goodness! Are you all right?
@@ -268,7 +268,7 @@ Dialogue: 10,0:17:53.05,0:17:56.51,Default,,0,0,0,,{\i1}All living creatures con
 Dialogue: 10,0:17:57.22,0:18:00.02,Default,,0,0,0,,{\i1}These sounds spill out into the world.
 Dialogue: 10,0:18:01.23,0:18:05.27,Default,,0,0,0,,{\i1}Breathing, heartbeats, the sound of blood circulating...
 Dialogue: 10,0:18:06.02,0:18:08.36,Default,,0,0,0,,{\i1}By listening closely,
-Dialogue: 10,0:18:08.36,0:18:11.03,Default,,0,0,0,,{\i1}I could even tell what someone was thinking.
+Dialogue: 10,0:18:08.36,0:18:11.03,Default,,0,0,0,,{\i1}I could even hear a person's thoughts.
 Dialogue: 10,0:18:12.61,0:18:15.74,Default,,0,0,0,,{\i1}But I've been deceived by others time and time again.
 Dialogue: 10,0:18:16.58,0:18:21.25,Default,,0,0,0,,{\i1}I've always believed in whomever I wanted to.
 Dialogue: 10,0:18:23.17,0:18:26.96,Default,,0,0,0,,{\i1\q2}Despite being a Demon Slayer, \NTanjirou is travelling with a demon.
@@ -276,8 +276,8 @@ Dialogue: 10,0:18:27.84,0:18:32.17,Default,,0,0,0,,{\i1}But I'm sure he has a re
 Dialogue: 10,0:18:32.17,0:18:36.68,Default,,0,0,0,,{\i1}And I trust it's a reason I can accept.
 Dialogue: 10,0:18:37.93,0:18:39.06,Default,,0,0,0,,And I...
 Dialogue: 10,0:18:41.14,0:18:45.65,Default,,0,0,0,,And I'll ask Tanjirou directly myself!
-Dialogue: 10,0:18:45.65,0:18:47.56,Default,,0,0,0,,So, you...
-Dialogue: 10,0:18:47.56,0:18:49.40,Default,,0,0,0,,had better back off!
+Dialogue: 10,0:18:45.65,0:18:47.48,Default,,0,0,0,,So, you...
+Dialogue: 10,0:18:47.48,0:18:49.40,Default,,0,0,0,,had better back off!
 Dialogue: 10,0:18:58.03,0:19:00.08,Default,,0,0,0,,Let go of me, dammit!
 Dialogue: 10,0:19:01.79,0:19:03.25,Default,,0,0,0,,You're freakin' annoying!
 Dialogue: 10,0:19:08.42,0:19:10.55,Default,,0,0,0,,I won't let you lay a finger on that box!

@@ -143,7 +143,7 @@ Dialogue: 10,0:09:04.32,0:09:06.07,Default,,0,0,0,,{\i1}Total Concentration!
 Dialogue: 10,0:09:09.24,0:09:11.03,Default,,0,0,0,,{\i1}What unbelievable strength!
 Dialogue: 10,0:09:17.37,0:09:19.66,Default,,0,0,0,,Good! You're all tangled up!
 Dialogue: 10,0:09:23.13,0:09:23.92,Default,,0,0,0,,Wha—
-Dialogue: 10,0:09:25.71,0:09:27.63,Default,,0,0,0,,The hell was that?
+Dialogue: 10,0:09:25.71,0:09:27.63,Default,,0,0,0,,The hell was that?!
 Dialogue: 10,0:09:27.63,0:09:29.92,Default,,0,0,0,,I wanna do that, too!
 Dialogue: 10,0:09:35.10,0:09:36.43,Default,,0,0,0,,Take this!
 Dialogue: 10,0:09:46.15,0:09:50.24,Default,,0,0,0,,Y'see that? Whatever you can do, I can do too!
@@ -227,8 +227,8 @@ Dialogue: 10,0:15:51.18,0:15:54.85,Default,,0,0,0,,{\i1}Dammit, the hell's with 
 Dialogue: 10,0:15:54.85,0:15:57.19,Default,,0,0,0,,{\i1}Everything's just gotta go his way, huh?
 Dialogue: 10,0:15:57.90,0:16:00.69,Default,,0,0,0,,{\i1}He acts as if this was all predetermined or somethin'!
 Dialogue: 10,0:16:01.23,0:16:05.40,Default,,0,0,0,,{\i1}As if it were flowing as naturally as water in a river...
-Dialogue: 10,0:16:07.07,0:16:12.66,Default,,0,0,0,,{\i1}It ain't about being first to him, but...
-Dialogue: 10,0:16:12.66,0:16:15.66,Default,,0,0,0,,{\i1}He's got his eyes set on the overall flow of the battle!
+Dialogue: 10,0:16:07.07,0:16:11.07,Default,,0,0,0,,{\i1}He's not worried about who gets to go first...
+Dialogue: 10,0:16:11.07,0:16:15.66,Default,,0,0,0,,{\i1\q2}For him, it's all about \Nthe overall flow of the battle!
 Dialogue: 10,0:16:35.64,0:16:37.77,Default,,0,0,0,,{\i1}Great! He cut it just right!
 Dialogue: 10,0:16:38.06,0:16:40.69,Default,,0,0,0,,Way to go! You did it, Inosuke!
 Dialogue: 10,0:16:45.90,0:16:47.03,Default,,0,0,0,,Inosuke?
@@ -297,7 +297,7 @@ Dialogue: 10,0:23:15.62,0:23:16.88,Default,,0,0,0,,Anago Kanjirou!
 Dialogue: 10,0:23:16.88,0:23:18.08,Default,,0,0,0,,Hey, you're getting warmer!
 Dialogue: 10,0:23:18.08,0:23:19.25,Default,,0,0,0,,Hamado Tangorou!
 Dialogue: 10,0:23:19.25,0:23:20.05,Default,,0,0,0,,So close!
-Dialogue: 10,0:23:20.05,0:23:21.21,Default,,0,0,0,,Amado Jangorou!
+Dialogue: 10,0:23:20.05,0:23:21.21,Default,,0,0,0,,Amado Janjirou!
 Dialogue: 10,0:23:21.21,0:23:22.42,Default,,0,0,0,,Ninety-nine percent there!
 Dialogue: 10,0:23:22.42,0:23:23.21,Default,,0,0,0,,Kamado...
 Dialogue: 10,0:23:24.01,0:23:26.55,Default,,0,0,0,,Hey, who cares about your name anyway?

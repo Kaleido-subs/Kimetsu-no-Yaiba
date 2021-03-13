@@ -65,7 +65,7 @@ Dialogue: 10,0:04:48.60,0:04:51.77,Default,,0,0,0,,North-northeast! North-northe
 Dialogue: 10,0:04:51.77,0:04:54.32,Default,,0,0,0,,Your next mission is north-northeast!
 Dialogue: 10,0:04:54.61,0:04:57.40,Default,,0,0,0,,The three of you are to go to Mt. Natagumo!
 Dialogue: 10,0:04:57.40,0:04:59.90,Default,,0,0,0,,Head to Mt. Natagumo!
-Dialogue: 10,0:05:08.25,0:05:09.54,Default,,0,0,0,,We'll be heading out now.
+Dialogue: 10,0:05:08.25,0:05:09.54,Default,,0,0,0,,We'll be heading out, then.
 Dialogue: 10,0:05:11.04,0:05:12.58,Default,,0,0,0,,Thank you so much for everything.
 Dialogue: 10,0:05:17.63,0:05:20.09,Default,,0,0,0,,Allow me to strike some sparks.
 Dialogue: 10,0:05:20.38,0:05:21.97,Default,,0,0,0,,It'd be much appreciated!
@@ -124,7 +124,7 @@ Dialogue: 10,0:08:36.66,0:08:38.00,Default,,0,0,0,,Are you all right?
 Dialogue: 10,0:08:38.00,0:08:38.96,Default,,0,0,0,,What happened?
 Dialogue: 10,0:08:44.04,0:08:45.67,Default,,0,0,0,,They were attached to me, too!
 Dialogue: 10,0:08:45.67,0:08:48.92,Default,,0,0,0,,Save me!
-Dialogue: 10,0:09:05.48,0:09:06.69,Default,,0,0,0,,I'm going in there.
+Dialogue: 10,0:09:05.48,0:09:06.69,Default,,0,0,0,,I'm going in{ there}.
 Dialogue: 10,0:09:09.95,0:09:11.95,Default,,0,0,0,,I'll go on ahead first.
 Dialogue: 10,0:09:11.95,0:09:15.53,Default,,0,0,0,,You can follow me, shivering in your boots.
 Dialogue: 10,0:09:15.53,0:09:17.58,Default,,0,0,0,,This is making me hungry.
@@ -143,7 +143,7 @@ Dialogue: 10,0:10:57.72,0:11:01.22,Default,,0,0,0,,{\q2}I felt a lot more encour
 Dialogue: 10,0:11:03.48,0:11:07.27,Default,,0,0,0,,{\q2}That twisted, ominous scent I was \Npicking up from the mountain...
 Dialogue: 10,0:11:07.27,0:11:09.94,Default,,0,0,0,,It made me freeze a little.
 Dialogue: 10,0:11:10.73,0:11:11.73,Default,,0,0,0,,So thanks!
-Dialogue: 10,0:11:16.28,0:11:20.58,Default,,0,0,0,,{\i1}These are pleasant to the touch and quite comfortable.
+Dialogue: 10,0:11:16.28,0:11:20.58,Default,,0,0,0,,{\i1}They're pleasant to the touch and quite comfortable.
 Dialogue: 10,0:11:20.58,0:11:25.58,Default,,0,0,0,,{\i1}Always live your lives with great pride.
 Dialogue: 10,0:11:25.58,0:11:27.54,Default,,0,0,0,,{\i1}I wish you much luck in battle!
 Dialogue: 10,0:11:31.46,0:11:32.38,Default,,0,0,0,,Inosuke...
@@ -198,7 +198,7 @@ Dialogue: 10,0:15:01.09,0:15:03.67,Default,,0,0,0,,Seriously, you've got zero ch
 Dialogue: 10,0:15:03.97,0:15:06.43,Default,,0,0,0,,{\q2}I mean, look at how cute Nezuko is! \NAnd she's a demon!
 Dialogue: 10,0:15:06.43,0:15:08.76,Default,,0,0,0,,But you're a sparrow, and you're so vicious!
 Dialogue: 10,0:15:10.89,0:15:13.77,Default,,0,0,0,,He took Nezuko with him!
-Dialogue: 10,0:15:14.10,0:15:17.31,Default,,0,0,0,,{\q2}Why did he have to take my \Nprecious Nezuko with him?
+Dialogue: 10,0:15:14.10,0:15:17.31,Default,,0,0,0,,{\q2}Why did he have to take \Nmy precious Nezuko with him?
 Dialogue: 10,0:15:17.31,0:15:19.52,Default,,0,0,0,,Damn you, Tanjirou!
 Dialogue: 10,0:15:19.52,0:15:21.65,Default,,0,0,0,,Don't bring a young lass into danger!
 Dialogue: 10,0:15:21.65,0:15:23.15,Default,,0,0,0,,Idiot! Idiot! Idiot! Idiot! Idiot!
@@ -301,7 +301,7 @@ Dialogue: 10,0:19:54.05,0:19:55.51,Default,,0,0,0,,Mother?
 Dialogue: 10,0:20:06.31,0:20:07.81,Default,,0,0,0,,Motherfucker!
 Dialogue: 10,0:20:08.19,0:20:10.40,Default,,0,0,0,,Where the fuck do you think you're going? Fight me!
 Dialogue: 10,0:20:10.40,0:20:11.36,Default,,0,0,0,,Fight—
-Dialogue: 10,0:20:11.36,0:20:12.57,Default,,0,0,0,,Inosuke!
+Dialogue: 10,0:20:11.36,0:20:12.65,Default,,0,0,0,,Inosuke!
 Dialogue: 10,0:20:13.44,0:20:15.57,Default,,0,0,0,,What'd he come here for anyway?
 Dialogue: 10,0:20:15.57,0:20:18.86,Default,,0,0,0,,That kid probably isn't the demon pulling the threads!
 Dialogue: 10,0:20:18.86,0:20:20.66,Default,,0,0,0,,First, let's...

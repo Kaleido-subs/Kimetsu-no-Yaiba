@@ -43,7 +43,7 @@ Dialogue: 10,0:02:28.50,0:02:32.01,Default,,0,0,0,,Don't you get why Zenitsu ref
 Dialogue: 10,0:02:32.47,0:02:37.10,Default,,0,0,0,,{\q2}It's because we're forbidden from drawing \Nour blades on one another for no reason!
 Dialogue: 10,0:02:37.35,0:02:40.97,Default,,0,0,0,,Yet here you are, giving him a one-sided beatdown!
 Dialogue: 10,0:02:40.97,0:02:42.81,Default,,0,0,0,,Is this your twisted idea of fun?
-Dialogue: 10,0:02:42.81,0:02:45.81,Default,,0,0,0,,You're scum. Absolute scum.
+Dialogue: 10,0:02:42.81,0:02:45.81,Default,,0,0,0,,You're scum. Absolute scum!
 Dialogue: 10,0:02:55.07,0:02:57.24,Default,,0,0,0,,Oh, {\i1}that's{\i0} your problem?
 Dialogue: 10,0:02:57.24,0:02:59.12,Default,,0,0,0,,My bad.
 Dialogue: 10,0:03:00.24,0:03:03.20,Default,,0,0,0,,We'll settle this with fisticuffs, then.
@@ -65,7 +65,7 @@ Dialogue: 10,0:04:30.92,0:04:31.88,Default,,0,0,0,,{\i1}Aim low!
 Dialogue: 10,0:04:32.21,0:04:35.05,Default,,0,0,0,,{\i1}Even lower than your opponent!
 Dialogue: 10,0:04:40.89,0:04:43.68,Default,,0,0,0,,{\i1}His joints...
 Dialogue: 10,0:04:43.68,0:04:45.72,Default,,0,0,0,,{\i1}That flexibility is superhuman!
-Dialogue: 10,0:04:48.35,0:04:53.11,Default,,0,0,0,,I'm pretty awesome, dontcha think?
+Dialogue: 10,0:04:48.35,0:04:53.11,Default,,0,0,0,,I'm pretty awesome, don{'}tcha think?
 Dialogue: 10,0:04:53.36,0:04:55.44,Default,,0,0,0,,{\i1}He just said it twice!
 Dialogue: 10,0:04:55.44,0:04:57.28,Default,,0,0,0,,{\i1}He's so full of himself.
 Dialogue: 10,0:04:57.28,0:05:00.78,Default,,0,0,0,,Check out what else I can do!
@@ -196,7 +196,7 @@ Dialogue: 10,0:12:24.68,0:12:27.14,Default,,0,0,0,,Kamaboko Gonpachirou!
 Dialogue: 10,0:12:27.14,0:12:28.85,Default,,0,0,0,,I'm gonna beat you!
 Dialogue: 10,0:12:28.85,0:12:30.40,Default,,0,0,0,,Who are you even challenging?!
 Dialogue: 10,0:12:30.40,0:12:31.23,Default,,0,0,0,,That'd be you!
-Dialogue: 10,0:12:31.23,0:12:32.73,Default,,0,0,0,,That's not me!
+Dialogue: 10,0:12:31.23,0:12:32.27,Default,,0,0,0,,That's not me!
 Dialogue: 10,0:12:33.19,0:12:34.82,Default,,0,0,0,,Can't you just shut up?!
 Dialogue: 10,0:12:44.28,0:12:46.33,Default,,0,0,0,,A wisteria family crest...
 Dialogue: 10,0:12:48.75,0:12:52.00,Default,,0,0,0,,Time to rest! Time to rest!
@@ -253,12 +253,12 @@ Dialogue: 10,0:15:41.88,0:15:43.13,Default,,0,0,0,,I'll pass.
 Dialogue: 10,0:15:43.13,0:15:44.26,Default,,0,0,0,,Say sorry!
 Dialogue: 10,0:15:44.26,0:15:45.09,Default,,0,0,0,,I'll pass!
 Dialogue: 10,0:15:45.09,0:15:46.47,Default,,0,0,0,,Just say you're sorry!
-Dialogue: 10,0:15:47.18,0:15:51.05,Default,,0,0,0,,{\q2}If you're gonna be like that, \Nwe'll stop eating together with you.
+Dialogue: 10,0:15:47.18,0:15:51.05,Default,,0,0,0,,{\q2}If you're gonna be like that, \Nwe can just stop eating with you.
 Dialogue: 10,0:15:52.01,0:15:53.56,Default,,0,0,0,,Why should I give a damn?
 Dialogue: 10,0:15:53.81,0:15:57.06,Default,,0,0,0,,{\q2}Food always tastes better when \Nyou've got company, y'know.
 Dialogue: 10,0:15:57.31,0:15:58.77,Default,,0,0,0,,He's right about that.
 Dialogue: 10,0:15:58.77,0:16:00.77,Default,,0,0,0,,Did you guys hit your heads or something?
-Dialogue: 10,0:16:00.77,0:16:03.23,Default,,0,0,0,,Who are you to talk?
+Dialogue: 10,0:16:00.77,0:16:03.23,Default,,0,0,0,,Who are {\i1}you{\i0} to talk?
 Dialogue: 10,0:16:03.23,0:16:06.57,Default,,0,0,0,,Is there something I can help you with?
 Dialogue: 10,0:16:06.57,0:16:07.45,Default,,0,0,0,,The ghost hag!
 Dialogue: 10,0:16:07.45,0:16:08.74,Default,,0,0,0,,Drop that!
@@ -334,14 +334,14 @@ Dialogue: 10,0:20:44.10,0:20:46.02,Default,,0,0,0,,Zenitsu, calm down!
 Dialogue: 10,0:20:46.02,0:20:47.48,Default,,0,0,0,,What's gotten into you?
 Dialogue: 10,0:20:47.48,0:20:52.81,Default,,0,0,0,,You don't become a Demon Slayer for shits 'n giggles!
 Dialogue: 10,0:20:52.81,0:20:56.49,Default,,0,0,0,,Guys like you must be purged! Pronto!
-Dialogue: 10,0:20:56.78,0:21:03.78,Default,,0,0,0,,{\q2}Come to think of it, there's also the crimes of \Nthwarting my marriage and sending Shouichi home.
-Dialogue: 10,0:21:03.78,0:21:06.04,Default,,0,0,0,,Urgent purging!
+Dialogue: 10,0:20:56.78,0:21:03.49,Default,,0,0,0,,{\q2}Come to think of it, there's also the crimes of \Nthwarting my marriage and sending Shouichi home.
+Dialogue: 10,0:21:03.49,0:21:06.04,Default,,0,0,0,,Urgent purging!
 Dialogue: 10,0:21:06.04,0:21:10.00,Default,,0,0,0,,Don't you ever underestimate the Demon Slayers!
 Dialogue: 10,0:21:10.00,0:21:13.00,Default,,0,0,0,,A guy like you! A guy like you!
 Dialogue: 10,0:21:13.79,0:21:16.17,Default,,0,0,0,,Zenitsu, cut it out!
 Dialogue: 10,0:21:16.63,0:21:19.51,Default,,0,0,0,,Mock the Demon Slayers
 Dialogue: 10,0:21:19.51,0:21:24.10,Default,,0,0,0,,and you'll be sent straight to Hell!
-Dialogue: 10,0:21:24.10,0:21:27.56,Default,,0,0,0,,You shall feel my wrath!
+Dialogue: 10,0:21:24.10,0:21:27.56,Default,,0,0,0,,You shall feel my wrath!{### could fade out but nah}
 Comment: 0,0:22:59.90,0:22:59.90,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:23:03.03,0:23:04.53,Default,,0,0,0,,Combined Junior and Senior High School!
 Dialogue: 10,0:23:04.53,0:23:06.49,Default,,0,0,0,,Tales of the Demon Slayer Academy!
