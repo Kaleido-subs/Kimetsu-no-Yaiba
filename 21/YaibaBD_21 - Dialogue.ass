@@ -116,8 +116,8 @@ Dialogue: 10,0:09:18.87,0:09:20.29,Default,,0,0,0,,I'm sorry!
 Dialogue: 10,0:09:20.66,0:09:23.96,Default,,0,0,0,,I'm sorry! I'm sorry!
 Dialogue: 10,0:09:46.32,0:09:49.74,Default,,0,0,0,,{\q2}Don't waste your sympathy on \Na demon that has devoured humans.
 Dialogue: 10,0:09:50.32,0:09:53.28,Default,,0,0,0,,Whether or not it looks like a child is irrelevant.
-Dialogue: 10,0:09:53.61,0:09:57.74,Default,,0,0,0,,{\q2}It's still a hideous monster \Nthat's lived for many decades.
-Dialogue: 10,0:09:58.04,0:10:01.46,Default,,0,0,0,,To avenge the people who have been killed,
+Dialogue: 10,0:09:53.61,0:09:57.70,Default,,0,0,0,,{\q2}It's still a hideous monster \Nthat's lived for many decades.
+Dialogue: 10,0:09:58.04,0:10:01.41,Default,,0,0,0,,To avenge the people who have been killed,
 Dialogue: 10,0:10:01.75,0:10:04.46,Default,,0,0,0,,to make sure there are no more victims,
 Dialogue: 10,0:10:04.88,0:10:09.46,Default,,0,0,0,,{\q2}I'll bring my blade down on \Nany demon's neck without mercy!
 Dialogue: 10,0:10:09.92,0:10:13.34,Default,,0,0,0,,{\q2}But as for those for whom \Nbeing a demon meant despair,
@@ -131,7 +131,7 @@ Dialogue: 10,0:10:32.70,0:10:34.49,Default,,0,0,0,,Demons are hopeless creatures
 Dialogue: 10,0:10:35.20,0:10:36.91,Default,,0,0,0,,They're tragic beings!
 Dialogue: 10,0:10:50.25,0:10:51.71,Default,,0,0,0,,You're...
 Dialogue: 10,0:11:00.26,0:11:01.10,Default,,0,0,0,,Oh-ho?
-Dialogue: 10,0:11:05.60,0:11:08.98,Default,,0,0,0,,{\q2}So, what's your excuse for \Ngetting in my way there, Tomioka?
+Dialogue: 10,0:11:05.60,0:11:08.98,Default,,0,0,0,,{\q2}What might your excuse be \Nfor getting in my way there, Tomioka?
 Dialogue: 10,0:11:09.73,0:11:13.49,Default,,0,0,0,,{\q2}Weren't you the one who told me man \Nand demon could never become friends?
 Dialogue: 10,0:11:13.49,0:11:15.49,Default,,0,0,0,,I mean, how do I put this...
 Dialogue: 10,0:11:16.16,0:11:17.49,Default,,0,0,0,,This is a good example
@@ -164,7 +164,7 @@ Dialogue: 10,0:13:07.64,0:13:10.02,Default,,0,0,0,,I'd rather not hurt you, so g
 Dialogue: 10,0:13:10.27,0:13:12.35,Default,,0,0,0,,Y-You're mistaken!
 Dialogue: 10,0:13:12.35,0:13:15.23,Default,,0,0,0,,Well, you're not, but...
 Dialogue: 10,0:13:15.23,0:13:16.78,Default,,0,0,0,,She's my little sister!
-Dialogue: 10,0:13:16.78,0:13:19.03,Default,,0,0,0,,She's my little sister, so... You see...
+Dialogue: 10,0:13:16.78,0:13:19.03,Default,,0,0,0,,She's my little sister, so... You see...{### the capitalization feels weird here but the other obvious option doesn't feel less weird}
 Dialogue: 10,0:13:20.57,0:13:23.57,Default,,0,0,0,,Is that so? Poor thing.
 Dialogue: 10,0:13:24.24,0:13:25.03,Default,,0,0,0,,In that case,
 Dialogue: 10,0:13:25.62,0:13:30.58,Default,,0,0,0,,{\q2}I'll use a gentle toxin to kill her \Nso she won't suffer, okay?
@@ -199,7 +199,7 @@ Dialogue: 10,0:15:42.75,0:15:43.80,Default,,0,0,0,,{\i1}Nezuko!
 Dialogue: 10,0:15:45.22,0:15:46.43,Default,,0,0,0,,{\i1}A Demon Slayer!
 Dialogue: 10,0:15:52.47,0:15:54.27,Default,,0,0,0,,Run, Nezuko!
 Dialogue: 10,0:15:54.27,0:15:56.31,Default,,0,0,0,,Run! Make a run for it!
-Dialogue: 10,0:15:56.31,0:15:57.81,Default,,0,0,0,,Don't get caught no matter what!
+Dialogue: 10,0:15:56.31,0:15:57.81,Default,,0,0,0,,Don't get caught, no matter what!
 Dialogue: 10,0:15:58.06,0:15:59.15,Default,,0,0,0,,Hurry—
 Dialogue: 10,0:16:09.62,0:16:12.20,Default,,0,0,0,,{\i1}She shrunk and turned into a child?
 Dialogue: 10,0:16:21.46,0:16:24.96,Default,,0,0,0,,{\i1\q2}All she does is run away. \NShe's not even fighting back.
