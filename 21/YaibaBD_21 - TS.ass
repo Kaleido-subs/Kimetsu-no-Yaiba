@@ -99,6 +99,10 @@ Dialogue: 0,0:23:38.69,0:23:41.23,Sign,,0,0,0,,{\an2\pos(1081.49,1011.15)\fnFOT 
 Dialogue: 1,0:23:38.69,0:23:41.23,Sign,,0,0,0,,{\an2\pos(1081.49,1011.15)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
 Dialogue: 2,0:23:38.69,0:23:41.23,Sign,,0,0,0,,{\an2\pos(1081.49,1011.15)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
 Dialogue: 3,0:23:38.69,0:23:41.23,Sign,,0,0,0,,{\an2\pos(1081.49,1011.15)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\alpha&H00&\4a&HFF&\blur1}To Be Continued
+Dialogue: 0,0:07:45.65,0:07:48.66,Sign,,0,0,0,,{\fncreation\1a&HFE&\3a&HFE&\shad0.01\4a&H00&\bord0.1\4c&H11070C&\blur0.95\frz228\fs20\pos(522.47,761.93)}Wanin{\4c&H0D0807&}g
+Dialogue: 0,0:07:45.65,0:07:48.66,Sign,,0,0,0,,{\fncreation\1a&HFE&\3a&HFE&\shad0.01\4a&H00&\bord0.1\4c&H11070C&\blur0.95\frz228\fs20\pos(496.47,747.93)}Fi{\4c&H0D0807&}ve
+Dialogue: 0,0:07:56.16,0:07:59.17,Sign,,0,0,0,,{\fncreation\1a&HFE&\3a&HFE&\shad0.01\4a&H00&\bord0.1\4c&H11070C&\blur0.95\frz228\fs20\pos(522.47,761.93)}Wanin{\4c&H0D0807&}g
+Dialogue: 0,0:07:56.16,0:07:59.17,Sign,,0,0,0,,{\fncreation\1a&HFE&\3a&HFE&\shad0.01\4a&H00&\bord0.1\4c&H11070C&\blur0.95\frz228\fs20\pos(496.47,747.93)}Fi{\4c&H0D0807&}ve
 Dialogue: 0,0:19:23.98,0:19:24.02,Sign,,0,0,0,,{=0}{\an7\pos(0,93.21)\c&H595855&\blur0.6\p1}m 863.5 985.8 l 867.5 1006.467 869.333 1015.3 873.5 1072.133 880.333 1076.3 888 1076.967 879.667 982.8
 Dialogue: 0,0:19:24.02,0:19:24.06,Sign,,0,0,0,,{=0}{\an7\pos(0,86.61)\c&H595855&\blur0.6\p1}m 863.5 985.8 l 867.5 1006.467 869.333 1015.3 873.5 1072.133 880.333 1076.3 888 1076.967 879.667 982.8
 Dialogue: 0,0:19:24.06,0:19:24.10,Sign,,0,0,0,,{=0}{\an7\pos(0,80.19)\c&H595855&\blur0.6\p1}m 863.5 985.8 l 867.5 1006.467 869.333 1015.3 873.5 1072.133 880.333 1076.3 888 1076.967 879.667 982.8
