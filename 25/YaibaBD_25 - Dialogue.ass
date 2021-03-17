@@ -202,7 +202,7 @@ Dialogue: 10,0:14:02.53,0:14:05.32,Default,,0,0,0,,Long time no see!
 Dialogue: 10,0:14:06.95,0:14:09.16,Default,,0,0,0,,Have you been well...
 Dialogue: 10,0:14:14.17,0:14:16.21,Default,,0,0,0,,M-Mr. Haganezuka?
 Dialogue: 10,0:14:16.67,0:14:20.38,Default,,0,0,0,,How dare you? How dare you snap my sword in two?
-Dialogue: 10,0:14:20.38,0:14:22.55,Default,,0,0,0,,You've got a lot a nerve!
+Dialogue: 10,0:14:20.38,0:14:22.55,Default,,0,0,0,,You've got a lot a nerve!{### typo?}
 Dialogue: 10,0:14:22.55,0:14:23.84,Default,,0,0,0,,I'm sorry!
 Dialogue: 10,0:14:23.84,0:14:27.14,Default,,0,0,0,,{\q2}B-But in my defence, \NI came {\i1}this{\i0} close to being killed!
 Dialogue: 10,0:14:27.14,0:14:29.06,Default,,0,0,0,,My opponent was insanely strong!

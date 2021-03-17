@@ -28,7 +28,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Dialogue: 10,0:00:07.74,0:00:09.20,Default,,0,0,0,,Are you heading into battle?
 Dialogue: 10,0:00:11.20,0:00:12.45,Default,,0,0,0,,Oh, if it isn't Kochou!
-Dialogue: 10,0:00:12.74,0:00:17.91,Default,,0,0,0,,{\q2}A new demon has surfaced, and the Slayers \Nthat confronted him were taken out.
+Dialogue: 10,0:00:12.74,0:00:17.91,Default,,0,0,0,,{\q2}A new demon has surfaced, \Nand the Slayers that confronted him were taken out.
 Dialogue: 10,0:00:17.91,0:00:21.54,Default,,0,0,0,,{\q2}Innocent folk have fallen victim. \NWe can't ignore this any longer.
 Dialogue: 10,0:00:22.21,0:00:24.25,Default,,0,0,0,,Is a Blood Moon responsible for this?
 Dialogue: 10,0:00:24.50,0:00:27.38,Default,,0,0,0,,{\q2}Most likely. It might have even been \None of the Waxing Moons.
@@ -151,7 +151,7 @@ Dialogue: 10,0:08:00.75,0:08:01.71,Default,,0,0,0,,I said {\i1}now{\i0}!
 Dialogue: 10,0:08:02.00,0:08:03.46,Default,,0,0,0,,Get a move on, you sleazebags!
 Dialogue: 10,0:08:03.46,0:08:05.46,Default,,0,0,0,,You damn slowpokes!
 Dialogue: 10,0:08:06.01,0:08:07.72,Default,,0,0,0,,The hell is wrong with you?
-Dialogue: 10,0:08:10.01,0:08:12.22,Default,,0,0,0,,Sit up straight and listen to me, you morons.
+Dialogue: 10,0:08:10.01,0:08:12.22,Default,,0,0,0,,Sit up straight and listen to me, you morons!
 Dialogue: 10,0:08:12.22,0:08:14.22,Default,,0,0,0,,You miserable maggots!
 Dialogue: 10,0:08:14.22,0:08:15.89,Default,,0,0,0,,The hell was that, you damn—
 Dialogue: 10,0:08:18.60,0:08:19.90,Default,,0,0,0,,Inosuke!
@@ -212,7 +212,7 @@ Dialogue: 10,0:11:11.07,0:11:12.61,Default,,0,0,0,,Please train me!
 Dialogue: 10,0:11:16.07,0:11:18.57,Default,,0,0,0,,Thank you for the good workout.
 Dialogue: 10,0:11:22.62,0:11:24.50,Default,,0,0,0,,{\i1}Why can't I beat her?
 Dialogue: 10,0:11:25.04,0:11:27.25,Default,,0,0,0,,{\i1}What gives her the edge over me?
-Dialogue: 10,0:11:27.63,0:11:30.92,Default,,0,0,0,,{\i1}Let's see. Her reflexes are way faster.
+Dialogue: 10,0:11:27.46,0:11:30.92,Default,,0,0,0,,{\i1\c&H000000&\t(18,602,1.5,\c&HFFFFFF&)}Let's see. Her reflexes are way faster.{### not sure about how this fade looks}
 Dialogue: 10,0:11:30.92,0:11:33.80,Default,,0,0,0,,{\i1\q2}Even if I were in top form, \NI'd probably be no match for her.
 Dialogue: 10,0:11:34.26,0:11:36.22,Default,,0,0,0,,{\i1}Her scent is totally different.
 Dialogue: 10,0:11:36.59,0:11:39.43,Default,,0,0,0,,{\i1}It reminds me of the scent of the Hashira.
@@ -290,15 +290,15 @@ Dialogue: 10,0:15:05.59,0:15:08.85,Default,,0,0,0,,She blew into it to make it e
 Dialogue: 10,0:15:08.85,0:15:10.39,Default,,0,0,0,,Oh, really?
 Dialogue: 10,0:15:10.85,0:15:12.35,Default,,0,0,0,,{\i1}Explode?
 Dialogue: 10,0:15:12.35,0:15:15.06,Default,,0,0,0,,What? You mean you blow these up?
-Dialogue: 10,0:15:16.65,0:15:18.11,Default,,0,0,0,,Something this hard?
+Dialogue: 10,0:15:16.65,0:15:18.11,Default,,0,0,0,,Something this hard?!
 Dialogue: 10,0:15:18.11,0:15:19.06,Default,,0,0,0,,Yes!
 Dialogue: 10,0:15:19.06,0:15:22.03,Default,,0,0,0,,Not to mention, this is a special gourd,
 Dialogue: 10,0:15:22.03,0:15:24.74,Default,,0,0,0,,so it's tougher than normal ones.
-Dialogue: 10,0:15:24.95,0:15:28.74,Default,,0,0,0,,{\i1\q2}A girl that petite was able to \Nblow up such strong gourds?
+Dialogue: 10,0:15:24.95,0:15:28.74,Default,,0,0,0,,{\i1\q2}A girl that petite was able to \Nblow up such strong gourds?!
 Dialogue: 10,0:15:28.95,0:15:32.91,Default,,0,0,0,,The gourds get bigger and bigger the better you get.
 Dialogue: 10,0:15:32.91,0:15:36.75,Default,,0,0,0,,The biggest one Lady Kanao can blow up
 Dialogue: 10,0:15:37.71,0:15:39.25,Default,,0,0,0,,is this one.
-Dialogue: 10,0:15:39.25,0:15:40.88,Default,,0,0,0,,That's bloody huge!
+Dialogue: 10,0:15:39.25,0:15:40.88,Default,,0,0,0,,That's bloody huge!{### check manga for italics on this and next line}
 Dialogue: 10,0:15:40.88,0:15:42.13,Default,,0,0,0,,I'll give it my all!
 Dialogue: 10,0:15:43.38,0:15:45.13,Default,,0,0,0,,They're not coming today, either?
 Dialogue: 10,0:15:45.42,0:15:46.76,Default,,0,0,0,,I'm so sorry.
