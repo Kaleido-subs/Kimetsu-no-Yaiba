@@ -59,7 +59,7 @@ Dialogue: 10,0:03:06.54,0:03:08.92,Default,,0,0,0,,I can carry you in here.
 Dialogue: 10,0:03:10.29,0:03:11.42,Default,,0,0,0,,Come.
 Dialogue: 10,0:03:11.42,0:03:12.59,Default,,0,0,0,,Inside.
 Dialogue: 10,0:03:12.59,0:03:14.30,Default,,0,0,0,,The basket.
-Dialogue: 10,0:03:20.97,0:03:22.43,Default,,0,0,0,,Far from a perfect fit, huh?
+Dialogue: 10,0:03:20.97,0:03:22.43,Default,,0,0,0,,A bit small, huh?{### attempted understatement sarcasm}
 Dialogue: 10,0:03:23.98,0:03:27.06,Default,,0,0,0,,{\i1}Nezuko sure has grown into a big girl.
 Dialogue: 10,0:03:27.06,0:03:29.98,Default,,0,0,0,,{\i1}It feels like yesterday that she was just a little kid.
 Dialogue: 10,0:03:31.90,0:03:32.98,Default,,0,0,0,,Say, Nezuko.
@@ -121,7 +121,7 @@ Dialogue: 10,0:08:26.19,0:08:27.36,Default,,0,0,0,,{\i1}His head is
 Dialogue: 10,0:08:27.99,0:08:29.57,Default,,0,0,0,,{\i1}crazy hard!
 Dialogue: 10,0:08:39.12,0:08:40.08,Default,,0,0,0,,All right!
 Dialogue: 10,0:08:41.46,0:08:44.96,Default,,0,0,0,,My hair got all tangled up on the haft!
-Dialogue: 10,0:08:44.96,0:08:46.63,Default,,0,0,0,,Goddamnit!
+Dialogue: 10,0:08:44.96,0:08:46.63,Default,,0,0,0,,Shit!
 Dialogue: 10,0:08:48.59,0:08:51.76,Default,,0,0,0,,Nezuko! Where are you?
 Dialogue: 10,0:09:04.06,0:09:05.61,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:09:05.61,0:09:07.07,Default,,0,0,0,,Don't you touch her!
@@ -147,16 +147,16 @@ Dialogue: 10,0:10:56.14,0:10:59.18,Default,,0,0,0,,{\i1}I'll have to hit him mul
 Dialogue: 10,0:10:59.93,0:11:02.10,Default,,0,0,0,,{\i1}It'll be a painful death.
 Dialogue: 10,0:11:02.43,0:11:05.85,Default,,0,0,0,,{\i1\q2}Isn't there something, anything, \NI can use to finish him in one go?
 Dialogue: 10,0:11:11.61,0:11:13.36,Default,,0,0,0,,{\i1}This kid isn't gonna cut it.
-Dialogue: 10,0:11:14.61,0:11:18.12,Default,,0,0,0,,{\i1}His sympathy is clouding his judgement.
+Dialogue: 10,0:11:14.61,0:11:18.12,Default,,0,0,0,,{\i1}His heart is clouding his judgment.
 Dialogue: 10,0:11:18.91,0:11:23.37,Default,,0,0,0,,{\i1\q2}He's facing a demon, \Nyet the scent of kindness remains.
-Dialogue: 10,0:11:23.37,0:11:26.21,Default,,0,0,0,,{\i1}His empathy extends even to demons.
+Dialogue: 10,0:11:23.37,0:11:26.21,Default,,0,0,0,,{\i1}{So }His empathy extends even to demons.
 Dialogue: 10,0:11:27.79,0:11:29.63,Default,,0,0,0,,{\i1}Giyuu...
 Dialogue: 10,0:11:30.21,0:11:32.38,Default,,0,0,0,,{\i1}This kid won't make it.
 Dialogue: 10,0:11:38.51,0:11:40.68,Default,,0,0,0,,{\i1}I blacked out.
 Dialogue: 10,0:11:41.18,0:11:43.89,Default,,0,0,0,,{\i1}Did my body die, then?
 Dialogue: 10,0:11:43.89,0:11:46.19,Default,,0,0,0,,{\i1}I feel sick!
 Dialogue: 10,0:11:48.06,0:11:50.11,Default,,0,0,0,,You bastard, I'll kill you!
-Dialogue: 10,0:11:50.11,0:11:51.27,Default,,0,0,0,,I'll fucking eat your guts.
+Dialogue: 10,0:11:50.11,0:11:51.27,Default,,0,0,0,,I'll eat your fucking guts.
 Dialogue: 10,0:11:51.27,0:11:53.44,Default,,0,0,0,,Get over here! Dammit!
 Dialogue: 10,0:11:53.44,0:11:55.95,Default,,0,0,0,,I can't get to you, so come over here!
 Dialogue: 10,0:11:55.95,0:11:59.28,Default,,0,0,0,,{\i1}I've wasted too much time.
@@ -174,7 +174,7 @@ Dialogue: 10,0:12:47.29,0:12:48.87,Default,,0,0,0,,What about that man?
 Dialogue: 10,0:12:57.55,0:13:00.84,Default,,0,0,0,,{\i1}He buried the victims.
 Dialogue: 10,0:13:06.27,0:13:07.22,Default,,0,0,0,,Excuse me.
 Dialogue: 10,0:13:09.64,0:13:12.94,Default,,0,0,0,,My name is Urokodaki Sakonji.
-Dialogue: 10,0:13:12.94,0:13:16.65,Default,,0,0,0,,I suppose you're the one Tomioka Giyuu sent my way.
+Dialogue: 10,0:13:12.94,0:13:16.65,Default,,0,0,0,,{\q2}You must be the one \NTomioka Giyuu sent my way.
 Dialogue: 10,0:13:17.28,0:13:20.11,Default,,0,0,0,,Yes! My name is Kamado Tanjirou!
 Dialogue: 10,0:13:20.70,0:13:22.45,Default,,0,0,0,,My sister's name is Nezuko, and...
 Dialogue: 10,0:13:22.45,0:13:24.07,Default,,0,0,0,,Tanjirou.
@@ -200,11 +200,11 @@ Dialogue: 10,0:14:55.33,0:14:59.04,Default,,0,0,0,,{\i1\q2}Nezuko, I know you're
 Dialogue: 10,0:15:01.09,0:15:03.05,Default,,0,0,0,,{\i1}You've always had to bear with everything.
 Dialogue: 10,0:15:03.92,0:15:05.34,Default,,0,0,0,,{\i1}Nezuko...
 Dialogue: 10,0:15:05.34,0:15:06.51,Default,,0,0,0,,{\i1}You...
-Dialogue: 10,0:15:08.05,0:15:10.47,Default,,0,0,0,,You're fixing your kimono again?
-Dialogue: 10,0:15:10.47,0:15:13.27,Default,,0,0,0,,I guess we've gotta buy you a new one.
-Dialogue: 10,0:15:13.52,0:15:15.89,Default,,0,0,0,,No, no, it's fine!
-Dialogue: 10,0:15:15.89,0:15:18.02,Default,,0,0,0,,This kimono's my favourite!
-Dialogue: 10,0:15:18.36,0:15:22.90,Default,,0,0,0,,{\q2}Besides, I'd rather the younger kids \Ngot more food to fill them up instead!
+Dialogue: 10,0:15:08.05,0:15:10.47,Default,,0,0,0,,{\i1}You're fixing your kimono again?
+Dialogue: 10,0:15:10.47,0:15:13.27,Default,,0,0,0,,{\i1}I guess we've gotta buy you a new one.
+Dialogue: 10,0:15:13.52,0:15:15.89,Default,,0,0,0,,{\i1}No, no, it's fine!
+Dialogue: 10,0:15:15.89,0:15:18.02,Default,,0,0,0,,{\i1}This kimono's my favourite!
+Dialogue: 10,0:15:18.36,0:15:22.90,Default,,0,0,0,,{\i1\q2}Besides, I'd rather the little ones \Ngot more food to fill them up instead!
 Dialogue: 10,0:15:25.36,0:15:27.66,Default,,0,0,0,,{\i1}I swear I'll make you human again!
 Dialogue: 10,0:15:28.32,0:15:32.16,Default,,0,0,0,,{\i1}I swear I'll buy you a beautiful kimono someday!
 Dialogue: 10,0:15:32.49,0:15:34.87,Default,,0,0,0,,{\i1}Everything I couldn't do for the others...
@@ -213,7 +213,7 @@ Dialogue: 10,0:15:43.67,0:15:50.26,Default,,0,0,0,,N-N-Now have I... p-passed th
 Dialogue: 10,0:15:57.64,0:16:00.11,Default,,0,0,0,,The test begins now.
 Dialogue: 10,0:16:00.11,0:16:01.94,Default,,0,0,0,,We're climbing up the mountain.
 Dialogue: 10,0:16:06.70,0:16:10.37,Default,,0,0,0,,I'll take care of your sister in the meantime.
-Dialogue: 10,0:16:12.33,0:16:14.16,Default,,0,0,0,,I'll leave her in your care then.
+Dialogue: 10,0:16:12.33,0:16:14.16,Default,,0,0,0,,I'll leave her in your care, then.
 Dialogue: 10,0:16:26.76,0:16:28.18,Default,,0,0,0,,{\i1}I'm exhausted.
 Dialogue: 10,0:16:28.18,0:16:31.14,Default,,0,0,0,,{\i1}I can't feel my legs anymore.
 Dialogue: 10,0:16:31.89,0:16:33.89,Default,,0,0,0,,{\i1}I feel like I'm about to pass out.
@@ -261,16 +261,16 @@ Dialogue: 10,0:20:23.49,0:20:28.08,Default,,0,0,0,,{\i1}I can sense something sp
 Dialogue: 10,0:20:29.12,0:20:33.09,Default,,0,0,0,,{\i1\q2}Like yourself, the boy appears to \Nhave a keen sense of smell.
 Dialogue: 10,0:20:34.42,0:20:39.72,Default,,0,0,0,,{\i1\q2}Perhaps he'll find a way to break through \Nand become your successor.
 Dialogue: 10,0:20:40.59,0:20:43.60,Default,,0,0,0,,{\i1}Please take him on as your apprentice.
-Dialogue: 10,0:20:44.93,0:20:47.73,Default,,0,0,0,,{\i1}I realise that this is a self-serving request,
+Dialogue: 10,0:20:44.93,0:20:47.73,Default,,0,0,0,,{\i1}I realise that this is a selfish request,
 Dialogue: 10,0:20:48.19,0:20:50.44,Default,,0,0,0,,{\i1}but please bear with me.
 Dialogue: 10,0:20:51.56,0:20:57.61,Default,,0,0,0,,{\i1\q2}I hope that you will take \Ngood care in your endeavours.
 Dialogue: 10,0:20:59.15,0:21:00.36,Default,,0,0,0,,{\i1}Yours sincerely,
 Dialogue: 10,0:21:01.03,0:21:02.62,Default,,0,0,0,,{\i1}Tomioka Giyuu.
-Dialogue: 10,0:21:20.84,0:21:25.47,Default,,0,0,0,,Kamado Tanjirou, I accept you as my student.
+Dialogue: 10,0:21:20.84,0:21:25.47,Default,,0,0,0,,I accept you as my student, Kamado Tanjirou.
 Comment: 0,0:22:59.98,0:22:59.98,Default,chapter,0,0,0,,{Outro}
-Dialogue: 10,0:23:03.36,0:23:06.11,Default,,0,0,0,,{\q2}The demon in the temple \Nsure took us by surprise, huh?
+Dialogue: 10,0:23:03.36,0:23:06.11,Default,,0,0,0,,{\q2}The demon in that temple \Nsure took us by surprise, huh?
 Dialogue: 10,0:23:06.11,0:23:08.66,Default,,0,0,0,,I never expected to see arms grow from his head!
-Dialogue: 10,0:23:10.20,0:23:14.79,Default,,0,0,0,,{\q2}Now that Master Urokodaki has \Naccepted me, I'll do my utmost best!
+Dialogue: 10,0:23:10.20,0:23:14.79,Default,,0,0,0,,{\q2}Now that Master Urokodaki \Nhas accepted me, I'll do my utmost best!
 Dialogue: 10,0:23:16.08,0:23:19.38,Default,,0,0,0,,Now, it's time for a Taisho secret!
 Dialogue: 10,0:23:19.38,0:23:23.51,Default,,0,0,0,,{\q2}Believe it or not, the masked \NUrokodaki's age is actually—
 Dialogue: 10,0:23:23.51,0:23:24.38,Default,,0,0,0,,Tanjirou!
