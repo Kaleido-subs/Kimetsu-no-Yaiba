@@ -31,14 +31,14 @@ Dialogue: 10,0:02:36.26,0:02:38.26,Default,,0,0,0,,{\i1}The reason I won
 Dialogue: 10,0:02:38.72,0:02:41.64,Default,,0,0,0,,{\i1\q2}was because I learned how to \Ndetect an opening to strike.
 Dialogue: 10,0:02:44.77,0:02:46.65,Default,,0,0,0,,{\i1}While fighting somebody,
 Dialogue: 10,0:02:47.19,0:02:50.44,Default,,0,0,0,,{\i1}I can sometimes pick up the scent of a thread.
-Dialogue: 10,0:02:53.74,0:02:57.28,Default,,0,0,0,,{\i1}That thread connects my blade \Nto an opening in my opponent's stance,
+Dialogue: 10,0:02:53.74,0:02:57.28,Default,,0,0,0,,{\i1\q2}That thread connects my blade \Nto an opening in my opponent's stance,
 Dialogue: 10,0:02:57.28,0:02:59.66,Default,,0,0,0,,{\i1}becoming taut the moment I sense it.
 Dialogue: 10,0:03:06.83,0:03:09.54,Default,,0,0,0,,{\i1}It guides my blade,
 Dialogue: 10,0:03:09.54,0:03:11.38,Default,,0,0,0,,{\i1}and I strike through the opening.
 Dialogue: 10,0:03:32.61,0:03:33.99,Default,,0,0,0,,Master Urokodaki...
 Dialogue: 10,0:03:37.36,0:03:42.24,Default,,0,0,0,,{\q2}I had no intentions of allowing you to \Ntake part in the Final Selection.
-Dialogue: 10,0:03:44.62,0:03:47.87,Default,,0,0,0,,I no longer wanted to see any children die.
-Dialogue: 10,0:03:48.96,0:03:53.17,Default,,0,0,0,,{\q2}I was confident you'd be unable to \Nsplit this boulder in half, and yet...
+Dialogue: 10,0:03:44.62,0:03:47.87,Default,,0,0,0,,I didn't want to see any more children die.
+Dialogue: 10,0:03:48.96,0:03:53.17,Default,,0,0,0,,{\q2}I was confident you wouldn't be able \Nto split this boulder in half, and yet...
 Dialogue: 10,0:03:58.26,0:04:00.30,Default,,0,0,0,,Well done, my boy!
 Dialogue: 10,0:04:00.76,0:04:05.02,Default,,0,0,0,,Tanjirou, you're a remarkable child!
 Dialogue: 10,0:04:13.07,0:04:16.86,Default,,0,0,0,,{\q2}Make sure you come back alive \Nfrom the Final Selection.
@@ -56,14 +56,14 @@ Dialogue: 10,0:05:04.41,0:05:08.33,Default,,0,0,0,,{\i1}rest well without a care
 Dialogue: 10,0:05:24.18,0:05:26.01,Default,,0,0,0,,Hey, Tanjirou...
 Dialogue: 10,0:05:27.93,0:05:28.77,Default,,0,0,0,,Yes?
 Dialogue: 10,0:05:29.93,0:05:32.19,Default,,0,0,0,,Did you enjoy the hot pot?
-Dialogue: 10,0:05:32.19,0:05:35.94,Default,,0,0,0,,Yeah! It's been a long time since I've had such a feast!
+Dialogue: 10,0:05:32.19,0:05:35.94,Default,,0,0,0,,Yeah! I haven't had a feast like that in ages!
 Dialogue: 10,0:05:36.82,0:05:42.82,Default,,0,0,0,,{\q2}A callow lad with a hearty appetite \Nwill grow both bigger and stronger.
 Dialogue: 10,0:05:43.11,0:05:46.33,Default,,0,0,0,,But the same rings true of demons.
 Dialogue: 10,0:05:46.83,0:05:48.29,Default,,0,0,0,,Remember this.
-Dialogue: 10,0:05:48.29,0:05:52.71,Default,,0,0,0,,{\q2}A demon is as strong as the \Nnumber of humans it has consumed.
+Dialogue: 10,0:05:48.29,0:05:52.71,Default,,0,0,0,,{\q2}A demon's strength depends on \Nthe number of humans it has consumed.
 Dialogue: 10,0:05:53.17,0:05:56.29,Default,,0,0,0,,So the more they eat, the stronger they get?
 Dialogue: 10,0:05:57.13,0:05:58.46,Default,,0,0,0,,That's right.
-Dialogue: 10,0:05:58.46,0:06:01.51,Default,,0,0,0,,Some demons even morph and gain special powers.
+Dialogue: 10,0:05:58.46,0:06:01.51,Default,,0,0,0,,{\q2}Some demons even transform \Nand gain special powers.
 Dialogue: 10,0:06:01.51,0:06:04.68,Default,,0,0,0,,{\q2}You never know what strange \Nabilities you might run into.
 Dialogue: 10,0:06:10.39,0:06:13.60,Default,,0,0,0,,When your sense of smell grows keener,
 Dialogue: 10,0:06:13.60,0:06:16.40,Default,,0,0,0,,{\q2}you'll be able to tell how many \Nhumans a demon has devoured.
@@ -79,7 +79,7 @@ Dialogue: 10,0:07:20.71,0:07:23.17,Default,,0,0,0,,Thanks, I appreciate it!
 Dialogue: 10,0:07:26.13,0:07:28.64,Default,,0,0,0,,See you, Master Urokodaki!
 Dialogue: 10,0:07:34.39,0:07:36.64,Default,,0,0,0,,Give my regards to Sabito and Makomo!
 Dialogue: 10,0:07:38.85,0:07:40.40,Default,,0,0,0,,Tanjirou...
-Dialogue: 10,0:07:40.40,0:07:41.82,Default,,0,0,0,,Where did you learn of
+Dialogue: 10,0:07:40.40,0:07:41.82,Default,,0,0,0,,Where did you hear
 Dialogue: 10,0:07:42.53,0:07:45.57,Default,,0,0,0,,the names of those deceased children?
 Dialogue: 10,0:07:56.79,0:07:58.25,Default,,0,0,0,,{\i1}Wow.
 Dialogue: 10,0:07:58.25,0:08:00.33,Default,,0,0,0,,{\i1}Look at all these wisteria.
@@ -90,16 +90,16 @@ Dialogue: 11,0:08:40.17,0:08:47.42,Default,,0,0,0,,{\q2}Thank you for attending 
 Dialogue: 10,0:08:47.92,0:08:49.97,Default,,0,0,0,,Here on Mt. Fujikasane,
 Dialogue: 10,0:08:49.97,0:08:54.64,Default,,0,0,0,,{\q2}the Demon Slayers keep \Nseveral captured demons alive.
 Dialogue: 10,0:08:54.64,0:08:57.10,Default,,0,0,0,,They cannot leave this mountain.
-Dialogue: 10,0:08:57.60,0:09:02.98,Default,,0,0,0,,That is because wisteria, which demons hate so much,
-Dialogue: 10,0:09:02.98,0:09:06.44,Default,,0,0,0,,blooms year-round from halfway down the mountain.
-Dialogue: 10,0:09:07.28,0:09:13.82,Default,,0,0,0,,{\q2}However, they don't grow from this point onward, \Nthus there will be demons about.
-Dialogue: 10,0:09:14.28,0:09:21.67,Default,,0,0,0,,{\q2}To pass the Final Selection process, \Nyou must survive there for seven days.
+Dialogue: 10,0:08:57.60,0:09:02.98,Default,,0,0,0,,{\q2}That is because wisteria, \Na flower that demons abhor,
+Dialogue: 10,0:09:02.98,0:09:06.44,Default,,0,0,0,,{\q2}blooms year-round \Non the mountain's lower half.
+Dialogue: 10,0:09:07.28,0:09:13.82,Default,,0,0,0,,{\q2}However, there is no wisteria beyond this point, \Nso there will be demons about.
+Dialogue: 10,0:09:14.28,0:09:21.67,Default,,0,0,0,,{\q2}To pass the Final Selection process, \Nyou must survive up there for seven days.
 Dialogue: 10,0:09:22.92,0:09:25.88,Default,,0,0,0,,And now, be on your way.
-Dialogue: 10,0:09:40.73,0:09:44.65,Default,,0,0,0,,{\i1\q2}Surviving should be the only thing \Non my mind for the next seven days.
+Dialogue: 10,0:09:40.73,0:09:44.65,Default,,0,0,0,,{\i1\q2}Survival should be the only thing \Non my mind for the next seven days.
 Dialogue: 10,0:09:47.61,0:09:50.24,Default,,0,0,0,,{\i1}First things first, I need to get through the night.
 Dialogue: 10,0:09:50.24,0:09:53.61,Default,,0,0,0,,{\i1\q2}Once the sun comes up, \Nthe demons won't be able to do anything.
 Dialogue: 10,0:09:53.61,0:09:55.91,Default,,0,0,0,,{\i1}I can rest up then.
-Dialogue: 10,0:09:55.91,0:09:58.41,Default,,0,0,0,,{\i1}With that in mind, I'll head eastward!
+Dialogue: 10,0:09:55.91,0:09:58.41,Default,,0,0,0,,{\i1}With that in mind, I'll head east!
 Dialogue: 10,0:09:58.91,0:10:01.83,Default,,0,0,0,,{\i1}I'll make my way to where the sunlight hits first!
 Dialogue: 10,0:10:06.29,0:10:07.42,Default,,0,0,0,,{\i1}This scent...
 Dialogue: 10,0:10:07.42,0:10:08.50,Default,,0,0,0,,{\i1}It's a demon!
@@ -118,7 +118,7 @@ Dialogue: 10,0:10:53.92,0:10:55.84,Default,,0,0,0,,{\an8}Shut up before I fuckin
 Dialogue: 10,0:10:52.51,0:10:54.22,Default,,0,0,0,,{\i1}Two of them right from the get-go?
 Dialogue: 10,0:10:54.22,0:10:55.84,Default,,0,0,0,,{\i1}I wonder if I can take them.
 Dialogue: 10,0:10:55.84,0:10:57.51,Default,,0,0,0,,He's {\i1}my{\i0} prey!
-Dialogue: 10,0:10:57.51,0:10:58.55,Default,,0,0,0,,Oh shut it, princess!
+Dialogue: 10,0:10:57.51,0:10:58.55,Default,,0,0,0,,Oh, shut it, princess!
 Dialogue: 10,0:10:58.55,0:11:01.22,Default,,0,0,0,,It's first come, first served!
 Dialogue: 10,0:11:07.52,0:11:08.65,Default,,0,0,0,,{\i1}You can do it!
 Dialogue: 10,0:11:08.65,0:11:10.61,Default,,0,0,0,,{\i1}Calm down and watch their movements!
@@ -132,14 +132,14 @@ Dialogue: 10,0:11:30.46,0:11:31.92,Default,,0,0,0,,{\i1}Striking Tide!
 Dialogue: 10,0:11:41.64,0:11:42.85,Default,,0,0,0,,{\i1}I did it!
 Dialogue: 10,0:11:45.14,0:11:46.85,Default,,0,0,0,,{\i1}I beat two demons!
 Dialogue: 10,0:11:47.44,0:11:48.98,Default,,0,0,0,,{\i1}I've grown stronger!
-Dialogue: 10,0:11:49.52,0:11:51.82,Default,,0,0,0,,{\i1}All that training wasn't for nothing!
+Dialogue: 10,0:11:49.52,0:11:51.82,Default,,0,0,0,,{\i1}All that training paid off!
 Dialogue: 10,0:11:52.48,0:11:54.15,Default,,0,0,0,,{\i1}I can do it after all!
 Dialogue: 10,0:12:01.99,0:12:05.50,Default,,0,0,0,,{\i1\q2}If I kill a demon with the sword \NMaster Urokodaki gave me,
 Dialogue: 10,0:12:05.50,0:12:07.33,Default,,0,0,0,,{\i1}not even its bones remain, huh?
 Dialogue: 10,0:12:10.29,0:12:12.54,Default,,0,0,0,,A demon's weak spot is its neck!
 Dialogue: 10,0:12:12.54,0:12:17.63,Default,,0,0,0,,{\q2}But even then, a normal sword \Nwon't be enough to kill it.
 Dialogue: 10,0:12:18.09,0:12:20.97,Default,,0,0,0,,Then, how {\i1}do{\i0} you kill a demon?
-Dialogue: 10,0:12:21.43,0:12:26.02,Default,,0,0,0,,{\q2}The swords the Demon Slayers wield \Nwere forged with a special type of steel.
+Dialogue: 10,0:12:21.43,0:12:26.02,Default,,0,0,0,,{\q2}The swords the Demon Slayers wield \Nare forged with a special type of steel.
 Dialogue: 10,0:12:26.02,0:12:28.81,Default,,0,0,0,,That's the only way to kill a demon.
 Dialogue: 10,0:12:30.06,0:12:33.65,Default,,0,0,0,,We call them "Sun Blades".
 Dialogue: 10,0:12:41.07,0:12:42.74,Default,,0,0,0,,{\i1}Rest in peace.
@@ -178,7 +178,7 @@ Dialogue: 10,0:15:36.21,0:15:37.21,Default,,0,0,0,,{\an8\q2}Damn you, Urokodaki!
 Dialogue: 10,0:15:37.21,0:15:38.25,Default,,0,0,0,,{\an8\q2}Damn you, Urokodaki! Damn you, Urokodaki! \NDamn you, Urokodaki!{\alpha&HFF&} Damn you, Urokodaki!
 Dialogue: 10,0:15:38.25,0:15:41.46,Default,,0,0,0,,{\an8\q2}Damn you, Urokodaki! Damn you, Urokodaki! \NDamn you, Urokodaki! Damn you, Urokodaki!
 Dialogue: 10,0:15:39.71,0:15:41.46,Default,,0,0,0,,You know Master Urokodaki?
-Dialogue: 10,0:15:41.75,0:15:43.34,Default,,0,0,0,,{\q2}Oh, I know him, all right!
+Dialogue: 10,0:15:41.75,0:15:43.34,Default,,0,0,0,,Oh, I know him, all right!
 Dialogue: 10,0:15:43.34,0:15:46.30,Default,,0,0,0,,That bastard was the one who captured me!
 Dialogue: 10,0:15:46.30,0:15:49.05,Default,,0,0,0,,It's been forty-seven long, torturous years!
 Dialogue: 10,0:15:49.85,0:15:52.60,Default,,0,0,0,,He was still a demon hunter back then!
@@ -205,10 +205,10 @@ Dialogue: 10,0:16:57.37,0:16:59.58,Default,,0,0,0,,It was like the colour of mea
 Dialogue: 10,0:16:59.58,0:17:01.50,Default,,0,0,0,,He had a huge scar across his cheek.
 Dialogue: 10,0:17:02.00,0:17:05.96,Default,,0,0,0,,The other brat was a girl that wore a floral kimono.
 Dialogue: 10,0:17:05.96,0:17:10.01,Default,,0,0,0,,She was small and frail, but quite nimble.
-Dialogue: 10,0:17:11.76,0:17:14.72,Default,,0,0,0,,{\i1}This demon has already killed them?!
+Dialogue: 10,0:17:11.76,0:17:14.72,Default,,0,0,0,,{\i1}This demon already killed them?!
 Dialogue: 10,0:17:14.72,0:17:16.60,Default,,0,0,0,,{\i1}But I was with them earlier!
 Dialogue: 10,0:17:16.60,0:17:18.02,Default,,0,0,0,,Those fox masks!
-Dialogue: 10,0:17:18.31,0:17:22.10,Default,,0,0,0,,All of his disciples wear them.
+Dialogue: 10,0:17:18.31,0:17:22.10,Default,,0,0,0,,All his disciples wear them.
 Dialogue: 10,0:17:22.65,0:17:27.07,Default,,0,0,0,,I'm familiar with the designs Urokodaki carves.
 Dialogue: 10,0:17:27.07,0:17:31.11,Default,,0,0,0,,They're the same style as his tengu mask!
 Dialogue: 10,0:17:31.11,0:17:33.70,Default,,0,0,0,,Warding masks, right?
@@ -216,7 +216,7 @@ Dialogue: 10,0:17:33.70,0:17:36.37,Default,,0,0,0,,I ate them {\i1}because{\i0} 
 Dialogue: 10,0:17:36.83,0:17:39.00,Default,,0,0,0,,They're all here inside my belly.
 Dialogue: 10,0:17:39.00,0:17:41.87,Default,,0,0,0,,It's like Urokodaki fed them to me himself!
 Dialogue: 10,0:17:44.04,0:17:48.55,Default,,0,0,0,,{\q2}When the girl heard that, \Nshe started crying and fell into a rage.
-Dialogue: 10,0:17:50.38,0:17:54.47,Default,,0,0,0,,{\q2}Her deftness turned into recklessness, \Nmaking her much easier to deal with.
+Dialogue: 10,0:17:50.38,0:17:54.47,Default,,0,0,0,,{\q2}Her deftness turned into recklessness, \Nwhich made her a lot easier to deal with.
 Dialogue: 10,0:17:55.89,0:17:58.77,Default,,0,0,0,,I ripped her apart, limb by limb, and then...
 Dialogue: 10,0:18:06.19,0:18:08.23,Default,,0,0,0,,Calm down, Tanjirou.
 Dialogue: 10,0:18:08.23,0:18:10.61,Default,,0,0,0,,Your breathing's uneven.
@@ -233,15 +233,15 @@ Dialogue: 10,0:19:06.58,0:19:07.71,Default,,0,0,0,,Tanjirou!
 Dialogue: 10,0:19:10.46,0:19:11.80,Default,,0,0,0,,{\i1}He dodged it?!
 Dialogue: 10,0:19:11.80,0:19:13.97,Default,,0,0,0,,{\i1}He's still got some life in him?
 Dialogue: 10,0:19:13.97,0:19:16.13,Default,,0,0,0,,{\i1}Great! I get to have some more fun!
-Dialogue: 10,0:19:23.52,0:19:27.85,Default,,0,0,0,,{\i1\q2}Damn it! No matter how many arms I cut, \Nthey grow back in mere seconds!
+Dialogue: 10,0:19:23.52,0:19:27.85,Default,,0,0,0,,{\i1\q2}Damn it! No matter how many arms I cut, \Nthey grow back in a matter of seconds!
 Dialogue: 10,0:19:28.27,0:19:31.94,Default,,0,0,0,,{\q2}You're gonna need to do more than just \Nslash off my arms if you wanna win.
-Dialogue: 10,0:19:32.28,0:19:37.32,Default,,0,0,0,,{\q2}But then again, not even that \Npink-haired brat could chop off my head!
+Dialogue: 10,0:19:32.28,0:19:37.32,Default,,0,0,0,,{\q2}But then again, not even that \Nsalmon-haired brat could chop off my head!
 Dialogue: 10,0:19:48.29,0:19:51.09,Default,,0,0,0,,{\i1}I can't just let this go!
-Dialogue: 10,0:19:51.59,0:19:54.13,Default,,0,0,0,,{\i1}I've gotta bring him down now,
-Dialogue: 10,0:19:54.71,0:19:57.13,Default,,0,0,0,,{\i1}before any more lives are lost!
+Dialogue: 10,0:19:51.59,0:19:54.13,Default,,0,0,0,,{\i1}If I run away, more people are gonna die.
+Dialogue: 10,0:19:54.71,0:19:57.13,Default,,0,0,0,,{\i1}I've gotta take him down here and now!
 Dialogue: 10,0:20:01.64,0:20:03.85,Default,,0,0,0,,{\i1}I can smell a demon underground?
 Dialogue: 10,0:20:08.60,0:20:11.77,Default,,0,0,0,,{\i1}Wh-What a leap! Dammit, I missed him!
-Dialogue: 10,0:20:12.44,0:20:16.90,Default,,0,0,0,,{\i1\q2}Sure, but there's no way he can \Ndodge this attack in mid-air!
+Dialogue: 10,0:20:12.44,0:20:16.90,Default,,0,0,0,,{\i1\q2}Whatever. There's no way he can \Ndodge this attack in mid-air!
 Dialogue: 10,0:20:18.70,0:20:21.32,Default,,0,0,0,,Do you think Tanjirou will lose, too?
 Dialogue: 10,0:20:22.12,0:20:25.41,Default,,0,0,0,,His neck is so tough, after all.
 Dialogue: 10,0:20:26.41,0:20:29.17,Default,,0,0,0,,He may lose, and yet, he may win.
@@ -254,11 +254,11 @@ Dialogue: 10,0:20:53.86,0:20:55.32,Default,,0,0,0,,{\i1}Water Breathing!
 Dialogue: 10,0:21:00.66,0:21:02.82,Default,,0,0,0,,{\i1}He's gotten too close!
 Dialogue: 10,0:21:03.20,0:21:07.37,Default,,0,0,0,,{\i1\q2}But I have nothing to fear. \NMy neck is impenetrable! He can't cut through it!
 Dialogue: 10,0:21:07.37,0:21:08.79,Default,,0,0,0,,{\i1}First Form!
-Dialogue: 10,0:21:08.79,0:21:13.54,Default,,0,0,0,,{\i1\q2}As soon as he fails to cut my neck, \NI will crush his puny little head!
+Dialogue: 10,0:21:08.79,0:21:13.54,Default,,0,0,0,,{\i1\q2}As soon as he fails to cut my neck, \NI'll crush his puny little head!
 Dialogue: 10,0:21:13.54,0:21:15.63,Default,,0,0,0,,{\i1}Just like the other one!
-Dialogue: 10,0:21:25.72,0:21:27.47,Default,,0,0,0,,{\i1}Surface Water Slash!
+Dialogue: 10,0:21:25.72,0:21:27.47,Default,,0,0,0,,{\i1}Water Surface Slash!
 Comment: 0,0:22:59.94,0:22:59.94,Default,chapter,0,0,0,,{Outro}
-Dialogue: 10,0:23:03.11,0:23:04.53,Default,,0,0,0,,Surface Water Slash!
+Dialogue: 10,0:23:03.11,0:23:04.53,Default,,0,0,0,,Water Surface Slash!
 Dialogue: 10,0:23:04.53,0:23:07.37,Default,,0,0,0,,How was that Nezuko? Aren't I pretty cool?
 Dialogue: 10,0:23:09.45,0:23:12.00,Default,,0,0,0,,What? Sabito was cooler than me?
 Dialogue: 10,0:23:12.00,0:23:14.16,Default,,0,0,0,,C-Come on, Nezuko!
