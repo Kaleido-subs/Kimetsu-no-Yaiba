@@ -31,18 +31,18 @@ Comment: 0,0:02:03.98,0:02:03.98,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:02:05.02,0:02:06.77,Default,,0,0,0,,The Demon Slayers.
 Dialogue: 10,0:02:06.77,0:02:09.86,Default,,0,0,0,,They number in the hundreds.
 Dialogue: 10,0:02:10.28,0:02:14.32,Default,,0,0,0,,{\q2}The organisation isn't officially \Nrecognised by the government,
-Dialogue: 10,0:02:14.82,0:02:19.87,Default,,0,0,0,,{\q2}but it has existed since ancient times, \Nand they continue to hunt{ down} demons to this day.
+Dialogue: 10,0:02:14.82,0:02:19.87,Default,,0,0,0,,{\q2}but it has existed since{dates back to} ancient times, \Nand they continue to hunt{ down} demons to this day.
 Dialogue: 10,0:02:20.91,0:02:27.50,Default,,0,0,0,,{\q2}However, their leader's identity \Nremains shrouded in mystery.
 Dialogue: 10,0:02:28.29,0:02:29.50,Default,,0,0,0,,Demons.
 Dialogue: 10,0:02:30.00,0:02:32.42,Default,,0,0,0,,Their staple food is man.
 Dialogue: 10,0:02:32.42,0:02:34.72,Default,,0,0,0,,They kill humans and feed on them.
-Dialogue: 10,0:02:35.22,0:02:38.64,Default,,0,0,0,,Their origin and first appearance are unknown.
+Dialogue: 10,0:02:35.22,0:02:38.64,Default,,0,0,0,,The time and place of their origin is unknown.{### alt: It is unknown when and where they first appeared.}
 Dialogue: 10,0:02:38.64,0:02:43.43,Default,,0,0,0,,{\q2}Their bodies carry immense strength, \Nand their wounds mend in no time.
 Dialogue: 10,0:02:43.98,0:02:46.31,Default,,0,0,0,,Their mangled flesh regenerates,
 Dialogue: 10,0:02:46.31,0:02:49.69,Default,,0,0,0,,and their limbs can be regrown.
-Dialogue: 10,0:02:49.69,0:02:51.53,Default,,0,0,0,,Some even have special abilities.
+Dialogue: 10,0:02:49.69,0:02:51.53,Default,,0,0,0,,Some have special abilities.
 Dialogue: 10,0:02:51.53,0:02:53.99,Default,,0,0,0,,A few can even shapeshift.
-Dialogue: 10,0:02:53.99,0:03:00.28,Default,,0,0,0,,{\q2}The only ways to kill them are by exposing them \Nto the sun or by beheading them with a special sword.
+Dialogue: 10,0:02:53.99,0:03:00.28,Default,,0,0,0,,{\q2}They can only be killed by exposing them to sunlight \Nor by beheading them with a special sword.
 Dialogue: 10,0:03:00.83,0:03:05.33,Default,,0,0,0,,{\q2}The Demon Slayers battle the demons \Nwith their mortal bodies.
 Dialogue: 10,0:03:05.33,0:03:08.75,Default,,0,0,0,,{\q2}Since they're human, \Ntheir wounds are slow to heal,
 Dialogue: 10,0:03:08.75,0:03:11.67,Default,,0,0,0,,and, once lost, their limbs don't grow back.
@@ -51,7 +51,7 @@ Dialogue: 10,0:03:15.01,0:03:17.39,Default,,0,0,0,,to protect their fellow human
 Dialogue: 10,0:03:31.07,0:03:33.11,Default,,0,0,0,,I'm a mentor.
 Dialogue: 10,0:03:33.69,0:03:36.32,Default,,0,0,0,,I teach people in swordsmanship.
 Dialogue: 10,0:03:36.82,0:03:38.99,Default,,0,0,0,,{\q2}There are as many mentors \Nas there are stars in the sky,
-Dialogue: 10,0:03:38.99,0:03:44.12,Default,,0,0,0,,{\q2}and each of them teaches their disciples \Nin their own respective place and style.
+Dialogue: 10,0:03:38.99,0:03:44.12,Default,,0,0,0,,{\q2}and each one teaches their disciples \Nin their own respective place and style.
 Dialogue: 10,0:03:44.62,0:03:46.71,Default,,0,0,0,,In order to become a Demon Slayer,
 Dialogue: 10,0:03:46.71,0:03:52.88,Default,,0,0,0,,{\q2}you must survive the Final Selection \Nprocess held on Mt. Fujikasane.
 Dialogue: 10,0:03:52.88,0:03:57.13,Default,,0,0,0,,{\q2}Whether you may take part or not \Nis up to my discretion.
@@ -64,7 +64,7 @@ Dialogue: 10,0:04:20.87,0:04:23.03,Default,,0,0,0,,{\i1}thanks to my strength an
 Dialogue: 10,0:04:23.03,0:04:28.04,Default,,0,0,0,,{\i1}as well as my sense of smell vastly improving.
 Dialogue: 10,0:04:29.87,0:04:30.96,Default,,0,0,0,,{\i1}That said...
 Dialogue: 10,0:04:33.25,0:04:35.80,Default,,0,0,0,,{\i1}The traps keep getting more and more extreme.
-Dialogue: 10,0:04:36.96,0:04:39.26,Default,,0,0,0,,{\i1}I swear he's trying to kill me here.
+Dialogue: 10,0:04:36.96,0:04:39.26,Default,,0,0,0,,{\i1}I swear he's trying to kill me here!
 Dialogue: 10,0:04:51.69,0:04:54.61,Default,,0,0,0,,{\i1}Today, I did the usual while carrying a sword.
 Dialogue: 10,0:04:55.02,0:04:56.98,Default,,0,0,0,,{\i1}It was genuinely awful!
 Dialogue: 10,0:05:00.78,0:05:04.78,Default,,0,0,0,,{\i1\q2}No longer empty-handed, \NI kept getting caught in traps.
@@ -82,18 +82,19 @@ Dialogue: 10,0:05:10.46,0:05:14.34,Default,,0,0,0,,{\i1\q2}Well, I say "today", 
 Dialogue: 10,0:05:14.34,0:05:17.96,Default,,0,0,0,,{\i1\q2}After my daily routine, I'd practise swinging \Nuntil my arms were about to fall off.
 Dialogue: 10,0:05:17.96,0:05:19.22,Default,,0,0,0,,One thousand!
 Dialogue: 10,0:05:19.76,0:05:21.80,Default,,0,0,0,,Do five hundred more!
-Dialogue: 10,0:05:36.82,0:05:39.32,Default,,0,0,0,,"Swords are very brittle."
-Dialogue: 10,0:05:39.74,0:05:42.32,Default,,0,0,0,,{\i1}...was the first thing he taught me.
+Dialogue: 10,0:05:36.82,0:05:39.32,Default,,0,0,0,,Swords are very brittle.
+Dialogue: 10,0:05:39.74,0:05:42.32,Default,,0,0,0,,{\i1}That was his first lesson.
 Dialogue: 10,0:05:43.03,0:05:47.66,Default,,0,0,0,,{\i1\q2}Vertically, a sword is powerful, \Nbut horizontally, it's fragile.
 Dialogue: 10,0:05:49.08,0:05:52.83,Default,,0,0,0,,{\i1}You must apply the force straight along the blade.
-Dialogue: 10,0:05:53.62,0:06:00.26,Default,,0,0,0,,{\i1\q2}The blade's direction and the direction \Nin which you apply the force need to be identical.
-Dialogue: 10,0:06:00.76,0:06:06.30,Default,,0,0,0,,{\i1\q2}Furthermore, he made it crystal clear \Nthat if I ever break or damage a sword,
-Dialogue: 10,0:06:06.30,0:06:10.64,Default,,0,0,0,,{\i1}my bones would be soon to follow. Real scary stuff.
+Dialogue: 10,0:05:53.62,0:06:00.26,Default,,0,0,0,,{\i1\q2}The blade's orientation must be in perfect alignment \Nwith the force of your swing.
+Dialogue: 10,0:06:00.76,0:06:06.30,Default,,0,0,0,,{\i1\q2}He also made it crystal clear \Nthat if I ever break or damage a sword,
+Dialogue: 10,0:06:06.30,0:06:08.68,Default,,0,0,0,,{\i1}my bones would be soon to follow.
+Dialogue: 10,0:06:08.68,0:06:10.64,Default,,0,0,0,,{\i1}Real scary stuff.
 Dialogue: 10,0:06:13.98,0:06:15.77,Default,,0,0,0,,Nezuko...
 Dialogue: 10,0:06:15.77,0:06:17.90,Default,,0,0,0,,I'll keep doing my best, okay?
 Dialogue: 10,0:06:33.87,0:06:36.13,Default,,0,0,0,,{\i1}Today, I did nothing but fall.
-Dialogue: 10,0:06:36.96,0:06:41.96,Default,,0,0,0,,{\i1\q2}That is, I trained to break my fall properly \Nand get back up quickly no matter the situation.
-Dialogue: 10,0:06:42.80,0:06:44.09,Default,,0,0,0,,{\i1}I would wield my sword,
+Dialogue: 10,0:06:36.96,0:06:41.96,Default,,0,0,0,,{\i1\q2}That is, I trained to break my fall properly \Nand get back up quickly, no matter the situation.
+Dialogue: 10,0:06:42.80,0:06:44.09,Default,,0,0,0,,{\i1}I would wield my sword
 Dialogue: 10,0:06:44.72,0:06:47.35,Default,,0,0,0,,{\i1}and charge at Master Urokodaki with full intent to kill.
 Dialogue: 10,0:06:47.68,0:06:48.60,Default,,0,0,0,,{\i1}In contrast,
 Dialogue: 10,0:06:49.10,0:06:51.77,Default,,0,0,0,,{\i1}Master Urokodaki would await me bare-handed.
@@ -105,7 +106,7 @@ Dialogue: 10,0:07:22.55,0:07:25.38,Default,,0,0,0,,Total Concentration Breathing
 Dialogue: 10,0:07:25.76,0:07:27.18,Default,,0,0,0,,That's right.
 Dialogue: 10,0:07:27.18,0:07:31.89,Default,,0,0,0,,I will teach you all ten Water Breathing forms.
 Dialogue: 10,0:07:32.89,0:07:39.15,Default,,0,0,0,,{\q2}Take a deep, lengthy breath and feel the oxygen \Nflowing into every cell in your body.
-Dialogue: 10,0:07:39.15,0:07:41.61,Default,,0,0,0,,{\q2}This will enhance your body's \Nnatural healing power
+Dialogue: 10,0:07:39.15,0:07:41.61,Default,,0,0,0,,{\q2}This will enhance your body's \Nnatural healing power,
 Dialogue: 10,0:07:41.61,0:07:44.99,Default,,0,0,0,,as well as stabilise and energise your spirit.
 Dialogue: 10,0:07:45.78,0:07:48.32,Default,,0,0,0,,Relax your upper body
 Dialogue: 11,0:07:48.86,0:07:51.33,Default,,0,0,0,,while bracing your lower half.
@@ -120,28 +121,28 @@ Dialogue: 10,0:08:09.26,0:08:09.89,Default,,0,0,0,,This?
 Dialogue: 10,0:08:09.89,0:08:10.76,Default,,0,0,0,,Wrong!
 Dialogue: 10,0:08:10.76,0:08:11.43,Default,,0,0,0,,This?
 Dialogue: 10,0:08:11.43,0:08:12.51,Default,,0,0,0,,Wrong!
-Dialogue: 10,0:08:12.51,0:08:15.56,Default,,0,0,0,,{\i1}I got yelled at for not bracing my stomach,
-Dialogue: 10,0:08:15.56,0:08:17.56,Default,,0,0,0,,{\i1}and kept getting punched in the gut.
+Dialogue: 10,0:08:12.51,0:08:15.56,Default,,0,0,0,,{\i1}He yelled at me for not bracing my stomach,
+Dialogue: 10,0:08:15.56,0:08:17.56,Default,,0,0,0,,{\i1}and kept punching me in the gut.
 Dialogue: 10,0:08:18.56,0:08:23.02,Default,,0,0,0,,{\i1}Next, he told me to "become one with water".
 Dialogue: 10,0:08:23.02,0:08:24.53,Default,,0,0,0,,Get in there!
 Comment: 10,0:08:30.24,0:08:33.78,Default,,0,0,0,,Nezuko!
-Dialogue: 10,0:08:30.24,0:08:33.78,Default,,0,0,0,,{\an5\move(470,1102,470,950,-1,0)\fscx50\fscy50\frz9\fnCC Wild Words\fsp1\b0\shad0\fad(0,1000)\t(\fscx80\fscy80\fsp14)}N{\frz365.857}e{\frz362.714}z{\frz359.571}u{\frz356.429}k{\frz353.286}o{\frz350.143}!{\frz-13}
+Dialogue: 10,0:08:30.24,0:08:33.78,Default,,0,0,0,,{\an5\move(470,1102,470,950)\fscx50\fscy50\frz9\fnCC Wild Words\fsp1\b0\shad0\fad(0,1000)\t(\fscx80\fscy80\fsp14)}N{\frz365.857}e{\frz362.714}z{\frz359.571}u{\frz356.429}k{\frz353.286}o{\frz350.143}!{\frz-13}
 Dialogue: 10,0:08:38.83,0:08:44.25,Default,,0,0,0,,Nezuko! I am water!
 Dialogue: 10,0:08:46.21,0:08:51.09,Default,,0,0,0,,{\i1\q2}Before I knew it, six months had passed \Nsince Nezuko entered her deep slumber.
 Dialogue: 10,0:08:52.26,0:08:55.81,Default,,0,0,0,,{\i1\q2}Master Urokodaki summoned a doctor \Nand had her examined straight away,
 Dialogue: 10,0:08:55.81,0:08:57.22,Default,,0,0,0,,{\i1}but he found nothing wrong.
 Dialogue: 10,0:08:58.35,0:09:01.77,Default,,0,0,0,,{\i1}It's abnormal for her to stay asleep for so long.
 Dialogue: 10,0:09:06.65,0:09:08.11,Default,,0,0,0,,{\i1}I'm scared.
-Dialogue: 10,0:09:09.07,0:09:10.36,Default,,0,0,0,,{\i1}I worry that one day
+Dialogue: 10,0:09:09.07,0:09:10.36,Default,,0,0,0,,{\i1}I worry that one day,
 Dialogue: 10,0:09:10.95,0:09:13.87,Default,,0,0,0,,{\i1}I'll wake up to find her dead.
 Dialogue: 10,0:09:15.12,0:09:18.62,Default,,0,0,0,,{\i1}Not a day goes by that I don't worry.
 Dialogue: 10,0:09:26.96,0:09:29.22,Default,,0,0,0,,{\i1}My descents keep getting more dangerous,
 Dialogue: 10,0:09:29.22,0:09:32.05,Default,,0,0,0,,{\i1}and the air's even thinner where I train now.
 Dialogue: 10,0:09:38.56,0:09:41.85,Default,,0,0,0,,{\i1}Time and time again, I worry that today will be my last.
 Dialogue: 10,0:09:58.95,0:10:01.66,Default,,0,0,0,,I have nothing left to teach you.
-Dialogue: 10,0:10:02.92,0:10:07.17,Default,,0,0,0,,{\i1\q2}Out of nowhere, about a year after I \Narrived at Mt. Sagiri, he broke the news.
+Dialogue: 10,0:10:02.92,0:10:07.17,Default,,0,0,0,,{\i1\q2}Out of nowhere, about a year after \NI arrived at Mt. Sagiri, he broke the news.
 Dialogue: 10,0:10:08.71,0:10:10.97,Default,,0,0,0,,The rest is up to you!
-Dialogue: 10,0:10:10.97,0:10:14.93,Default,,0,0,0,,{\q2}Will you be able to obtain a deeper \Nunderstanding of what I taught you?
+Dialogue: 10,0:10:10.97,0:10:14.93,Default,,0,0,0,,{\q2}Will you be able to obtain a deeper \Nunderstanding of what I've taught you?
 Dialogue: 10,0:10:19.31,0:10:20.43,Default,,0,0,0,,Follow me.
 Dialogue: 10,0:10:38.78,0:10:41.00,Default,,0,0,0,,If you can split this boulder,
 Dialogue: 10,0:10:41.00,0:10:44.46,Default,,0,0,0,,I will allow you to participate in the Final Selection.
@@ -157,7 +158,7 @@ Dialogue: 10,0:11:43.60,0:11:48.10,Default,,0,0,0,,{\i1\q2}I would practise what
 Dialogue: 10,0:11:55.36,0:11:57.28,Default,,0,0,0,,{\i1}Holding my breath, flexibility...
 Dialogue: 10,0:11:57.28,0:12:01.16,Default,,0,0,0,,{\i1}I'm glad I wrote down every little detail in my journal.
 Dialogue: 10,0:12:11.04,0:12:12.50,Default,,0,0,0,,{\i1}However...
-Dialogue: 10,0:12:12.50,0:12:16.05,Default,,0,0,0,,{\i1\q2}Even after six months had passed, \NI still couldn't split that boulder.
+Dialogue: 10,0:12:12.50,0:12:16.05,Default,,0,0,0,,{\i1\q2}Six months went by, \Nand I still couldn't split that boulder.
 Dialogue: 10,0:12:16.76,0:12:18.43,Default,,0,0,0,,{\i1}I was frustrated.
 Dialogue: 10,0:12:18.43,0:12:19.68,Default,,0,0,0,,{\i1}Not enough!
 Dialogue: 10,0:12:19.68,0:12:21.43,Default,,0,0,0,,{\i1}I haven't trained hard enough yet!
@@ -173,21 +174,21 @@ Dialogue: 10,0:12:57.42,0:12:58.63,Default,,0,0,0,,It's unseemly.
 Dialogue: 10,0:12:59.13,0:13:00.55,Default,,0,0,0,,{\i1}Where did he come from?
 Dialogue: 10,0:13:00.55,0:13:01.89,Default,,0,0,0,,{\i1}I can't pick up his scent!
 Dialogue: 10,0:13:01.89,0:13:03.47,Default,,0,0,0,,{\i1}Is that a fox mask?
-Dialogue: 10,0:13:03.97,0:13:06.97,Default,,0,0,0,,No matter what hardship you meet, bear it in silence.
+Dialogue: 10,0:13:03.97,0:13:06.97,Default,,0,0,0,,No matter what hardship you face, bear it in silence.
 Dialogue: 10,0:13:07.77,0:13:09.60,Default,,0,0,0,,Like a real man.
 Dialogue: 10,0:13:11.52,0:13:13.81,Default,,0,0,0,,If you can even {\i1}call{\i0} yourself a man.
 Dialogue: 10,0:13:22.36,0:13:23.32,Default,,0,0,0,,You're slow.
-Dialogue: 10,0:13:23.32,0:13:24.70,Default,,0,0,0,,You're weak.
-Dialogue: 10,0:13:24.70,0:13:26.16,Default,,0,0,0,,You're immature.
+Dialogue: 10,0:13:23.32,0:13:24.70,Default,,0,0,0,,Weak.
+Dialogue: 10,0:13:24.70,0:13:26.16,Default,,0,0,0,,Immature.
 Dialogue: 10,0:13:27.54,0:13:30.33,Default,,0,0,0,,You're a far cry from a real man.
 Comment: 0,0:13:36.00,0:13:36.00,Default,chapter,0,0,0,,{Part B}
 Dialogue: 10,0:13:42.09,0:13:43.93,Default,,0,0,0,,What do you think you're doing?!
 Dialogue: 10,0:13:44.47,0:13:47.43,Default,,0,0,0,,Do tell me, what do {\i1}you{\i0} think you're doing?
 Dialogue: 10,0:13:47.72,0:13:49.14,Default,,0,0,0,,What do you mean?
 Dialogue: 10,0:13:49.14,0:13:50.64,Default,,0,0,0,,I'm training.
-Dialogue: 10,0:13:50.64,0:13:55.44,Default,,0,0,0,,{\q2}How long does it take you to get your ass \Noff the ground and take a proper stance?
+Dialogue: 10,0:13:50.64,0:13:55.44,Default,,0,0,0,,{\q2}How long does it take you to get your ass \Noff the ground and assume a proper stance?
 Dialogue: 10,0:13:59.40,0:14:01.95,Default,,0,0,0,,Now. Come at me.
-Dialogue: 10,0:14:02.45,0:14:06.33,Default,,0,0,0,,{\q2}But you have a wooden sword, \Nand I have a real one.
+Dialogue: 10,0:14:02.45,0:14:06.33,Default,,0,0,0,,But your sword's made of wood and mine's real!
 Dialogue: 10,0:14:21.30,0:14:23.18,Default,,0,0,0,,Well, would you look at that!
 Dialogue: 10,0:14:23.18,0:14:26.64,Default,,0,0,0,,Why, thank you for worrying about me.
 Dialogue: 10,0:14:26.64,0:14:30.72,Default,,0,0,0,,So you think you can so much as graze me?
@@ -202,7 +203,7 @@ Dialogue: 10,0:15:09.30,0:15:11.47,Default,,0,0,0,,Total Concentration Breathing
 Dialogue: 10,0:15:12.68,0:15:14.52,Default,,0,0,0,,{\i1}He knows Master Urokodaki?
 Dialogue: 10,0:15:15.27,0:15:16.65,Default,,0,0,0,,{\i1}And even the breathing technique?
 Dialogue: 10,0:15:17.02,0:15:20.44,Default,,0,0,0,,{\q2}All you did was memorise it. \NYou learned it as knowledge.
-Dialogue: 10,0:15:21.19,0:15:23.65,Default,,0,0,0,,But your body cannot comprehend it.
+Dialogue: 10,0:15:21.19,0:15:23.65,Default,,0,0,0,,{\q2}Your body has no idea \Nwhat it's supposed to do.
 Dialogue: 10,0:15:25.11,0:15:28.57,Default,,0,0,0,,{\q2}What the hell have you been doing \Nfor the past year and a half?
 Dialogue: 10,0:15:30.91,0:15:33.75,Default,,0,0,0,,Carve it into your flesh!
 Dialogue: 10,0:15:34.62,0:15:35.33,Default,,0,0,0,,More!
@@ -235,14 +236,14 @@ Dialogue: 10,0:17:16.52,0:17:19.64,Default,,0,0,0,,{\i1}That girl's name was Mak
 Dialogue: 10,0:17:20.39,0:17:23.65,Default,,0,0,0,,{\i1}She told me the boy's name was Sabito.
 Dialogue: 10,0:17:24.31,0:17:28.36,Default,,0,0,0,,{\i1}She started by pointing out my shortcomings.
 Dialogue: 10,0:17:29.24,0:17:33.62,Default,,0,0,0,,{\i1\q2}She also corrected any unnecessary \Nmovements and bad habits I had picked up.
-Dialogue: 10,0:17:34.83,0:17:40.33,Default,,0,0,0,,{\i1\q2}But when prompted, she'd refuse to tell me why \Nshe's helping me or where she came from.
+Dialogue: 10,0:17:34.83,0:17:40.33,Default,,0,0,0,,{\i1\q2}But she refused to tell me anything about \Nwhy she's helping me or where she came from.
 Dialogue: 10,0:17:42.00,0:17:46.13,Default,,0,0,0,,We really love Master Urokodaki.
 Dialogue: 10,0:17:46.71,0:17:50.42,Default,,0,0,0,,{\i1}That was her pet phrase.
 Dialogue: 10,0:17:51.01,0:17:52.72,Default,,0,0,0,,{\i1}Sabito and Makomo weren't siblings.
-Dialogue: 10,0:17:53.14,0:17:56.60,Default,,0,0,0,,{\i1\q2}They used to be orphans until \NMaster Urokodaki took them in.
+Dialogue: 10,0:17:53.14,0:17:56.60,Default,,0,0,0,,{\i1\q2}They were orphans before \NMaster Urokodaki took them in.
 Dialogue: 10,0:17:57.26,0:18:01.06,Default,,0,0,0,,There are other children besides us.
 Dialogue: 10,0:18:01.06,0:18:03.40,Default,,0,0,0,,They're always watching over you, Tanjirou.
-Dialogue: 10,0:18:04.94,0:18:08.19,Default,,0,0,0,,{\i1}Makomo is a somewhat strange girl.
+Dialogue: 10,0:18:04.94,0:18:08.19,Default,,0,0,0,,{\i1}Makomo is a bit of a strange girl.
 Dialogue: 10,0:18:09.07,0:18:11.24,Default,,0,0,0,,{\i1}She speaks in such a fluffy, dreamy way.
 Dialogue: 10,0:18:12.49,0:18:14.99,Default,,0,0,0,,Total Concentration Breathing
 Dialogue: 10,0:18:14.99,0:18:19.79,Default,,0,0,0,,{\q2}accelerates your blood flow, \Nwhich makes your heart race.
@@ -251,7 +252,7 @@ Dialogue: 10,0:18:23.62,0:18:26.71,Default,,0,0,0,,and you become as strong as a
 Dialogue: 10,0:18:27.67,0:18:30.88,Default,,0,0,0,,The important thing is to expand your lung capacity.
 Dialogue: 10,0:18:31.59,0:18:35.05,Default,,0,0,0,,When you bring lots and lots of air into your blood,
 Dialogue: 10,0:18:35.34,0:18:37.68,Default,,0,0,0,,your blood gets excited.
-Dialogue: 10,0:18:37.68,0:18:42.06,Default,,0,0,0,,{\q2}This makes your bones and muscles, like, \Nbecome all hot and you become a lot stronger.
+Dialogue: 10,0:18:37.68,0:18:42.06,Default,,0,0,0,,{\q2}This makes your bones and muscles, like, \Nheat up and make you a lot stronger.
 Dialogue: 10,0:18:42.64,0:18:44.56,Default,,0,0,0,,{\i1}I don't think I caught any of that.
 Dialogue: 10,0:18:45.48,0:18:47.61,Default,,0,0,0,,How do I do that?
 Dialogue: 10,0:18:50.86,0:18:52.99,Default,,0,0,0,,Train to death.
@@ -268,7 +269,7 @@ Dialogue: 10,0:19:33.82,0:19:35.57,Default,,0,0,0,,It took you half a year,
 Dialogue: 10,0:19:37.07,0:19:39.41,Default,,0,0,0,,but you're finally starting to look like a real man.
 Dialogue: 10,0:19:47.21,0:19:49.04,Default,,0,0,0,,Today's the day I win!
 Dialogue: 10,0:19:56.47,0:19:58.97,Default,,0,0,0,,{\i1}Head-on battles are simple.
-Dialogue: 10,0:19:59.43,0:20:02.89,Default,,0,0,0,,{\i1}Whoever's stronger {\i0}and{\i1} faster wins.
+Dialogue: 10,0:19:59.43,0:20:02.89,Default,,0,0,0,,{\i1}Victory goes to whomever's stronger and faster.
 Dialogue: 10,0:20:15.90,0:20:18.03,Default,,0,0,0,,{\i1}The battle was over in an instant.
 Dialogue: 10,0:20:19.66,0:20:22.62,Default,,0,0,0,,{\i1\q2}It was this day. For the first time, \Nright at this very moment,
 Dialogue: 10,0:20:22.62,0:20:25.79,Default,,0,0,0,,{\i1}my blade reached Sabito first.
@@ -292,7 +293,7 @@ Dialogue: 10,0:23:08.83,0:23:11.08,Default,,0,0,0,,I couldn't have done it witho
 Dialogue: 10,0:23:11.08,0:23:12.95,Default,,0,0,0,,I can't thank them enough.
 Dialogue: 10,0:23:14.29,0:23:17.58,Default,,0,0,0,,Now, it's time for a Taisho secret!
 Dialogue: 10,0:23:17.58,0:23:20.30,Default,,0,0,0,,Why does Master Urokodaki wear a mask?
-Dialogue: 10,0:23:20.30,0:23:25.80,Default,,0,0,0,,{\q2}I heard that's because demons used to \Nmake fun of his face for looking too kind.
+Dialogue: 10,0:23:20.30,0:23:25.80,Default,,0,0,0,,{\q2}I heard it's because demons used to \Nmake fun of his face for looking too kind.
 Dialogue: 10,0:23:26.09,0:23:29.39,Default,,0,0,0,,Sabito, Makomo, and Master Urokodaki!
-Dialogue: 10,0:23:29.39,0:23:33.10,Default,,0,0,0,,{\q2}I'll continue to do my best to \Nmake Nezuko human again!
+Dialogue: 10,0:23:29.39,0:23:33.10,Default,,0,0,0,,{\q2}I'll keep doing my best \Nto make Nezuko human again!
 Dialogue: 10,0:23:34.35,0:23:37.06,Default,,0,0,0,,Next, Episode 4, "The Final Selection"!
