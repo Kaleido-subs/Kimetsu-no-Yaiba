@@ -39,8 +39,8 @@ Dialogue: 10,0:02:32.59,0:02:37.51,Default,,0,0,0,,{\q2}Even the claws and fangs
 Dialogue: 10,0:02:38.64,0:02:39.89,Default,,0,0,0,,It's that strong?
 Dialogue: 10,0:02:40.43,0:02:41.89,Default,,0,0,0,,Also,
 Dialogue: 10,0:02:41.89,0:02:44.81,Default,,0,0,0,,about that Sun Blade of yours...
-Dialogue: 10,0:02:44.81,0:02:50.15,Default,,0,0,0,,{\q2}Its colour varies from owner to owner, \Nand each hue has its unique properties.
-Dialogue: 10,0:02:50.65,0:02:56.61,Default,,0,0,0,,{\q2}But since very few people end up with \Nblack blades, little is known about them.
+Dialogue: 10,0:02:44.81,0:02:50.15,Default,,0,0,0,,{\q2}Its colour varies from owner to owner, \Nand each hue has unique properties.
+Dialogue: 10,0:02:50.65,0:02:56.61,Default,,0,0,0,,{\q2}But since very few people end up \Nwith black blades, little is known about them.
 Dialogue: 10,0:02:57.91,0:03:00.12,Default,,0,0,0,,So little, in fact, that—
 Dialogue: 10,0:03:00.12,0:03:03.66,Default,,0,0,0,,"So little" that what, Master Urokodaki?
 Dialogue: 10,0:03:04.33,0:03:06.17,Default,,0,0,0,,Since so little is known about them,
@@ -53,7 +53,7 @@ Dialogue: 10,0:03:26.10,0:03:27.27,Default,,0,0,0,,Right.
 Dialogue: 10,0:03:27.73,0:03:29.36,Default,,0,0,0,,One more thing.
 Dialogue: 10,0:03:29.36,0:03:30.23,Default,,0,0,0,,Take this.
 Dialogue: 10,0:03:31.23,0:03:34.86,Default,,0,0,0,,{\q2}It's a box for you to carry \Nyour sister in during the day.
-Dialogue: 10,0:03:34.86,0:03:39.37,Default,,0,0,0,,{\q2}It's built out of an extremely light \Nwood known as "Cloud Mist Pine".
+Dialogue: 10,0:03:34.86,0:03:39.37,Default,,0,0,0,,{\q2}It's built out of an extremely \Nlight wood known as "Stratus Pine".
 Dialogue: 10,0:03:39.37,0:03:44.66,Default,,0,0,0,,{\q2}I coated it with rock lacquer to further reinforce \Nits exterior and make it even more durable.
 Dialogue: 10,0:03:45.41,0:03:46.87,Default,,0,0,0,,Thank you so much!
 Dialogue: 10,0:03:48.54,0:03:51.50,Default,,0,0,0,,Wow, it's so light, Master Urokodaki!
@@ -62,7 +62,7 @@ Dialogue: 10,0:03:59.34,0:04:01.14,Default,,0,0,0,,Get in, will you?
 Dialogue: 10,0:04:01.85,0:04:03.22,Default,,0,0,0,,Think you can do it?
 Dialogue: 10,0:04:19.24,0:04:22.95,Default,,0,0,0,,Nezuko, we'll always be together now, okay?
 Dialogue: 10,0:04:27.29,0:04:28.96,Default,,0,0,0,,All right, I'm off.
-Dialogue: 10,0:04:31.13,0:04:32.63,Default,,0,0,0,,Stay still for a moment.
+Dialogue: 10,0:04:31.13,0:04:32.63,Default,,0,0,0,,Hold still for a moment.
 Dialogue: 10,0:05:03.37,0:05:06.12,Default,,0,0,0,,Nezuko, are you okay?
 Dialogue: 10,0:05:12.08,0:05:13.58,Default,,0,0,0,,Nezuko?
 Dialogue: 10,0:05:14.50,0:05:16.84,Default,,0,0,0,,I'm just taking a guess here,
@@ -84,28 +84,28 @@ Dialogue: 10,0:07:17.00,0:07:19.50,Default,,0,0,0,,You may not believe me, but..
 Dialogue: 10,0:07:20.96,0:07:22.59,Default,,0,0,0,,I believe you!
 Dialogue: 10,0:07:22.59,0:07:23.96,Default,,0,0,0,,I absolutely do.
 Dialogue: 10,0:07:25.93,0:07:27.26,Default,,0,0,0,,Really!
-Dialogue: 10,0:07:37.44,0:07:40.36,Default,,0,0,0,,{\i1}There's still faint traces of the demon here,
-Dialogue: 10,0:07:41.48,0:07:42.98,Default,,0,0,0,,{\i1}but it's... uneven, so to speak.
+Dialogue: 10,0:07:37.44,0:07:40.36,Default,,0,0,0,,{\i1}I can pick up a faint trail of the demon's scent,
+Dialogue: 10,0:07:41.48,0:07:42.98,Default,,0,0,0,,{\i1}but it's all over the place.
 Dialogue: 10,0:07:46.70,0:07:48.07,Default,,0,0,0,,{\i1}Something's not right here.
 Dialogue: 10,0:07:50.12,0:07:52.41,Default,,0,0,0,,{\i1}Who is this kid, anyway?
 Dialogue: 10,0:08:01.09,0:08:02.80,Default,,0,0,0,,How dare you!
 Dialogue: 10,0:08:04.63,0:08:05.97,Default,,0,0,0,,The hell do you mean, "disappeared"?
-Dialogue: 10,0:08:06.26,0:08:07.72,Default,,0,0,0,,You bastard!
+Dialogue: 10,0:08:06.26,0:08:07.72,Default,,0,0,0,,You bastard!{I'll kill you!}
 Dialogue: 10,0:08:07.72,0:08:08.93,Default,,0,0,0,,Dear!
 Dialogue: 10,0:08:08.93,0:08:10.47,Default,,0,0,0,,That's enough! Please stop!
 Dialogue: 10,0:09:00.44,0:09:02.27,Default,,0,0,0,,Please, believe me.
 Dialogue: 10,0:09:04.27,0:09:06.11,Default,,0,0,0,,She really {\i1}did{\i0} disappear.
 Dialogue: 10,0:09:07.07,0:09:08.44,Default,,0,0,0,,I believe you.
-Dialogue: 10,0:09:08.94,0:09:11.66,Default,,0,0,0,,That's what I came to this town for.
+Dialogue: 10,0:09:08.94,0:09:11.66,Default,,0,0,0,,It's the reason I'm here.
 Dialogue: 10,0:09:18.08,0:09:19.79,Default,,0,0,0,,You're gonna keep going?
 Dialogue: 10,0:09:20.46,0:09:21.17,Default,,0,0,0,,Yes.
 Dialogue: 10,0:09:21.92,0:09:24.29,Default,,0,0,0,,It's gotten pretty dark.
 Dialogue: 10,0:09:24.29,0:09:27.59,Default,,0,0,0,,I'm flattered that you're so concerned about me,
 Dialogue: 10,0:09:27.59,0:09:30.97,Default,,0,0,0,,{\q2}but shouldn't you go get some rest \Nand pick this up again tomorrow?
-Dialogue: 10,0:09:33.30,0:09:35.35,Default,,0,0,0,,They're active during the night.
+Dialogue: 10,0:09:33.30,0:09:35.35,Default,,0,0,0,,They're active during the night.{they prey at night}{they stalk at night}{they're the demons}
 Dialogue: 10,0:09:36.06,0:09:38.60,Default,,0,0,0,,I can't afford to rest now.
 Dialogue: 10,0:09:39.68,0:09:42.44,Default,,0,0,0,,I've caught a fresh scent in this area.
-Dialogue: 10,0:09:43.40,0:09:45.77,Default,,0,0,0,,It's gotta be somewhere nearby.
+Dialogue: 10,0:09:43.40,0:09:45.77,Default,,0,0,0,,It must be somewhere nearby.
 Dialogue: 10,0:09:46.65,0:09:47.98,Default,,0,0,0,,They?
 Dialogue: 10,0:09:48.73,0:09:50.36,Default,,0,0,0,,Don't tell me you're...
 Dialogue: 10,0:09:50.61,0:09:51.95,Default,,0,0,0,,Seriously...?
@@ -115,33 +115,33 @@ Dialogue: 10,0:10:05.38,0:10:07.29,Default,,0,0,0,,Okay, Mother.
 Dialogue: 10,0:10:07.29,0:10:09.21,Default,,0,0,0,,Well then, good night.
 Dialogue: 10,0:11:21.45,0:11:24.46,Default,,0,0,0,,I wonder what became of the girls that disappeared.
 Dialogue: 10,0:11:25.96,0:11:27.54,Default,,0,0,0,,I just hope they're okay.
-Dialogue: 10,0:12:07.21,0:12:08.71,Default,,0,0,0,,What's gotten into you suddenly?
+Dialogue: 10,0:12:07.21,0:12:08.71,Default,,0,0,0,,What happened?!
 Dialogue: 10,0:12:10.13,0:12:11.25,Default,,0,0,0,,{\i1}He's fast!
 Dialogue: 10,0:12:12.21,0:12:14.21,Default,,0,0,0,,The scent just got stronger!
 Dialogue: 10,0:12:14.21,0:12:15.55,Default,,0,0,0,,The demon's active!
-Dialogue: 10,0:12:20.43,0:12:21.97,Default,,0,0,0,,{\i1}He jumped?
+Dialogue: 10,0:12:19.59,0:12:21.97,Default,,0,0,0,,{\i1}H-He jumped?
 Dialogue: 10,0:12:21.97,0:12:23.26,Default,,0,0,0,,{\i1}He just mentioned demons...
 Dialogue: 10,0:12:23.97,0:12:25.27,Default,,0,0,0,,{\i1}The Demon Slayers...
 Dialogue: 10,0:12:25.68,0:12:26.77,Default,,0,0,0,,{\i1}Do they actually exist?
 Dialogue: 10,0:12:37.74,0:12:38.74,Default,,0,0,0,,{\i1}This is the place.
 Dialogue: 10,0:12:39.66,0:12:41.07,Default,,0,0,0,,{\i1}They're here!
-Dialogue: 10,0:12:46.25,0:12:47.83,Default,,0,0,0,,{\i1}I can pick up two different scents.
+Dialogue: 10,0:12:46.16,0:12:47.83,Default,,0,0,0,,{\i1}I can pick up two different scents.
 Dialogue: 10,0:12:48.37,0:12:50.71,Default,,0,0,0,,{\i1}A demon and a human girl!
 Dialogue: 10,0:12:53.38,0:12:54.67,Default,,0,0,0,,{\i1}They're nowhere to be seen.
 Dialogue: 10,0:13:00.01,0:13:00.93,Default,,0,0,0,,{\i1}But...
 Dialogue: 10,0:13:06.31,0:13:08.48,Default,,0,0,0,,{\i1}The scent is strongest...
 Dialogue: 10,0:13:09.39,0:13:10.52,Default,,0,0,0,,{\i1}Here!
 Dialogue: 10,0:13:35.63,0:13:37.09,Default,,0,0,0,,{\i1}A deformed demon!
-Dialogue: 10,0:13:37.88,0:13:43.01,Default,,0,0,0,,{\q2}Some demons use special techniques called the \N"Demon Blood Arts", granting them supernatural abilities.
-Dialogue: 10,0:13:43.51,0:13:47.64,Default,,0,0,0,,{\q2}You may find yourself facing these \Nkinds of demons as well from now on.
+Dialogue: 10,0:13:37.88,0:13:43.01,Default,,0,0,0,,{\q2}Some demons use special techniques known as \N"Demon Blood Arts", which grant supernatural abilities.
+Dialogue: 10,0:13:43.51,0:13:47.64,Default,,0,0,0,,{\q2}Going forward, you may find yourself \Nup against such demons.
 Dialogue: 10,0:13:51.52,0:13:54.56,Default,,0,0,0,,Where are all the girls you kidnapped?
 Dialogue: 10,0:13:58.48,0:14:00.32,Default,,0,0,0,,I've got two more questions for you!
 Dialogue: 10,0:14:11.16,0:14:12.79,Default,,0,0,0,,What was that thing?
 Dialogue: 10,0:14:12.79,0:14:13.67,Default,,0,0,0,,Kazumi,
 Dialogue: 10,0:14:13.96,0:14:16.71,Default,,0,0,0,,please take care of her and be on standby nearby.
 Dialogue: 10,0:14:17.17,0:14:19.76,Default,,0,0,0,,So long as you stay close, I will protect you!
-Dialogue: 10,0:14:23.47,0:14:27.22,Default,,0,0,0,,{\i1\q2}He's likely able to emerge from any surface, \Nlike the ground or the wall...
-Dialogue: 10,0:14:29.14,0:14:32.43,Default,,0,0,0,,{\i1}Odds are he could even appear out of thin air.
+Dialogue: 10,0:14:23.47,0:14:27.22,Default,,0,0,0,,{\i1\q2}He can probably emerge from any surface, \Nlike the ground or the wall...
+Dialogue: 10,0:14:29.14,0:14:32.43,Default,,0,0,0,,{\i1}He might even be able to appear out of thin air.
 Dialogue: 10,0:14:36.73,0:14:37.94,Default,,0,0,0,,{\i1}However,
 Dialogue: 10,0:14:37.94,0:14:41.65,Default,,0,0,0,,{\i1}submerged or not, he can't erase his scent!
 Dialogue: 10,0:14:46.03,0:14:46.91,Default,,0,0,0,,{\i1}Here he comes!
@@ -165,7 +165,7 @@ Dialogue: 10,0:16:02.90,0:16:05.32,Default,,0,0,0,,Kibutsuji Muzan!
 Dialogue: 10,0:16:05.90,0:16:07.20,Default,,0,0,0,,{\i1}Eighth Form!
 Dialogue: 10,0:16:07.20,0:16:08.36,Default,,0,0,0,,{\i1}Waterfall Basin!
 Dialogue: 10,0:16:11.03,0:16:11.95,Default,,0,0,0,,{\i1}Too shallow!
-Dialogue: 10,0:16:12.53,0:16:15.37,Default,,0,0,0,,{\i1}I missed all the crucial areas
+Dialogue: 10,0:16:12.53,0:16:15.37,Default,,0,0,0,,{\i1}I missed all the weak points
 Dialogue: 10,0:16:15.62,0:16:17.87,Default,,0,0,0,,{\i1}because I switched forms mid-swing!
 Dialogue: 10,0:16:27.01,0:16:29.47,Default,,0,0,0,,{\i1}They all share the exact same scent!
 Dialogue: 10,0:16:30.30,0:16:33.06,Default,,0,0,0,,{\i1}I was told that demons don't band together as a rule.
@@ -217,12 +217,12 @@ Dialogue: 10,0:21:08.54,0:21:11.29,Default,,0,0,0,,"All humans are your family."
 Dialogue: 10,0:21:11.96,0:21:14.04,Default,,0,0,0,,"Protect humans."
 Dialogue: 10,0:21:14.54,0:21:16.67,Default,,0,0,0,,{\i1}"Demons are your enemy!"
 Dialogue: 10,0:21:23.55,0:21:24.64,Default,,0,0,0,,Nezuko!
-Dialogue: 10,0:21:24.64,0:21:26.81,Default,,0,0,0,,{\i1}"Never show mercy to any demons"
-Dialogue: 10,0:21:26.81,0:21:28.81,Default,,0,0,0,,{\i1}"who bring harm onto humans!"
+Dialogue: 10,0:21:24.64,0:21:26.81,Default,,0,0,0,,{\i1}"To demons who harm{bring harm onto} humans,"
+Dialogue: 10,0:21:26.81,0:21:28.81,Default,,0,0,0,,{\i1}"show no mercy!"
 Comment: 0,0:22:59.98,0:22:59.98,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:23:03.19,0:23:05.28,Default,,0,0,0,,Your kicks really saved the day, Nezuko!
 Dialogue: 10,0:23:05.28,0:23:06.28,Default,,0,0,0,,Thanks!
-Dialogue: 10,0:23:07.57,0:23:09.95,Default,,0,0,0,,{\q2}It didn't break even after \Ngetting kicked from the inside.
+Dialogue: 10,0:23:07.57,0:23:09.95,Default,,0,0,0,,{\q2}It didn't break, even after \Ngetting kicked from the inside.
 Dialogue: 10,0:23:09.95,0:23:12.33,Default,,0,0,0,,That box is super strong!
 Dialogue: 10,0:23:14.12,0:23:16.50,Default,,0,0,0,,But isn't it cramped in there?
 Dialogue: 10,0:23:16.50,0:23:17.88,Default,,0,0,0,,Aren't you uncomfortable?
