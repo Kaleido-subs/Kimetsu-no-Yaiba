@@ -35,7 +35,7 @@ Dialogue: 10,0:00:32.35,0:00:33.76,Default,,0,0,0,,{\i1}First Form!
 Dialogue: 10,0:00:41.77,0:00:43.52,Default,,0,0,0,,{\i1}Water Surface Slash!
 Comment: 0,0:02:14.99,0:02:14.99,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:03:43.74,0:03:45.00,Default,,0,0,0,,{\i1}Urokodaki!
-Dialogue: 10,0:03:55.67,0:03:59.22,Default,,0,0,0,,{\i1}Damn it, damn it, damn it!{### third iteration isn't emphasized, so I guess it makes sense not to de-italicize}
+Dialogue: 10,0:03:55.67,0:03:59.22,Default,,0,0,0,,{\i1}Damn it, damn it, damn it!
 Dialogue: 10,0:03:59.68,0:04:03.26,Default,,0,0,0,,{\i1}My body's crumbling away.
 Dialogue: 10,0:04:03.26,0:04:05.06,Default,,0,0,0,,{\i1}I can't stop it!
 Dialogue: 10,0:04:13.02,0:04:14.53,Default,,0,0,0,,{\i1}Damn it!
@@ -71,7 +71,7 @@ Dialogue: 10,0:07:02.40,0:07:04.32,Default,,0,0,0,,{\i1}my soul would've made it
 Dialogue: 10,0:07:19.84,0:07:21.30,Default,,0,0,0,,I want to ask you something.
 Dialogue: 10,0:07:22.05,0:07:25.84,Default,,0,0,0,,Is there a way to turn a demon back into a human?
 Dialogue: 10,0:07:37.69,0:07:39.23,Default,,0,0,0,,{\i1}Please tell me!
-Dialogue: 10,0:07:39.77,0:07:40.82,Default,,0,0,0,,{\i1}How do I{### this show really likes pointless annoying splits}
+Dialogue: 10,0:07:39.77,0:07:40.82,Default,,0,0,0,,{\i1}How do I
 Dialogue: 10,0:07:42.19,0:07:44.19,Default,,0,0,0,,{\i1}make Nezuko human again?
 Dialogue: 10,0:08:21.81,0:08:23.57,Default,,0,0,0,,Wisteria?
 Dialogue: 10,0:08:26.57,0:08:27.86,Default,,0,0,0,,I made it.
@@ -119,7 +119,7 @@ Dialogue: 10,0:11:00.35,0:11:02.52,Default,,0,0,0,,One of those Demon Slayer swo
 Dialogue: 10,0:11:02.52,0:11:04.48,Default,,0,0,0,,A Colour Changing Sword!
 Dialogue: 10,0:11:07.90,0:11:08.69,Default,,0,0,0,,The hell?
 Dialogue: 10,0:11:08.94,0:11:10.86,Default,,0,0,0,,Take your hands off her.
-Dialogue: 10,0:11:10.86,0:11:13.19,Default,,0,0,0,,Let go, or I'll {\i1}make{\i0} you let go.
+Dialogue: 10,0:11:10.86,0:11:13.19,Default,,0,0,0,,Before I {\i1}make{\i0} you.
 Dialogue: 10,0:11:14.65,0:11:16.45,Default,,0,0,0,,Who do you think you are?
 Dialogue: 10,0:11:17.32,0:11:19.20,Default,,0,0,0,,Wh-Wh-What should I do?
 Dialogue: 10,0:11:19.20,0:11:21.33,Default,,0,0,0,,Let's see you try!
