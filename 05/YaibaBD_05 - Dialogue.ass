@@ -125,7 +125,8 @@ Dialogue: 10,0:11:17.32,0:11:19.20,Default,,0,0,0,,Wh-Wh-What should I do?
 Dialogue: 10,0:11:19.20,0:11:21.33,Default,,0,0,0,,Let's see you try!
 Dialogue: 10,0:11:40.97,0:11:43.47,Default,,0,0,0,,Are you done chatting?
 Dialogue: 10,0:11:50.98,0:11:55.53,Default,,0,0,0,,Now then, please select an ore.
-Dialogue: 10,0:11:57.74,0:12:05.45,Default,,0,0,0,,{\q2}You are responsible for choosing the ore \Nthat will be used to forge your blade.{### it looks like a lot of meaning's been cut out of this line. what to do?}
+Dialogue: 10,0:11:57.74,0:12:02.74,Default,,0,0,0,,{\q2}The steel it becomes will serve as your most loyal \Ncompanion in your demon-slaying endeavours.
+Dialogue: 10,0:12:02.74,0:12:05.45,Default,,0,0,0,,Be sure to choose wisely.
 Dialogue: 10,0:12:05.45,0:12:08.62,Default,,0,0,0,,{\q2}Not like it matters. \NI'm at death's door anyway.
 Dialogue: 10,0:12:15.01,0:12:17.47,Default,,0,0,0,,{\i1}They want us to pick our own ore,
 Dialogue: 10,0:12:17.47,0:12:19.34,Default,,0,0,0,,{\i1}but how are we supposed to do that?
@@ -139,7 +140,7 @@ Dialogue: 10,0:13:06.02,0:13:08.31,Default,,0,0,0,,I wonder what kinds of swords
 Comment: 0,0:13:13.98,0:13:13.98,Default,chapter,0,0,0,,{Part B}
 Dialogue: 10,0:13:32.25,0:13:33.67,Default,,0,0,0,,{\i1}I was naïve.
 Dialogue: 10,0:13:34.96,0:13:38.59,Default,,0,0,0,,{\i1}I couldn't so much as {\i0}speak{\i1} with a single demon.
-Dialogue: 10,0:13:39.72,0:13:42.30,Default,,0,0,0,,{\i1}They just tried to kill me straight away.
+Dialogue: 10,0:13:39.72,0:13:42.30,Default,,0,0,0,,{\i1}They all just tried to kill me straight away.
 Dialogue: 10,0:13:43.09,0:13:45.68,Default,,0,0,0,,I'm so sorry, Nezuko.
 Dialogue: 10,0:13:47.81,0:13:50.23,Default,,0,0,0,,I couldn't find a way
 Dialogue: 10,0:13:51.89,0:13:53.81,Default,,0,0,0,,to make you human again.{### wryyy ordering}
