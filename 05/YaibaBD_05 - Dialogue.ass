@@ -236,6 +236,7 @@ Comment: 0,0:22:59.94,0:22:59.94,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:23:03.28,0:23:06.20,Default,,0,0,0,,Kasugai Crow, say hello to everyone.
 Dialogue: 10,0:23:06.20,0:23:09.37,Default,,0,0,0,,I don't take orders from you!
 Dialogue: 10,0:23:14.83,0:23:16.37,Default,,0,0,0,,Geez.
+Dialogue: 10,0:23:16.37,0:23:19.59,Default,,0,0,0,,Now, it's time for a Taisho secret!
 Dialogue: 11,0:23:19.59,0:23:19.63,Default,,438,-37,0,,{\bord0\blur2}Now, it's time for a Taisho secret!
 Dialogue: 11,0:23:19.63,0:23:19.67,Default,,793,-393,0,,{\bord0\blur2}Now, it's time for a Taisho secret!
 Dialogue: 11,0:23:19.67,0:23:19.71,Default,,1156,-756,0,,{\bord0\blur2}Now, it's time for a Taisho secret!
@@ -254,7 +255,6 @@ Dialogue: 12,0:23:19.50,0:23:19.54,Default,,-1180,1580,0,,{\1a&HC8&\blur4}Forget
 Dialogue: 12,0:23:19.54,0:23:19.59,Default,,-785,1185,0,,{\1a&HC8&\blur4}Forget about that!
 Dialogue: 12,0:23:19.59,0:23:19.63,Default,,-389,789,0,,{\1a&HC8&\blur4}Forget about that!
 Dialogue: 12,0:23:19.63,0:23:19.67,Default,,-3,403,0,,{\1a&HC8&\blur4}Forget about that!
-Dialogue: 10,0:23:16.37,0:23:19.59,Default,,0,0,0,,Now, it's time for a Taisho secret!
 Dialogue: 10,0:23:19.67,0:23:20.88,Default,,0,0,0,,Forget about that!
 Dialogue: 10,0:23:20.88,0:23:24.09,Default,,0,0,0,,It's time for your mission! Hurry up!
 Dialogue: 10,0:23:24.09,0:23:26.76,Default,,0,0,0,,Okay, okay! I get it!
