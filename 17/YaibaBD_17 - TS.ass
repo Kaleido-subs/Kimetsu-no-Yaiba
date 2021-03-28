@@ -26,25 +26,25 @@ Style: Sign,RSStyle,74,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,1
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:03:41.61,0:03:45.99,Sign,,0,0,0,,{\fad(1450,0)\c&HFEFFFD&\fscx60\fscy60\fs122\blur8\fnRSStyle\b0\move(640,200.5,640,200,0,1150)\an8\t(0,1100,\fscx58\fscy58\blur3)\1a&HC8&\bord1\fsp-12}E{\fsp0}pisode{\fsp-20}_{\fsp-6}17\N\N\N{\fscx90\fscy90}Y{\fsp0}ou{\fsp-12}_{\fsp-6}M{\fsp0}ust\N{\fsp-6}M{\fsp0}aster\N{\fsp-6}A{\fsp-12}_{\fsp-6}S{\fsp0}ingle{\fsp-12}_{\fsp-6}M{\fsp0}ove
 Dialogue: 1,0:03:41.61,0:03:45.99,Sign,,0,0,0,,{\fad(950,0)\c&HFEFFFD&\fscx60\fscy60\fs122\blur8\fnRSStyle\b0\move(640,200.5,640,200,0,1150)\an8\t(0,1100,\fscx58\fscy58\blur0.9)\fsp-12}E{\fsp0}pisode{\fsp-20}_{\fsp-6}17\N\N\N{\fscx90\fscy90}Y{\fsp0}ou{\fsp-12}_{\fsp-6}M{\fsp0}ust\N{\fsp-6}M{\fsp0}aster\N{\fsp-6}A{\fsp-12}_{\fsp-6}S{\fsp0}ingle{\fsp-12}_{\fsp-6}M{\fsp0}ove
-Dialogue: 0,0:06:52.89,0:07:00.90,Sign,,0,0,0,,{\pos(1539.61,877.22)\fscx100.46\fscy100.46\fnBrushstroke 35\fs48\b0\c&H090415&\blur0.8\an2\3a&H00&}Demon Slayer
-Dialogue: 0,0:22:59.89,0:23:00.15,Sign,,0,0,0,,{\an3\pos(1103.48,494.42)\fscx100.46\fscy100.46\fnBrushstroke 35\fs82\b0\c&H29282F&\blur1\3a&H00&}Demon Slayer
-Dialogue: 0,0:23:00.15,0:23:00.19,Sign,,0,0,0,,{\an3\pos(1103.48,494.42)\fscx100.46\fscy100.46\frz0.1\fnBrushstroke 35\fs82\b0\c&H29282F&\blur1\3a&H00&}Demon Slayer
-Dialogue: 0,0:23:00.19,0:23:00.23,Sign,,0,0,0,,{\an3\pos(1103.48,494.42)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\b0\c&H29282F&\blur1\3a&H00&}Demon Slayer
-Dialogue: 0,0:23:00.23,0:23:00.27,Sign,,0,0,0,,{\an3\pos(1104.48,495.42)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\b0\c&H29282F&\blur1\3a&H00&}Demon Slayer
-Dialogue: 0,0:23:00.27,0:23:00.31,Sign,,0,0,0,,{\an3\pos(1105.48,496.42)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\b0\c&H29272E&\blur1\3a&H00&}Demon Slayer
-Dialogue: 0,0:23:00.31,0:23:00.35,Sign,,0,0,0,,{\an3\pos(1107.48,496.42)\frz0.15\fnBrushstroke 35\fs82\b0\c&H2B2A2E&\blur1.1\3a&H00&}Demon Slayer
-Dialogue: 0,0:23:00.35,0:23:00.40,Sign,,0,0,0,,{\an3\pos(1111.48,496.42)\fscx99\fscy102\frz0.15\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2\3a&H00&}Demon Slayer
-Dialogue: 0,0:23:00.40,0:23:00.44,Sign,,0,0,0,,{\an3\pos(1123.48,494.42)\fscx95\fscy102\frz0.15\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2\3a&H00&}Demon Slayer
-Dialogue: 0,0:23:00.44,0:23:00.48,Sign,,0,0,0,,{\an3\pos(1163.41,490.38)\fscx95\fscy102\frz0.15\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2\3a&H00&}Demon Slayer
-Dialogue: 0,0:23:00.48,0:23:00.52,Sign,,0,0,0,,{\an3\pos(1213.98,480.1)\fscx95\fscy102\frz1.65\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2\3a&H00&}Demon Slayer
-Dialogue: 0,0:23:00.52,0:23:00.56,Sign,,0,0,0,,{\an3\pos(1285.41,478.38)\fscx95\fscy102\frz1.65\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2\3a&H00&}Demon Slayer
-Dialogue: 0,0:23:00.56,0:23:00.60,Sign,,0,0,0,,{\an3\pos(1359.41,478.96)\fscx95\fscy102\frz2.13\fax0.3\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2\3a&H00&}Demon Slayer
-Dialogue: 0,0:23:00.60,0:23:00.65,Sign,,0,0,0,,{\an3\pos(1454.55,471.53)\fscx90.31\fscy96.96\frz2.13\fax0.3\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2\3a&H00&}Demon Slayer
-Dialogue: 0,0:23:00.65,0:23:00.69,Sign,,0,0,0,,{\an3\fscx83\fscy96\frz2.13\fax0.3\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2\pos(1561.12,474.38)\3a&H00&}Demon Slayer
-Dialogue: 0,0:23:00.69,0:23:00.73,Sign,,0,0,0,,{\an3\pos(1662.84,466.67)\fscx73\fscy92\frz4.69\fax0.3\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2\3a&H00&}Demon Slayer
-Dialogue: 0,0:23:00.73,0:23:00.77,Sign,,0,0,0,,{\an3\pos(1731.98,461.53)\fscx63\fscy98\frz4.69\fax0.3\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2\3a&H00&}Demon Slayer
-Dialogue: 0,0:23:00.77,0:23:00.81,Sign,,0,0,0,,{\an3\pos(1805.12,458.1)\fscx45\fscy99\frz4.69\fax0.3\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2\3a&H00&}Demon Slayer
-Dialogue: 0,0:23:00.81,0:23:00.85,Sign,,0,0,0,,{\an3\pos(1872.27,456.1)\fscx28\fscy109\frz4.69\fax0.3\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2\3a&H00&}Demon Slayer
+Dialogue: 0,0:06:52.89,0:07:00.90,Sign,,0,0,0,,{\pos(1539.61,877.22)\fscx100.46\fscy100.46\fnBrushstroke 35\fs48\b0\c&H090415&\blur0.8\an2}Demon Slayer
+Dialogue: 0,0:22:59.89,0:23:00.15,Sign,,0,0,0,,{\an3\pos(1103.48,494.42)\fscx100.46\fscy100.46\fnBrushstroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.15,0:23:00.19,Sign,,0,0,0,,{\an3\pos(1103.48,494.42)\fscx100.46\fscy100.46\frz0.1\fnBrushstroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.19,0:23:00.23,Sign,,0,0,0,,{\an3\pos(1103.48,494.42)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.23,0:23:00.27,Sign,,0,0,0,,{\an3\pos(1104.48,495.42)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\b0\c&H29282F&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.27,0:23:00.31,Sign,,0,0,0,,{\an3\pos(1105.48,496.42)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\b0\c&H29272E&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.31,0:23:00.35,Sign,,0,0,0,,{\an3\pos(1107.48,496.42)\frz0.15\fnBrushstroke 35\fs82\b0\c&H2B2A2E&\blur1.1}Demon Slayer
+Dialogue: 0,0:23:00.35,0:23:00.40,Sign,,0,0,0,,{\an3\pos(1111.48,496.42)\fscx99\fscy102\frz0.15\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.40,0:23:00.44,Sign,,0,0,0,,{\an3\pos(1123.48,494.42)\fscx95\fscy102\frz0.15\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.44,0:23:00.48,Sign,,0,0,0,,{\an3\pos(1163.41,490.38)\fscx95\fscy102\frz0.15\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.48,0:23:00.52,Sign,,0,0,0,,{\an3\pos(1213.98,480.1)\fscx95\fscy102\frz1.65\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.52,0:23:00.56,Sign,,0,0,0,,{\an3\pos(1285.41,478.38)\fscx95\fscy102\frz1.65\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.56,0:23:00.60,Sign,,0,0,0,,{\an3\pos(1359.41,478.96)\fscx95\fscy102\frz2.13\fax0.3\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.60,0:23:00.65,Sign,,0,0,0,,{\an3\pos(1454.55,471.53)\fscx90.31\fscy96.96\frz2.13\fax0.3\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.65,0:23:00.69,Sign,,0,0,0,,{\an3\fscx83\fscy96\frz2.13\fax0.3\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2\pos(1561.12,474.38)}Demon Slayer
+Dialogue: 0,0:23:00.69,0:23:00.73,Sign,,0,0,0,,{\an3\pos(1662.84,466.67)\fscx73\fscy92\frz4.69\fax0.3\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.73,0:23:00.77,Sign,,0,0,0,,{\an3\pos(1731.98,461.53)\fscx63\fscy98\frz4.69\fax0.3\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.77,0:23:00.81,Sign,,0,0,0,,{\an3\pos(1805.12,458.1)\fscx45\fscy99\frz4.69\fax0.3\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.81,0:23:00.85,Sign,,0,0,0,,{\an3\pos(1872.27,456.1)\fscx28\fscy109\frz4.69\fax0.3\fnBrushstroke 35\fs82\b0\c&H1F1E24&\blur1.2}Demon Slayer
 Dialogue: 0,0:23:01.40,0:23:01.44,Sign,,0,0,0,,{=10}{\fscx210\fscy210\blur10.5\fnPick Ax\4c&H0B0116&\3c&H0B0116&\c&H0B0116&\1a&HFE&\3a&HFE&\yshad0.001\bord7\an4\fs60\frz3\pos(265.05,-14.54)\4a&H00&}Tales of the D{*\frz2.842}e{*\frz2.684}m{*\frz2.526}o{*\frz2.368}n {*\frz2.053}S{*\frz1.895}l{*\frz1.737}a{*\frz1.579}y{*\frz1.421}e{*\frz1.263}r {*\frz0.947}A{*\frz0.789}c{*\frz0.632}a{*\frz0.474}d{*\frz0.316}e{*\frz0.158}m{\frz0}y
 Dialogue: 1,0:23:01.40,0:23:01.44,Sign,,0,0,0,,{=9}{\fscx210\fscy210\blur10.5\fnPick Ax\c&H0411E6&\an4\fs60\frz3\pos(265.05,-14.54)}Tales of the {\c&H20ADFE&}D{*\frz2.842}e{*\frz2.684}m{*\frz2.526}o{*\frz2.368}n {*\frz2.053}S{*\frz1.895}l{*\frz1.737}a{*\frz1.579}y{*\frz1.421}e{*\frz1.263}r {*\frz0.947}A{*\frz0.789}c{*\frz0.632}a{*\frz0.474}d{*\frz0.316}e{*\frz0.158}m{\frz0}y
 Dialogue: 0,0:23:01.44,0:23:01.49,Sign,,0,0,0,,{=10}{\fscx180\fscy180\blur9\fnPick Ax\4c&H0B0116&\3c&H0B0116&\c&H0B0116&\1a&HFE&\3a&HFE&\yshad0.001\bord7\an4\fs60\frz3\pos(363.45,66.66)\4a&H00&}Tales of the D{*\frz2.842}e{*\frz2.684}m{*\frz2.526}o{*\frz2.368}n {*\frz2.053}S{*\frz1.895}l{*\frz1.737}a{*\frz1.579}y{*\frz1.421}e{*\frz1.263}r {*\frz0.947}A{*\frz0.789}c{*\frz0.632}a{*\frz0.474}d{*\frz0.316}e{*\frz0.158}m{\frz0}y

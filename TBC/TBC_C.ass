@@ -28,7 +28,7 @@ Comment: 0,0:23:37.52,0:23:37.56,Sign,,0,0,0,sync,
 Dialogue: 0,0:23:37.60,0:23:37.64,Sign,,0,0,0,,{\an2\pos(1019.57,1185.48)\fnFOT Manyo Gyosho Std Strp E\fs152\b1\bord23\c&H000000&\3c&H080118&\alpha&H00&\1a&HFF&\blur9}To Be Continued
 Dialogue: 1,0:23:37.60,0:23:37.64,Sign,,0,0,0,,{\an2\pos(1019.57,1185.48)\fnFOT Manyo Gyosho Std Strp E\fs152\b1\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur9}To Be Continued
 Dialogue: 2,0:23:37.60,0:23:37.64,Sign,,0,0,0,,{\an2\pos(1019.57,1185.48)\fnFOT Manyo Gyosho Std Strp E\fs152\b1\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\blur9}To Be Continued
-Dialogue: 3,0:23:37.60,0:23:37.64,Sign,,0,0,0,,{\an2\pos(1019.57,1185.48)\fnFOT Manyo Gyosho Std Strp E\fs152\b1\3a&H00&\blur9}To Be Continued
+Dialogue: 3,0:23:37.60,0:23:37.64,Sign,,0,0,0,,{\an2\pos(1019.57,1185.48)\fnFOT Manyo Gyosho Std Strp E\fs152\b1\blur9}To Be Continued
 Dialogue: 0,0:23:37.64,0:23:37.68,Sign,,0,0,0,,{\an2\pos(1081.08,973.86)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur3}To Be Continued
 Dialogue: 1,0:23:37.64,0:23:37.68,Sign,,0,0,0,,{\an2\pos(1081.08,973.86)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur3}To Be Continued
 Dialogue: 2,0:23:37.64,0:23:37.68,Sign,,0,0,0,,{\an2\pos(1081.08,973.86)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\blur3}To Be Continued
