@@ -65,6 +65,13 @@ subs {
         if (file(get("TS")).exists()) {
             from(get("TS"))
         }
+
+		if (propertyExists("TBC")) {
+			from(get("TBC")) {
+				syncSourceLine("sync")
+				syncTargetLine("tbc-sync")
+			}
+		}
     }
 
     val cleanmerge by task<ASS> {
@@ -129,6 +136,12 @@ subs {
                 includeExtensions("ttf", "otf")
             }
         }
+
+		if (propertyExists("TBC")) {
+			attach(get("tbcfonts")) {
+				includeExtensions("ttf", "otf")
+			}
+		}
 
         out(get("muxout"))
     }

@@ -50,54 +50,7 @@ Dialogue: 0,0:23:01.06,0:23:01.10,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\f
 Dialogue: 1,0:23:01.06,0:23:01.10,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H445D55&\3a&H00&\4a&HFF&\blur0.6\clip(m 1466 21 l 1509 125 1221 123 1242 27)}PREVIEW
 Dialogue: 0,0:23:01.10,0:23:37.14,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC1E6EC&\3c&HC1E6EC&\3a&H00&\4a&H00&\blur0.6}PREVIEW
 Dialogue: 1,0:23:01.10,0:23:37.14,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H445D55&\3a&H00&\4a&HFF&\blur0.6}PREVIEW
-Dialogue: 0,0:23:37.22,0:23:37.27,Sign,,0,0,0,,{\an2\pos(1019.57,1185.48)\fnFOT Manyo Gyosho Std Strp E\fs152\b800\bord23\c&H000000&\3c&H080118&\alpha&H00&\1a&HFF&\blur9}To Be Continued
-Dialogue: 1,0:23:37.22,0:23:37.27,Sign,,0,0,0,,{\an2\pos(1019.57,1185.48)\fnFOT Manyo Gyosho Std Strp E\fs152\b800\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur9}To Be Continued
-Dialogue: 2,0:23:37.22,0:23:37.27,Sign,,0,0,0,,{\an2\pos(1019.57,1185.48)\fnFOT Manyo Gyosho Std Strp E\fs152\b800\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur9}To Be Continued
-Dialogue: 3,0:23:37.22,0:23:37.27,Sign,,0,0,0,,{\an2\pos(1019.57,1185.48)\fnFOT Manyo Gyosho Std Strp E\fs152\b800\3a&H00&\4a&H00&\blur9}To Be Continued
-Dialogue: 0,0:23:37.27,0:23:37.31,Sign,,0,0,0,,{\an2\pos(1081.08,973.86)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur3}To Be Continued
-Dialogue: 1,0:23:37.27,0:23:37.31,Sign,,0,0,0,,{\an2\pos(1081.08,973.86)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur3}To Be Continued
-Dialogue: 2,0:23:37.27,0:23:37.31,Sign,,0,0,0,,{\an2\pos(1081.08,973.86)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur3}To Be Continued
-Dialogue: 3,0:23:37.27,0:23:37.31,Sign,,0,0,0,,{\an2\pos(1081.08,973.86)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\alpha&H00&\4a&HFF&\blur2}To Be Continued
-Dialogue: 0,0:23:37.31,0:23:37.35,Sign,,0,0,0,,{\an2\pos(1094.43,1012.19)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
-Dialogue: 1,0:23:37.31,0:23:37.35,Sign,,0,0,0,,{\an2\pos(1094.43,1012.19)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
-Dialogue: 2,0:23:37.31,0:23:37.35,Sign,,0,0,0,,{\an2\pos(1094.43,1012.19)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
-Dialogue: 3,0:23:37.31,0:23:37.35,Sign,,0,0,0,,{\an2\pos(1094.43,1012.19)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\alpha&H00&\4a&HFF&\blur2}To Be Continued
-Dialogue: 0,0:23:37.35,0:23:37.39,Sign,,0,0,0,,{\an2\pos(1077.84,998.9)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
-Dialogue: 1,0:23:37.35,0:23:37.39,Sign,,0,0,0,,{\an2\pos(1077.84,998.9)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
-Dialogue: 2,0:23:37.35,0:23:37.39,Sign,,0,0,0,,{\an2\pos(1077.84,998.9)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
-Dialogue: 3,0:23:37.35,0:23:37.39,Sign,,0,0,0,,{\an2\pos(1077.84,998.9)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\alpha&H00&\4a&HFF&\blur1.5}To Be Continued
-Dialogue: 0,0:23:37.39,0:23:37.43,Sign,,0,0,0,,{\an2\pos(1089.16,1009.04)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
-Dialogue: 1,0:23:37.39,0:23:37.43,Sign,,0,0,0,,{\an2\pos(1089.16,1009.04)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
-Dialogue: 2,0:23:37.39,0:23:37.43,Sign,,0,0,0,,{\an2\pos(1089.16,1009.04)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
-Dialogue: 3,0:23:37.39,0:23:37.43,Sign,,0,0,0,,{\an2\pos(1089.16,1009.04)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\alpha&H00&\4a&HFF&\blur1.5}To Be Continued
-Dialogue: 0,0:23:37.43,0:23:37.47,Sign,,0,0,0,,{\an2\pos(1084.29,996.27)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
-Dialogue: 1,0:23:37.43,0:23:37.47,Sign,,0,0,0,,{\an2\pos(1084.29,996.27)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
-Dialogue: 2,0:23:37.43,0:23:37.47,Sign,,0,0,0,,{\an2\pos(1084.29,996.27)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
-Dialogue: 3,0:23:37.43,0:23:37.47,Sign,,0,0,0,,{\an2\pos(1084.29,996.27)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\alpha&H00&\4a&HFF&\blur1.5}To Be Continued
-Dialogue: 0,0:23:37.47,0:23:37.52,Sign,,0,0,0,,{\an2\pos(1085.12,1011.76)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur2}To Be Continued
-Dialogue: 1,0:23:37.47,0:23:37.52,Sign,,0,0,0,,{\an2\pos(1085.12,1011.76)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur2}To Be Continued
-Dialogue: 2,0:23:37.47,0:23:37.52,Sign,,0,0,0,,{\an2\pos(1085.12,1011.76)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur2}To Be Continued
-Dialogue: 3,0:23:37.47,0:23:37.52,Sign,,0,0,0,,{\an2\pos(1085.12,1011.76)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\alpha&H00&\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.52,0:23:37.56,Sign,,0,0,0,,{\an2\pos(1090.47,1000.41)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
-Dialogue: 1,0:23:37.52,0:23:37.56,Sign,,0,0,0,,{\an2\pos(1090.47,1000.41)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.52,0:23:37.56,Sign,,0,0,0,,{\an2\pos(1090.47,1000.41)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.52,0:23:37.56,Sign,,0,0,0,,{\an2\pos(1090.47,1000.41)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\alpha&H00&\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.56,0:23:37.60,Sign,,0,0,0,,{\an2\pos(1089.42,1005.3)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
-Dialogue: 1,0:23:37.56,0:23:37.60,Sign,,0,0,0,,{\an2\pos(1089.42,1005.3)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.56,0:23:37.60,Sign,,0,0,0,,{\an2\pos(1089.42,1005.3)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.56,0:23:37.60,Sign,,0,0,0,,{\an2\pos(1089.42,1005.3)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\alpha&H00&\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.60,0:23:37.64,Sign,,0,0,0,,{\an2\pos(1082.12,1000.78)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
-Dialogue: 1,0:23:37.60,0:23:37.64,Sign,,0,0,0,,{\an2\pos(1082.12,1000.78)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.60,0:23:37.64,Sign,,0,0,0,,{\an2\pos(1082.12,1000.78)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.60,0:23:37.64,Sign,,0,0,0,,{\an2\pos(1082.12,1000.78)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\alpha&H00&\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.64,0:23:37.68,Sign,,0,0,0,,{\an2\pos(1079.01,1008.57)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
-Dialogue: 1,0:23:37.64,0:23:37.68,Sign,,0,0,0,,{\an2\pos(1079.01,1008.57)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.64,0:23:37.68,Sign,,0,0,0,,{\an2\pos(1079.01,1008.57)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.64,0:23:37.68,Sign,,0,0,0,,{\an2\pos(1079.01,1008.57)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\alpha&H00&\4a&HFF&\blur1}To Be Continued
-Dialogue: 0,0:23:37.68,0:23:40.23,Sign,,0,0,0,,{\an2\pos(1081.49,1011.15)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord23\c&H000000&\3c&H080118&\alpha&H00&\blur1}To Be Continued
-Dialogue: 1,0:23:37.68,0:23:40.23,Sign,,0,0,0,,{\an2\pos(1081.49,1011.15)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord13\c&HFFF14C&\3c&HFFF14C&\alpha&H00&\1a&HFF&\blur1}To Be Continued
-Dialogue: 2,0:23:37.68,0:23:40.23,Sign,,0,0,0,,{\an2\pos(1081.49,1011.15)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\bord8.5\c&H81402F&\3c&H81402F&\alpha&H00&\1a&HAE&\4a&HFF&\blur1}To Be Continued
-Dialogue: 3,0:23:37.68,0:23:40.23,Sign,,0,0,0,,{\an2\pos(1081.49,1011.15)\fnFOT Manyo Gyosho Std Strp E\fs130\b800\alpha&H00&\4a&HFF&\blur1}To Be Continued
+Comment: 0,0:23:37.15,0:23:37.19,Sign,,0,0,0,tbc-sync,
 Dialogue: 0,0:12:34.14,0:12:34.27,Sign,,0,0,0,,{\pos(963.11,489.78)\fscx41\fscy33\fncreation\fs100\c&H0B0506&\alpha&H00&\blur0.9\iclip(m 920 469 l 965 505 924 528 979 515 982 512 974 507 1029 468 1028 463 969 502 923 464)}Waning Six
 Dialogue: 0,0:12:34.27,0:12:34.35,Sign,,0,0,0,,{\pos(978.11,484.37)\fscx41\fscy33\fncreation\fs100\c&H0B0506&\alpha&H00&\blur0.9\iclip(m 935 463.59 l 980 499.59 939 522.59 994 509.59 997 506.59 989 501.59 1044 462.59 1043 457.59 984 496.59 938 458.59)}Waning Six
 Dialogue: 0,0:12:34.35,0:12:34.40,Sign,,0,0,0,,{\pos(978.01,484.37)\fscx41\fscy33\fncreation\fs100\c&H0B0506&\alpha&H00&\blur0.9\iclip(m 934.9 463.59 l 979.9 499.59 938.9 522.59 993.9 509.59 996.9 506.59 988.9 501.59 1043.9 462.59 1042.9 457.59 983.9 496.59 937.9 458.59)}Waning Six
