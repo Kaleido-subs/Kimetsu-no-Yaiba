@@ -28,7 +28,7 @@ Dialogue: 0,0:03:09.58,0:03:13.96,Sign,,0,0,0,,{\an8\move(640,200.5,640,200,0,11
 Dialogue: 1,0:03:09.58,0:03:13.96,Sign,,0,0,0,,{\an8\move(640,200.5,640,200,0,1150)\fscx60\fscy60\fs122\fsp-12\c&HFEFFFD&\blur8\fad(950,0)\t(0,1100,\fscx58\fscy58\blur0.9)}E{\fsp0}pisode{\fsp-20}_{\fsp-6}22\N\N\N{\fscx90\fscy90}T{\fsp}he{\fsp-12}_{\fsp-6}M{\fsp0}aster{\fsp-12}_{\fsp0}of\Nthe{\fsp-12}_{\fsp-6}M{\fsp0}ansion
 Dialogue: 0,0:12:02.95,0:12:10.96,Sign,,0,0,0,,{\pos(1540,854)\fscx100.46\fscy100.46\fnBrushstroke 35\fs48\c&H090415&\blur0.8}Demon Slayer
 Dialogue: 0,0:22:59.94,0:23:01.36,Sign,,0,0,0,,{\pos(960,940)\fnBrush Strokes\fs100\bord5.5\3c&HFFFFFF&\blur0.8\t(989,1420,\1a&HFF&)\t(1000,1450,0.8,\alpha&HFF&)}Preview
-Dialogue: 1,0:22:59.94,0:23:01.36,Sign,,0,0,0,,{\pos(960,940)\fnBrush Strokes\fs100\c&H000000&\4a&HFF&\blur0.8\t(1000,1450,0.8,\alpha&HFF&)}Preview
+Dialogue: 1,0:22:59.94,0:23:01.36,Sign,,0,0,0,,{\pos(960,940)\fnBrush Strokes\fs100\c&H000000&\blur0.8\t(1000,1450,0.8,\alpha&HFF&)}Preview
 Comment: 0,0:23:37.73,0:23:37.77,Sign,,0,0,0,tbc-sync,
 Dialogue: 0,0:03:26.89,0:03:36.11,Sign,,0,0,0,,{\pos(1634,88)\fnBrush Strokes\fs72\bord0.65\xshad0.01\yshad2\4c&HFFFFFF&\1a&HFF&\t(320,320,\1a&HFE&)\3a&HFE&\4a&H00&\blur8\fad(320,0)\t(0,1600,0.4,\xshad-100)}Flame Hashira
 Dialogue: 1,0:03:26.89,0:03:36.11,Sign,,0,0,0,,{\pos(1634,88)\fnBrush Strokes\fs72\bord4.6\xshad0.01\4c&HFFFFFF&\1a&HFF&\t(320,320,\1a&HFE&)\3a&HFE&\4a&H00&\blur1\fad(320,0)\t(0,1600,0.4,\xshad-100)}Flame Hashira

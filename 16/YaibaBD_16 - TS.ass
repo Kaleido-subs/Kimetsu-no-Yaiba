@@ -26,41 +26,41 @@ Style: Sign,RSStyle,74,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,1
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:02:24.62,0:02:29.00,Sign,,0,0,0,,{\an8\move(640,200.5,640,200,0,1150)\fscx60\fscy60\fs122\fsp-12\bord1\c&HFEFFFD&\1a&HC8&\blur8\fad(1450,0)\t(0,1100,\fscx58\fscy58\blur3)}E{\fsp0}pisode{\fsp-20}_{\fsp-6}16\N\N\N{\fscx90\fscy90}L{\fsp0}etting\N{\fsp-6}S{\fsp0}omeone{\fsp-12}_{\fsp-6}E{\fsp0}lse\N{\fsp-6}G{\fsp0}o{\fsp-12}_{\fsp-6}F{\fsp0}irst
 Dialogue: 1,0:02:24.62,0:02:29.00,Sign,,0,0,0,,{\an8\move(640,200.5,640,200,0,1150)\fscx60\fscy60\fs122\fsp-12\c&HFEFFFD&\blur8\fad(950,0)\t(0,1100,\fscx58\fscy58\blur0.9)}E{\fsp0}pisode{\fsp-20}_{\fsp-6}16\N\N\N{\fscx90\fscy90}L{\fsp0}etting\N{\fsp-6}S{\fsp0}omeone{\fsp-12}_{\fsp-6}E{\fsp0}lse\N{\fsp-6}G{\fsp0}o{\fsp-12}_{\fsp-6}F{\fsp0}irst
-Dialogue: 0,0:10:14.00,0:10:22.01,Sign,,0,0,0,,{\pos(1539.61,853.11)\fscx100.46\fscy100.46\fnBrushstroke 35\fs48\c&H090415&\3a&H00&\4a&H00&\blur0.8}Demon Slayer
-Dialogue: 0,0:22:40.04,0:22:40.42,Sign,,0,0,0,,{\an3\pos(1103.48,480.42)\fscx100.46\fscy100.46\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
-Dialogue: 0,0:22:40.42,0:22:40.46,Sign,,0,0,0,,{\an3\pos(1103.48,480.42)\fscx100.46\fscy100.46\frz0.1\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
-Dialogue: 0,0:22:40.46,0:22:40.50,Sign,,0,0,0,,{\an3\pos(1103.48,480.42)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
-Dialogue: 0,0:22:40.50,0:22:40.54,Sign,,0,0,0,,{\an3\pos(1104.48,481.42)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
-Dialogue: 0,0:22:40.54,0:22:40.58,Sign,,0,0,0,,{\an3\pos(1105.48,482.42)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\c&H29272E&\3a&H00&\4a&H00&\blur1}Demon Slayer
-Dialogue: 0,0:22:40.58,0:22:40.63,Sign,,0,0,0,,{\an3\pos(1107.48,482.42)\frz0.15\fnBrushstroke 35\fs82\c&H2B2A2E&\3a&H00&\4a&H00&\blur1.1}Demon Slayer
-Dialogue: 0,0:22:40.63,0:22:40.67,Sign,,0,0,0,,{\an3\pos(1111.48,482.42)\fscx99\fscy102\frz0.15\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:40.67,0:22:40.71,Sign,,0,0,0,,{\an3\pos(1123.48,480.42)\fscx95\fscy102\frz0.15\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:40.71,0:22:40.75,Sign,,0,0,0,,{\an3\pos(1163.41,476.38)\fscx95\fscy102\frz0.15\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:40.75,0:22:40.79,Sign,,0,0,0,,{\an3\pos(1213.98,466.1)\fscx95\fscy102\frz1.65\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:40.79,0:22:40.83,Sign,,0,0,0,,{\an3\pos(1285.41,464.38)\fscx95\fscy102\frz1.65\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:40.83,0:22:40.88,Sign,,0,0,0,,{\an3\pos(1359.41,464.96)\fscx95\fscy102\frz2.13\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:40.88,0:22:40.92,Sign,,0,0,0,,{\an3\pos(1454.55,457.53)\fscx90.31\fscy96.96\frz2.13\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:40.92,0:22:40.96,Sign,,0,0,0,,{\an3\pos(1561.12,460.38)\fscx83\fscy96\frz2.13\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:40.96,0:22:41.00,Sign,,0,0,0,,{\an3\pos(1662.84,452.67)\fscx73\fscy92\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:41.00,0:22:41.04,Sign,,0,0,0,,{\an3\pos(1731.98,447.53)\fscx63\fscy98\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:41.04,0:22:41.08,Sign,,0,0,0,,{\an3\pos(1805.12,444.1)\fscx45\fscy99\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:41.08,0:22:41.13,Sign,,0,0,0,,{\an3\pos(1872.27,442.1)\fscx28\fscy109\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:22:41.25,0:22:41.29,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HB8E1EB&\3c&HB8E1EB&\3a&H00&\4a&H00&\blur0.6\clip(m 1593 342 l 1462 6 1188 32 1278 161)}PREVIEW
-Dialogue: 1,0:22:41.25,0:22:41.29,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H354A40&\3a&H00&\4a&HFF&\blur0.6\clip(m 1593 342 l 1462 6 1188 32 1278 161)}PREVIEW
-Dialogue: 0,0:22:41.29,0:22:42.79,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HB8E1EB&\3c&HB8E1EB&\3a&H00&\4a&H00&\blur0.6}PREVIEW
-Dialogue: 1,0:22:41.29,0:22:42.79,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H354A40&\3a&H00&\4a&HFF&\blur0.6}PREVIEW
-Dialogue: 0,0:22:42.79,0:22:42.92,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HB8E1EB&\3c&HB8E1EB&\3a&H00&\4a&H00&\blur0.6\iclip(m 1294 118 l 1303 112 1315 104 1320 101 1325 98 1332 100 1338 103 1358 107 1366 108 1384 113)}PREVIEW
-Dialogue: 1,0:22:42.79,0:22:42.92,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H354A40&\3a&H00&\4a&HFF&\blur0.6\iclip(m 1294 118 l 1303 112 1315 104 1320 101 1325 98 1332 100 1338 103 1358 107 1366 108 1384 113)}PREVIEW
-Dialogue: 0,0:22:42.92,0:22:43.42,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HB8E1EB&\3c&HB8E1EB&\3a&H00&\4a&H00&\blur0.6}PREVIEW
-Dialogue: 1,0:22:42.92,0:22:43.42,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H354A40&\3a&H00&\4a&HFF&\blur0.6}PREVIEW
-Dialogue: 0,0:22:43.42,0:22:43.67,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HB8E1EB&\3c&HB8E1EB&\3a&H00&\4a&H00&\blur0.6\iclip(m 1338 132 l 1304 76 1304 70 1306 67 1331 52 1342 46 1352 41 1357 41 1360 43 1365 52 1374 80 1396 136)}PREVIEW
-Dialogue: 1,0:22:43.42,0:22:43.67,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H354A40&\3a&H00&\4a&HFF&\blur0.6\iclip(m 1338 132 l 1304 76 1304 70 1306 67 1331 52 1342 46 1352 41 1357 41 1360 43 1365 52 1374 80 1396 136)}PREVIEW
-Dialogue: 0,0:22:43.67,0:22:43.92,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HB8E1EB&\3c&HB8E1EB&\3a&H00&\4a&H00&\blur0.6\clip(m 1270 98 l 1275 93 1282 91 1288 95 1299 110 1327 145 1354 176 1362 186 1359 172 1355 172 1352 168 1342 152 1327 128 1321 116 1322 109 1328 104 1343 94 1362 85 1375 81 1382 80 1387 80 1392 84 1403 132 1498 152 1545 62 1549 57 1553 56 1565 60 1587 72 1590 78 1589 82 1579 91 1570 108 1543 142 1668 118 1640 4 1194 22)}PREVIEW
-Dialogue: 1,0:22:43.67,0:22:43.92,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H354A40&\3a&H00&\4a&HFF&\blur0.6\clip(m 1270 98 l 1275 93 1282 91 1288 95 1299 110 1327 145 1354 176 1362 186 1359 172 1355 172 1352 168 1342 152 1327 128 1321 116 1322 109 1328 104 1343 94 1362 85 1375 81 1382 80 1387 80 1392 84 1403 132 1498 152 1545 62 1549 57 1553 56 1565 60 1587 72 1590 78 1589 82 1579 91 1570 108 1543 142 1668 118 1640 4 1194 22)}PREVIEW
-Dialogue: 0,0:22:43.92,0:22:44.17,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HB8E1EB&\3c&HB8E1EB&\3a&H00&\4a&H00&\blur0.6\iclip(m 1338 132 l 1304 76 1304 70 1306 67 1331 52 1342 46 1352 41 1357 41 1360 43 1365 52 1374 80 1396 136)}PREVIEW
-Dialogue: 1,0:22:43.92,0:22:44.17,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H354A40&\3a&H00&\4a&HFF&\blur0.6\iclip(m 1338 132 l 1304 76 1304 70 1306 67 1331 52 1342 46 1352 41 1357 41 1360 43 1365 52 1374 80 1396 136)}PREVIEW
-Dialogue: 0,0:22:44.17,0:23:04.32,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HB8E1EB&\3c&HB8E1EB&\3a&H00&\4a&H00&\blur0.6}PREVIEW
-Dialogue: 1,0:22:44.17,0:23:04.32,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H354A40&\3a&H00&\4a&HFF&\blur0.6}PREVIEW
-Dialogue: 0,0:23:11.95,0:23:37.10,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HB8E1EB&\3c&HB8E1EB&\3a&H00&\4a&H00&\blur0.6}PREVIEW
-Dialogue: 1,0:23:11.95,0:23:37.10,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H354A40&\3a&H00&\4a&HFF&\blur0.6}PREVIEW
+Dialogue: 0,0:10:14.00,0:10:22.01,Sign,,0,0,0,,{\pos(1539.61,853.11)\fscx100.46\fscy100.46\fnBrushstroke 35\fs48\c&H090415&\3a&H00&\blur0.8}Demon Slayer
+Dialogue: 0,0:22:40.04,0:22:40.42,Sign,,0,0,0,,{\an3\pos(1103.48,480.42)\fscx100.46\fscy100.46\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\blur1}Demon Slayer
+Dialogue: 0,0:22:40.42,0:22:40.46,Sign,,0,0,0,,{\an3\pos(1103.48,480.42)\fscx100.46\fscy100.46\frz0.1\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\blur1}Demon Slayer
+Dialogue: 0,0:22:40.46,0:22:40.50,Sign,,0,0,0,,{\an3\pos(1103.48,480.42)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\blur1}Demon Slayer
+Dialogue: 0,0:22:40.50,0:22:40.54,Sign,,0,0,0,,{\an3\pos(1104.48,481.42)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\blur1}Demon Slayer
+Dialogue: 0,0:22:40.54,0:22:40.58,Sign,,0,0,0,,{\an3\pos(1105.48,482.42)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\c&H29272E&\3a&H00&\blur1}Demon Slayer
+Dialogue: 0,0:22:40.58,0:22:40.63,Sign,,0,0,0,,{\an3\pos(1107.48,482.42)\frz0.15\fnBrushstroke 35\fs82\c&H2B2A2E&\3a&H00&\blur1.1}Demon Slayer
+Dialogue: 0,0:22:40.63,0:22:40.67,Sign,,0,0,0,,{\an3\pos(1111.48,482.42)\fscx99\fscy102\frz0.15\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:40.67,0:22:40.71,Sign,,0,0,0,,{\an3\pos(1123.48,480.42)\fscx95\fscy102\frz0.15\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:40.71,0:22:40.75,Sign,,0,0,0,,{\an3\pos(1163.41,476.38)\fscx95\fscy102\frz0.15\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:40.75,0:22:40.79,Sign,,0,0,0,,{\an3\pos(1213.98,466.1)\fscx95\fscy102\frz1.65\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:40.79,0:22:40.83,Sign,,0,0,0,,{\an3\pos(1285.41,464.38)\fscx95\fscy102\frz1.65\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:40.83,0:22:40.88,Sign,,0,0,0,,{\an3\pos(1359.41,464.96)\fscx95\fscy102\frz2.13\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:40.88,0:22:40.92,Sign,,0,0,0,,{\an3\pos(1454.55,457.53)\fscx90.31\fscy96.96\frz2.13\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:40.92,0:22:40.96,Sign,,0,0,0,,{\an3\pos(1561.12,460.38)\fscx83\fscy96\frz2.13\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:40.96,0:22:41.00,Sign,,0,0,0,,{\an3\pos(1662.84,452.67)\fscx73\fscy92\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:41.00,0:22:41.04,Sign,,0,0,0,,{\an3\pos(1731.98,447.53)\fscx63\fscy98\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:41.04,0:22:41.08,Sign,,0,0,0,,{\an3\pos(1805.12,444.1)\fscx45\fscy99\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:41.08,0:22:41.13,Sign,,0,0,0,,{\an3\pos(1872.27,442.1)\fscx28\fscy109\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:22:41.25,0:22:41.29,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HB8E1EB&\3c&HB8E1EB&\3a&H00&\blur0.6\clip(m 1593 342 l 1462 6 1188 32 1278 161)}PREVIEW
+Dialogue: 1,0:22:41.25,0:22:41.29,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H354A40&\3a&H00&\blur0.6\clip(m 1593 342 l 1462 6 1188 32 1278 161)}PREVIEW
+Dialogue: 0,0:22:41.29,0:22:42.79,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HB8E1EB&\3c&HB8E1EB&\3a&H00&\blur0.6}PREVIEW
+Dialogue: 1,0:22:41.29,0:22:42.79,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H354A40&\3a&H00&\blur0.6}PREVIEW
+Dialogue: 0,0:22:42.79,0:22:42.92,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HB8E1EB&\3c&HB8E1EB&\3a&H00&\blur0.6\iclip(m 1294 118 l 1303 112 1315 104 1320 101 1325 98 1332 100 1338 103 1358 107 1366 108 1384 113)}PREVIEW
+Dialogue: 1,0:22:42.79,0:22:42.92,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H354A40&\3a&H00&\blur0.6\iclip(m 1294 118 l 1303 112 1315 104 1320 101 1325 98 1332 100 1338 103 1358 107 1366 108 1384 113)}PREVIEW
+Dialogue: 0,0:22:42.92,0:22:43.42,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HB8E1EB&\3c&HB8E1EB&\3a&H00&\blur0.6}PREVIEW
+Dialogue: 1,0:22:42.92,0:22:43.42,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H354A40&\3a&H00&\blur0.6}PREVIEW
+Dialogue: 0,0:22:43.42,0:22:43.67,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HB8E1EB&\3c&HB8E1EB&\3a&H00&\blur0.6\iclip(m 1338 132 l 1304 76 1304 70 1306 67 1331 52 1342 46 1352 41 1357 41 1360 43 1365 52 1374 80 1396 136)}PREVIEW
+Dialogue: 1,0:22:43.42,0:22:43.67,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H354A40&\3a&H00&\blur0.6\iclip(m 1338 132 l 1304 76 1304 70 1306 67 1331 52 1342 46 1352 41 1357 41 1360 43 1365 52 1374 80 1396 136)}PREVIEW
+Dialogue: 0,0:22:43.67,0:22:43.92,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HB8E1EB&\3c&HB8E1EB&\3a&H00&\blur0.6\clip(m 1270 98 l 1275 93 1282 91 1288 95 1299 110 1327 145 1354 176 1362 186 1359 172 1355 172 1352 168 1342 152 1327 128 1321 116 1322 109 1328 104 1343 94 1362 85 1375 81 1382 80 1387 80 1392 84 1403 132 1498 152 1545 62 1549 57 1553 56 1565 60 1587 72 1590 78 1589 82 1579 91 1570 108 1543 142 1668 118 1640 4 1194 22)}PREVIEW
+Dialogue: 1,0:22:43.67,0:22:43.92,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H354A40&\3a&H00&\blur0.6\clip(m 1270 98 l 1275 93 1282 91 1288 95 1299 110 1327 145 1354 176 1362 186 1359 172 1355 172 1352 168 1342 152 1327 128 1321 116 1322 109 1328 104 1343 94 1362 85 1375 81 1382 80 1387 80 1392 84 1403 132 1498 152 1545 62 1549 57 1553 56 1565 60 1587 72 1590 78 1589 82 1579 91 1570 108 1543 142 1668 118 1640 4 1194 22)}PREVIEW
+Dialogue: 0,0:22:43.92,0:22:44.17,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HB8E1EB&\3c&HB8E1EB&\3a&H00&\blur0.6\iclip(m 1338 132 l 1304 76 1304 70 1306 67 1331 52 1342 46 1352 41 1357 41 1360 43 1365 52 1374 80 1396 136)}PREVIEW
+Dialogue: 1,0:22:43.92,0:22:44.17,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H354A40&\3a&H00&\blur0.6\iclip(m 1338 132 l 1304 76 1304 70 1306 67 1331 52 1342 46 1352 41 1357 41 1360 43 1365 52 1374 80 1396 136)}PREVIEW
+Dialogue: 0,0:22:44.17,0:23:04.32,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HB8E1EB&\3c&HB8E1EB&\3a&H00&\blur0.6}PREVIEW
+Dialogue: 1,0:22:44.17,0:23:04.32,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H354A40&\3a&H00&\blur0.6}PREVIEW
+Dialogue: 0,0:23:11.95,0:23:37.10,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HB8E1EB&\3c&HB8E1EB&\3a&H00&\blur0.6}PREVIEW
+Dialogue: 1,0:23:11.95,0:23:37.10,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H354A40&\3a&H00&\blur0.6}PREVIEW
 Comment: 0,0:23:37.10,0:23:37.15,Sign,,0,0,0,tbc-sync,

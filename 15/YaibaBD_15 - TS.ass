@@ -334,30 +334,30 @@ Dialogue: 0,0:11:28.12,0:11:28.16,Sign,,0,0,0,,{=4}{\fscx92.19\fscy92.19\an5\fnY
 Dialogue: 0,0:11:28.16,0:11:28.20,Sign,,0,0,0,,{=4}{\fscx92.14\fscy92.14\an5\fnYellow Ginger\fs42\b0\c&H1B1B1D&\blur1.03\pos(892.44,494.84)}Wiste{\alpha&HFF&}ria
 Dialogue: 0,0:11:28.20,0:11:28.25,Sign,,0,0,0,,{=4}{\fscx92.11\fscy92.11\an5\fnYellow Ginger\fs42\b0\c&H1B1B1D&\blur1.03\pos(892.46,494.85)}Wiste{\alpha&HFF&}ria
 Dialogue: 0,0:14:43.82,0:14:47.15,Sign,,0,0,0,,{\pos(786,953)\fnSimplicity\fs70\fsp10\bord1.5\c&HE3E5E7&\3c&HE3E5E7&\4c&HE3E5E7&\blur0.6\1a&HFE&\3a&HFE&\shad0.01\fad(238,0)\q2}Sulking won't do you any good. \NYou have to go help your friends.
-Dialogue: 0,0:14:02.02,0:14:10.03,Sign,,0,0,0,,{\pos(1536,853)\fscx100.46\fscy100.46\fnBrushstroke 35\fs48\c&H090415&\3a&H00&\4a&H00&\blur0.8}Demon Slayer
-Dialogue: 0,0:23:00.03,0:23:00.28,Sign,,0,0,0,,{\pos(964,428.811)\fscx100.46\fscy100.46\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.28,0:23:00.32,Sign,,0,0,0,,{\pos(963.928,428.811)\fscx100.46\fscy100.46\frz0.1\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.32,0:23:00.36,Sign,,0,0,0,,{\pos(963.893,430)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.36,0:23:00.40,Sign,,0,0,0,,{\pos(965.893,431)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.40,0:23:00.44,Sign,,0,0,0,,{\pos(966.893,432)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\c&H29272E&\3a&H00&\4a&H00&\blur1}Demon Slayer
-Dialogue: 0,0:23:00.44,0:23:00.48,Sign,,0,0,0,,{\pos(968.893,432)\frz0.15\fnBrushstroke 35\fs82\c&H2B2A2E&\3a&H00&\4a&H00&\blur1.1}Demon Slayer
-Dialogue: 0,0:23:00.48,0:23:00.53,Sign,,0,0,0,,{\pos(973.891,430.18)\fscx99\fscy102\frz0.15\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.53,0:23:00.57,Sign,,0,0,0,,{\pos(986.891,428.18)\fscx95\fscy102\frz0.15\fry358\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.57,0:23:00.61,Sign,,0,0,0,,{\pos(1030.891,424.18)\fscx95\fscy102\frz0.15\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.61,0:23:00.65,Sign,,0,0,0,,{\pos(1078.796,418.197)\fscx95\fscy102\frz1.65\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.65,0:23:00.69,Sign,,0,0,0,,{\pos(1148.796,416.197)\fscx95\fscy102\frz1.65\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.69,0:23:00.73,Sign,,0,0,0,,{\pos(1220.446,418.209)\fscx95\fscy102\frz2.13\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.73,0:23:00.78,Sign,,0,0,0,,{\pos(1326.522,414.274)\fscx90.31\fscy96.96\frz2.13\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.78,0:23:00.82,Sign,,0,0,0,,{\pos(1435.537,417.667)\fscx83\fscy96\frz2.13\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.82,0:23:00.86,Sign,,0,0,0,,{\pos(1540.916,417.406)\fscx73\fscy92\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.86,0:23:00.90,Sign,,0,0,0,,{\pos(1623.715,405.955)\fscx63\fscy98\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.90,0:23:00.94,Sign,,0,0,0,,{\pos(1731.681,399.546)\fscx45\fscy99\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.94,0:23:00.98,Sign,,0,0,0,,{\pos(1830.346,393.46)\fscx28\fscy109\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:00.98,0:23:01.03,Sign,,0,0,0,,{\pos(1946.352,398.718)\fscx30\fscy79\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\4a&H00&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:01.10,0:23:01.15,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\4a&H00&\blur0.6\clip(m 1466 21 l 1509 125 1221 123 1242 27)}PREVIEW
-Dialogue: 1,0:23:01.10,0:23:01.15,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\4a&HFF&\blur0.6\clip(m 1466 21 l 1509 125 1221 123 1242 27)}PREVIEW
-Dialogue: 0,0:23:01.15,0:23:07.40,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\4a&H00&\blur0.6}PREVIEW
-Dialogue: 1,0:23:01.15,0:23:07.40,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\4a&HFF&\blur0.6}PREVIEW
+Dialogue: 0,0:14:02.02,0:14:10.03,Sign,,0,0,0,,{\pos(1536,853)\fscx100.46\fscy100.46\fnBrushstroke 35\fs48\c&H090415&\3a&H00&\blur0.8}Demon Slayer
+Dialogue: 0,0:23:00.03,0:23:00.28,Sign,,0,0,0,,{\pos(964,428.811)\fscx100.46\fscy100.46\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.28,0:23:00.32,Sign,,0,0,0,,{\pos(963.928,428.811)\fscx100.46\fscy100.46\frz0.1\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.32,0:23:00.36,Sign,,0,0,0,,{\pos(963.893,430)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.36,0:23:00.40,Sign,,0,0,0,,{\pos(965.893,431)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.40,0:23:00.44,Sign,,0,0,0,,{\pos(966.893,432)\fscx99.99\frz0.15\fnBrushstroke 35\fs82\c&H29272E&\3a&H00&\blur1}Demon Slayer
+Dialogue: 0,0:23:00.44,0:23:00.48,Sign,,0,0,0,,{\pos(968.893,432)\frz0.15\fnBrushstroke 35\fs82\c&H2B2A2E&\3a&H00&\blur1.1}Demon Slayer
+Dialogue: 0,0:23:00.48,0:23:00.53,Sign,,0,0,0,,{\pos(973.891,430.18)\fscx99\fscy102\frz0.15\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.53,0:23:00.57,Sign,,0,0,0,,{\pos(986.891,428.18)\fscx95\fscy102\frz0.15\fry358\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.57,0:23:00.61,Sign,,0,0,0,,{\pos(1030.891,424.18)\fscx95\fscy102\frz0.15\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.61,0:23:00.65,Sign,,0,0,0,,{\pos(1078.796,418.197)\fscx95\fscy102\frz1.65\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.65,0:23:00.69,Sign,,0,0,0,,{\pos(1148.796,416.197)\fscx95\fscy102\frz1.65\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.69,0:23:00.73,Sign,,0,0,0,,{\pos(1220.446,418.209)\fscx95\fscy102\frz2.13\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.73,0:23:00.78,Sign,,0,0,0,,{\pos(1326.522,414.274)\fscx90.31\fscy96.96\frz2.13\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.78,0:23:00.82,Sign,,0,0,0,,{\pos(1435.537,417.667)\fscx83\fscy96\frz2.13\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.82,0:23:00.86,Sign,,0,0,0,,{\pos(1540.916,417.406)\fscx73\fscy92\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.86,0:23:00.90,Sign,,0,0,0,,{\pos(1623.715,405.955)\fscx63\fscy98\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.90,0:23:00.94,Sign,,0,0,0,,{\pos(1731.681,399.546)\fscx45\fscy99\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.94,0:23:00.98,Sign,,0,0,0,,{\pos(1830.346,393.46)\fscx28\fscy109\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:00.98,0:23:01.03,Sign,,0,0,0,,{\pos(1946.352,398.718)\fscx30\fscy79\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\3a&H00&\blur1.2}Demon Slayer
+Dialogue: 0,0:23:01.10,0:23:01.15,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\blur0.6\clip(m 1466 21 l 1509 125 1221 123 1242 27)}PREVIEW
+Dialogue: 1,0:23:01.10,0:23:01.15,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\blur0.6\clip(m 1466 21 l 1509 125 1221 123 1242 27)}PREVIEW
+Dialogue: 0,0:23:01.15,0:23:07.40,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\blur0.6}PREVIEW
+Dialogue: 1,0:23:01.15,0:23:07.40,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\blur0.6}PREVIEW
 Dialogue: 3,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\an7\pos(1630,44)\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 3,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\an7\pos(1630,70)\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 3,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\an7\pos(1630,93)\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
@@ -465,44 +465,44 @@ Dialogue: 3,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\an7\pos(1531.868,123.159)\frz23
 Dialogue: 3,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\an7\pos(1531.868,72.492)\frz239.7\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 3,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\an7\pos(1557.391,2.969)\fscx295\frz300.3\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 2,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\an7\pos(0,0)\bord0\blur2\p1}m 1509 42 l 1891 42 1891 1038 1509 1038
-Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1887.308,435.028)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1886.31,725.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1885.31,922.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1887.31,215.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1513.31,435.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1512.31,725.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1511.31,922.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1513.31,215.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1741.31,44.03)\fscx5\fscy72\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1741.31,1036.03)\fscx5\fscy72\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1730.31,1025.03)\fscx5\fscy60\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1734.31,62.03)\fscx5\fscy62\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1872.31,633.03)\fscx5\fscy167\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1522.31,633.03)\fscx5\fscy167\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
+Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1887.308,435.028)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1886.31,725.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1885.31,922.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1887.31,215.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1513.31,435.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1512.31,725.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1511.31,922.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1513.31,215.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1741.31,44.03)\fscx5\fscy72\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1741.31,1036.03)\fscx5\fscy72\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1730.31,1025.03)\fscx5\fscy60\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1734.31,62.03)\fscx5\fscy62\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1872.31,633.03)\fscx5\fscy167\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1522.31,633.03)\fscx5\fscy167\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
 Comment: 0,0:23:07.53,0:23:09.20,Default,,0,0,0,,"First, let's calm down and listen to the sounds around us!"
-Dialogue: 5,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1702.667,456.7)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}First, let's calm down
-Dialogue: 5,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}and listen to the
-Dialogue: 5,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}sounds around us!
-Dialogue: 6,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1702.667,456.7)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}First, let's calm down
-Dialogue: 6,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}and listen to the
-Dialogue: 6,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}sounds around us!
-Dialogue: 0,0:23:07.40,0:23:07.65,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\4a&H00&\blur0.6\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
-Dialogue: 1,0:23:07.40,0:23:07.65,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\4a&HFF&\blur0.6\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
-Dialogue: 0,0:23:07.65,0:23:07.90,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\4a&H00&\blur0.6\iclip(m 1391 124 l 1431 93 1442 122)}PREVIEW
-Dialogue: 1,0:23:07.65,0:23:07.90,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\4a&HFF&\blur0.6}PREVIEW
-Dialogue: 0,0:23:07.90,0:23:08.15,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\4a&H00&\blur0.6\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
-Dialogue: 1,0:23:07.90,0:23:08.15,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\4a&HFF&\blur0.6\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
-Dialogue: 0,0:23:08.15,0:23:08.40,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\4a&H00&\blur0.6\iclip(m 1391 124 l 1431 93 1442 122)}PREVIEW
-Dialogue: 1,0:23:08.15,0:23:08.40,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\4a&HFF&\blur0.6}PREVIEW
-Dialogue: 0,0:23:08.40,0:23:08.65,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\4a&H00&\blur0.6\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
-Dialogue: 1,0:23:08.40,0:23:08.65,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\4a&HFF&\blur0.6\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
-Dialogue: 0,0:23:08.65,0:23:08.90,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\4a&H00&\blur0.6\iclip(m 1391 124 l 1431 93 1442 122)}PREVIEW
-Dialogue: 1,0:23:08.65,0:23:08.90,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\4a&HFF&\blur0.6}PREVIEW
-Dialogue: 0,0:23:08.90,0:23:09.15,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\4a&H00&\blur0.6\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
-Dialogue: 1,0:23:08.90,0:23:09.15,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\4a&HFF&\blur0.6\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
-Dialogue: 0,0:23:09.15,0:23:09.28,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\4a&H00&\blur0.6\iclip(m 1391 124 l 1431 93 1442 122)}PREVIEW
-Dialogue: 1,0:23:09.15,0:23:13.91,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\4a&HFF&\blur0.6}PREVIEW
-Dialogue: 0,0:23:09.28,0:23:13.91,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\4a&H00&\blur0.6}PREVIEW
+Dialogue: 5,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1702.667,456.7)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}First, let's calm down
+Dialogue: 5,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}and listen to the
+Dialogue: 5,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}sounds around us!
+Dialogue: 6,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1702.667,456.7)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}First, let's calm down
+Dialogue: 6,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}and listen to the
+Dialogue: 6,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}sounds around us!
+Dialogue: 0,0:23:07.40,0:23:07.65,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\blur0.6\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
+Dialogue: 1,0:23:07.40,0:23:07.65,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\blur0.6\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
+Dialogue: 0,0:23:07.65,0:23:07.90,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\blur0.6\iclip(m 1391 124 l 1431 93 1442 122)}PREVIEW
+Dialogue: 1,0:23:07.65,0:23:07.90,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\blur0.6}PREVIEW
+Dialogue: 0,0:23:07.90,0:23:08.15,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\blur0.6\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
+Dialogue: 1,0:23:07.90,0:23:08.15,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\blur0.6\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
+Dialogue: 0,0:23:08.15,0:23:08.40,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\blur0.6\iclip(m 1391 124 l 1431 93 1442 122)}PREVIEW
+Dialogue: 1,0:23:08.15,0:23:08.40,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\blur0.6}PREVIEW
+Dialogue: 0,0:23:08.40,0:23:08.65,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\blur0.6\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
+Dialogue: 1,0:23:08.40,0:23:08.65,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\blur0.6\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
+Dialogue: 0,0:23:08.65,0:23:08.90,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\blur0.6\iclip(m 1391 124 l 1431 93 1442 122)}PREVIEW
+Dialogue: 1,0:23:08.65,0:23:08.90,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\blur0.6}PREVIEW
+Dialogue: 0,0:23:08.90,0:23:09.15,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\blur0.6\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
+Dialogue: 1,0:23:08.90,0:23:09.15,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\blur0.6\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
+Dialogue: 0,0:23:09.15,0:23:09.28,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\blur0.6\iclip(m 1391 124 l 1431 93 1442 122)}PREVIEW
+Dialogue: 1,0:23:09.15,0:23:13.91,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\blur0.6}PREVIEW
+Dialogue: 0,0:23:09.28,0:23:13.91,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\blur0.6}PREVIEW
 Dialogue: 3,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\an7\pos(1630,44)\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 3,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\an7\pos(1630,70)\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 3,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\an7\pos(1630,93)\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
@@ -610,51 +610,51 @@ Dialogue: 3,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\an7\pos(1531.868,123.159)\frz23
 Dialogue: 3,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\an7\pos(1531.868,72.492)\frz239.7\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 3,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\an7\pos(1557.391,2.969)\fscx295\frz300.3\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 2,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\an7\pos(0,0)\bord0\blur2\p1}m 1509 42 l 1891 42 1891 1038 1509 1038
-Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1887.308,435.028)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1886.31,725.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1885.31,922.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1887.31,215.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1513.31,435.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1512.31,725.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1511.31,922.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1513.31,215.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1741.31,44.03)\fscx5\fscy72\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1741.31,1036.03)\fscx5\fscy72\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1730.31,1025.03)\fscx5\fscy60\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1734.31,62.03)\fscx5\fscy62\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1872.31,633.03)\fscx5\fscy167\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1522.31,633.03)\fscx5\fscy167\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
+Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1887.308,435.028)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1886.31,725.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1885.31,922.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1887.31,215.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1513.31,435.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1512.31,725.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1511.31,922.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1513.31,215.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1741.31,44.03)\fscx5\fscy72\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1741.31,1036.03)\fscx5\fscy72\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1730.31,1025.03)\fscx5\fscy60\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1734.31,62.03)\fscx5\fscy62\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1872.31,633.03)\fscx5\fscy167\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\pos(1522.31,633.03)\fscx5\fscy167\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
 Comment: 0,0:23:12.66,0:23:13.91,Default,,0,0,0,,"I told you to calm down!"
-Dialogue: 5,0:23:12.66,0:23:13.91,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}I told you
-Dialogue: 5,0:23:12.66,0:23:13.91,Sign,,0,0,0,,{\pos(1702.667,529.15)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}to calm down!
-Dialogue: 6,0:23:12.66,0:23:13.91,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}I told you
-Dialogue: 6,0:23:12.66,0:23:13.91,Sign,,0,0,0,,{\pos(1702.667,529.15)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}to calm down!
+Dialogue: 5,0:23:12.66,0:23:13.91,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}I told you
+Dialogue: 5,0:23:12.66,0:23:13.91,Sign,,0,0,0,,{\pos(1702.667,529.15)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}to calm down!
+Dialogue: 6,0:23:12.66,0:23:13.91,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}I told you
+Dialogue: 6,0:23:12.66,0:23:13.91,Sign,,0,0,0,,{\pos(1702.667,529.15)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}to calm down!
 Comment: 0,0:23:13.91,0:23:16.41,Sign,,0,0,0,,{\an2\shad1.5\3a&H00&\bord3.6}"Now, it's time for a Taisho secret!"
-Dialogue: 5,0:23:13.91,0:23:16.41,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}Now, it's time
-Dialogue: 5,0:23:13.91,0:23:16.41,Sign,,0,0,0,,{\pos(1702.667,529.15)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}for a Taisho secret!
-Dialogue: 6,0:23:13.91,0:23:16.41,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}Now, it's time
-Dialogue: 6,0:23:13.91,0:23:16.41,Sign,,0,0,0,,{\pos(1702.667,529.15)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}for a Taisho secret!
+Dialogue: 5,0:23:13.91,0:23:16.41,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}Now, it's time
+Dialogue: 5,0:23:13.91,0:23:16.41,Sign,,0,0,0,,{\pos(1702.667,529.15)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}for a Taisho secret!
+Dialogue: 6,0:23:13.91,0:23:16.41,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}Now, it's time
+Dialogue: 6,0:23:13.91,0:23:16.41,Sign,,0,0,0,,{\pos(1702.667,529.15)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}for a Taisho secret!
 Comment: 0,0:23:16.41,0:23:18.54,Sign,,0,0,0,,{\an2\shad1.5\3a&H00&\bord3.6}"My real name is Ukogi."
-Dialogue: 5,0:23:16.41,0:23:18.54,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}My real name
-Dialogue: 5,0:23:16.41,0:23:18.54,Sign,,0,0,0,,{\pos(1702.667,529.15)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}is Ukogi.
-Dialogue: 6,0:23:16.41,0:23:18.54,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}My real name
-Dialogue: 6,0:23:16.41,0:23:18.54,Sign,,0,0,0,,{\pos(1702.667,529.15)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}is Ukogi.
+Dialogue: 5,0:23:16.41,0:23:18.54,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}My real name
+Dialogue: 5,0:23:16.41,0:23:18.54,Sign,,0,0,0,,{\pos(1702.667,529.15)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}is Ukogi.
+Dialogue: 6,0:23:16.41,0:23:18.54,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}My real name
+Dialogue: 6,0:23:16.41,0:23:18.54,Sign,,0,0,0,,{\pos(1702.667,529.15)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}is Ukogi.
 Comment: 0,0:23:18.54,0:23:20.87,Sign,,0,0,0,,{\an2\shad1.5\3a&H00&\bord3.6}"That's because my favourite food is ukogi rice."
-Dialogue: 5,0:23:18.54,0:23:20.87,Sign,,0,0,0,,{\pos(1702.667,456.7)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}That's because my
-Dialogue: 5,0:23:18.54,0:23:20.87,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}favourite food is
-Dialogue: 5,0:23:18.54,0:23:20.87,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}ukogi rice.
-Dialogue: 6,0:23:18.54,0:23:20.87,Sign,,0,0,0,,{\pos(1702.667,456.7)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}That's because my
-Dialogue: 6,0:23:18.54,0:23:20.87,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}favourite food is
-Dialogue: 6,0:23:18.54,0:23:20.87,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}ukogi rice.
+Dialogue: 5,0:23:18.54,0:23:20.87,Sign,,0,0,0,,{\pos(1702.667,456.7)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}That's because my
+Dialogue: 5,0:23:18.54,0:23:20.87,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}favourite food is
+Dialogue: 5,0:23:18.54,0:23:20.87,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}ukogi rice.
+Dialogue: 6,0:23:18.54,0:23:20.87,Sign,,0,0,0,,{\pos(1702.667,456.7)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}That's because my
+Dialogue: 6,0:23:18.54,0:23:20.87,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}favourite food is
+Dialogue: 6,0:23:18.54,0:23:20.87,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}ukogi rice.
 Comment: 0,0:23:20.87,0:23:23.08,Sign,,0,0,0,,{\an2\shad1.5\3a&H00&\bord3.6}"But Zenitsu hasn't noticed yet, so all I get is beans."
-Dialogue: 5,0:23:20.87,0:23:23.08,Sign,,0,0,0,,{\pos(1702.667,456.7)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}But Zenitsu
-Dialogue: 5,0:23:20.87,0:23:23.08,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}hasn't noticed yet,
-Dialogue: 5,0:23:20.87,0:23:23.08,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}so all I get is beans.
-Dialogue: 6,0:23:20.87,0:23:23.08,Sign,,0,0,0,,{\pos(1702.667,456.7)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}But Zenitsu
-Dialogue: 6,0:23:20.87,0:23:23.08,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}hasn't noticed yet,
-Dialogue: 6,0:23:20.87,0:23:23.08,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}so all I get is beans.
-Dialogue: 0,0:23:23.08,0:23:37.81,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\4a&H00&\blur0.6}PREVIEW
-Dialogue: 1,0:23:23.08,0:23:37.81,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\4a&HFF&\blur0.6}PREVIEW
+Dialogue: 5,0:23:20.87,0:23:23.08,Sign,,0,0,0,,{\pos(1702.667,456.7)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}But Zenitsu
+Dialogue: 5,0:23:20.87,0:23:23.08,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}hasn't noticed yet,
+Dialogue: 5,0:23:20.87,0:23:23.08,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}so all I get is beans.
+Dialogue: 6,0:23:20.87,0:23:23.08,Sign,,0,0,0,,{\pos(1702.667,456.7)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}But Zenitsu
+Dialogue: 6,0:23:20.87,0:23:23.08,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}hasn't noticed yet,
+Dialogue: 6,0:23:20.87,0:23:23.08,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}so all I get is beans.
+Dialogue: 0,0:23:23.08,0:23:37.81,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC8EDE3&\3c&HC8EDE3&\3a&H00&\blur0.6}PREVIEW
+Dialogue: 1,0:23:23.08,0:23:37.81,Sign,,0,0,0,,{\pos(1461.974,65.68)\frz3.24\fnDK Longreach\fs100\fsp5\c&H555353&\3a&H00&\blur0.6}PREVIEW
 Dialogue: 3,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\an7\pos(1630,44)\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 3,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\an7\pos(1630,70)\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 3,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\an7\pos(1630,93)\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
@@ -762,23 +762,23 @@ Dialogue: 3,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\an7\pos(1531.868,123.159)\frz23
 Dialogue: 3,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\an7\pos(1531.868,72.492)\frz239.7\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 3,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\an7\pos(1557.391,2.969)\fscx295\frz300.3\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 2,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\an7\pos(0,0)\bord0\blur2\p1}m 1509 42 l 1891 42 1891 1038 1509 1038
-Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1887.308,435.028)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1886.31,725.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1885.31,922.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1887.31,215.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1513.31,435.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1512.31,725.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1511.31,922.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1513.31,215.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1741.31,44.03)\fscx5\fscy72\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1741.31,1036.03)\fscx5\fscy72\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1730.31,1025.03)\fscx5\fscy60\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1734.31,62.03)\fscx5\fscy62\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1872.31,633.03)\fscx5\fscy167\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1522.31,633.03)\fscx5\fscy167\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
+Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1887.308,435.028)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1886.31,725.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1885.31,922.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1887.31,215.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1513.31,435.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1512.31,725.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1511.31,922.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1513.31,215.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1741.31,44.03)\fscx5\fscy72\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1741.31,1036.03)\fscx5\fscy72\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1730.31,1025.03)\fscx5\fscy60\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1734.31,62.03)\fscx5\fscy62\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1872.31,633.03)\fscx5\fscy167\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1522.31,633.03)\fscx5\fscy167\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
 Comment: 0,0:23:26.17,0:23:27.26,Sign,,0,0,0,,{\an2\shad1.5\3a&H00&\bord3.6}"An ukogi rice ball!"
-Dialogue: 5,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}An ukogi rice ball!
-Dialogue: 6,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}An ukogi rice ball!
+Dialogue: 5,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}An ukogi rice ball!
+Dialogue: 6,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}An ukogi rice ball!
 Dialogue: 3,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\an7\pos(1630,44)\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 3,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\an7\pos(1630,70)\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 3,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\an7\pos(1630,93)\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
@@ -886,32 +886,32 @@ Dialogue: 3,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\an7\pos(1531.868,123.159)\frz23
 Dialogue: 3,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\an7\pos(1531.868,72.492)\frz239.7\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 3,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\an7\pos(1557.391,2.969)\fscx295\frz300.3\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 2,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\an7\pos(0,0)\blur2\p1}m 1509 42 l 1891 42 1891 1038 1509 1038
-Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1887.308,435.028)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1886.31,725.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1885.31,922.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1887.31,215.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1513.31,435.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1512.31,725.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1511.31,922.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1513.31,215.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1741.31,44.03)\fscx5\fscy72\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1741.31,1036.03)\fscx5\fscy72\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1730.31,1025.03)\fscx5\fscy60\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1734.31,62.03)\fscx5\fscy62\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1872.31,633.03)\fscx5\fscy167\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
-Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1522.31,633.03)\fscx5\fscy167\fnMonster Game\fs1000\c&H000000&\3a&H00&\4a&H00&\blur0.8}l
+Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1887.308,435.028)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1886.31,725.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1885.31,922.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1887.31,215.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1513.31,435.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1512.31,725.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1511.31,922.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1513.31,215.03)\fscx5\fscy52\frz0.843\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1741.31,44.03)\fscx5\fscy72\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1741.31,1036.03)\fscx5\fscy72\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1730.31,1025.03)\fscx5\fscy60\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1734.31,62.03)\fscx5\fscy62\frz91\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1872.31,633.03)\fscx5\fscy167\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
+Dialogue: 4,0:23:30.72,0:23:34.18,Sign,,0,0,0,,{\pos(1522.31,633.03)\fscx5\fscy167\fnMonster Game\fs1000\c&H000000&\3a&H00&\blur0.8}l
 Comment: 0,0:23:30.72,0:23:32.47,Sign,,0,0,0,,{\an2\shad1.5\3a&H00&\bord3.6}"He's seriously worried."
-Dialogue: 5,0:23:30.72,0:23:32.47,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}He's seriously
-Dialogue: 5,0:23:30.72,0:23:32.47,Sign,,0,0,0,,{\pos(1702.667,529.15)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}worried...
-Dialogue: 6,0:23:30.72,0:23:32.47,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}He's seriously
-Dialogue: 6,0:23:30.72,0:23:32.47,Sign,,0,0,0,,{\pos(1702.667,529.15)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}worried...
+Dialogue: 5,0:23:30.72,0:23:32.47,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}He's seriously
+Dialogue: 5,0:23:30.72,0:23:32.47,Sign,,0,0,0,,{\pos(1702.667,529.15)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}worried...
+Dialogue: 6,0:23:30.72,0:23:32.47,Sign,,0,0,0,,{\pos(1702.667,480.85)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}He's seriously
+Dialogue: 6,0:23:30.72,0:23:32.47,Sign,,0,0,0,,{\pos(1702.667,529.15)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}worried...
 Comment: 0,0:23:32.47,0:23:34.18,Sign,,0,0,0,,{\an2\shad1.5\3a&H00&\bord3.6}"I guess this is why you just can't hate the guy."
-Dialogue: 5,0:23:32.47,0:23:34.18,Sign,,0,0,0,,{\pos(1702.667,456.7)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}I guess this is
-Dialogue: 5,0:23:32.47,0:23:34.18,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}why you just
-Dialogue: 5,0:23:32.47,0:23:34.18,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\4a&H00&\blur0.8}can't hate the guy.
-Dialogue: 6,0:23:32.47,0:23:34.18,Sign,,0,0,0,,{\pos(1702.667,456.7)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}I guess this is
-Dialogue: 6,0:23:32.47,0:23:34.18,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}why you just
-Dialogue: 6,0:23:32.47,0:23:34.18,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\4a&HFF&\blur0.8}can't hate the guy.
+Dialogue: 5,0:23:32.47,0:23:34.18,Sign,,0,0,0,,{\pos(1702.667,456.7)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}I guess this is
+Dialogue: 5,0:23:32.47,0:23:34.18,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}why you just
+Dialogue: 5,0:23:32.47,0:23:34.18,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\b1\bord8\3c&HFFFFFF&\3a&H00&\blur0.8}can't hate the guy.
+Dialogue: 6,0:23:32.47,0:23:34.18,Sign,,0,0,0,,{\pos(1702.667,456.7)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}I guess this is
+Dialogue: 6,0:23:32.47,0:23:34.18,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}why you just
+Dialogue: 6,0:23:32.47,0:23:34.18,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\3a&H00&\blur0.8}can't hate the guy.
 Comment: 0,0:23:37.81,0:23:37.85,Sign,,0,0,0,tbc-sync,
 
 [Aegisub Extradata]
