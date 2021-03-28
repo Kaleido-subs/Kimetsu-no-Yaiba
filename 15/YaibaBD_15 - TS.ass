@@ -333,8 +333,7 @@ Dialogue: 0,0:11:28.08,0:11:28.12,Sign,,0,0,0,,{=4}{\fscx92.23\fscy92.23\an5\fnY
 Dialogue: 0,0:11:28.12,0:11:28.16,Sign,,0,0,0,,{=4}{\fscx92.19\fscy92.19\an5\fnYellow Ginger\fs42\b0\c&H1B1B1D&\blur1.03\pos(892.4,494.82)}Wiste{\alpha&HFF&}ria
 Dialogue: 0,0:11:28.16,0:11:28.20,Sign,,0,0,0,,{=4}{\fscx92.14\fscy92.14\an5\fnYellow Ginger\fs42\b0\c&H1B1B1D&\blur1.03\pos(892.44,494.84)}Wiste{\alpha&HFF&}ria
 Dialogue: 0,0:11:28.20,0:11:28.25,Sign,,0,0,0,,{=4}{\fscx92.11\fscy92.11\an5\fnYellow Ginger\fs42\b0\c&H1B1B1D&\blur1.03\pos(892.46,494.85)}Wiste{\alpha&HFF&}ria
-Dialogue: 0,0:14:43.82,0:14:47.15,Sign,,0,0,0,,{\pos(786,953)\fnSimplicity\fs70\fsp10\bord1.5\c&HE3E5E7&\3c&HE3E5E7&\blur0.6\fad(238,0)\q2}Sulking won't do you any good. \NYou have to go help your friends.
-Dialogue: 1,0:14:43.82,0:14:47.15,Sign,,0,0,0,,{\pos(786,953)\fnSimplicity\fs70\fsp10\c&HE3E5E7&\4a&HFF&\blur0.6\fad(238,0)\q2}Sulking won't do you any good. \NYou have to go help your friends.
+Dialogue: 0,0:14:43.82,0:14:47.15,Sign,,0,0,0,,{\pos(786,953)\fnSimplicity\fs70\fsp10\bord1.5\c&HE3E5E7&\3c&HE3E5E7&\4c&HE3E5E7&\blur0.6\1a&HFE&\3a&HFE&\shad0.01\fad(238,0)\q2}Sulking won't do you any good. \NYou have to go help your friends.
 Dialogue: 0,0:14:02.02,0:14:10.03,Sign,,0,0,0,,{\pos(1536,853)\fscx100.46\fscy100.46\fnBrushstroke 35\fs48\c&H090415&\3a&H00&\4a&H00&\blur0.8}Demon Slayer
 Dialogue: 0,0:23:00.03,0:23:00.28,Sign,,0,0,0,,{\pos(964,428.811)\fscx100.46\fscy100.46\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
 Dialogue: 0,0:23:00.28,0:23:00.32,Sign,,0,0,0,,{\pos(963.928,428.811)\fscx100.46\fscy100.46\frz0.1\fnBrushstroke 35\fs82\c&H29282F&\3a&H00&\4a&H00&\blur1}Demon Slayer
