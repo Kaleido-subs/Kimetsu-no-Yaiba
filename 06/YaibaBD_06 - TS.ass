@@ -47,10 +47,10 @@ Dialogue: 0,0:23:00.85,0:23:00.90,Sign,,0,0,0,,{\pos(1739.859,423.341)\fscx45\fs
 Dialogue: 0,0:23:00.90,0:23:00.94,Sign,,0,0,0,,{\pos(1836.883,415.103)\fscx28\fscy109\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\blur1.2}Demon Slayer
 Dialogue: 0,0:23:00.90,0:23:00.94,Sign,,0,0,0,,{\an2\pos(1948.87,413.755)\fscx30\fscy79\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\blur1.2}Demon Slayer
 Dialogue: 0,0:23:00.94,0:23:00.98,Sign,,0,0,0,,{\pos(1948.87,413.755)\fscx30\fscy79\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:01.06,0:23:01.10,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord6\c&HC3D2F7&\3c&HC3E7F0&\blur0.8\clip(m 1438 22 l 1475 110 1331 116 1121 118 1107 36)}PREVIEW
+Dialogue: 0,0:23:01.06,0:23:01.10,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord6\c&HC3E7F0&\3c&HC3E7F0&\blur0.8\clip(m 1438 22 l 1475 110 1331 116 1121 118 1107 36)}PREVIEW
 Dialogue: 1,0:23:01.06,0:23:01.10,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H445D59&\blur0.8\clip(m 1438 22 l 1475 110 1331 116 1121 118 1107 36)}PREVIEW
-Dialogue: 0,0:23:01.10,0:23:23.96,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord6\c&HC3D2F7&\3c&HC3E7F0&\blur0.8}PREVIEW
+Dialogue: 0,0:23:01.10,0:23:23.96,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord6\c&HC3E7F0&\3c&HC3E7F0&\blur0.8}PREVIEW
 Dialogue: 1,0:23:01.10,0:23:23.96,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H445D59&\blur0.8}PREVIEW
-Dialogue: 0,0:23:33.30,0:23:36.89,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord6\c&HC3D2F7&\3c&HC3E7F0&\blur0.8}PREVIEW
+Dialogue: 0,0:23:33.30,0:23:36.89,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord6\c&HC3E7F0&\3c&HC3E7F0&\blur0.8}PREVIEW
 Dialogue: 1,0:23:33.30,0:23:36.89,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H445D59&\blur0.8}PREVIEW
 Comment: 0,0:23:36.90,0:23:36.94,Sign,,0,0,0,tbc-sync,
