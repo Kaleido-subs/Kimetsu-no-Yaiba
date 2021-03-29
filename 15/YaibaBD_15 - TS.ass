@@ -354,9 +354,9 @@ Dialogue: 0,0:23:00.86,0:23:00.90,Sign,,0,0,0,,{\pos(1623.715,405.955)\fscx63\fs
 Dialogue: 0,0:23:00.90,0:23:00.94,Sign,,0,0,0,,{\pos(1731.681,399.546)\fscx45\fscy99\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\blur1.2}Demon Slayer
 Dialogue: 0,0:23:00.94,0:23:00.98,Sign,,0,0,0,,{\pos(1830.346,393.46)\fscx28\fscy109\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\blur1.2}Demon Slayer
 Dialogue: 0,0:23:00.98,0:23:01.03,Sign,,0,0,0,,{\pos(1946.352,398.718)\fscx30\fscy79\frz4.69\fax0.3\fnBrushstroke 35\fs82\c&H1F1E24&\blur1.2}Demon Slayer
-Dialogue: 0,0:23:01.10,0:23:01.15,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC6EBE0&\3c&HC6EBE0&\blur0.8\clip(m 1466 21 l 1509 125 1221 123 1242 27)}PREVIEW
+Dialogue: 0,0:23:01.10,0:23:01.15,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord6\c&HC6EBE0&\3c&HC6EBE0&\blur0.8\clip(m 1466 21 l 1509 125 1221 123 1242 27)}PREVIEW
 Dialogue: 1,0:23:01.10,0:23:01.15,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H545353&\blur0.8\clip(m 1466 21 l 1509 125 1221 123 1242 27)}PREVIEW
-Dialogue: 0,0:23:01.15,0:23:07.40,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC6EBE0&\3c&HC6EBE0&\blur0.8}PREVIEW
+Dialogue: 0,0:23:01.15,0:23:07.40,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord6\c&HC6EBE0&\3c&HC6EBE0&\blur0.8}PREVIEW
 Dialogue: 1,0:23:01.15,0:23:07.40,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H545353&\blur0.8}PREVIEW
 Dialogue: 3,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\an7\pos(1630,44)\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 3,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\an7\pos(1630,70)\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
@@ -486,23 +486,23 @@ Dialogue: 5,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy
 Dialogue: 6,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1702.667,456.7)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\blur0.8}First, let's calm down
 Dialogue: 6,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\blur0.8}and listen to the
 Dialogue: 6,0:23:07.15,0:23:09.28,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\blur0.8}sounds around us!
-Dialogue: 0,0:23:07.40,0:23:07.65,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC6EBE0&\3c&HC6EBE0&\blur0.8\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
+Dialogue: 0,0:23:07.40,0:23:07.65,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord6\c&HC6EBE0&\3c&HC6EBE0&\blur0.8\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
 Dialogue: 1,0:23:07.40,0:23:07.65,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H545353&\blur0.8\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
-Dialogue: 0,0:23:07.65,0:23:07.90,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC6EBE0&\3c&HC6EBE0&\blur0.8\iclip(m 1391 124 l 1431 93 1442 122)}PREVIEW
+Dialogue: 0,0:23:07.65,0:23:07.90,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord6\c&HC6EBE0&\3c&HC6EBE0&\blur0.8\iclip(m 1391 124 l 1431 93 1442 122)}PREVIEW
 Dialogue: 1,0:23:07.65,0:23:07.90,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H545353&\blur0.8}PREVIEW
-Dialogue: 0,0:23:07.90,0:23:08.15,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC6EBE0&\3c&HC6EBE0&\blur0.8\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
+Dialogue: 0,0:23:07.90,0:23:08.15,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord6\c&HC6EBE0&\3c&HC6EBE0&\blur0.8\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
 Dialogue: 1,0:23:07.90,0:23:08.15,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H545353&\blur0.8\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
-Dialogue: 0,0:23:08.15,0:23:08.40,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC6EBE0&\3c&HC6EBE0&\blur0.8\iclip(m 1391 124 l 1431 93 1442 122)}PREVIEW
+Dialogue: 0,0:23:08.15,0:23:08.40,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord6\c&HC6EBE0&\3c&HC6EBE0&\blur0.8\iclip(m 1391 124 l 1431 93 1442 122)}PREVIEW
 Dialogue: 1,0:23:08.15,0:23:08.40,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H545353&\blur0.8}PREVIEW
-Dialogue: 0,0:23:08.40,0:23:08.65,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC6EBE0&\3c&HC6EBE0&\blur0.8\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
+Dialogue: 0,0:23:08.40,0:23:08.65,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord6\c&HC6EBE0&\3c&HC6EBE0&\blur0.8\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
 Dialogue: 1,0:23:08.40,0:23:08.65,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H545353&\blur0.8\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
-Dialogue: 0,0:23:08.65,0:23:08.90,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC6EBE0&\3c&HC6EBE0&\blur0.8\iclip(m 1391 124 l 1431 93 1442 122)}PREVIEW
+Dialogue: 0,0:23:08.65,0:23:08.90,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord6\c&HC6EBE0&\3c&HC6EBE0&\blur0.8\iclip(m 1391 124 l 1431 93 1442 122)}PREVIEW
 Dialogue: 1,0:23:08.65,0:23:08.90,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H545353&\blur0.8}PREVIEW
-Dialogue: 0,0:23:08.90,0:23:09.15,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC6EBE0&\3c&HC6EBE0&\blur0.8\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
+Dialogue: 0,0:23:08.90,0:23:09.15,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord6\c&HC6EBE0&\3c&HC6EBE0&\blur0.8\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
 Dialogue: 1,0:23:08.90,0:23:09.15,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H545353&\blur0.8\iclip(m 1328 104 l 1360 44 1364 44 1397 64 1348 128)}PREVIEW
-Dialogue: 0,0:23:09.15,0:23:09.28,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC6EBE0&\3c&HC6EBE0&\blur0.8\iclip(m 1391 124 l 1431 93 1442 122)}PREVIEW
+Dialogue: 0,0:23:09.15,0:23:09.28,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord6\c&HC6EBE0&\3c&HC6EBE0&\blur0.8\iclip(m 1391 124 l 1431 93 1442 122)}PREVIEW
 Dialogue: 1,0:23:09.15,0:23:13.91,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H545353&\blur0.8}PREVIEW
-Dialogue: 0,0:23:09.28,0:23:13.91,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC6EBE0&\3c&HC6EBE0&\blur0.8}PREVIEW
+Dialogue: 0,0:23:09.28,0:23:13.91,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord6\c&HC6EBE0&\3c&HC6EBE0&\blur0.8}PREVIEW
 Dialogue: 3,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\an7\pos(1630,44)\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 3,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\an7\pos(1630,70)\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 3,0:23:12.66,0:23:23.08,Sign,,0,0,0,,{\an7\pos(1630,93)\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
@@ -653,7 +653,7 @@ Dialogue: 5,0:23:20.87,0:23:23.08,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy
 Dialogue: 6,0:23:20.87,0:23:23.08,Sign,,0,0,0,,{\pos(1702.667,456.7)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\blur0.8}But Zenitsu
 Dialogue: 6,0:23:20.87,0:23:23.08,Sign,,0,0,0,,{\pos(1702.667,505)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\blur0.8}hasn't noticed yet,
 Dialogue: 6,0:23:20.87,0:23:23.08,Sign,,0,0,0,,{\pos(1702.667,553.3)\fscx49\fscy69\fnQuicksand\fs70\b1\c&H000000&\blur0.8}so all I get is beans.
-Dialogue: 0,0:23:23.08,0:23:37.81,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord5\c&HC6EBE0&\3c&HC6EBE0&\blur0.8}PREVIEW
+Dialogue: 0,0:23:23.08,0:23:37.81,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\bord6\c&HC6EBE0&\3c&HC6EBE0&\blur0.8}PREVIEW
 Dialogue: 1,0:23:23.08,0:23:37.81,Sign,,0,0,0,,{\an2\pos(1464.8,115.6)\frz3.24\fnDK Longreach\fs100\fsp5\c&H545353&\blur0.8}PREVIEW
 Dialogue: 3,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\an7\pos(1630,44)\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
 Dialogue: 3,0:23:26.17,0:23:28.67,Sign,,0,0,0,,{\an7\pos(1630,70)\bord0\c&HCCDCED&\blur1\clip(1509.71,42.29,1891.43,1038.86)\p1}m -966 7 l 265 7 265 10 -966 10
