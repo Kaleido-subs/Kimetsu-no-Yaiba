@@ -52,16 +52,16 @@ Dialogue: 10,0:02:31.26,0:02:32.72,Default,,0,0,0,,I'll see what I can do!
 Dialogue: 10,0:02:35.05,0:02:38.51,Default,,0,0,0,,Please help me! Please marry me!
 Dialogue: 10,0:02:38.51,0:02:40.06,Default,,0,0,0,,I beg—
 Dialogue: 10,0:02:41.10,0:02:43.73,Default,,0,0,0,,{\q2}What do you think you're doing \Nin the middle of the road?
-Dialogue: 10,0:02:43.73,0:02:45.56,Default,,0,0,0,,Can't you see that she wants no part of you?
-Dialogue: 10,0:02:45.56,0:02:48.15,Default,,0,0,0,,And stop causing problems for your sparrow, too!
+Dialogue: 10,0:02:43.73,0:02:45.56,Default,,0,0,0,,{\q2}Can't you see that she \Nwants nothing to do with you?
+Dialogue: 10,0:02:45.56,0:02:48.15,Default,,0,0,0,,And stop causing problems for your sparrow!
 Dialogue: 10,0:02:48.98,0:02:50.15,Default,,0,0,0,,That uniform!
 Dialogue: 10,0:02:50.15,0:02:52.61,Default,,0,0,0,,You're that guy from the Final Selection!
 Dialogue: 10,0:02:52.61,0:02:55.86,Default,,0,0,0,,I don't know anyone even {\i1}remotely{\i0} like you! No one!
 Dialogue: 10,0:02:56.86,0:02:59.37,Default,,0,0,0,,But we met! Don't you remember?
-Dialogue: 10,0:02:59.37,0:03:02.12,Default,,0,0,0,,Your memory's the problem here!
-Dialogue: 10,0:03:11.84,0:03:13.63,Default,,0,0,0,,All right, I've dealt with this issue.
+Dialogue: 10,0:02:59.37,0:03:02.12,Default,,0,0,0,,Your memory's the only problem here!
+Dialogue: 10,0:03:11.84,0:03:13.63,Default,,0,0,0,,All right, problem solved.
 Dialogue: 10,0:03:13.63,0:03:15.72,Default,,0,0,0,,You have nothing to worry about anymore.
-Dialogue: 10,0:03:15.72,0:03:17.76,Default,,0,0,0,,Yes, thank you so much!
+Dialogue: 10,0:03:15.72,0:03:17.76,Default,,0,0,0,,Oh, thank you so much!
 Dialogue: 10,0:03:17.76,0:03:18.93,Default,,0,0,0,,Hey!
 Dialogue: 10,0:03:19.26,0:03:21.18,Default,,0,0,0,,Stay out of my way!
 Dialogue: 10,0:03:21.18,0:03:22.93,Default,,0,0,0,,That girl is going to marry me!
@@ -69,11 +69,11 @@ Dialogue: 10,0:03:22.93,0:03:25.06,Default,,0,0,0,,Because she's in love w—
 Dialogue: 10,0:03:26.19,0:03:28.52,Default,,0,0,0,,Hey! Ouch! That hurts! Stop it!
 Dialogue: 10,0:03:28.52,0:03:30.86,Default,,0,0,0,,Stop it! Ouch! Ouch! Ouch!
 Dialogue: 10,0:03:30.86,0:03:32.48,Default,,0,0,0,,P-Please, calm down!
-Dialogue: 10,0:03:34.61,0:03:37.57,Default,,0,0,0,,When did I ever say I'm in love with you?
+Dialogue: 10,0:03:34.61,0:03:37.57,Default,,0,0,0,,When did I ever say I was in love with you?
 Dialogue: 10,0:03:37.57,0:03:40.12,Default,,0,0,0,,{\q2}You were crumpled up on \Nthe side of the road and looked ill!
 Dialogue: 10,0:03:40.12,0:03:41.74,Default,,0,0,0,,All I did was call out to you!
 Dialogue: 10,0:03:42.99,0:03:47.87,Default,,0,0,0,,{\q2}You mean you didn't reach out to me \Nout of love because you were worried?
-Dialogue: 10,0:03:47.87,0:03:52.30,Default,,0,0,0,,I already have a fiancé, so not on your life!
+Dialogue: 10,0:03:47.87,0:03:52.30,Default,,0,0,0,,I'm already engaged, so not on your life!
 Dialogue: 10,0:03:52.30,0:03:54.55,Default,,0,0,0,,{\q2}Since you're so full of energy, \Nyou must be fine now, right?
 Dialogue: 10,0:03:54.55,0:03:55.76,Default,,0,0,0,,Have a {\i1}very{\i0} nice day!
 Dialogue: 10,0:03:56.42,0:03:58.01,Default,,0,0,0,,W-Wait, come back!
@@ -87,26 +87,26 @@ Dialogue: 10,0:04:13.36,0:04:15.32,Default,,0,0,0,,Hey, you! Take some responsib
 Dialogue: 10,0:04:15.32,0:04:17.95,Default,,0,0,0,,It's your fault I missed out on getting married!
 Dialogue: 10,0:04:22.78,0:04:24.29,Default,,0,0,0,,Geez, say {\i1}something{\i0}!
 Dialogue: 10,0:04:24.70,0:04:27.00,Default,,0,0,0,,Listen up! I'm gonna die soon!
-Dialogue: 10,0:04:27.00,0:04:28.83,Default,,0,0,0,,My next job will be the death of me!
-Dialogue: 10,0:04:28.83,0:04:31.46,Default,,0,0,0,,Thing is, I'm a complete and utter pansy, 'kay?
-Dialogue: 10,0:04:31.46,0:04:32.59,Default,,0,0,0,,Don't underestimate me!
+Dialogue: 10,0:04:27.00,0:04:28.83,Default,,0,0,0,,My next mission will be my last!
+Dialogue: 10,0:04:28.83,0:04:31.46,Default,,0,0,0,,I'm a complete and total crybaby{wuss}, got it?
+Dialogue: 10,0:04:31.46,0:04:32.59,Default,,0,0,0,,A wimp like no other!
 Dialogue: 10,0:04:32.59,0:04:35.71,Default,,0,0,0,,You've gotta protect me until I get married, y'hear me?
 Dialogue: 10,0:04:36.42,0:04:38.42,Default,,0,0,0,,My name is Kamado Tanjirou!
 Dialogue: 10,0:04:38.42,0:04:40.13,Default,,0,0,0,,Is that so? My apologies!
 Dialogue: 10,0:04:40.13,0:04:42.09,Default,,0,0,0,,I'm Agatsuma Zenitsu!
 Dialogue: 10,0:04:42.09,0:04:45.14,Default,,0,0,0,,Please save me, Tanjirou!
 Dialogue: 10,0:04:45.39,0:04:47.39,Default,,0,0,0,,What do you mean, save you?
-Dialogue: 10,0:04:47.39,0:04:49.85,Default,,0,0,0,,{\q2}What was your reason for \Npicking up the blade, Zenitsu?
-Dialogue: 10,0:04:49.85,0:04:51.77,Default,,0,0,0,,Why are you acting so blatantly shameless?
+Dialogue: 10,0:04:47.39,0:04:49.85,Default,,0,0,0,,Why did you take up the blade?
+Dialogue: 10,0:04:49.85,0:04:51.77,Default,,0,0,0,,What's with this blatant shamelessness?
 Dialogue: 10,0:04:51.77,0:04:53.27,Default,,0,0,0,,Sure are a harsh one, aren't you?!
-Dialogue: 10,0:04:53.73,0:04:56.28,Default,,0,0,0,,{\q2}I got swindled by some woman \Nand racked up all this debt!
-Dialogue: 10,0:04:56.28,0:05:00.28,Default,,0,0,0,,{\q2}The old geezer who took it over \Nfor me was a cultivator!
+Dialogue: 10,0:04:53.73,0:04:56.28,Default,,0,0,0,,{\q2}Some woman swindled me \Nand I racked up a mountain of debt!
+Dialogue: 10,0:04:56.28,0:05:00.28,Default,,0,0,0,,The geezer who saved me from {\i1}that{\i0} was a cultivator!
 Dialogue: 10,0:05:00.28,0:05:02.49,Default,,0,0,0,,I went through hellish training day after day!
 Dialogue: 10,0:05:02.49,0:05:04.95,Default,,0,0,0,,It was so bad that I thought I'd be better off dead!
 Dialogue: 10,0:05:04.95,0:05:07.58,Default,,0,0,0,,I was hoping I'd die during the Final Selection,
 Dialogue: 10,0:05:07.58,0:05:11.33,Default,,0,0,0,,{\q2}but since I was "fortunate" enough to survive, \NI'm {\i1}still{\i0} going through hell every day!
 Dialogue: 10,0:05:12.00,0:05:14.34,Default,,0,0,0,,I'm so scared! Scared! Scared! Beyond scared!
-Dialogue: 10,0:05:14.34,0:05:17.26,Default,,0,0,0,,{\q2}I just know I'm gonna get gobbled up \Nby some demon sooner or later!
+Dialogue: 10,0:05:14.34,0:05:17.26,Default,,0,0,0,,{\q2}I just know some demon's gonna \Ngobble me up sooner or later!
 Dialogue: 10,0:05:17.26,0:05:20.80,Default,,0,0,0,,{\q2}My brains are gonna get sucked out \Nthrough my ears while I'm still alive!
 Dialogue: 10,0:05:20.80,0:05:24.26,Default,,0,0,0,,No! God, no!
 Dialogue: 10,0:05:24.26,0:05:27.56,Default,,0,0,0,,Somebody, save me!
@@ -131,14 +131,14 @@ Dialogue: 10,0:06:49.76,0:06:52.14,Default,,0,0,0,,but you can't stir up trouble
 Dialogue: 10,0:06:52.98,0:06:55.35,Default,,0,0,0,,Was it upset?
 Dialogue: 10,0:06:55.35,0:06:56.77,Default,,0,0,0,,How could you tell?
 Dialogue: 10,0:06:56.77,0:07:01.19,Default,,0,0,0,,{\q2}Well, apparently you "always whine \Nabout not wanting to work,"
-Dialogue: 10,0:07:01.19,0:07:05.15,Default,,0,0,0,,{\q2}"hit on girls, snore loudly... \NI've had it up to here with you!"
+Dialogue: 10,0:07:01.19,0:07:05.15,Default,,0,0,0,,{\q2}"hit on girls, snore up a storm... \NI've had it up to here with you!"
 Dialogue: 10,0:07:05.15,0:07:06.57,Default,,0,0,0,,Or so he says.
 Dialogue: 10,0:07:08.32,0:07:09.70,Default,,0,0,0,,He did?
 Dialogue: 10,0:07:09.70,0:07:11.87,Default,,0,0,0,,You can understand what he's saying?
 Dialogue: 10,0:07:12.62,0:07:15.00,Default,,0,0,0,,You're lying, right? You're just trying to trick me!
 Dialogue: 10,0:07:16.58,0:07:19.13,Default,,0,0,0,,Hurry! Hurry!
 Dialogue: 10,0:07:19.13,0:07:21.96,Default,,0,0,0,,Tanjirou, Zenitsu, get going!
-Dialogue: 10,0:07:21.96,0:07:24.59,Default,,0,0,0,,Both of you are to head over to your next destination!
+Dialogue: 10,0:07:21.96,0:07:24.59,Default,,0,0,0,,{\q2}Both of you are to head over \Nto your next destination!
 Dialogue: 10,0:07:24.59,0:07:28.93,Default,,0,0,0,,Run! Run, Tanjirou, Zenitsu!
 Dialogue: 10,0:07:31.68,0:07:34.60,Default,,0,0,0,,Why is that crow talking?!
 Dialogue: 10,0:07:44.82,0:07:46.57,Default,,0,0,0,,Hey, Tanjirou,
@@ -159,7 +159,7 @@ Dialogue: 10,0:08:37.66,0:08:38.87,Default,,0,0,0,,I wonder what's wrong.
 Dialogue: 10,0:08:40.54,0:08:43.54,Default,,0,0,0,,Hey, what are you doing all the way out here?
 Dialogue: 10,0:08:49.47,0:08:51.51,Default,,0,0,0,,{\i1}They seem really spooked.
 Dialogue: 10,0:08:52.68,0:08:56.93,Default,,0,0,0,,Okay, you wanna see something cool?
-Dialogue: 10,0:08:56.93,0:08:59.19,Default,,0,0,0,,Ta-dah!
+Dialogue: 10,0:08:56.93,0:08:59.19,Default,,0,0,0,,Ta-da!
 Dialogue: 10,0:08:59.48,0:09:01.52,Default,,0,0,0,,It's a tame sparrow!
 Dialogue: 10,0:09:04.36,0:09:06.32,Default,,0,0,0,,See? Isn't he cute?
 Dialogue: 10,0:09:15.79,0:09:17.24,Default,,0,0,0,,Please tell me.
@@ -187,8 +187,8 @@ Dialogue: 10,0:10:08.80,0:10:11.05,Default,,0,0,0,,Really? You will?
 Dialogue: 10,0:10:11.05,0:10:12.34,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:10:12.34,0:10:13.43,Default,,0,0,0,,I promise!
 Dialogue: 10,0:10:14.43,0:10:15.80,Default,,0,0,0,,Tanjirou...
-Dialogue: 10,0:10:16.18,0:10:19.39,Default,,0,0,0,,What's this drumming sound?
-Dialogue: 10,0:10:19.39,0:10:22.56,Default,,0,0,0,,This creepy sound hasn't stopped at all.
+Dialogue: 10,0:10:16.18,0:10:19.39,Default,,0,0,0,,What's that sound?
+Dialogue: 10,0:10:19.39,0:10:22.56,Default,,0,0,0,,It's creepy, and it just doesn't stop.
 Dialogue: 10,0:10:22.56,0:10:24.65,Default,,0,0,0,,Is it some kind of drum?
 Dialogue: 10,0:10:25.73,0:10:26.86,Default,,0,0,0,,Sound?
 Dialogue: 10,0:10:27.65,0:10:29.02,Default,,0,0,0,,I don't hear anything.
@@ -200,7 +200,7 @@ Dialogue: 10,0:11:07.23,0:11:09.19,Default,,0,0,0,,{\i1}The wound is so deep.
 Dialogue: 10,0:11:09.19,0:11:10.69,Default,,0,0,0,,{\i1}Is this...
 Dialogue: 10,0:11:11.28,0:11:14.65,Default,,0,0,0,,Even though... I got out...
 Dialogue: 10,0:11:17.53,0:11:20.45,Default,,0,0,0,,Even though I made it out...
-Dialogue: 10,0:11:20.45,0:11:24.12,Default,,0,0,0,,Made it outside.
+Dialogue: 10,0:11:20.45,0:11:24.12,Default,,0,0,0,,Made it outside...
 Dialogue: 10,0:11:24.12,0:11:25.25,Default,,0,0,0,,Still...
 Dialogue: 10,0:11:26.50,0:11:30.25,Default,,0,0,0,,Am I gonna die?
 Dialogue: 10,0:11:30.25,0:11:32.50,Default,,0,0,0,,Am I still gonna die?
@@ -214,8 +214,8 @@ Dialogue: 10,0:12:31.06,0:12:33.61,Default,,0,0,0,,{\i1}If only we'd gotten here
 Dialogue: 10,0:12:33.61,0:12:35.73,Default,,0,0,0,,{\i1}we might've been able to do something.
 Dialogue: 10,0:12:37.07,0:12:38.45,Default,,0,0,0,,Sorry, but...
 Dialogue: 10,0:12:38.45,0:12:40.07,Default,,0,0,0,,Is this man your...
-Dialogue: 10,0:12:40.82,0:12:43.53,Default,,0,0,0,,H-He isn't our brother.
-Dialogue: 10,0:12:44.24,0:12:48.08,Default,,0,0,0,,Our brother was wearing \Na persimmon-coloured kimono.
+Dialogue: 10,0:12:40.82,0:12:43.53,Default,,0,0,0,,Th-That's not our brother.
+Dialogue: 10,0:12:44.24,0:12:48.08,Default,,0,0,0,,{\q2}Our brother was wearing \Na persimmon-coloured kimono.
 Dialogue: 10,0:12:48.96,0:12:50.29,Default,,0,0,0,,{\i1}I see.
 Dialogue: 10,0:12:50.29,0:12:52.29,Default,,0,0,0,,{\i1}It captured more than one person.
 Dialogue: 10,0:12:54.84,0:12:57.97,Default,,0,0,0,,{\i1\q2}I promise I'll give you a proper \Nresting place when I return.
@@ -229,8 +229,8 @@ Dialogue: 10,0:13:23.82,0:13:28.54,Default,,0,0,0,,Hey, c'mon! What are you scow
 Dialogue: 10,0:13:28.54,0:13:31.67,Default,,0,0,0,,Fine, fine, I'll come with you!
 Dialogue: 10,0:13:31.92,0:13:34.21,Default,,0,0,0,,I'm not trying to force you.
 Dialogue: 10,0:13:34.67,0:13:37.92,Default,,0,0,0,,I said I'll go!
-Dialogue: 10,0:13:41.51,0:13:45.43,Default,,0,0,0,,In case of emergency, I'm leaving this box with you.
-Dialogue: 10,0:13:45.43,0:13:48.77,Default,,0,0,0,,Even if something happens, you two will be safe.
+Dialogue: 10,0:13:41.51,0:13:45.43,Default,,0,0,0,,{\q2}In case there's an emergency, \NI'm leaving this box with you.
+Dialogue: 10,0:13:45.43,0:13:48.77,Default,,0,0,0,,Whatever happens, you two will be safe.
 Dialogue: 10,0:13:48.77,0:13:50.73,Default,,0,0,0,,We'll be back soon.
 Dialogue: 10,0:14:23.01,0:14:25.01,Default,,0,0,0,,Tanjirou!
 Dialogue: 10,0:14:25.01,0:14:27.55,Default,,0,0,0,,Hey, Tanjirou!
@@ -238,17 +238,17 @@ Dialogue: 10,0:14:27.55,0:14:29.47,Default,,0,0,0,,You'll protect me, right?
 Dialogue: 10,0:14:29.47,0:14:32.39,Default,,0,0,0,,You {\i1}will{\i0} protect me, right?
 Dialogue: 10,0:14:33.98,0:14:37.36,Default,,0,0,0,,Zenitsu, I hate to put you on the spot, but...
 Dialogue: 10,0:14:37.82,0:14:41.40,Default,,0,0,0,,I've got a broken rib and leg from my previous battle.
-Dialogue: 10,0:14:41.40,0:14:44.32,Default,,0,0,0,,And neither are fully healed yet.
+Dialogue: 10,0:14:41.40,0:14:44.32,Default,,0,0,0,,And they both still need to heal.
 Dialogue: 10,0:14:44.32,0:14:44.91,Default,,0,0,0,,So—
 Dialogue: 10,0:14:46.41,0:14:48.12,Default,,0,0,0,,The hell you mean, "broken"?
 Dialogue: 10,0:14:48.12,0:14:49.91,Default,,0,0,0,,Don't go breaking any bones on me, y'hear?!
-Dialogue: 10,0:14:49.91,0:14:53.08,Default,,0,0,0,,{\q2}There's no way you can protect me \Nif you've got fractures!
+Dialogue: 10,0:14:49.91,0:14:53.08,Default,,0,0,0,,{\q2}How are you gonna protect me \Nif you've got fractures?!
 Dialogue: 10,0:14:53.08,0:14:55.42,Default,,0,0,0,,I-I-I'm gonna die!
 Dialogue: 10,0:14:56.13,0:14:57.58,Default,,0,0,0,,What am I gonna do?
 Dialogue: 10,0:14:57.58,0:14:58.71,Default,,0,0,0,,I'm screwed!
 Dialogue: 10,0:14:58.71,0:14:59.80,Default,,0,0,0,,Screwed! Screwed! Screwed!
 Dialogue: 10,0:15:01.38,0:15:03.42,Default,,0,0,0,,{\q2}Broken bones? How could you? \NI'm a dead man now!
-Dialogue: 10,0:15:03.42,0:15:05.80,Default,,0,0,0,,{\q2}The odds of me dying have \Nincreased to ninety percent!
+Dialogue: 10,0:15:03.42,0:15:05.80,Default,,0,0,0,,My odds of dying just hit ninety percent!
 Dialogue: 10,0:15:05.80,0:15:10.22,Default,,0,0,0,,{\an8}I'm as good as dead! Dead! Dead!
 Dialogue: 10,0:15:06.80,0:15:09.26,Default,,0,0,0,,Zenitsu, quiet down!
 Dialogue: 10,0:15:09.26,0:15:10.22,Default,,0,0,0,,You'll be fine!
@@ -263,16 +263,16 @@ Dialogue: 10,0:15:41.34,0:15:42.84,Default,,0,0,0,,Sorry! My butt...
 Dialogue: 10,0:15:53.89,0:15:55.23,Default,,0,0,0,,{\i1}The room changed.
 Dialogue: 10,0:15:55.81,0:15:56.77,Default,,0,0,0,,{\i1}No.
 Dialogue: 10,0:15:56.77,0:15:58.81,Default,,0,0,0,,{\i1}Were we moved instead?
-Dialogue: 10,0:15:58.81,0:16:00.69,Default,,0,0,0,,{\i1}To the beat of that drum, perhaps?
+Dialogue: 10,0:15:58.81,0:16:00.69,Default,,0,0,0,,{\i1}To the beat of that drum, maybe?
 Dialogue: 10,0:16:04.23,0:16:07.36,Default,,0,0,0,,Sorry you got separated from your brother.
 Dialogue: 10,0:16:07.36,0:16:10.24,Default,,0,0,0,,But I'll make sure to protect you.
 Dialogue: 10,0:16:10.99,0:16:13.66,Default,,0,0,0,,And Zenitsu is gonna protect your brother.
 Dialogue: 10,0:16:13.66,0:16:14.75,Default,,0,0,0,,Don't worry!
 Dialogue: 10,0:16:15.37,0:16:16.33,Default,,0,0,0,,What's your name?
 Dialogue: 10,0:16:17.08,0:16:18.62,Default,,0,0,0,,Teruko.
-Dialogue: 10,0:16:18.62,0:16:20.79,Default,,0,0,0,,Is that right? Teruko?
+Dialogue: 10,0:16:18.62,0:16:20.79,Default,,0,0,0,,Teruko, huh?
 Dialogue: 10,0:16:20.79,0:16:22.13,Default,,0,0,0,,That's a fine name you h—
-Dialogue: 10,0:16:36.35,0:16:41.40,Default,,0,0,0,,{\i1\q2}Of all the scents enveloping this house, \Nthis one is the most intense!
+Dialogue: 10,0:16:36.35,0:16:41.40,Default,,0,0,0,,{\i1\q2}Of all the scents permeating this house, \Nthis one is the most intense!
 Dialogue: 10,0:16:41.40,0:16:43.69,Default,,0,0,0,,{\i1}This demon has devoured a whole slew of humans!
 Dialogue: 10,0:16:43.69,0:16:46.99,Default,,0,0,0,,{\i1}He's clearly the master of this mansion!
 Dialogue: 10,0:16:47.99,0:16:49.99,Default,,0,0,0,,I'm gonna die!
@@ -281,13 +281,13 @@ Dialogue: 10,0:16:53.24,0:16:55.74,Default,,0,0,0,,I got split up from Tanjirou!
 Dialogue: 10,0:16:55.74,0:16:58.50,Default,,0,0,0,,Teruko!
 Dialogue: 10,0:16:58.50,0:16:59.41,Default,,0,0,0,,No, no, no!
 Dialogue: 10,0:16:59.41,0:17:01.08,Default,,0,0,0,,Don't make any loud sounds!
-Dialogue: 10,0:17:01.08,0:17:04.63,Default,,0,0,0,,{\q2}If you yell and the bad guy hears you, \Nit won't end pretty!
+Dialogue: 10,0:17:01.08,0:17:04.63,Default,,0,0,0,,{\q2}If you yell and the bad guy hears you, \Nit won't be pretty!
 Dialogue: 10,0:17:04.63,0:17:06.21,Default,,0,0,0,,Come on, let's go outside!
 Dialogue: 10,0:17:06.21,0:17:07.21,Default,,0,0,0,,Wha—
 Dialogue: 10,0:17:07.21,0:17:09.01,Default,,0,0,0,,Why outside?
 Dialogue: 10,0:17:09.01,0:17:11.30,Default,,0,0,0,,Are you trying to run away?
 Dialogue: 10,0:17:12.01,0:17:16.31,Default,,0,0,0,,{\q2}All this constant yammering about dying... \NAren't you ashamed of yourself?
-Dialogue: 10,0:17:16.31,0:17:19.98,Default,,0,0,0,,{\q2}Clinging onto a younger person... \NDon't you feel pathetic?
+Dialogue: 10,0:17:16.31,0:17:19.98,Default,,0,0,0,,{\q2}Clinging onto someone younger than you... \NDon't you feel pathetic?
 Dialogue: 10,0:17:19.98,0:17:23.73,Default,,0,0,0,,What are you carrying that sword for, anyway?
 Dialogue: 10,0:17:26.28,0:17:28.82,Default,,0,0,0,,Your words cut deep.
 Dialogue: 10,0:17:31.28,0:17:32.45,Default,,0,0,0,,You've got it all wrong!
@@ -298,22 +298,22 @@ Dialogue: 10,0:17:36.16,0:17:37.33,Default,,0,0,0,,{\an8}Let go of me!
 Dialogue: 10,0:17:37.62,0:17:41.33,Default,,0,0,0,,This isn't something us kids can fix ourselves!
 Dialogue: 10,0:17:47.05,0:17:49.17,Default,,0,0,0,,You've gotta be kidding me! Are you serious?!
 Dialogue: 10,0:17:49.17,0:17:51.17,Default,,0,0,0,,Wasn't the front door right here?
-Dialogue: 10,0:17:51.17,0:17:53.84,Default,,0,0,0,,{\q2}Where'd our way out go? \NI mean, this door was...
+Dialogue: 10,0:17:51.17,0:17:53.84,Default,,0,0,0,,{\q2}Where'd our exit go? \NI mean, this door was...
 Dialogue: 10,0:17:53.84,0:17:54.89,Default,,0,0,0,,Is it this one?
 Dialogue: 10,0:17:55.35,0:17:56.60,Default,,0,0,0,,How about this one?
 Dialogue: 10,0:17:56.60,0:17:58.14,Default,,0,0,0,,What about {\i1}this{\i0} one?
 Dialogue: 10,0:18:09.53,0:18:13.53,Default,,0,0,0,,It's a monster!
 Dialogue: 10,0:18:25.71,0:18:27.96,Default,,0,0,0,,The hell? What's with that look in your eyes?
 Dialogue: 10,0:18:27.96,0:18:29.71,Default,,0,0,0,,Quit looking at me like that!
-Dialogue: 10,0:18:40.39,0:18:42.31,Default,,0,0,0,,If it hadn't been...
+Dialogue: 10,0:18:40.39,0:18:42.31,Default,,0,0,0,,If it hadn't been...{### difference from next line is intentional}
 Dialogue: 10,0:18:42.31,0:18:44.98,Default,,0,0,0,,If it weren't for those meddling...
 Dialogue: 10,0:18:46.44,0:18:49.23,Default,,0,0,0,,Teruko, try to keep in your scream.
 Dialogue: 10,0:18:49.98,0:18:52.44,Default,,0,0,0,,{\q2}The room's going to change, \Nso don't run into the hallway.
 Dialogue: 10,0:18:52.44,0:18:55.41,Default,,0,0,0,,Get back and hide behind the shelves.
 Dialogue: 10,0:19:01.16,0:19:03.79,Default,,0,0,0,,Curses, curses!
 Dialogue: 10,0:19:03.79,0:19:06.63,Default,,0,0,0,,Thanks to them, he got away!
-Dialogue: 10,0:19:06.63,0:19:09.75,Default,,0,0,0,,When he was {\i1}my{\i0} prey!
-Dialogue: 10,0:19:09.75,0:19:16.01,Default,,0,0,0,,{\q2}Why is it? Why do they all keep \Nbarging into someone else's home?
+Dialogue: 10,0:19:06.63,0:19:09.75,Default,,0,0,0,,He was {\i1}my{\i0} prey!
+Dialogue: 10,0:19:09.75,0:19:16.01,Default,,0,0,0,,{\q2}Why? Why do they all keep \Nbarging into someone else's home?
 Dialogue: 10,0:19:16.01,0:19:17.72,Default,,0,0,0,,It's infuriating.
 Dialogue: 10,0:19:17.72,0:19:19.89,Default,,0,0,0,,That was {\i1}my{\i0} prey!
 Dialogue: 10,0:19:19.89,0:19:24.52,Default,,0,0,0,,The prey {\i1}I{\i0} discovered on my own turf!
@@ -326,29 +326,30 @@ Dialogue: 10,0:19:42.54,0:19:46.54,Default,,0,0,0,,A rareblood child I found mys
 Dialogue: 10,0:19:51.17,0:19:52.09,Default,,0,0,0,,{\i1}Got him!
 Dialogue: 10,0:19:58.34,0:19:59.43,Default,,0,0,0,,Teruko!
 Dialogue: 10,0:20:03.52,0:20:06.02,Default,,0,0,0,,{\i1}The tatami floors are on the sides now!
-Dialogue: 10,0:20:06.02,0:20:08.02,Default,,0,0,0,,{\i1}The room's been flipped!
+Dialogue: 10,0:20:06.02,0:20:08.02,Default,,0,0,0,,{\i1}The room's been rotated!
 Dialogue: 10,0:20:08.02,0:20:10.52,Default,,0,0,0,,{\i1}So that's his Blood Art!
 Dialogue: 10,0:20:10.52,0:20:13.65,Default,,0,0,0,,{\i1}The entire mansion is this demon's territory!
 Dialogue: 10,0:20:15.19,0:20:16.24,Default,,0,0,0,,{\i1}What's this?
 Dialogue: 10,0:20:16.24,0:20:17.95,Default,,0,0,0,,{\i1}An odd scent is wafting this way.
-Dialogue: 10,0:20:18.57,0:20:19.78,Default,,0,0,0,,{\i1}It's not a demon's!
+Dialogue: 10,0:20:18.57,0:20:19.78,Default,,0,0,0,,{\i1}It's not a demon!
 Dialogue: 10,0:20:22.78,0:20:25.79,Default,,0,0,0,,Chargin' through!
 Dialogue: 10,0:20:25.79,0:20:28.54,Default,,0,0,0,,I'm chargin' through!
 Dialogue: 10,0:20:35.34,0:20:37.92,Default,,0,0,0,,{\i1}Wh-Who's this guy?
 Dialogue: 10,0:20:37.92,0:20:40.05,Default,,0,0,0,,{\i1}Why is he wearing a boar's hide?
 Dialogue: 10,0:20:44.06,0:20:46.10,Default,,0,0,0,,{\i1}And why is he wielding Sun Blades?
-Dialogue: 10,0:20:49.23,0:20:51.31,Default,,0,0,0,,All right, you damn monster.
-Dialogue: 10,0:20:51.31,0:20:54.19,Default,,0,0,0,,Die on the battlefield and serve as my springboard!
-Dialogue: 10,0:20:54.19,0:20:58.53,Default,,0,0,0,,Die so I can get stronger and soar even higher!
+Dialogue: 10,0:20:49.23,0:20:51.31,Default,,0,0,0,,All right, you stupid monster.
+Dialogue: 10,0:20:51.31,0:20:54.19,Default,,0,0,0,,Die in battle so I can get stronger!
+Dialogue: 10,0:20:54.19,0:20:58.53,Default,,0,0,0,,I'll step on your corpse and climb even higher!
 Dialogue: 10,0:20:59.07,0:21:02.53,Default,,0,0,0,,Infuriating!
 Dialogue: 10,0:21:04.66,0:21:06.16,Default,,0,0,0,,Here goes...
-Dialogue: 10,0:21:06.16,0:21:10.00,Default,,0,0,0,,I'm chargin' through!
+Dialogue: 10,0:21:06.16,0:21:07.16,Default,,0,0,0,,I'm goin'...
+Dialogue: 10,0:21:07.66,0:21:10.00,Default,,0,0,0,,whole hog!
 Comment: 0,0:22:40.05,0:22:40.05,Default,chapter,0,0,0,,{Outro}
-Dialogue: 10,0:22:43.63,0:22:44.55,Default,,0,0,0,,Say, Tanjirou,
-Dialogue: 10,0:22:44.88,0:22:49.60,Default,,0,0,0,,{\q2}I think that girl you forcibly pulled away \Nfrom me might love me after all.
-Dialogue: 10,0:22:49.60,0:22:50.81,Default,,0,0,0,,What are you talking about?
-Dialogue: 10,0:22:50.81,0:22:52.98,Default,,0,0,0,,It was obvious she {\i1}wasn't{\i0} into you!
-Dialogue: 10,0:22:52.98,0:22:57.44,Default,,0,0,0,,{\q2}That's not true! She might've said all those things, \Nbut maybe she {\i1}wanted{\i0} me to chase after her!
+Dialogue: 10,0:22:43.63,0:22:44.55,Default,,0,0,0,,Say, Tanjirou.
+Dialogue: 10,0:22:44.88,0:22:49.56,Default,,0,0,0,,{\q2}I think that girl you forcibly pulled away \Nfrom me might love me after all.
+Dialogue: 10,0:22:49.56,0:22:50.81,Default,,0,0,0,,What are you talking about?
+Dialogue: 10,0:22:50.81,0:22:53.06,Default,,0,0,0,,She obviously {\i1}wasn't{\i0} into you!
+Dialogue: 10,0:22:53.06,0:22:57.44,Default,,0,0,0,,{\q2}That's not true! She might've said all those things, \Nbut maybe she {\i1}wanted{\i0} me to chase after her!
 Dialogue: 10,0:22:57.44,0:23:01.19,Default,,0,0,0,,{\q2}I think there was love in her eyes when she slapped me, \Nand then all the other times she hit me,
 Dialogue: 10,0:23:01.19,0:23:04.57,Default,,0,0,0,,{\q2}she was really putting her heart \Ninto it every single time!
 Dialogue: 10,0:23:04.57,0:23:07.74,Default,,0,0,0,,{\q2}If that isn't a sign of t-t-true love, \NI don't know what is!
@@ -356,8 +357,8 @@ Dialogue: 10,0:23:09.58,0:23:11.08,Default,,0,0,0,,Say {\i1}something{\i0}, will
 Dialogue: 10,0:23:11.08,0:23:13.37,Default,,0,0,0,,Now, it's time for a Taisho secret!
 Dialogue: 10,0:23:13.37,0:23:18.54,Default,,0,0,0,,{\q2}I hear that Zenitsu gets self-conscious \Nin front of girls, and his heart starts fluttering.
 Dialogue: 10,0:23:18.54,0:23:19.88,Default,,0,0,0,,Not like I can help it!
-Dialogue: 10,0:23:19.88,0:23:22.88,Default,,0,0,0,,Girls are so adorable, soft, and smell so nice!
-Dialogue: 10,0:23:22.88,0:23:26.72,Default,,0,0,0,,{\q2}Oh man, now that I'm thinking about them, \NI just remembered that girl again!
-Dialogue: 10,0:23:26.72,0:23:30.35,Default,,0,0,0,,{\q2}If I make it out of this house, I'm gonna go \Nstraight after her and tie the knot!
-Dialogue: 10,0:23:30.35,0:23:34.35,Default,,0,0,0,,{\q2}Next, Episode 12, "The Boar Bares \NIts Fangs, Zenitsu Sleeps"!
+Dialogue: 10,0:23:19.88,0:23:22.96,Default,,0,0,0,,Girls are so adorable, soft, and smell so nice!
+Dialogue: 10,0:23:22.96,0:23:26.72,Default,,0,0,0,,{\q2}Oh man, now that I'm thinking about them, \NI just remembered that girl again!
+Dialogue: 10,0:23:26.72,0:23:30.31,Default,,0,0,0,,{\q2}If I make it out of this house, I'm gonna go \Nstraight after her and tie the knot!
+Dialogue: 10,0:23:30.31,0:23:34.35,Default,,0,0,0,,{\q2}Next, Episode 12, "The Boar Bares \NIts Fangs, Zenitsu Sleeps"!
 Dialogue: 10,0:23:34.35,0:23:37.23,Default,,0,0,0,,Don't just ignore me, Tanjirou!
