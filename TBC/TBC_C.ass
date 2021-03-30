@@ -69,10 +69,10 @@ Dialogue: 0,0:23:38.02,0:23:38.06,Sign,,0,0,0,,{=3}{\fscx100\fscy100\an2\pos(107
 Dialogue: 1,0:23:38.02,0:23:38.06,Sign,,0,0,0,,{=2}{\fscx100\fscy100\an2\pos(1078,1007)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord13\c&HFFF14C&\3c&HFFF14C&\blur1}To Be Continued
 Dialogue: 2,0:23:38.02,0:23:38.06,Sign,,0,0,0,,{=1}{\fscx100\fscy100\an2\pos(1078,1007)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord8.5\c&H81402F&\3c&H81402F&\blur1}To Be Continued
 Dialogue: 3,0:23:38.02,0:23:38.06,Sign,,0,0,0,,{=0}{\fscx100\fscy100\an2\pos(1078,1007)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\blur1}To Be Continued
-Dialogue: 0,0:23:38.06,0:23:38.10,Sign,,0,0,0,,{=3}{\fscx100\fscy100\an2\pos(1080,1010)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord23\c&H080118&\3c&H080118&\blur0.8}To Be Continued
-Dialogue: 1,0:23:38.06,0:23:38.10,Sign,,0,0,0,,{=2}{\fscx100\fscy100\an2\pos(1080,1010)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord13\c&HFFF14C&\3c&HFFF14C&\blur0.8}To Be Continued
-Dialogue: 2,0:23:38.06,0:23:38.10,Sign,,0,0,0,,{=1}{\fscx100\fscy100\an2\pos(1080,1010)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord8.5\c&H81402F&\3c&H81402F&\blur0.8}To Be Continued
-Dialogue: 3,0:23:38.06,0:23:38.10,Sign,,0,0,0,,{=0}{\fscx100\fscy100\an2\pos(1080,1010)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\blur0.8}To Be Continued
+Dialogue: 0,0:23:38.06,0:23:50.00,Sign,,0,0,0,,{=3}{\fscx100\fscy100\an2\pos(1080,1010)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord23\c&H080118&\3c&H080118&\blur0.8}To Be Continued
+Dialogue: 1,0:23:38.06,0:23:50.00,Sign,,0,0,0,,{=2}{\fscx100\fscy100\an2\pos(1080,1010)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord13\c&HFFF14C&\3c&HFFF14C&\blur0.8}To Be Continued
+Dialogue: 2,0:23:38.06,0:23:50.00,Sign,,0,0,0,,{=1}{\fscx100\fscy100\an2\pos(1080,1010)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\bord8.5\c&H81402F&\3c&H81402F&\blur0.8}To Be Continued
+Dialogue: 3,0:23:38.06,0:23:50.00,Sign,,0,0,0,,{=0}{\fscx100\fscy100\an2\pos(1080,1010)\fnFOT Manyo Gyosho Std Strp E\fs130\b1\blur0.8}To Be Continued
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"21f6a62a-850c-49a1-8bca-8ac981f95c3e"#2C"originalText"#3A"{\\an2\\pos(1080#2C1010)\\fnFOT Manyo Gyosho Std Strp E\\fs130\\b1\\blur0.8}To Be Continued"}
