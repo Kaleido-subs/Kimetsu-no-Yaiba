@@ -27,13 +27,15 @@ Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,1
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Dialogue: 10,0:00:00.98,0:00:02.86,Default,,0,0,0,,South-south-east!
-Dialogue: 10,0:00:02.86,0:00:06.53,Default,,0,0,0,,Your next location is south-south-east!
+Dialogue: 10,0:00:02.86,0:00:06.53,Default,,0,0,0,,{\q2}Your next assignment \Nis to the south-south-east!
 Dialogue: 10,0:00:06.53,0:00:07.90,Default,,0,0,0,,I heard you the first time!
 Dialogue: 10,0:00:07.90,0:00:10.82,Default,,0,0,0,,I know already. Give me a break and pipe down!
 Dialogue: 10,0:00:10.82,0:00:11.95,Default,,0,0,0,,I'm begging you!
 Dialogue: 10,0:00:11.95,0:00:13.91,Default,,0,0,0,,Message received, so please!
 Dialogue: 10,0:00:13.91,0:00:15.33,Default,,0,0,0,,Please!
-Dialogue: 10,0:00:17.83,0:00:19.71,Default,,0,0,0,,Please! {\alpha&HFF&\t(528,529,\alpha&H00&\4a&HA0&)}Please! {\i1\alpha&HFF&\t(980,1022,\alpha&H00&\4a&HA0&)}Please!
+Dialogue: 10,0:00:17.83,0:00:18.37,Default,,0,0,0,,Please! {\alpha&HFF&}Please! {\i1}Please!
+Dialogue: 10,0:00:18.37,0:00:18.83,Default,,0,0,0,,Please! Please! {\i1\alpha&HFF&}Please!
+Dialogue: 10,0:00:18.83,0:00:19.71,Default,,0,0,0,,Please! Please! {\i1}Please!
 Dialogue: 10,0:00:19.71,0:00:21.17,Default,,0,0,0,,{\i1}Please{\i0} marry me!
 Dialogue: 10,0:00:21.75,0:00:24.63,Default,,0,0,0,,I could drop dead at a moment's notice, y'know!
 Dialogue: 10,0:00:24.63,0:00:27.22,Default,,0,0,0,,That's why I want you to marry me!
