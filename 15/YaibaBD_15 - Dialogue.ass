@@ -39,7 +39,7 @@ Dialogue: 10,0:02:30.55,0:02:35.22,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:02:37.47,0:02:40.06,Default,,0,0,0,,Zenitsu! Quit following her already!
 Dialogue: 10,0:02:42.27,0:02:45.06,Default,,0,0,0,,Ta-n-ji-ro-u!
 Dialogue: 10,0:02:49.11,0:02:51.82,Default,,0,0,0,,Let's be friends, Tanjirou!
-Dialogue: 10,0:02:52.11,0:02:55.57,Default,,0,0,0,,Zenitsu! Stop chasing us! I beg you!
+Dialogue: 10,0:02:52.11,0:02:55.57,Default,,0,0,0,,Zenitsu! I beg you, please stop chasing us!
 Dialogue: 10,0:02:55.57,0:02:58.83,Default,,0,0,0,,Oh, don't be like that, Tanjirou!
 Dialogue: 10,0:02:59.12,0:03:00.66,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:03:00.66,0:03:01.87,Default,,0,0,0,,Tanjirou!
@@ -49,13 +49,13 @@ Dialogue: 10,0:03:01.87,0:03:03.54,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:03:03.54,0:03:05.08,Default,,0,0,0,,Tanjirou!
 Dialogue: 10,0:03:05.08,0:03:06.83,Default,,0,0,0,,Man, I'm starving.
 Dialogue: 10,0:03:09.59,0:03:12.00,Default,,0,0,0,,Pardon me, sir.
-Dialogue: 10,0:03:17.76,0:03:22.56,Default,,0,0,0,,Those clothes of yours are quite dirty, I see.
+Dialogue: 10,0:03:17.76,0:03:22.56,Default,,0,0,0,,{\q2}Those clothes of yours \Nappear to be quite dirty.
 Dialogue: 10,0:03:23.60,0:03:29.86,Default,,0,0,0,,{\q2}Allow me to clean them for you. \NPlease wear these in the mean time.
 Dialogue: 10,0:03:31.40,0:03:35.70,Default,,0,0,0,,They're pleasant to the touch and quite comfortable.
-Dialogue: 10,0:03:40.41,0:03:44.62,Default,,0,0,0,,How does tempura for dinner sound?
+Dialogue: 10,0:03:40.41,0:03:44.62,Default,,0,0,0,,How does tempura sound for dinner?
 Dialogue: 10,0:03:44.62,0:03:49.71,Default,,0,0,0,,It's food covered with batter and fried.
 Dialogue: 10,0:03:52.00,0:03:54.21,Default,,0,0,0,,Hey, wait up!
-Dialogue: 10,0:03:54.21,0:03:56.30,Default,,0,0,0,,Come back here, Nezuko!
+Dialogue: 10,0:03:54.21,0:03:56.30,Default,,0,0,0,,Get back here, Nezuko!
 Dialogue: 10,0:04:01.76,0:04:03.93,Default,,0,0,0,,Wh-What was that for?
 Dialogue: 10,0:04:06.27,0:04:07.64,Default,,0,0,0,,Hold up! Hold up!
 Dialogue: 10,0:04:07.64,0:04:10.81,Default,,0,0,0,,Stop chasing me, Inosuke!
@@ -63,9 +63,9 @@ Dialogue: 10,0:04:11.73,0:04:14.03,Default,,0,0,0,,Tanjirou!
 Dialogue: 10,0:04:27.08,0:04:28.37,Default,,0,0,0,,Full recovery.
 Dialogue: 10,0:04:48.60,0:04:51.77,Default,,0,0,0,,North-northeast! North-northeast!
 Dialogue: 10,0:04:51.77,0:04:54.32,Default,,0,0,0,,Your next mission is north-northeast!
-Dialogue: 10,0:04:54.61,0:04:57.40,Default,,0,0,0,,The three of you are to go to Mt. Natagumo!
+Dialogue: 10,0:04:54.61,0:04:57.40,Default,,0,0,0,,You three are to go to Mt. Natagumo!
 Dialogue: 10,0:04:57.40,0:04:59.90,Default,,0,0,0,,Head to Mt. Natagumo!
-Dialogue: 10,0:05:08.25,0:05:09.54,Default,,0,0,0,,We'll be heading out, then.
+Dialogue: 10,0:05:08.25,0:05:09.54,Default,,0,0,0,,Be seeing you, then.
 Dialogue: 10,0:05:11.04,0:05:12.58,Default,,0,0,0,,Thank you so much for everything.
 Dialogue: 10,0:05:17.63,0:05:20.09,Default,,0,0,0,,Allow me to strike some sparks.
 Dialogue: 10,0:05:20.38,0:05:21.97,Default,,0,0,0,,It'd be much appreciated!
@@ -81,18 +81,18 @@ Dialogue: 10,0:06:08.47,0:06:09.47,Default,,0,0,0,,What's that mean?
 Dialogue: 10,0:06:10.02,0:06:12.18,Default,,0,0,0,,{\i1}Geez, this guy sure is thick.
 Dialogue: 10,0:06:13.02,0:06:17.11,Default,,0,0,0,,{\q2}Well, yeah. Now that you mention it, \Nit's kind of difficult to understand.
 Dialogue: 10,0:06:17.11,0:06:18.48,Default,,0,0,0,,"With great pride"...
-Dialogue: 10,0:06:19.19,0:06:21.53,Default,,0,0,0,,I guess it means that you know your place
-Dialogue: 10,0:06:21.53,0:06:26.70,Default,,0,0,0,,{\q2}and that you behave properly \Nso as to never disgrace yourself.
+Dialogue: 10,0:06:19.19,0:06:21.53,Default,,0,0,0,,I guess it means knowing your place
+Dialogue: 10,0:06:21.53,0:06:26.70,Default,,0,0,0,,{\q2}and behaving properly \Nso as to never disgrace yourself.
 Dialogue: 10,0:06:27.99,0:06:31.91,Default,,0,0,0,,And the old lady is also praying for our safety.
 Dialogue: 10,0:06:32.20,0:06:34.42,Default,,0,0,0,,Where's "my place" supposed to be?
 Dialogue: 10,0:06:34.42,0:06:37.17,Default,,0,0,0,,What do you mean by "never disgrace"?
 Dialogue: 10,0:06:37.17,0:06:38.50,Default,,0,0,0,,Well, that's...
 Dialogue: 10,0:06:38.50,0:06:41.67,Default,,0,0,0,,How do you "behave properly"?
-Dialogue: 10,0:06:41.92,0:06:44.93,Default,,0,0,0,,{\q2}Why the hell would that old hag \Npray for our safety anyway?
-Dialogue: 10,0:06:44.93,0:06:48.51,Default,,0,0,0,,She ain't got anything to do with us, so why?
-Dialogue: 10,0:06:49.47,0:06:52.43,Default,,0,0,0,,She doesn't know her own place, does she?
+Dialogue: 10,0:06:41.92,0:06:44.93,Default,,0,0,0,,{\q2}Why the hell would that old hag \Npray for our safety, anyway?
+Dialogue: 10,0:06:44.93,0:06:48.51,Default,,0,0,0,,{\q2}She ain't got anything to do with us, \Nso what's the deal?
+Dialogue: 10,0:06:49.47,0:06:52.43,Default,,0,0,0,,She doesn't know her {\i1}own{\i0} place, does she?
 Dialogue: 10,0:06:55.06,0:06:56.69,Default,,0,0,0,,{\i1}He sped up!
-Dialogue: 10,0:06:57.81,0:06:59.77,Default,,0,0,0,,I won't be beaten!
+Dialogue: 10,0:06:57.81,0:06:59.77,Default,,0,0,0,,You can't beat me!
 Dialogue: 10,0:07:00.32,0:07:03.11,Default,,0,0,0,,Wait for me!
 Dialogue: 10,0:07:13.29,0:07:14.46,Default,,0,0,0,,Hold up!
 Dialogue: 10,0:07:14.46,0:07:16.33,Default,,0,0,0,,May I have a quick moment?
@@ -110,13 +110,13 @@ Dialogue: 10,0:07:50.49,0:07:52.24,Default,,0,0,0,,I'm normal! I'm the normal on
 Dialogue: 10,0:07:52.24,0:07:54.25,Default,,0,0,0,,You guys are the weirdos!
 Dialogue: 10,0:08:02.13,0:08:04.00,Default,,0,0,0,,What? What's wrong?
 Dialogue: 10,0:08:04.00,0:08:04.76,Default,,0,0,0,,Hey...
-Dialogue: 10,0:08:05.72,0:08:07.26,Default,,0,0,0,,What is this smell?
+Dialogue: 10,0:08:05.72,0:08:07.26,Default,,0,0,0,,What's up with this smell?
 Dialogue: 10,0:08:08.01,0:08:08.88,Default,,0,0,0,,Tanjirou!
 Dialogue: 10,0:08:08.88,0:08:09.47,Default,,0,0,0,,Wait!
 Dialogue: 10,0:08:09.47,0:08:11.85,Default,,0,0,0,,Come on! Don't leave me all alone!
 Dialogue: 10,0:08:11.85,0:08:13.76,Default,,0,0,0,,Don't just run away!
 Dialogue: 10,0:08:26.65,0:08:29.45,Default,,0,0,0,,H-Help...
-Dialogue: 10,0:08:29.86,0:08:31.49,Default,,0,0,0,,He's got our uniform on!
+Dialogue: 10,0:08:29.86,0:08:31.49,Default,,0,0,0,,He's wearing our uniform!
 Dialogue: 10,0:08:31.49,0:08:32.66,Default,,0,0,0,,He's a Demon Slayer!
 Dialogue: 10,0:08:32.66,0:08:34.03,Default,,0,0,0,,Something must've happened!
 Dialogue: 10,0:08:35.20,0:08:36.37,Default,,0,0,0,,Hold up!
@@ -127,9 +127,9 @@ Dialogue: 10,0:08:45.67,0:08:48.92,Default,,0,0,0,,Save me!
 Dialogue: 10,0:09:05.48,0:09:06.69,Default,,0,0,0,,I'm going in{ there}.
 Dialogue: 10,0:09:09.95,0:09:11.95,Default,,0,0,0,,I'll go on ahead first.
 Dialogue: 10,0:09:11.95,0:09:15.53,Default,,0,0,0,,You can follow me, shivering in your boots.
-Dialogue: 10,0:09:15.53,0:09:17.58,Default,,0,0,0,,This is making me hungry.
+Dialogue: 10,0:09:15.53,0:09:17.58,Default,,0,0,0,,I'm getting hungry.
 Dialogue: 10,0:09:18.37,0:09:19.58,Default,,0,0,0,,Inosuke...
-Dialogue: 10,0:09:20.92,0:09:22.88,Default,,0,0,0,,This is challenging enough for you, right?
+Dialogue: 10,0:09:20.92,0:09:22.88,Default,,0,0,0,,You {\i1}want{\i0} to go in there?{### tlc, with context}
 Dialogue: 10,0:09:25.54,0:09:26.71,Default,,0,0,0,,Let's go!
 Dialogue: 10,0:10:31.15,0:10:32.53,Default,,0,0,0,,The hell's this?
 Dialogue: 10,0:10:41.41,0:10:42.83,Default,,0,0,0,,Spider webs?
@@ -141,9 +141,9 @@ Dialogue: 10,0:10:53.17,0:10:54.22,Default,,0,0,0,,What you want?
 Dialogue: 10,0:10:55.09,0:10:56.18,Default,,0,0,0,,Thanks.
 Dialogue: 10,0:10:57.72,0:11:01.22,Default,,0,0,0,,{\q2}I felt a lot more encouraged \Nsince you said you'd come along.
 Dialogue: 10,0:11:03.48,0:11:07.27,Default,,0,0,0,,{\q2}That twisted, ominous scent I was \Npicking up from the mountain...
-Dialogue: 10,0:11:07.27,0:11:09.94,Default,,0,0,0,,It made me freeze a little.
+Dialogue: 10,0:11:07.27,0:11:09.94,Default,,0,0,0,,It was giving me cold feet.
 Dialogue: 10,0:11:10.73,0:11:11.73,Default,,0,0,0,,So thanks!
-Dialogue: 10,0:11:16.28,0:11:20.58,Default,,0,0,0,,{\i1}They're pleasant to the touch and quite comfortable.
+Dialogue: 10,0:11:15.95,0:11:20.58,Default,,0,0,0,,{\i1\3c&HFEFEFE&\4c&HFEFEFE&\t(17,517,2.5,\3c&H000000&\4c&H000000&)}They're pleasant to the touch and quite comfortable.
 Dialogue: 10,0:11:20.58,0:11:25.58,Default,,0,0,0,,{\i1}Always live your lives with great pride.
 Dialogue: 10,0:11:25.58,0:11:27.54,Default,,0,0,0,,{\i1}I wish you much luck in battle!
 Dialogue: 10,0:11:31.46,0:11:32.38,Default,,0,0,0,,Inosuke...
@@ -151,14 +151,14 @@ Dialogue: 10,0:11:37.64,0:11:38.43,Default,,0,0,0,,Let's go.
 Dialogue: 10,0:11:49.36,0:11:50.86,Default,,0,0,0,,We've come for backup.
 Dialogue: 10,0:11:50.86,0:11:54.11,Default,,0,0,0,,I'm Kamado Tanjirou, Rank Mizunoto.
 Dialogue: 10,0:11:54.44,0:11:55.78,Default,,0,0,0,,Mizunoto...
-Dialogue: 10,0:11:56.57,0:11:58.11,Default,,0,0,0,,Mizunoto?
+Dialogue: 10,0:11:56.57,0:11:58.11,Default,,0,0,0,,Mizunoto?!
 Dialogue: 10,0:11:58.53,0:12:00.95,Default,,0,0,0,,Why didn't they send a Hashira?
 Dialogue: 10,0:12:00.95,0:12:03.87,Default,,0,0,0,,It doesn't matter how many Mizunoto they send!
 Dialogue: 10,0:12:03.87,0:12:04.95,Default,,0,0,0,,It won't make a difference!
 Dialogue: 10,0:12:06.50,0:12:07.71,Default,,0,0,0,,Inosuke!
 Dialogue: 10,0:12:07.71,0:12:09.08,Default,,0,0,0,,Shut it!
 Dialogue: 10,0:12:09.08,0:12:14.25,Default,,0,0,0,,{\q2}If we're talking differences, \Nwe can start with your very existence!
-Dialogue: 10,0:12:14.25,0:12:18.26,Default,,0,0,0,,{\q2}Or better yet, tell us what's \Ngoing on, you spineless fool!
+Dialogue: 10,0:12:14.25,0:12:18.26,Default,,0,0,0,,{\q2}Or better yet, tell us what's \Ngoing on, you spineless punk!
 Dialogue: 10,0:12:18.26,0:12:19.97,Default,,0,0,0,,Who the hell do you think you are?
 Dialogue: 10,0:12:19.97,0:12:22.39,Default,,0,0,0,,Did you forget that I outrank you?
 Dialogue: 10,0:12:22.72,0:12:25.89,Default,,0,0,0,,Th-The crow gave us the order!
@@ -170,7 +170,7 @@ Dialogue: 10,0:13:08.48,0:13:09.35,Default,,0,0,0,,I...
 Dialogue: 10,0:13:12.90,0:13:13.94,Default,,0,0,0,,I...
 Dialogue: 10,0:13:20.28,0:13:22.41,Default,,0,0,0,,You did well to return.
 Dialogue: 10,0:13:23.45,0:13:27.54,Default,,0,0,0,,So most of my children have been slaughtered?
-Dialogue: 10,0:13:28.50,0:13:31.54,Default,,0,0,0,,If that's the case, we might find the Blood Moons there.
+Dialogue: 10,0:13:28.50,0:13:31.54,Default,,0,0,0,,If that's the case, we might find a Blood Moon there.{### tlc: ignoring that there really is just one, is there any indication of plurality here?}
 Dialogue: 10,0:13:32.62,0:13:35.71,Default,,0,0,0,,It seems I'll have to dispatch the Hashira.
 Dialogue: 10,0:13:40.63,0:13:41.51,Default,,0,0,0,,Giyuu.
 Dialogue: 10,0:13:43.68,0:13:44.64,Default,,0,0,0,,Shinobu.
@@ -187,17 +187,17 @@ Dialogue: 10,0:14:22.72,0:14:24.80,Default,,0,0,0,,{\i1}If they both tried to ta
 Dialogue: 10,0:14:23.05,0:14:24.38,Default,,0,0,0,,{\an8}Zenitsu...
 Dialogue: 10,0:14:24.38,0:14:26.01,Default,,0,0,0,,{\an8}Zenitsu.
 Dialogue: 10,0:14:24.80,0:14:26.01,Default,,0,0,0,,{\i1}I would've gone, okay?
-Dialogue: 10,0:14:26.01,0:14:26.97,Default,,0,0,0,,{\i1}I really would.
-Dialogue: 10,0:14:27.85,0:14:32.68,Default,,0,0,0,,{\i1\q2}But no, off they went on their merry way \Nup that scary mountain.
+Dialogue: 10,0:14:26.01,0:14:26.97,Default,,0,0,0,,{\i1}I really would've.
+Dialogue: 10,0:14:27.64,0:14:32.68,Default,,0,0,0,,{\i1\q2}But no, off they went on their merry way \Nup that scary mountain.
 Dialogue: 10,0:14:33.64,0:14:36.19,Default,,0,0,0,,{\i1}Poor me, left all alone...
 Comment: 10,0:14:43.82,0:14:47.15,Default,Ukogi,0,0,0,,Sulking won't do you any good. \NYou have to go help your friends.
 Dialogue: 10,0:14:49.33,0:14:51.66,Default,,0,0,0,,Lucky you. You don't have a care in the world.
 Dialogue: 10,0:14:51.66,0:14:54.75,Default,,0,0,0,,You don't understand a thing about humans, do you?
-Dialogue: 10,0:14:55.87,0:14:58.17,Default,,0,0,0,,Ouch, ouch, ouch!
+Dialogue: 10,0:14:55.87,0:14:58.17,Default,,0,0,0,,Ow, ow, ow, ow, ow!
 Dialogue: 10,0:14:58.17,0:15:01.09,Default,,0,0,0,,{\q2}You're not cute at all! I mean it! \NNot that side of you!
-Dialogue: 10,0:15:01.09,0:15:03.67,Default,,0,0,0,,Seriously, you've got zero charm!
+Dialogue: 10,0:15:01.09,0:15:03.67,Default,,0,0,0,,Seriously, you're totally devoid of charm!
 Dialogue: 10,0:15:03.97,0:15:06.43,Default,,0,0,0,,{\q2}I mean, look at how cute Nezuko is! \NAnd she's a demon!
-Dialogue: 10,0:15:06.43,0:15:08.76,Default,,0,0,0,,But you're a sparrow, and you're so vicious!
+Dialogue: 10,0:15:06.43,0:15:08.76,Default,,0,0,0,,{\q2}And then you're a sparrow, \Nbut you're so vicious!
 Dialogue: 10,0:15:10.89,0:15:13.77,Default,,0,0,0,,He took Nezuko with him!
 Dialogue: 10,0:15:14.10,0:15:17.31,Default,,0,0,0,,{\q2}Why did he have to take \Nmy precious Nezuko with him?
 Dialogue: 10,0:15:17.31,0:15:19.52,Default,,0,0,0,,Damn you, Tanjirou!
@@ -251,16 +251,16 @@ Dialogue: 10,0:16:32.68,0:16:34.81,Default,,0,0,0,,These guys are all dumbasses!
 Dialogue: 10,0:16:34.81,0:16:38.31,Default,,0,0,0,,{\q2}They don't even know we're \Nnot allowed to fight each other!
 Dialogue: 10,0:16:38.31,0:16:39.48,Default,,0,0,0,,No, that's not it!
 Dialogue: 10,0:16:39.48,0:16:40.81,Default,,0,0,0,,They're not moving normally!
-Dialogue: 10,0:16:40.81,0:16:43.15,Default,,0,0,0,,Something is manipulating them!
+Dialogue: 10,0:16:40.81,0:16:43.15,Default,,0,0,0,,Something is controlling them!
 Dialogue: 10,0:16:43.15,0:16:44.48,Default,,0,0,0,,All right.
-Dialogue: 10,0:16:45.53,0:16:47.57,Default,,0,0,0,,I'm gonna go cut 'em up!
+Dialogue: 10,0:16:45.53,0:16:47.57,Default,,0,0,0,,I'm gonna cut 'em up!
 Dialogue: 10,0:16:47.57,0:16:48.65,Default,,0,0,0,,You can't do that!
 Dialogue: 10,0:16:48.65,0:16:49.82,Default,,0,0,0,,They're alive!
 Dialogue: 10,0:16:49.82,0:16:51.95,Default,,0,0,0,,Some of them are still alive!
 Dialogue: 10,0:16:51.95,0:16:55.95,Default,,0,0,0,,Besides, we can't harm the corpses of our allies!
-Dialogue: 10,0:16:57.16,0:17:01.17,Default,,0,0,0,,Quit bossin' me around at every turn!
+Dialogue: 10,0:16:57.16,0:17:01.17,Default,,0,0,0,,Quit bossin' me around all the time!
 Dialogue: 10,0:17:15.76,0:17:19.27,Default,,0,0,0,,{\i1}There's this strange, sweet scent coming from his back!
-Dialogue: 10,0:17:26.23,0:17:28.90,Default,,0,0,0,,Threads! They're being manipulated by threads!
+Dialogue: 10,0:17:26.23,0:17:28.90,Default,,0,0,0,,Threads! They're being controlled using threads!
 Dialogue: 10,0:17:29.15,0:17:30.40,Default,,0,0,0,,Cut the threads!
 Dialogue: 10,0:17:37.91,0:17:41.16,Default,,0,0,0,,I already knew before you caught on!
 Dialogue: 10,0:17:41.50,0:17:45.29,Default,,0,0,0,,{\i1}Where's the demon controlling them?
@@ -273,8 +273,8 @@ Dialogue: 10,0:18:10.24,0:18:11.57,Default,,0,0,0,,{\i1}That means...
 Dialogue: 10,0:18:20.08,0:18:23.33,Default,,0,0,0,,Now then, my sweet little marionettes...
 Dialogue: 10,0:18:23.62,0:18:26.38,Default,,0,0,0,,Dance until your arms and legs fall off.
 Dialogue: 10,0:18:26.96,0:18:29.09,Default,,0,0,0,,Cutting the threads won't be enough!
-Dialogue: 10,0:18:29.09,0:18:31.55,Default,,0,0,0,,The spiders will just stick more onto them!
-Dialogue: 10,0:18:31.55,0:18:32.42,Default,,0,0,0,,So we need to...
+Dialogue: 10,0:18:29.09,0:18:31.55,Default,,0,0,0,,Those spiders will just make more!
+Dialogue: 10,0:18:31.55,0:18:32.42,Default,,0,0,0,,We need to—
 Dialogue: 10,0:18:33.55,0:18:35.18,Default,,0,0,0,,{\i1}That acrid smell again!
 Dialogue: 10,0:18:35.18,0:18:36.55,Default,,0,0,0,,{\i1}What is it?
 Dialogue: 10,0:18:36.55,0:18:38.35,Default,,0,0,0,,{\i1}It's coming in on the wind!
@@ -284,8 +284,8 @@ Dialogue: 10,0:18:47.36,0:18:50.11,Default,,0,0,0,,They're too small, and there'
 Dialogue: 10,0:18:50.40,0:18:52.90,Default,,0,0,0,,We've gotta find the demon controlling them!
 Dialogue: 10,0:18:57.78,0:18:59.08,Default,,0,0,0,,Don't bother, Inosuke!
 Dialogue: 10,0:18:59.49,0:19:04.75,Default,,0,0,0,,{\q2}Inosuke, if you have some kind of ability \Nthat can pinpoint the demon's location,
-Dialogue: 10,0:19:04.75,0:19:06.25,Default,,0,0,0,,then give me a helping hand!
-Dialogue: 10,0:19:06.25,0:19:08.79,Default,,0,0,0,,This weird smell has been flowing in
+Dialogue: 10,0:19:04.75,0:19:06.25,Default,,0,0,0,,then help me out!
+Dialogue: 10,0:19:06.25,0:19:08.79,Default,,0,0,0,,This weird smell has been blowing in
 Dialogue: 10,0:19:08.79,0:19:11.00,Default,,0,0,0,,and it's blocking my nose!
 Dialogue: 10,0:19:11.63,0:19:13.76,Default,,0,0,0,,And also, um...
 Dialogue: 10,0:19:13.76,0:19:14.88,Default,,0,0,0,,It's Murata!
@@ -303,7 +303,7 @@ Dialogue: 10,0:20:06.31,0:20:07.81,Default,,0,0,0,,Motherfucker!
 Dialogue: 10,0:20:08.19,0:20:10.40,Default,,0,0,0,,Where the fuck do you think you're going? Fight me!
 Dialogue: 10,0:20:10.40,0:20:11.36,Default,,0,0,0,,Fight—
 Dialogue: 10,0:20:11.36,0:20:12.65,Default,,0,0,0,,Inosuke!
-Dialogue: 10,0:20:13.44,0:20:15.57,Default,,0,0,0,,What'd he come here for anyway?
+Dialogue: 10,0:20:13.44,0:20:15.57,Default,,0,0,0,,What was he doing here, anyway?
 Dialogue: 10,0:20:15.57,0:20:18.86,Default,,0,0,0,,That kid probably isn't the demon pulling the threads!
 Dialogue: 10,0:20:18.86,0:20:20.66,Default,,0,0,0,,First, let's...
 Dialogue: 10,0:20:20.66,0:20:22.66,Default,,0,0,0,,Okay, okay, okay!
@@ -330,8 +330,8 @@ Comment: 10,0:23:13.91,0:23:16.41,Default,Ukogi,0,0,0,,Now, it's time for a Tais
 Comment: 10,0:23:16.41,0:23:18.54,Default,Ukogi,0,0,0,,My real name is Ukogi.
 Comment: 10,0:23:18.54,0:23:20.87,Default,Ukogi,0,0,0,,That's because my favourite food is ukogi rice.
 Comment: 10,0:23:20.87,0:23:23.08,Default,Ukogi,0,0,0,,But Zenitsu hasn't noticed yet, so all I get is beans.
-Dialogue: 10,0:23:23.09,0:23:24.47,Default,,0,0,0,,What are you so mad about?
-Dialogue: 10,0:23:24.47,0:23:26.18,Default,,0,0,0,,Here, eat this and calm down.
+Dialogue: 10,0:23:23.09,0:23:24.42,Default,,0,0,0,,What are you so mad about?
+Dialogue: 10,0:23:24.42,0:23:26.18,Default,,0,0,0,,Here, eat this and calm down.
 Comment: 10,0:23:26.18,0:23:27.26,Default,Ukogi,0,0,0,,An ukogi rice ball!
 Dialogue: 10,0:23:27.26,0:23:28.85,Default,,0,0,0,,Help me look once you're done, okay?
 Dialogue: 10,0:23:28.85,0:23:30.72,Default,,0,0,0,,I mean, Nezuko's in danger!
