@@ -190,6 +190,7 @@ Dialogue: 10,0:14:24.80,0:14:26.01,Default,,0,0,0,,{\i1}I would've gone, okay?
 Dialogue: 10,0:14:26.01,0:14:26.97,Default,,0,0,0,,{\i1}I really would.
 Dialogue: 10,0:14:27.85,0:14:32.68,Default,,0,0,0,,{\i1\q2}But no, off they went on their merry way \Nup that scary mountain.
 Dialogue: 10,0:14:33.64,0:14:36.19,Default,,0,0,0,,{\i1}Poor me, left all alone...
+Comment: 10,0:14:43.82,0:14:47.15,Default,Ukogi,0,0,0,,Sulking won't do you any good. \NYou have to go help your friends.
 Dialogue: 10,0:14:49.33,0:14:51.66,Default,,0,0,0,,Lucky you. You don't have a care in the world.
 Dialogue: 10,0:14:51.66,0:14:54.75,Default,,0,0,0,,You don't understand a thing about humans, do you?
 Dialogue: 10,0:14:55.87,0:14:58.17,Default,,0,0,0,,Ouch, ouch, ouch!
@@ -321,11 +322,20 @@ Dialogue: 10,0:23:02.36,0:23:03.36,Default,,0,0,0,,Whoopsie-daisy!
 Dialogue: 10,0:23:03.36,0:23:04.61,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:23:04.61,0:23:05.99,Default,,0,0,0,,Tanjirou!
 Dialogue: 10,0:23:05.99,0:23:07.16,Default,,0,0,0,,Where are you?
+Comment: 10,0:23:07.53,0:23:09.20,Default,Ukogi,0,0,0,,First, let's calm down and listen to the sounds around us!
 Dialogue: 10,0:23:09.28,0:23:10.58,Default,,0,0,0,,Nezuko's in danger!
 Dialogue: 10,0:23:10.58,0:23:12.66,Default,,0,0,0,,Stop chirping and help me find her, Chuntarou!
+Comment: 10,0:23:12.66,0:23:13.91,Default,Ukogi,0,0,0,,I told you to calm down!
+Comment: 10,0:23:13.91,0:23:16.41,Default,Ukogi,0,0,0,,Now, it's time for a Taisho secret!
+Comment: 10,0:23:16.41,0:23:18.54,Default,Ukogi,0,0,0,,My real name is Ukogi.
+Comment: 10,0:23:18.54,0:23:20.87,Default,Ukogi,0,0,0,,That's because my favourite food is ukogi rice.
+Comment: 10,0:23:20.87,0:23:23.08,Default,Ukogi,0,0,0,,But Zenitsu hasn't noticed yet, so all I get is beans.
 Dialogue: 10,0:23:23.09,0:23:24.47,Default,,0,0,0,,What are you so mad about?
 Dialogue: 10,0:23:24.47,0:23:26.18,Default,,0,0,0,,Here, eat this and calm down.
+Comment: 10,0:23:26.18,0:23:27.26,Default,Ukogi,0,0,0,,An ukogi rice ball!
 Dialogue: 10,0:23:27.26,0:23:28.85,Default,,0,0,0,,Help me look once you're done, okay?
 Dialogue: 10,0:23:28.85,0:23:30.72,Default,,0,0,0,,I mean, Nezuko's in danger!
+Comment: 10,0:23:30.72,0:23:32.47,Default,Ukogi,0,0,0,,He's seriously worried.
 Dialogue: 10,0:23:31.18,0:23:33.35,Default,,0,0,0,,Nezuko!
+Comment: 10,0:23:32.47,0:23:34.18,Default,Ukogi,0,0,0,,I guess this is why you just can't hate the guy.
 Dialogue: 10,0:23:34.18,0:23:37.81,Default,,0,0,0,,Next, Episode 16, "Letting Someone Else Go First"!
