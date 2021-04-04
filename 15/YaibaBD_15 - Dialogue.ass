@@ -129,7 +129,7 @@ Dialogue: 10,0:09:09.95,0:09:11.95,Default,,0,0,0,,I'll go on ahead first.
 Dialogue: 10,0:09:11.95,0:09:15.53,Default,,0,0,0,,You can follow me, shivering in your boots.
 Dialogue: 10,0:09:15.53,0:09:17.58,Default,,0,0,0,,I'm getting hungry.
 Dialogue: 10,0:09:18.37,0:09:19.58,Default,,0,0,0,,Inosuke...
-Dialogue: 10,0:09:20.92,0:09:22.88,Default,,0,0,0,,You {\i1}want{\i0} to go in there?{### tlc, with context}
+Dialogue: 10,0:09:20.92,0:09:22.88,Default,,0,0,0,,You {\i1}want{\i0} to go in there?
 Dialogue: 10,0:09:25.54,0:09:26.71,Default,,0,0,0,,Let's go!
 Dialogue: 10,0:10:31.15,0:10:32.53,Default,,0,0,0,,The hell's this?
 Dialogue: 10,0:10:41.41,0:10:42.83,Default,,0,0,0,,Spider webs?
@@ -170,7 +170,7 @@ Dialogue: 10,0:13:08.48,0:13:09.35,Default,,0,0,0,,I...
 Dialogue: 10,0:13:12.90,0:13:13.94,Default,,0,0,0,,I...
 Dialogue: 10,0:13:20.28,0:13:22.41,Default,,0,0,0,,You did well to return.
 Dialogue: 10,0:13:23.45,0:13:27.54,Default,,0,0,0,,So most of my children have been slaughtered?
-Dialogue: 10,0:13:28.50,0:13:31.54,Default,,0,0,0,,If that's the case, we might find a Blood Moon there.{### tlc: ignoring that there really is just one, is there any indication of plurality here?}
+Dialogue: 10,0:13:28.50,0:13:31.54,Default,,0,0,0,,If that's the case, we might find a Blood Moon there.
 Dialogue: 10,0:13:32.62,0:13:35.71,Default,,0,0,0,,It seems I'll have to dispatch the Hashira.
 Dialogue: 10,0:13:40.63,0:13:41.51,Default,,0,0,0,,Giyuu.
 Dialogue: 10,0:13:43.68,0:13:44.64,Default,,0,0,0,,Shinobu.
