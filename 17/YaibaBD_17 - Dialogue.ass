@@ -29,25 +29,25 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Dialogue: 10,0:00:03.61,0:00:07.74,Default,,0,0,0,,{\i1\q2}The blood of the Twelve Blood Moons should have \Na high concentration of Kibutsuji's blood.
 Dialogue: 10,0:00:08.45,0:00:13.03,Default,,0,0,0,,{\i1\q2}If I can extract some, we'll be one step closer \Nto restoring Nezuko's humanity.
 Dialogue: 10,0:00:15.41,0:00:17.04,Default,,0,0,0,,Oh, right! What about Inosuke?
-Dialogue: 10,0:00:21.33,0:00:23.34,Default,,0,0,0,,Did you beat 'em?
+Dialogue: 10,0:00:21.33,0:00:23.34,Default,,0,0,0,,Did ya beat 'em?
 Dialogue: 10,0:00:23.88,0:00:26.21,Default,,0,0,0,,Are you all right, Inosuke?
-Dialogue: 10,0:00:26.21,0:00:28.63,Default,,0,0,0,,I asked if you killed that damn thing or not!
+Dialogue: 10,0:00:26.21,0:00:28.63,Default,,0,0,0,,Did you kill that damn thing or not?
 Dialogue: 10,0:00:28.63,0:00:29.97,Default,,0,0,0,,Uh, yeah, I did!
 Dialogue: 10,0:00:29.97,0:00:32.35,Default,,0,0,0,,Never mind that. How are you feeling?
 Dialogue: 10,0:00:32.35,0:00:35.56,Default,,0,0,0,,Don't go coddling me now, dumbass!
-Dialogue: 10,0:00:36.06,0:00:38.14,Default,,0,0,0,,Y'hear me? Got that?
+Dialogue: 10,0:00:36.06,0:00:38.14,Default,,0,0,0,,Y'hear me? Got it?
 Dialogue: 10,0:00:38.14,0:00:41.81,Default,,0,0,0,,Anything you can do, I can do too!
 Dialogue: 10,0:00:41.81,0:00:46.57,Default,,0,0,0,,My head'll be harder than yours before you know it!
 Dialogue: 10,0:00:46.94,0:00:49.86,Default,,0,0,0,,Not to mention... To mention...
 Dialogue: 10,0:00:49.86,0:00:50.82,Default,,0,0,0,,Um...
 Dialogue: 10,0:00:51.82,0:00:53.41,Default,,0,0,0,,{\i1}He's wounded pretty badly.
 Dialogue: 10,0:00:53.91,0:00:56.37,Default,,0,0,0,,{\i1}I couldn't save our allies, either.
-Dialogue: 10,0:00:57.79,0:01:01.29,Default,,0,0,0,,{\i1}That person gave off a scent of terror and suffering.
-Dialogue: 10,0:01:03.63,0:01:06.67,Default,,0,0,0,,{\i1}Strong enough to make her yearn for death.
+Dialogue: 10,0:00:57.79,0:01:01.29,Default,,0,0,0,,{\i1}She was giving off a scent of terror and suffering.
+Dialogue: 10,0:01:03.63,0:01:06.67,Default,,0,0,0,,{\i1\q2}Despair strong enough \Nto make her yearn for death.
 Dialogue: 10,0:01:11.18,0:01:14.05,Default,,0,0,0,,{\i1}Just what is going on on this mountain?
 Dialogue: 10,0:01:14.80,0:01:18.73,Default,,0,0,0,,{\i1\q2}You've got a Blood Moon and even \Na family of demons living here.
 Dialogue: 10,0:01:14.80,0:01:16.68,Default,,0,0,0,,{\an8}Stay still, Inosuke!
-Dialogue: 10,0:01:16.68,0:01:18.73,Default,,0,0,0,,{\an8}Cut that out! I don't need that!
+Dialogue: 10,0:01:16.68,0:01:18.73,Default,,0,0,0,,{\an8}Cut that out! I don't need it!
 Dialogue: 10,0:01:18.73,0:01:20.18,Default,,0,0,0,,{\an8}I'm fine, y'hear!
 Dialogue: 10,0:01:20.73,0:01:22.06,Default,,0,0,0,,{\i1}But...
 Dialogue: 10,0:01:22.06,0:01:24.23,Default,,0,0,0,,{\i1}I thought demons never banded together!
@@ -59,14 +59,14 @@ Dialogue: 10,0:01:42.25,0:01:43.92,Default,,0,0,0,,Where'd they go?
 Dialogue: 10,0:01:44.54,0:01:45.92,Default,,0,0,0,,Which way?
 Dialogue: 10,0:01:45.92,0:01:48.84,Default,,0,0,0,,And gee, it reeks! Phooey!
 Dialogue: 10,0:01:49.42,0:01:51.26,Default,,0,0,0,,I'm gonna break down in tears at this rate!
-Dialogue: 10,0:01:51.92,0:01:55.47,Default,,0,0,0,,{\q2}That, and the sounds of these spiders \Nrustling about is so gross!
+Dialogue: 10,0:01:51.92,0:01:55.47,Default,,0,0,0,,{\q2}That, and the sound of these spiders \Nrustling about is so gross!
 Dialogue: 10,0:01:55.47,0:01:58.85,Default,,0,0,0,,{\q2}I know they're just trying to \Nsurvive out here, but c'mon!
 Dialogue: 10,0:02:00.85,0:02:02.35,Default,,0,0,0,,Oh, for crying out loud!
 Dialogue: 10,0:02:02.35,0:02:03.44,Default,,0,0,0,,Shut up and stay still!
 Dialogue: 10,0:02:06.44,0:02:09.98,Default,,0,0,0,,The hell is {\i1}that{\i0} thing?!
 Comment: 0,0:03:39.99,0:03:39.99,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:03:49.79,0:03:52.63,Default,,0,0,0,,That spider has a human face!
-Dialogue: 10,0:03:52.63,0:03:55.30,Default,,0,0,0,,Is something like that even possible? What the hell?
+Dialogue: 10,0:03:52.63,0:03:55.30,Default,,0,0,0,,How is that even possible? What the hell?
 Dialogue: 10,0:03:55.30,0:03:56.97,Default,,0,0,0,,Please be a dream! Please be a dream!
 Dialogue: 10,0:03:56.97,0:03:58.76,Default,,0,0,0,,I beg you, {\i1}please{\i0} tell me this is a dream!
 Dialogue: 10,0:03:58.76,0:04:02.01,Default,,0,0,0,,{\q2}If this could just be a bad dream, \NI promise I'll work harder from now on!
@@ -79,18 +79,18 @@ Dialogue: 10,0:04:13.27,0:04:18.78,Default,,0,0,0,,wake me up from this nightmar
 Dialogue: 10,0:04:31.25,0:04:34.13,Default,,0,0,0,,{\i1}What the hell is going on here?
 Dialogue: 10,0:04:34.13,0:04:37.76,Default,,0,0,0,,{\i1}Are those humans transforming into spiders?
 Dialogue: 10,0:04:38.67,0:04:40.59,Default,,0,0,0,,{\i1}Is that house floating?
-Dialogue: 10,0:04:40.59,0:04:43.26,Default,,0,0,0,,{\i1\q2}Hang on, there's a faint glimpse \Nof something. Threads?
-Dialogue: 10,0:04:43.64,0:04:45.31,Default,,0,0,0,,{\i1}And it reeks!
-Dialogue: 10,0:04:45.31,0:04:47.18,Default,,0,0,0,,{\i1\q2}Pungent doesn't even \Nbegin to describe it!
-Dialogue: 10,0:04:47.52,0:04:50.19,Default,,0,0,0,,{\i1\q2}Tanjirou would drop dead on the spot \Nwith his keen sense of smell!
+Dialogue: 10,0:04:40.59,0:04:43.26,Default,,0,0,0,,{\i1}Wait, no, what are those shimmers? Threads?
+Dialogue: 10,0:04:43.64,0:04:45.31,Default,,0,0,0,,{\i1}And this stench!
+Dialogue: 10,0:04:45.31,0:04:47.18,Default,,0,0,0,,{\i1}It's beyond pungent!
+Dialogue: 10,0:04:47.52,0:04:50.19,Default,,0,0,0,,{\i1}Tanjirou{ and his sharp nose} would drop dead on the spot!
 Dialogue: 10,0:04:50.56,0:04:52.77,Default,,0,0,0,,{\i1}This smell is making my throat ache!
 Dialogue: 10,0:04:52.77,0:04:54.23,Default,,0,0,0,,{\i1}I'm tearing up!
 Dialogue: 10,0:04:54.61,0:04:56.19,Default,,0,0,0,,{\i1}My eyes sting!
 Dialogue: 10,0:05:08.58,0:05:10.46,Default,,0,0,0,,{\i1}Huge!
-Dialogue: 10,0:05:10.67,0:05:13.25,Default,,0,0,0,,{\i1}It's large! Enormous!
+Dialogue: 10,0:05:10.67,0:05:13.25,Default,,0,0,0,,{\i1}It's big! Enormous!
 Dialogue: 10,0:05:13.25,0:05:14.46,Default,,0,0,0,,{\i1}Humongous!
 Dialogue: 10,0:05:14.46,0:05:16.30,Default,,0,0,0,,{\i1}That thing's a friggin' giant!
-Dialogue: 10,0:05:22.22,0:05:26.35,Default,,0,0,0,,{\q2}Y'know what? I refuse to even {\i1}speak{\i0} with \Nthe likes of you, whatever the hell you are!
+Dialogue: 10,0:05:22.22,0:05:26.35,Default,,0,0,0,,{\q2}Y'know what? I refuse to even {\i1}speak{\i0} \Nwith the likes of whatever the hell you are!
 Dialogue: 10,0:05:31.73,0:05:33.85,Default,,0,0,0,,Running away is futile.
 Dialogue: 10,0:05:33.85,0:05:35.69,Default,,0,0,0,,You've already lost either way.
 Dialogue: 10,0:05:35.69,0:05:37.61,Default,,0,0,0,,The hell are you blabbering on about?
@@ -102,16 +102,16 @@ Dialogue: 10,0:05:47.66,0:05:49.29,Default,,0,0,0,,Look at your hand.
 Dialogue: 10,0:05:49.70,0:05:50.58,Default,,0,0,0,,My hand?
 Dialogue: 10,0:05:52.42,0:05:53.83,Default,,0,0,0,,What's wrong with my ha—
 Dialogue: 10,0:05:56.50,0:05:58.09,Default,,0,0,0,,What's this?
-Dialogue: 10,0:05:58.38,0:05:59.84,Default,,0,0,0,,It's venom.
+Dialogue: 10,0:05:58.38,0:05:59.84,Default,,0,0,0,,Venom.
 Dialogue: 10,0:05:59.84,0:06:02.30,Default,,0,0,0,,A spider bit you, right?
 Dialogue: 10,0:06:02.30,0:06:04.84,Default,,0,0,0,,That venom will slowly turn you into a spider, too!
-Dialogue: 10,0:06:08.31,0:06:12.56,Default,,0,0,0,,{\q2}Give it thirty minutes or so and you'll have \Nbecome my slave, crawling all over the ground!
+Dialogue: 10,0:06:08.31,0:06:12.56,Default,,0,0,0,,{\q2}Give it thirty minutes or so \Nand you'll be my slave, crawling all over the ground!
 Dialogue: 10,0:06:15.35,0:06:17.48,Default,,0,0,0,,Look at this pocket watch.
 Dialogue: 10,0:06:17.48,0:06:19.28,Default,,0,0,0,,You still with me?
 Dialogue: 10,0:06:19.28,0:06:21.86,Default,,0,0,0,,By the time the long hand has gone around once,
 Dialogue: 10,0:06:22.19,0:06:24.86,Default,,0,0,0,,you will have long become a member of my spider den!
 Dialogue: 10,0:06:25.36,0:06:29.49,Default,,0,0,0,,{\q2}When the hand arrives here, you'll start to \Nfeel tingling and pain in your limbs.
-Dialogue: 10,0:06:30.24,0:06:33.62,Default,,0,0,0,,When it's here, you'll start feeling dizzy and nauseous.
+Dialogue: 10,0:06:30.24,0:06:33.62,Default,,0,0,0,,{\q2}When it's here, you'll start \Nfeeling dizzy and nauseated.
 Dialogue: 10,0:06:34.33,0:06:36.54,Default,,0,0,0,,Here, you'll begin to experience intense pain.
 Dialogue: 10,0:06:36.54,0:06:38.88,Default,,0,0,0,,Your body will start shrinking and you'll pass out!
 Dialogue: 10,0:06:39.67,0:06:41.92,Default,,0,0,0,,And by the time you wake up...
@@ -119,15 +119,15 @@ Comment: 0,0:06:56.90,0:06:56.90,Default,chapter,0,0,0,,{Part B}
 Dialogue: 10,0:07:18.46,0:07:19.42,Default,,0,0,0,,Running away...
 Dialogue: 10,0:07:19.42,0:07:20.25,Default,,0,0,0,,...is futile!
 Dialogue: 10,0:07:20.25,0:07:21.17,Default,,0,0,0,,Right, gotcha!
-Dialogue: 10,0:07:21.17,0:07:24.17,Default,,0,0,0,,I get it, okay? You don't have to say it twice!
+Dialogue: 10,0:07:21.17,0:07:24.17,Default,,0,0,0,,I get it, okay? You don't have to tell me twice!
 Dialogue: 10,0:07:28.14,0:07:29.68,Default,,0,0,0,,What are you doing?
 Dialogue: 10,0:07:29.68,0:07:31.93,Default,,0,0,0,,Shut up! Just leave me be!
 Dialogue: 10,0:07:32.39,0:07:34.64,Default,,0,0,0,,There's nothing to be afraid of.
-Dialogue: 10,0:07:34.64,0:07:38.27,Default,,0,0,0,,{\q2}Once the venom makes its rounds, \Nyou'll turn into a spiderling and lose all sentience.
+Dialogue: 10,0:07:34.64,0:07:38.27,Default,,0,0,0,,{\q2}Once the venom runs its course, \Nyou'll be a spiderling with no sentience.
 Dialogue: 10,0:07:38.27,0:07:41.69,Default,,0,0,0,,Oh god, no! That's {\i1}exactly{\i0} what I hate about this!
 Dialogue: 10,0:07:41.69,0:07:43.82,Default,,0,0,0,,What's so hard to understand about that?!
-Dialogue: 10,0:07:43.82,0:07:46.49,Default,,0,0,0,,{\q2}I bet nobody likes you! \NYou must have no friends at all!
-Dialogue: 10,0:07:47.74,0:07:51.37,Default,,0,0,0,,{\q2}I see {\i1}someone{\i0} here could use an extra \Ndose of venom to transform even faster!
+Dialogue: 10,0:07:43.82,0:07:46.49,Default,,0,0,0,,{\q2}I bet nobody likes you! \NYou must be a total loner!
+Dialogue: 10,0:07:47.74,0:07:51.37,Default,,0,0,0,,{\q2}Looks like {\i1}someone{\i0} could use \Nan extra dose of venom to get things going!
 Dialogue: 10,0:07:56.54,0:07:59.88,Default,,0,0,0,,{\q2}No! Anything but that! \NI don't wanna turn into {\i1}that{\i0}!
 Dialogue: 10,0:08:02.09,0:08:03.63,Default,,0,0,0,,{\i1}Get a hold of yourself!
 Dialogue: 10,0:08:03.84,0:08:05.92,Default,,0,0,0,,Stop crying! Stop running away!
@@ -135,12 +135,12 @@ Dialogue: 10,0:08:05.92,0:08:08.30,Default,,0,0,0,,Neither of those will get you
 Dialogue: 10,0:08:08.59,0:08:10.30,Default,,0,0,0,,Zenitsu!
 Dialogue: 10,0:08:10.76,0:08:12.18,Default,,0,0,0,,Come down from there!
 Dialogue: 10,0:08:12.18,0:08:13.81,Default,,0,0,0,,We're going to continue training!
-Dialogue: 10,0:08:13.81,0:08:17.31,Default,,0,0,0,,Hell, no! Any more training will kill me!
-Dialogue: 10,0:08:17.31,0:08:19.31,Default,,0,0,0,,It's gonna be the end of me!
+Dialogue: 10,0:08:13.81,0:08:17.31,Default,,0,0,0,,Hell no! Any more training will kill me!
+Dialogue: 10,0:08:17.31,0:08:19.31,Default,,0,0,0,,I'm too young to die!{### more liberty taken here than I normally let *anyone* get away with, but...zenitsu}
 Dialogue: 10,0:08:19.98,0:08:22.98,Default,,0,0,0,,You won't die! Not from this level of training!
 Dialogue: 10,0:08:22.98,0:08:24.98,Default,,0,0,0,,Come down from there, you little moron!
 Dialogue: 10,0:08:24.98,0:08:26.19,Default,,0,0,0,,Gramps!
-Dialogue: 10,0:08:26.19,0:08:28.20,Default,,0,0,0,,Call me "Master"!
+Dialogue: 10,0:08:26.19,0:08:28.20,Default,,0,0,0,,That's "Master" to you!
 Dialogue: 10,0:08:28.40,0:08:30.70,Default,,0,0,0,,But I love you, Gramps!
 Dialogue: 10,0:08:34.03,0:08:38.08,Default,,0,0,0,,{\q2}When the girl I loved made me raise money \Nso she could run off with some other guy,
 Dialogue: 10,0:08:38.08,0:08:40.96,Default,,0,0,0,,you rescued me from my mountain of debt!
@@ -151,29 +151,29 @@ Dialogue: 10,0:08:49.84,0:08:53.39,Default,,0,0,0,,I really do feel awful, but t
 Dialogue: 10,0:08:53.39,0:08:55.89,Default,,0,0,0,,{\q2}I'll have you know I've been training \Non my own in secret, too!
 Dialogue: 10,0:08:55.89,0:08:57.89,Default,,0,0,0,,I haven't been getting a wink of sleep!
 Dialogue: 10,0:08:57.89,0:09:00.44,Default,,0,0,0,,But I have absolutely nothing to show for it!
-Dialogue: 10,0:09:00.44,0:09:03.98,Default,,0,0,0,,Seriously, what the hell is wrong with me?
+Dialogue: 10,0:09:00.44,0:09:03.98,Default,,0,0,0,,Seriously, what the hell is wrong with me?!
 Dialogue: 10,0:09:03.98,0:09:05.90,Default,,0,0,0,,Calm down, Zenitsu!
 Dialogue: 10,0:09:05.90,0:09:07.90,Default,,0,0,0,,You have potential!
 Dialogue: 10,0:09:07.90,0:09:09.90,Default,,0,0,0,,I've just about had it!
 Dialogue: 10,0:09:13.41,0:09:16.12,Default,,0,0,0,,Zenitsu!
 Dialogue: 10,0:09:17.41,0:09:19.62,Default,,0,0,0,,{\i1}Why does my life need to be so tragic?
-Dialogue: 10,0:09:19.62,0:09:21.58,Default,,0,0,0,,{\i1}I was even struck by lightning.
-Dialogue: 10,0:09:23.17,0:09:25.63,Default,,0,0,0,,{\i1}It even changed my hair colour.
+Dialogue: 10,0:09:19.62,0:09:21.58,Default,,0,0,0,,{\i1}I even got struck by lightning.
+Dialogue: 10,0:09:23.17,0:09:25.63,Default,,0,0,0,,{\i1}It changed my hair colour.
 Dialogue: 10,0:09:27.63,0:09:30.84,Default,,0,0,0,,{\i1}Sure, I was thankful just to be alive, but...
 Dialogue: 10,0:09:33.14,0:09:34.22,Default,,0,0,0,,{\i1}I...
 Dialogue: 10,0:09:34.68,0:09:37.39,Default,,0,0,0,,{\i1}I hate myself more than anyone else.
-Dialogue: 10,0:09:39.18,0:09:42.27,Default,,0,0,0,,{\i1\q2}I always think about how I need to \Nget my act together already,
-Dialogue: 10,0:09:42.27,0:09:46.36,Default,,0,0,0,,{\i1\q2}but in the end, I just end up cowering, \Nrunning away, and snivelling.
+Dialogue: 10,0:09:39.18,0:09:42.27,Default,,0,0,0,,{\i1\q2}I keep telling myself \Nthat I need to get my act together already,
+Dialogue: 10,0:09:42.27,0:09:46.36,Default,,0,0,0,,{\i1\q2}but I always just end up cowering, \Nrunning away, and snivelling.
 Dialogue: 10,0:09:48.11,0:09:51.61,Default,,0,0,0,,{\i1}I want to change. I want to become a better person!
 Dialogue: 10,0:09:52.91,0:09:54.24,Default,,0,0,0,,But...
-Dialogue: 10,0:09:54.53,0:09:56.99,Default,,0,0,0,,I'm doing the best I can, y'hear me?
+Dialogue: 10,0:09:54.53,0:09:56.99,Default,,0,0,0,,I'm doing the best I can, y'know?
 Dialogue: 10,0:09:56.99,0:10:00.41,Default,,0,0,0,,{\q2}So why do I have to go bald \Nand turn into some monster?
-Dialogue: 10,0:10:00.41,0:10:03.00,Default,,0,0,0,,{\q2}You can't be for real, right? \NYou've gotta be joking!
+Dialogue: 10,0:10:00.41,0:10:03.00,Default,,0,0,0,,{\q2}You can't be for real, right? \NYou've gotta be kidding me!
 Dialogue: 10,0:10:05.75,0:10:07.71,Default,,0,0,0,,{\i1}What's wrong with this guy?
 Dialogue: 10,0:10:11.17,0:10:13.68,Default,,0,0,0,,Oh, crap! Don't climb up here!
 Dialogue: 10,0:10:13.68,0:10:15.93,Default,,0,0,0,,Just leave me alone for a bit!
 Dialogue: 10,0:10:15.93,0:10:19.18,Default,,0,0,0,,Give me some time alone, please!
-Dialogue: 10,0:10:25.69,0:10:27.86,Default,,0,0,0,,{\i1}My hair's falling out already?
+Dialogue: 10,0:10:25.69,0:10:27.86,Default,,0,0,0,,{\i1}Wait, it's already started?
 Dialogue: 10,0:10:29.11,0:10:30.82,Default,,0,0,0,,{\i1}My hair is falling out.
 Dialogue: 10,0:10:30.82,0:10:33.95,Default,,0,0,0,,{\i1}Hey, he never said anything about that!
 Dialogue: 10,0:10:44.12,0:10:46.21,Default,,0,0,0,,{\i1}What's his problem?
@@ -193,7 +193,7 @@ Dialogue: 10,0:11:40.43,0:11:42.43,Default,,0,0,0,,Hey, you guys! Get him!
 Dialogue: 10,0:11:46.39,0:11:48.02,Default,,0,0,0,,Thunder Breathing.
 Dialogue: 10,0:11:48.02,0:11:49.23,Default,,0,0,0,,First Form.
 Dialogue: 10,0:11:54.07,0:11:57.66,Default,,0,0,0,,{\i1}He's been assuming the same stance over and over.
-Dialogue: 10,0:11:59.49,0:12:02.45,Default,,0,0,0,,{\i1}Oh, I see how it is. This guy...
+Dialogue: 10,0:11:59.49,0:12:02.45,Default,,0,0,0,,{\i1}Oh, I get it. This guy...
 Dialogue: 10,0:12:03.41,0:12:06.37,Default,,0,0,0,,{\i1}He only knows that one move!
 Dialogue: 10,0:12:08.25,0:12:10.25,Default,,0,0,0,,{\i1}That's fine, Zenitsu.
 Dialogue: 10,0:12:10.25,0:12:12.21,Default,,0,0,0,,{\i1}That's good enough.
@@ -202,19 +202,19 @@ Dialogue: 10,0:12:17.22,0:12:21.72,Default,,0,0,0,,{\q2}Take the one technique y
 Dialogue: 10,0:12:24.68,0:12:27.85,Default,,0,0,0,,Refine it! Polish it to its utmost limit!
 Dialogue: 10,0:12:29.73,0:12:32.06,Default,,0,0,0,,{\i1}But Gramps,
 Dialogue: 10,0:12:32.06,0:12:34.36,Default,,0,0,0,,{\i1}you were fuming not too long ago.
-Dialogue: 10,0:12:34.86,0:12:39.99,Default,,0,0,0,,{\i1\q2}Because Thunder Breathing has six forms, \Nand I've only ever been able to grasp one.
+Dialogue: 10,0:12:34.86,0:12:39.99,Default,,0,0,0,,{\i1\q2}Thunder Breathing has six forms, \Nbut I've only ever gotten the hang of one.
 Dialogue: 10,0:12:41.49,0:12:44.24,Default,,0,0,0,,Do you know how a sword is forged?
-Dialogue: 10,0:12:47.16,0:12:48.58,Default,,0,0,0,,{\i1}No, I have no idea.
+Dialogue: 10,0:12:47.16,0:12:48.58,Default,,0,0,0,,{\i1}No clue.
 Dialogue: 10,0:12:48.58,0:12:51.25,Default,,0,0,0,,{\i1\q2}Are you gonna keep hitting me? \NI'm about to tear up over here.
 Dialogue: 10,0:12:52.88,0:12:54.46,Default,,0,0,0,,When forging a sword,
 Dialogue: 10,0:12:54.46,0:12:59.26,Default,,0,0,0,,you strike it over and over to get rid of impurities,
 Dialogue: 10,0:12:59.26,0:13:03.97,Default,,0,0,0,,{\q2}in turn increasing the purity of the blade, \Nallowing for a strong sword to be forged.
 Dialogue: 10,0:13:04.93,0:13:08.39,Default,,0,0,0,,{\i1}Is that why you keep clobbering me day in, day out?
 Dialogue: 10,0:13:10.19,0:13:12.65,Default,,0,0,0,,{\i1}But I'm not made of steel, am I?
-Dialogue: 10,0:13:13.19,0:13:14.82,Default,,0,0,0,,{\i1}I'm made of flesh and blood, y'know?
+Dialogue: 10,0:13:13.19,0:13:14.82,Default,,0,0,0,,{\i1}I'm just flesh and blood.
 Dialogue: 10,0:13:16.82,0:13:19.40,Default,,0,0,0,,{\i1}Not much of a threat, are you?
 Dialogue: 10,0:13:19.40,0:13:21.28,Default,,0,0,0,,{\i1}And you call yourself a demon hunter?
-Dialogue: 10,0:13:21.74,0:13:25.24,Default,,0,0,0,,{\i1\q2}Any minute now and that venom \Nwill render you immobile!
+Dialogue: 10,0:13:21.74,0:13:25.24,Default,,0,0,0,,{\i1\q2}Any minute now and the venom \Nwill render you immobile!
 Dialogue: 10,0:13:26.70,0:13:29.29,Default,,0,0,0,,{\i1}Zenitsu, perfect it!
 Dialogue: 10,0:13:29.50,0:13:31.00,Default,,0,0,0,,It's all right to cry.
 Dialogue: 10,0:13:31.00,0:13:32.79,Default,,0,0,0,,It's all right to run away.
@@ -228,7 +228,7 @@ Dialogue: 10,0:13:51.77,0:13:54.02,Default,,0,0,0,,{\i1}Hone that one move to pe
 Dialogue: 10,0:14:01.45,0:14:03.03,Default,,0,0,0,,{\i1}Get out of my sight.
 Dialogue: 10,0:14:08.16,0:14:11.58,Default,,0,0,0,,{\q2}Don't make me repeat myself. \NGet lost already.
 Dialogue: 10,0:14:12.79,0:14:14.08,Default,,0,0,0,,Stop playing dumb.
-Dialogue: 10,0:14:15.04,0:14:19.46,Default,,0,0,0,,Aren't you ashamed of crying like a baby all day long?
+Dialogue: 10,0:14:15.04,0:14:19.46,Default,,0,0,0,,{\q2}Aren't you ashamed of crying \Nlike a baby day in, day out?
 Dialogue: 10,0:14:22.47,0:14:23.84,Default,,0,0,0,,You laggard...
 Dialogue: 10,0:14:23.84,0:14:27.26,Default,,0,0,0,,Any time spent on you is wasted.
 Dialogue: 10,0:14:27.97,0:14:30.97,Default,,0,0,0,,Master is an extraordinary man.
@@ -236,7 +236,7 @@ Dialogue: 10,0:14:30.97,0:14:32.56,Default,,0,0,0,,But Gramps said—
 Dialogue: 10,0:14:33.77,0:14:37.11,Default,,0,0,0,,"Gramps"? Just who do you think you are?
 Dialogue: 10,0:14:37.61,0:14:39.78,Default,,0,0,0,,Master is a former Hashira!
 Dialogue: 10,0:14:39.78,0:14:42.82,Default,,0,0,0,,He earned the highest title among the Demon Slayers!
-Dialogue: 10,0:14:44.45,0:14:48.08,Default,,0,0,0,,{\q2}Very few have the honour to \Nreceive training from a former Hashira!
+Dialogue: 10,0:14:44.45,0:14:48.08,Default,,0,0,0,,{\q2}Very few are granted the honour \Nof being trained by a former Hashira!
 Dialogue: 10,0:14:48.66,0:14:52.83,Default,,0,0,0,,The time Master spends training you is all for naught!
 Dialogue: 10,0:14:53.12,0:14:55.33,Default,,0,0,0,,You're an eyesore, you hear me? Beat it!
 Dialogue: 10,0:14:55.79,0:14:57.79,Default,,0,0,0,,Why are you still here?
@@ -247,16 +247,16 @@ Dialogue: 10,0:15:23.69,0:15:25.65,Default,,0,0,0,,{\i1}No one who believes I ca
 Dialogue: 10,0:15:25.65,0:15:30.41,Default,,0,0,0,,{\i1\q2}That I'll manage to protect somebody \Nand make them happy for once in my life.
 Dialogue: 10,0:15:30.41,0:15:32.45,Default,,0,0,0,,{\i1}Not even something as simple as that.
 Dialogue: 10,0:15:33.45,0:15:35.41,Default,,0,0,0,,{\i1}There's no one with that kind of hope for me.
-Dialogue: 10,0:15:36.25,0:15:39.42,Default,,0,0,0,,{\i1}If you fail, cry, and run away even once,
+Dialogue: 10,0:15:36.25,0:15:39.42,Default,,0,0,0,,{\i1}If you fail, cry, or run away even once,
 Dialogue: 10,0:15:39.42,0:15:43.17,Default,,0,0,0,,{\i1\q2}people will just go, "Oh, this guy's a lost cause", \Nand turn their backs to you.
 Dialogue: 10,0:15:45.34,0:15:47.01,Default,,0,0,0,,{\i1}But Gramps was different!
 Dialogue: 10,0:15:51.01,0:15:54.27,Default,,0,0,0,,{\i1}Time and time again, he would patiently scold me.
 Dialogue: 10,0:15:56.73,0:15:58.52,Default,,0,0,0,,{\i1}All those times I kept running away...
 Dialogue: 10,0:16:00.52,0:16:02.11,Default,,0,0,0,,{\i1}Time and time again...
 Dialogue: 10,0:16:03.53,0:16:05.03,Default,,0,0,0,,{\i1}He'd drag me right back.
-Dialogue: 10,0:16:08.32,0:16:11.16,Default,,0,0,0,,{\i1}Well yeah, he did smack me around a tad too much.
+Dialogue: 10,0:16:08.32,0:16:11.16,Default,,0,0,0,,{\i1}Sure, he may have been a bit rough.
 Dialogue: 10,0:16:12.62,0:16:14.91,Default,,0,0,0,,{\i1}But he never abandoned me!
-Dialogue: 10,0:16:16.46,0:16:19.29,Default,,0,0,0,,Sting him! Give him another taste of your venom!
+Dialogue: 10,0:16:16.46,0:16:19.29,Default,,0,0,0,,Bite him! Give him another taste of your venom!
 Dialogue: 10,0:16:32.60,0:16:34.10,Default,,0,0,0,,No way he's walking out of that alive!
 Dialogue: 10,0:16:40.06,0:16:40.94,Default,,0,0,0,,{\i1}What the—?
 Dialogue: 10,0:16:41.69,0:16:43.61,Default,,0,0,0,,{\i1}The very air is vibrating...
@@ -297,18 +297,18 @@ Dialogue: 10,0:19:23.10,0:19:26.65,Default,,0,0,0,,{\i1}Tanjirou will yell at yo
 Dialogue: 10,0:19:29.82,0:19:31.19,Default,,0,0,0,,What was that sound?
 Dialogue: 10,0:19:31.69,0:19:33.36,Default,,0,0,0,,Was that a lightning strike?
 Dialogue: 10,0:19:33.36,0:19:34.69,Default,,0,0,0,,Hell if I know.
-Dialogue: 10,0:19:35.36,0:19:37.99,Default,,0,0,0,,I'm not smelling any thunderclouds.
+Dialogue: 10,0:19:35.36,0:19:37.99,Default,,0,0,0,,I don't smell any thunderclouds.
 Dialogue: 10,0:19:38.82,0:19:41.87,Default,,0,0,0,,{\q2}But that acrid odour in the air \Nis stronger now, so I can't tell.
 Dialogue: 10,0:19:42.20,0:19:43.20,Default,,0,0,0,,Inosuke!
 Dialogue: 10,0:19:45.25,0:19:47.96,Default,,0,0,0,,I think I'm gonna go check it out.
-Dialogue: 10,0:19:48.42,0:19:51.29,Default,,0,0,0,,Go ahead and do whatever you want!
+Dialogue: 10,0:19:48.42,0:19:51.29,Default,,0,0,0,,You think I care what you wanna do?
 Dialogue: 10,0:19:51.63,0:19:53.30,Default,,0,0,0,,Are you descending, Inosuke?
 Dialogue: 10,0:19:56.38,0:19:58.14,Default,,0,0,0,,Head down the mountain.
 Dialogue: 10,0:19:58.14,0:20:00.60,Default,,0,0,0,,Why would I? Buzz off!
 Dialogue: 10,0:20:00.60,0:20:03.14,Default,,0,0,0,,I mean, have you {\i1}seen{\i0} your injuries?
 Dialogue: 10,0:20:03.14,0:20:05.98,Default,,0,0,0,,I am not hurt at all!
-Dialogue: 10,0:20:09.86,0:20:11.77,Default,,0,0,0,,N-N-No, Inosuke!
-Dialogue: 10,0:20:11.77,0:20:14.86,Default,,0,0,0,,Anyone could see you are just by looking at you!
+Dialogue: 10,0:20:09.86,0:20:11.77,Default,,0,0,0,,N-No, Inosuke!
+Dialogue: 10,0:20:11.77,0:20:14.86,Default,,0,0,0,,{\q2}Take one look at yourself! \NThat's obviously not true!
 Dialogue: 10,0:20:19.61,0:20:20.70,Default,,0,0,0,,{\i1}A demon!
 Dialogue: 10,0:20:21.24,0:20:25.58,Default,,0,0,0,,{\i1\q2}The odour wafting all over this mountain \Ncompletely masked her scent!
 Dialogue: 10,0:20:27.62,0:20:31.38,Default,,0,0,0,,I'm gonna tear you to shreds, you damn demon!
@@ -327,15 +327,15 @@ Comment: 0,0:22:59.90,0:22:59.90,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:23:01.40,0:23:02.65,Default,,0,0,0,,Combined Junior and Senior High School!
 Dialogue: 10,0:23:02.65,0:23:04.90,Default,,0,0,0,,Tales of the Demon Slayer Academy!
 Dialogue: 10,0:23:04.90,0:23:07.66,Default,,0,0,0,,{\an8\i1}The disciplinary committee's day starts too early!
-Dialogue: 10,0:23:07.66,0:23:09.41,Default,,0,0,0,,{\an8\i1}There's only one reason why I don't quit.
-Dialogue: 10,0:23:09.41,0:23:11.83,Default,,0,0,0,,{\i1}And that reason is the dress code check!
-Dialogue: 10,0:23:11.83,0:23:14.16,Default,,0,0,0,,{\i1\q2}I can ogle at the girls all I want \Nwithout getting yelled at!
+Dialogue: 10,0:23:07.66,0:23:09.41,Default,,0,0,0,,{\an8\i1}There's only one reason I don't quit.
+Dialogue: 10,0:23:09.41,0:23:11.83,Default,,0,0,0,,{\i1}The dress code check!
+Dialogue: 10,0:23:11.83,0:23:14.16,Default,,0,0,0,,{\i1\q2}I can ogle at the girls all I want \Nwithout getting in trouble!
 Dialogue: 10,0:23:14.16,0:23:15.67,Default,,0,0,0,,Nezuko!
-Dialogue: 10,0:23:19.00,0:23:21.13,Default,,0,0,0,,Makomo's looking cute today, too!
-Dialogue: 10,0:23:21.13,0:23:23.21,Default,,0,0,0,,And that upperclassman's gorgeous, as well!
+Dialogue: 10,0:23:19.00,0:23:20.96,Default,,0,0,0,,Makomo's looking cute today, too!
+Dialogue: 10,0:23:20.96,0:23:22.71,Default,,0,0,0,,And that upperclassman's gorgeous, as well!
 Dialogue: 10,0:23:23.97,0:23:25.13,Default,,0,0,0,,Mr. Tomioka!
 Dialogue: 10,0:23:25.59,0:23:28.30,Default,,0,0,0,,{\q2}It's not what it looks like! \NI'm just regulating the dress code!
 Dialogue: 10,0:23:28.85,0:23:31.72,Default,,0,0,0,,{\q2}Make your hair follow regulations \Nbefore regulating others!
 Dialogue: 10,0:23:31.72,0:23:32.93,Default,,0,0,0,,This is my natural hair colour!
-Dialogue: 10,0:23:32.93,0:23:35.81,Default,,0,0,0,,Next, Episode 18, "A Fake Bond"!
+Dialogue: 10,0:23:32.93,0:23:35.81,Default,,0,0,0,,Next, Episode 18, "A Fake Bond".
 Dialogue: 10,0:23:37.35,0:23:39.27,Default,,0,0,0,,But it's my natural hair colour...
