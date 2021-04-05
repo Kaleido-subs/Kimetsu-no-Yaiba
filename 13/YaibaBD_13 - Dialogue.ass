@@ -88,7 +88,7 @@ Dialogue: 10,0:05:53.33,0:05:56.96,Default,,0,0,0,,You're just wasting paper and
 Dialogue: 10,0:05:57.46,0:06:01.59,Default,,0,0,0,,{\q2}How long has it been \Nsince you last went outside?
 Dialogue: 10,0:06:01.59,0:06:05.60,Default,,0,0,0,,It's no wonder your work's grown so bland.
 Dialogue: 10,0:06:05.97,0:06:11.48,Default,,0,0,0,,{\q2}You should just focus on playing the drum instead \Nif you're gonna shut yourself in anyway.
-Dialogue: 10,0:06:12.23,0:06:17.57,Default,,0,0,0,,{\q2}Although it's not like you'll be \Nable to teach anyone, either!{### check for accuracy: there are a couple meanings floating around in my head and I'm not qualified to figure out which one is accurate. too incompetent to teach? too isolated to be taught? some other combination of stuff?}
+Dialogue: 10,0:06:12.23,0:06:17.57,Default,,0,0,0,,{\q2}Although it's not like you've got what it takes \Nto teach that to anyone, either!
 Dialogue: 10,0:06:49.60,0:06:50.85,Default,,0,0,0,,Get out of my sight,
 Dialogue: 10,0:06:50.85,0:06:52.27,Default,,0,0,0,,you damn insect!
 Dialogue: 10,0:06:52.56,0:06:55.02,Default,,0,0,0,,Rapid Drumming!
@@ -313,7 +313,7 @@ Dialogue: 10,0:23:10.16,0:23:12.79,Default,,0,0,0,,{\q2}the more potent and trou
 Dialogue: 10,0:23:12.79,0:23:15.12,Default,,0,0,0,,I wonder if I really have a chance of beating them.
 Dialogue: 10,0:23:15.92,0:23:18.25,Default,,0,0,0,,Now, it's time for a Taisho secret!
 Dialogue: 10,0:23:18.25,0:23:21.76,Default,,0,0,0,,{\q2}Kyougai, the demon in that mansion, \Nis a big fan of "The Eight Dog Chronicles",
-Dialogue: 10,0:23:21.76,0:23:24.51,Default,,0,0,0,,{\q2}and I hear he was writing \Na biographical novel of his own.{### could this be an autobiography? some other form of literary work? I want this double-checked for accuracy. book lore good}
+Dialogue: 10,0:23:21.76,0:23:24.51,Default,,0,0,0,,and I hear he was working on an epic of his own.
 Dialogue: 10,0:23:26.09,0:23:27.72,Default,,0,0,0,,Right, this is no time to be hung up!
 Dialogue: 10,0:23:27.72,0:23:30.97,Default,,0,0,0,,{\q2}Next, Episode 14, "The House with \Nthe Wisteria Family Crest"!
 Dialogue: 10,0:23:30.97,0:23:32.64,Default,,0,0,0,,Your big brother's gonna kick some butt!
