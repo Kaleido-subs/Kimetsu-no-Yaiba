@@ -26,7 +26,7 @@ Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
-Dialogue: 10,0:00:03.61,0:00:07.74,Default,,0,0,0,,{\i1\q2}The blood of the Twelve Blood Moons should have \Na high concentration of Kibutsuji's blood.
+Dialogue: 10,0:00:03.61,0:00:07.74,Default,,0,0,0,,{\i1\q2}The blood of the Twelve Blood Moons \Nshould have a lot of blood from Kibutsuji himself.
 Dialogue: 10,0:00:08.45,0:00:13.03,Default,,0,0,0,,{\i1\q2}If I can extract some, we'll be one step closer \Nto restoring Nezuko's humanity.
 Dialogue: 10,0:00:15.41,0:00:17.04,Default,,0,0,0,,Oh, right! What about Inosuke?
 Dialogue: 10,0:00:21.33,0:00:23.34,Default,,0,0,0,,Did ya beat 'em?
