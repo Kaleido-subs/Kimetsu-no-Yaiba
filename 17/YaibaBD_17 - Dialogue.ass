@@ -326,10 +326,10 @@ Dialogue: 10,0:21:12.88,0:21:14.75,Default,,0,0,0,,Water Wheel!
 Comment: 0,0:22:59.90,0:22:59.90,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:23:01.40,0:23:02.65,Default,,0,0,0,,Combined Junior and Senior High School!
 Dialogue: 10,0:23:02.65,0:23:04.90,Default,,0,0,0,,Tales of the Demon Slayer Academy!
-Dialogue: 10,0:23:04.90,0:23:07.66,Default,,0,0,0,,{\an8\i1}The disciplinary committee's day starts too early!
-Dialogue: 10,0:23:07.66,0:23:09.41,Default,,0,0,0,,{\an8\i1}There's only one reason I don't quit.
-Dialogue: 10,0:23:09.41,0:23:11.83,Default,,0,0,0,,{\i1}The dress code check!
-Dialogue: 10,0:23:11.83,0:23:14.16,Default,,0,0,0,,{\i1\q2}I can ogle at the girls all I want \Nwithout getting in trouble!
+Dialogue: 10,0:23:04.90,0:23:07.66,Default,,0,0,36,,{\i1}The disciplinary committee's day starts too early!
+Dialogue: 10,0:23:07.66,0:23:09.41,Default,,0,0,36,,{\i1}There's only one reason I don't quit.
+Dialogue: 10,0:23:09.41,0:23:11.83,Default,,0,0,36,,{\i1}The dress code check!
+Dialogue: 10,0:23:11.83,0:23:14.16,Default,,0,0,36,,{\i1\q2}I can ogle at the girls all I want \Nwithout getting in trouble!
 Dialogue: 10,0:23:14.16,0:23:15.67,Default,,0,0,0,,Nezuko!
 Dialogue: 10,0:23:19.00,0:23:20.96,Default,,0,0,0,,Makomo's looking cute today, too!
 Dialogue: 10,0:23:20.96,0:23:22.71,Default,,0,0,0,,And that upperclassman's gorgeous, as well!
