@@ -39,7 +39,7 @@ Dialogue: 10,0:02:33.22,0:02:36.22,Default,,0,0,0,,{\i1}Damn, I still have goose
 Dialogue: 10,0:02:45.14,0:02:46.73,Default,,0,0,0,,Hey, you!
 Dialogue: 10,0:02:47.02,0:02:49.15,Default,,0,0,0,,Fight me, Mismatched Haori!
 Dialogue: 10,0:02:49.40,0:02:51.94,Default,,0,0,0,,You beat that Blood Moon!
-Dialogue: 10,0:02:51.94,0:02:54.78,Default,,0,0,0,,{\q2}And now I'm gonna beat you! \NThat's how it works!
+Dialogue: 10,0:02:51.94,0:02:54.78,Default,,0,0,0,,{\q2}Now I'm gonna beat you! \NThat's how it works!
 Dialogue: 10,0:02:54.78,0:02:56.49,Default,,0,0,0,,And if I can do that...
 Dialogue: 10,0:02:58.41,0:03:01.41,Default,,0,0,0,,It'll prove there's nobody stronger than me!
 Dialogue: 10,0:03:01.70,0:03:04.58,Default,,0,0,0,,Get back to training, you buffoon.
@@ -58,7 +58,7 @@ Dialogue: 10,0:03:37.32,0:03:41.95,Default,,0,0,0,,{\q2}If you can't even realis
 Dialogue: 10,0:03:42.99,0:03:44.00,Default,,0,0,0,,I can't hear you!
 Dialogue: 10,0:03:44.00,0:03:46.33,Default,,0,0,0,,Speak up and quit walking so fast!
 Dialogue: 10,0:03:46.33,0:03:48.29,Default,,0,0,0,,I told you to get back 'ere, punk!
-Dialogue: 10,0:03:48.29,0:03:50.04,Default,,0,0,0,,Let me go right now!
+Dialogue: 10,0:03:48.29,0:03:50.04,Default,,0,0,0,,Lemme go right now!
 Dialogue: 10,0:03:50.04,0:03:51.63,Default,,0,0,0,,Hey! Hey!
 Dialogue: 10,0:03:51.88,0:03:55.63,Default,,0,0,0,,Hey!
 Dialogue: 10,0:04:12.23,0:04:14.40,Default,,0,0,0,,Yoo-hoo!
@@ -67,12 +67,12 @@ Dialogue: 10,0:04:18.20,0:04:19.82,Default,,0,0,0,,Gramps...
 Dialogue: 10,0:04:20.95,0:04:23.24,Default,,0,0,0,,Whoever might you be calling "Gramps"?
 Dialogue: 10,0:04:23.66,0:04:26.79,Default,,0,0,0,,I saw Gramps just now.
 Dialogue: 10,0:04:27.37,0:04:29.75,Default,,0,0,0,,He told me not to give up.
-Dialogue: 10,0:04:30.58,0:04:32.79,Default,,0,0,0,,{\q2}That would've been your life \Nflashing before your eyes.
+Dialogue: 10,0:04:30.58,0:04:32.79,Default,,0,0,0,,{\q2}Sounds like a life review to me.
 Dialogue: 10,0:04:32.79,0:04:37.51,Default,,0,0,0,,{\q2}There's a theory that suggests{suggesting} that you \Nsee such images right before dying
 Dialogue: 10,0:04:37.51,0:04:44.10,Default,,0,0,0,,{\q2}because your brain is searching through \Nyour memories for a way to avoid death.
 Dialogue: 10,0:04:45.14,0:04:49.94,Default,,0,0,0,,{\q2}I've never experienced it first-hand{### according to aegi spellchecker, the hyphen is BrE-specific}, though, \Nso that's all just a hypothesis.{### tlc}
 Dialogue: 10,0:04:52.19,0:04:56.53,Default,,0,0,0,,{\q2}You did an outstanding job using \Nyour breathing to slow down the venom.
-Dialogue: 10,0:04:56.53,0:05:00.95,Default,,0,0,0,,{\q2}If you hadn't fought back as well as you did, \Nyou would've become a spiderling ages ago.{### meh}
+Dialogue: 10,0:04:56.53,0:05:00.95,Default,,0,0,0,,{\q2}Had you not managed to pull that off, \Nyou would've become a spiderling ages ago.
 Dialogue: 10,0:05:01.20,0:05:03.20,Default,,0,0,0,,I'll administer an antidote now, okay?
 Dialogue: 10,0:05:06.20,0:05:08.33,Default,,0,0,0,,Hurry up! Over here!
 Dialogue: 10,0:05:10.21,0:05:11.67,Default,,0,0,0,,Can we get them down?
@@ -157,7 +157,7 @@ Dialogue: 10,0:10:01.12,0:10:05.63,Default,,0,0,0,,{\q2}I'm stronger than her, \
 Dialogue: 10,0:10:05.63,0:10:08.13,Default,,0,0,0,,I'll teach her what happens if she defies me.
 Dialogue: 10,0:10:08.13,0:10:10.71,Default,,0,0,0,,I've had enough of this crazy talk!
 Dialogue: 10,0:10:10.71,0:10:15.43,Default,,0,0,0,,{\q2}Using terror to shackle someone hand and foot \Nis no substitute for a true family bond!
-Dialogue: 10,0:10:15.43,0:10:21.10,Default,,0,0,0,,{\q2}Until you can wrap your head around that, \Nyou'll {\i1}never{\i0} get what you want!
+Dialogue: 10,0:10:15.43,0:10:21.10,Default,,0,0,0,,{\q2}Until you can get that through your thick skull, \Nyou'll {\i1}never{\i0} get what you want!
 Dialogue: 10,0:10:22.06,0:10:23.77,Default,,0,0,0,,You're so irritating.
 Dialogue: 10,0:10:23.77,0:10:26.15,Default,,0,0,0,,Could you keep your voice down, please?
 Dialogue: 10,0:10:26.15,0:10:28.02,Default,,0,0,0,,We just can't see eye to eye, can we?
