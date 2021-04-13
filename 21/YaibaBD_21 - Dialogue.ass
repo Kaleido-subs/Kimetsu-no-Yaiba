@@ -38,9 +38,9 @@ Dialogue: 10,0:02:39.81,0:02:42.64,Default,,0,0,0,,{\i1}Even walking was a strug
 Dialogue: 10,0:02:47.77,0:02:51.03,Default,,0,0,0,,{\i1\q2}But everything changed \Nwhen Lord Muzan appeared.
 Dialogue: 10,0:02:54.61,0:02:58.49,Default,,0,0,0,,{\q2}You pitiful thing. \NAllow me to save you.
 Dialogue: 10,0:03:04.25,0:03:07.25,Default,,0,0,0,,{\i1}My parents weren't happy about it.
-Dialogue: 10,0:03:10.21,0:03:12.67,Default,,0,0,0,,{\i1}Because the price for obtaining such a strong body
-Dialogue: 10,0:03:13.26,0:03:15.05,Default,,0,0,0,,{\i1}was that I could never see the sun again.
-Dialogue: 10,0:03:15.76,0:03:18.64,Default,,0,0,0,,{\i1}It also meant I had to start eating humans.
+Dialogue: 10,0:03:10.21,0:03:12.67,Default,,0,0,0,,{\i1}Because the price for my newfound strength
+Dialogue: 10,0:03:13.26,0:03:15.05,Default,,0,0,0,,{\i1}was all{any} hope of ever seeing the sun again.{### cps}
+Dialogue: 10,0:03:15.76,0:03:18.64,Default,,0,0,0,,{\i1}I also had to start eating humans.
 Dialogue: 10,0:03:23.64,0:03:25.52,Default,,0,0,0,,What have you done?
 Dialogue: 10,0:03:25.52,0:03:27.77,Default,,0,0,0,,What on earth have you done?!
 Dialogue: 10,0:03:27.98,0:03:29.06,Default,,0,0,0,,Rui!
@@ -55,7 +55,7 @@ Dialogue: 10,0:04:17.99,0:04:20.57,Default,,0,0,0,,{\i1}My very own parents...
 Dialogue: 10,0:04:21.12,0:04:22.70,Default,,0,0,0,,{\i1}tried to kill me.
 Dialogue: 10,0:04:24.16,0:04:26.00,Default,,0,0,0,,{\i1}All my mother did was sob,
 Dialogue: 10,0:04:26.00,0:04:29.08,Default,,0,0,0,,{\i1}not even lifting a finger to protect me.
-Dialogue: 10,0:04:43.26,0:04:45.06,Default,,0,0,0,,{\i1}They must've been impostors.
+Dialogue: 10,0:04:43.26,0:04:45.06,Default,,0,0,0,,{\i1}They must've been putting on an act.
 Dialogue: 10,0:04:46.72,0:04:50.48,Default,,0,0,0,,{\i1}The bond between us wasn't real.
 Dialogue: 10,0:04:52.73,0:04:56.28,Default,,0,0,0,,I'm sorry...
 Dialogue: 10,0:04:57.74,0:04:59.32,Default,,0,0,0,,{\i1}She's trying to say something.
@@ -68,13 +68,13 @@ Dialogue: 10,0:05:19.01,0:05:21.01,Default,,0,0,0,,It's all right, Rui!
 Dialogue: 10,0:05:21.51,0:05:24.10,Default,,0,0,0,,{\t(1896,2605,\c&H000000&\3c&H000000&)}We'll be reunited again soon.
 Dialogue: 10,0:05:25.35,0:05:29.98,Default,,0,0,0,,{\i1\q2}I was so enraged at my father for trying to kill me, \NI didn't understand what he had said.
 Dialogue: 10,0:05:30.56,0:05:31.89,Default,,0,0,0,,{\i1}But at that moment,
-Dialogue: 10,0:05:31.89,0:05:36.86,Default,,0,0,0,,{\i1\q2}it registered that he had meant \Nto die with me to atone for my sins.
+Dialogue: 10,0:05:31.89,0:05:36.86,Default,,0,0,0,,{\i1\q2}I realised that he had meant \Nto die with me to atone for my sins.
 Dialogue: 10,0:05:37.86,0:05:41.20,Default,,0,0,0,,{\i1}It was a genuine bond.
 Dialogue: 10,0:05:47.66,0:05:48.87,Default,,0,0,0,,{\i1}And that night,
 Dialogue: 10,0:05:50.00,0:05:54.21,Default,,0,0,0,,{\i1}I severed it with my own hands.
 Dialogue: 10,0:05:55.92,0:05:57.13,Default,,0,0,0,,{\i1}But despite that,
 Dialogue: 10,0:05:58.13,0:06:01.76,Default,,0,0,0,,{\i1}Lord Muzan gave me words of encouragement.
-Dialogue: 10,0:06:03.09,0:06:07.60,Default,,0,0,0,,Your parents are to blame for refusing to accept you.
+Dialogue: 10,0:06:03.09,0:06:07.60,Default,,0,0,0,,{\q2}Your parents are to blame. \NThey refused to accept you.
 Dialogue: 10,0:06:07.60,0:06:10.10,Default,,0,0,0,,Take pride in your strength.
 Dialogue: 10,0:06:11.35,0:06:14.90,Default,,0,0,0,,{\i1}I had no other choice but to look at it that way.
 Dialogue: 10,0:06:15.44,0:06:18.19,Default,,0,0,0,,{\i1}I couldn't bear the weight of what I'd done.
@@ -84,7 +84,7 @@ Dialogue: 10,0:06:41.17,0:06:45.89,Default,,0,0,0,,{\i1\q2}Even when I made a fa
 Dialogue: 10,0:06:46.39,0:06:51.43,Default,,0,0,0,,{\i1\q2}I was always the strongest, \Nso there was never anyone who could protect me...
 Dialogue: 10,0:06:51.43,0:06:52.89,Default,,0,0,0,,{\i1}Who could shield me...
 Dialogue: 10,0:06:53.35,0:06:55.35,Default,,0,0,0,,{\i1}The stronger I became,
-Dialogue: 10,0:06:56.19,0:06:58.98,Default,,0,0,0,,{\i1}the less I remembered from the time I was human.
+Dialogue: 10,0:06:56.19,0:06:58.98,Default,,0,0,0,,{\i1}the less I remembered from my human life.
 Dialogue: 10,0:07:00.15,0:07:02.28,Default,,0,0,0,,{\i1}I was losing sight of what I wanted to do.
 Dialogue: 10,0:07:02.90,0:07:04.65,Default,,0,0,0,,{\i1}Pursuing a bond I'd never have.
 Dialogue: 10,0:07:13.29,0:07:17.29,Default,,0,0,0,,{\i1}It was simply out of my reach,
@@ -121,24 +121,24 @@ Dialogue: 10,0:09:58.04,0:10:01.41,Default,,0,0,0,,To avenge the people who have
 Dialogue: 10,0:10:01.75,0:10:04.46,Default,,0,0,0,,to make sure there are no more victims,
 Dialogue: 10,0:10:04.88,0:10:09.46,Default,,0,0,0,,{\q2}I'll bring my blade down on \Nany demon's neck without mercy!
 Dialogue: 10,0:10:09.92,0:10:13.34,Default,,0,0,0,,{\q2}But as for those for whom \Nbeing a demon meant despair,
-Dialogue: 10,0:10:13.34,0:10:15.93,Default,,0,0,0,,for those who regretted their actions...
+Dialogue: 10,0:10:13.34,0:10:15.93,Default,,0,0,0,,those overwhelmed with remorse...
 Dialogue: 10,0:10:15.93,0:10:17.68,Default,,0,0,0,,I refuse to trample over them!
 Dialogue: 10,0:10:18.35,0:10:20.77,Default,,0,0,0,,Even they were human at some point!
 Dialogue: 10,0:10:21.77,0:10:24.90,Default,,0,0,0,,They were once humans, just like you and I!
 Dialogue: 10,0:10:25.90,0:10:28.36,Default,,0,0,0,,Please step off of him!
 Dialogue: 10,0:10:29.61,0:10:32.24,Default,,0,0,0,,They're not hideous monsters at all.
-Dialogue: 10,0:10:32.70,0:10:34.49,Default,,0,0,0,,Demons are hopeless creatures.
-Dialogue: 10,0:10:35.20,0:10:36.91,Default,,0,0,0,,They're tragic beings!
+Dialogue: 10,0:10:32.70,0:10:34.49,Default,,0,0,0,,Demons are desolate creatures.
+Dialogue: 10,0:10:35.20,0:10:36.91,Default,,0,0,0,,They lead lives of tragedy!
 Dialogue: 10,0:10:50.25,0:10:51.71,Default,,0,0,0,,You're...
 Dialogue: 10,0:11:00.26,0:11:01.10,Default,,0,0,0,,Oh-ho?
 Dialogue: 10,0:11:05.60,0:11:08.98,Default,,0,0,0,,{\q2}What might your excuse be \Nfor getting in my way there, Tomioka?
-Dialogue: 10,0:11:09.73,0:11:13.49,Default,,0,0,0,,{\q2}Weren't you the one who told me man \Nand demon could never become friends?
+Dialogue: 10,0:11:09.73,0:11:13.49,Default,,0,0,0,,{\q2}Weren't you the one who told me \Nman and demon could never become friends?
 Dialogue: 10,0:11:13.49,0:11:15.49,Default,,0,0,0,,I mean, how do I put this...
 Dialogue: 10,0:11:16.16,0:11:17.49,Default,,0,0,0,,This is a good example
 Dialogue: 10,0:11:17.99,0:11:20.45,Default,,0,0,0,,of why nobody likes you, y'know?
 Comment: 0,0:11:27.00,0:11:27.00,Default,chapter,0,0,0,,{Part B}
 Dialogue: 10,0:11:46.06,0:11:50.02,Default,,0,0,0,,Man, Lady Kochou's antidote is really effective!
-Dialogue: 10,0:11:50.27,0:11:54.86,Default,,0,0,0,,{\q2}Yeah. And all it took was one look \Nat the situation to finish preparing it!
+Dialogue: 10,0:11:50.27,0:11:54.86,Default,,0,0,0,,{\q2}Tell me about it. And it only took one look \Nat the situation for her to prepare it.
 Dialogue: 10,0:11:55.32,0:11:57.53,Default,,0,0,0,,She's truly amazing.
 Dialogue: 10,0:11:58.07,0:11:59.53,Default,,0,0,0,,That goes for him, too.
 Dialogue: 10,0:12:00.70,0:12:02.45,Default,,0,0,0,,Oh, that guy?
@@ -146,36 +146,36 @@ Dialogue: 10,0:12:02.45,0:12:04.95,Default,,0,0,0,,When he defeated the demon,
 Dialogue: 10,0:12:04.95,0:12:07.87,Default,,0,0,0,,the venom's circulation slowed down a bit.
 Dialogue: 10,0:12:09.29,0:12:11.29,Default,,0,0,0,,All right! That should do it!
 Dialogue: 10,0:12:12.25,0:12:14.05,Default,,0,0,0,,Looking good!
-Dialogue: 10,0:12:14.05,0:12:16.38,Default,,0,0,0,,Chances are they'll all pull through.
+Dialogue: 10,0:12:14.05,0:12:16.38,Default,,0,0,0,,Seems like they're all gonna pull through.
 Dialogue: 10,0:12:16.38,0:12:19.39,Default,,0,0,0,,Still, I'd like to wrap things up quickly
 Dialogue: 10,0:12:19.39,0:12:21.68,Default,,0,0,0,,so we can get out of here as soon as possible.
 Dialogue: 10,0:12:21.68,0:12:23.10,Default,,0,0,0,,Same here.
 Dialogue: 10,0:12:23.10,0:12:26.81,Default,,0,0,0,,This place {\i1}seriously{\i0} reeks.
 Dialogue: 10,0:12:34.98,0:12:36.82,Default,,0,0,0,,Now, now, Tomioka,
 Dialogue: 10,0:12:36.82,0:12:38.49,Default,,0,0,0,,please move out of the way.
-Dialogue: 10,0:12:40.57,0:12:41.99,Default,,0,0,0,,I'm not...
-Dialogue: 10,0:12:42.74,0:12:44.66,Default,,0,0,0,,I'm not disliked by people.
-Dialogue: 10,0:12:48.62,0:12:53.84,Default,,0,0,0,,{\q2}I'm sorry. I know you have a hard time reading \Nthe room and understanding how people feel.
+Dialogue: 10,0:12:40.57,0:12:41.99,Default,,0,0,0,,People...
+Dialogue: 10,0:12:42.74,0:12:44.66,Default,,0,0,0,,People do like me.
+Dialogue: 10,0:12:48.62,0:12:53.84,Default,,0,0,0,,{\q2}My apologies. I know you have a hard time \Nreading the room and understanding how people feel.
 Dialogue: 10,0:12:53.84,0:12:57.05,Default,,0,0,0,,That was uncalled for. Please forgive me.
 Dialogue: 10,0:13:02.72,0:13:03.72,Default,,0,0,0,,Young fellow!
 Dialogue: 10,0:13:03.72,0:13:04.64,Default,,0,0,0,,Yes?!
 Dialogue: 10,0:13:04.89,0:13:07.64,Default,,0,0,0,,That's a demon you're protecting there!
-Dialogue: 10,0:13:07.64,0:13:10.02,Default,,0,0,0,,I'd rather not hurt you, so get away from her, okay?
+Dialogue: 10,0:13:07.64,0:13:10.02,Default,,0,0,0,,{\q2}I'd rather not hurt you, \Nso get away from her, okay?
 Dialogue: 10,0:13:10.27,0:13:12.35,Default,,0,0,0,,Y-You're mistaken!
 Dialogue: 10,0:13:12.35,0:13:15.23,Default,,0,0,0,,Well, you're not, but...
 Dialogue: 10,0:13:15.23,0:13:16.78,Default,,0,0,0,,She's my little sister!
 Dialogue: 10,0:13:16.78,0:13:19.03,Default,,0,0,0,,She's my little sister, so... You see...{### the capitalization feels weird here but the other obvious option doesn't feel less weird}
 Dialogue: 10,0:13:20.57,0:13:23.57,Default,,0,0,0,,Is that so? Poor thing.
 Dialogue: 10,0:13:24.24,0:13:25.03,Default,,0,0,0,,In that case,
-Dialogue: 10,0:13:25.62,0:13:30.58,Default,,0,0,0,,{\q2}I'll use a gentle toxin to kill her \Nso she won't suffer, okay?
+Dialogue: 10,0:13:25.62,0:13:30.58,Default,,0,0,0,,{\q2}I'll use a gentle toxin to kill her \Nwithout making her suffer, okay?
 Dialogue: 10,0:13:33.29,0:13:34.38,Default,,0,0,0,,Can you move?
 Dialogue: 10,0:13:36.17,0:13:38.51,Default,,0,0,0,,If you can't, force yourself to.
 Dialogue: 10,0:13:39.21,0:13:41.22,Default,,0,0,0,,Take your sister and make a run for it.
 Dialogue: 10,0:13:41.68,0:13:42.89,Default,,0,0,0,,Tomioka...
 Dialogue: 10,0:13:43.89,0:13:45.26,Default,,0,0,0,,Sorry for the trouble!
 Dialogue: 10,0:13:45.26,0:13:46.64,Default,,0,0,0,,Thank you very much!
-Dialogue: 10,0:13:48.93,0:13:51.81,Default,,0,0,0,,Isn't that against the Demon Slayers' rules?
-Dialogue: 10,0:14:03.86,0:14:06.53,Default,,0,0,0,,{\i1}My whole body is aching! It's so painful!
+Dialogue: 10,0:13:48.93,0:13:51.81,Default,,0,0,0,,Isn't that against the Demon Slayers' code?
+Dialogue: 10,0:14:03.86,0:14:06.53,Default,,0,0,0,,{\i1}My whole body is in agony! This is torture!
 Dialogue: 10,0:14:06.53,0:14:08.33,Default,,0,0,0,,{\i1}I want to scream from the pain!
 Dialogue: 10,0:14:08.33,0:14:09.91,Default,,0,0,0,,{\i1}Deal with it!
 Dialogue: 10,0:14:10.12,0:14:13.42,Default,,0,0,0,,{\i1}Deal with it! Deal with it!
@@ -191,7 +191,7 @@ Dialogue: 10,0:15:10.47,0:15:13.77,Default,,0,0,0,,I don't mind playing tag with
 Dialogue: 10,0:15:13.77,0:15:16.77,Default,,0,0,0,,but you shouldn't forget about the other one!
 Dialogue: 10,0:15:24.07,0:15:25.65,Default,,0,0,0,,{\i1}Don't stop!
 Dialogue: 10,0:15:25.65,0:15:27.32,Default,,0,0,0,,{\i1}Keep moving!
-Dialogue: 10,0:15:27.32,0:15:30.12,Default,,0,0,0,,{\i1}I've got to get as far away as I can!
+Dialogue: 10,0:15:27.32,0:15:30.12,Default,,0,0,0,,{\i1}I need to get as far away as I can!
 Dialogue: 10,0:15:37.42,0:15:38.54,Default,,0,0,0,,{\i1}Crap!
 Dialogue: 10,0:15:38.54,0:15:39.92,Default,,0,0,0,,{\i1}What was that?
 Dialogue: 10,0:15:39.92,0:15:41.96,Default,,0,0,0,,{\i1}It took all I had to keep running!
@@ -201,7 +201,7 @@ Dialogue: 10,0:15:52.47,0:15:54.27,Default,,0,0,0,,Run, Nezuko!
 Dialogue: 10,0:15:54.27,0:15:56.31,Default,,0,0,0,,Run! Make a run for it!
 Dialogue: 10,0:15:56.31,0:15:57.81,Default,,0,0,0,,Don't get caught, no matter what!
 Dialogue: 10,0:15:58.06,0:15:59.15,Default,,0,0,0,,Hurry—
-Dialogue: 10,0:16:09.62,0:16:12.20,Default,,0,0,0,,{\i1}She shrunk and turned into a child?
+Dialogue: 10,0:16:09.62,0:16:12.20,Default,,0,0,0,,{\i1}She shrank and turned into a child?
 Dialogue: 10,0:16:21.46,0:16:24.96,Default,,0,0,0,,{\i1\q2}All she does is run away. \NShe's not even fighting back.
 Dialogue: 10,0:16:24.96,0:16:26.13,Default,,0,0,0,,{\i1}But why?
 Dialogue: 10,0:16:29.51,0:16:31.60,Default,,0,0,0,,{\i1}No need to ponder it.
@@ -209,13 +209,13 @@ Dialogue: 10,0:16:31.60,0:16:34.22,Default,,0,0,0,,{\i1}My only job is to slay d
 Dialogue: 10,0:16:37.18,0:16:38.56,Default,,0,0,0,,Tomioka?
 Dialogue: 10,0:16:38.94,0:16:41.15,Default,,0,0,0,,Earth to Tomioka.
 Dialogue: 10,0:16:41.98,0:16:45.90,Default,,0,0,0,,{\q2}Since my intention was to slay a demon, \Nand therefore more than justified,
-Dialogue: 10,0:16:45.90,0:16:48.49,Default,,0,0,0,,{\q2}I don't believe it could be construed \Nas a violation of the rules.
-Dialogue: 10,0:16:49.07,0:16:52.03,Default,,0,0,0,,{\q2}But we can't say the same about \Nwhat you're pulling, can we?
+Dialogue: 10,0:16:45.90,0:16:48.49,Default,,0,0,0,,{\q2}I don't believe my actions \Nconstitute a code violation.{### if this is changed, the title should be changed to semi-match, and vice versa. see also 13:48}
+Dialogue: 10,0:16:49.07,0:16:52.03,Default,,0,0,0,,{\q2}But we can't say the same \Nabout what you're pulling, can we?
 Dialogue: 10,0:16:52.57,0:16:55.08,Default,,0,0,0,,You're actively interfering with my duties.
 Dialogue: 10,0:16:55.58,0:16:57.41,Default,,0,0,0,,What exactly are you playing at here?
 Dialogue: 10,0:17:01.21,0:17:03.92,Default,,0,0,0,,Don't you have anything to say for yourself?
 Dialogue: 10,0:17:03.92,0:17:06.05,Default,,0,0,0,,This is your final warning.
-Dialogue: 10,0:17:06.05,0:17:08.22,Default,,0,0,0,,Give me a reason at least.
+Dialogue: 10,0:17:06.05,0:17:08.22,Default,,0,0,0,,At least give me a reason.
 Dialogue: 10,0:17:14.22,0:17:17.27,Default,,0,0,0,,{\q2}If I'm remembering this right, \Nit was two years ago...
 Dialogue: 10,0:17:17.52,0:17:21.06,Default,,0,0,0,,Please spare me the long, rambly backstory.
 Dialogue: 10,0:17:21.06,0:17:22.90,Default,,0,0,0,,Are you doing this out of spite?
@@ -225,27 +225,27 @@ Dialogue: 10,0:17:35.24,0:17:37.37,Default,,0,0,0,,I bring a message from HQ!
 Dialogue: 10,0:17:38.08,0:17:43.00,Default,,0,0,0,,{\q2}Tanjirou and Nezuko are to be \Nbrought back to headquarters alive!
 Dialogue: 10,0:17:45.88,0:17:49.63,Default,,0,0,0,,Tanjirou and the demon, Nezuko,
 Dialogue: 10,0:17:49.63,0:17:51.63,Default,,0,0,0,,are to be brought back to HQ alive!
-Dialogue: 10,0:17:51.63,0:17:57.10,Default,,0,0,0,,{\q2}Tanjirou, dressed in a checkered haori, \Nwith a scar on his forehead!
+Dialogue: 10,0:17:51.63,0:17:57.10,Default,,0,0,0,,{\q2}Tanjirou, dressed in a chequered haori, \Nwith a scar on his forehead!
 Dialogue: 10,0:17:57.10,0:17:59.73,Default,,0,0,0,,Nezuko, a female demon with a bamboo muzzle!
 Dialogue: 10,0:18:00.06,0:18:03.73,Default,,0,0,0,,{\an8}Bring them back! Bring them back!
 Dialogue: 10,0:18:00.98,0:18:03.15,Default,,0,0,0,,Are you Nezuko?
 Dialogue: 10,0:18:07.44,0:18:10.11,Default,,0,0,0,,Bring them back! Bring them back!
-Dialogue: 10,0:18:11.32,0:18:15.57,Default,,0,0,0,,{\q2}Tanjirou, dressed in a checkered haori, \Nwith a scar on his forehead!
+Dialogue: 10,0:18:11.32,0:18:15.57,Default,,0,0,0,,{\q2}Tanjirou, dressed in a chequered haori, \Nwith a scar on his forehead!
 Dialogue: 10,0:18:16.03,0:18:19.08,Default,,0,0,0,,Nezuko, a female demon with a bamboo muzzle!
 Dialogue: 10,0:18:19.54,0:18:22.12,Default,,0,0,0,,Bring them back! Bring them back!
 Dialogue: 10,0:18:25.67,0:18:27.34,Default,,0,0,0,,He has a scar on his forehead.
 Dialogue: 10,0:18:27.34,0:18:29.46,Default,,0,0,0,,All right, take him into custody.
-Dialogue: 10,0:18:29.96,0:18:33.13,Default,,0,0,0,,Look. His jawbone seems to be broken, doesn't it?
+Dialogue: 10,0:18:29.96,0:18:33.13,Default,,0,0,0,,Hang on. Does his jaw look broken to you?
 Dialogue: 10,0:18:34.30,0:18:36.47,Default,,0,0,0,,I feel bad about tying him up.
 Dialogue: 10,0:18:40.18,0:18:42.06,Default,,0,0,0,,Wh-Who the hell is this?
-Dialogue: 10,0:18:42.06,0:18:43.23,Default,,0,0,0,,I don't know.
+Dialogue: 10,0:18:42.06,0:18:43.23,Default,,0,0,0,,No idea.
 Dialogue: 10,0:18:43.23,0:18:45.35,Default,,0,0,0,,A demon? Couldn't be, right?
 Dialogue: 10,0:18:45.85,0:18:47.40,Default,,0,0,0,,Is it a human?
 Dialogue: 10,0:18:47.86,0:18:49.94,Default,,0,0,0,,He's wearing our uniform's trousers.
 Dialogue: 10,0:18:50.94,0:18:53.90,Default,,0,0,0,,Oh hey, this is a mask! He's human!
 Dialogue: 10,0:18:54.32,0:18:55.74,Default,,0,0,0,,All right, let's bring him in.
 Dialogue: 10,0:18:58.45,0:19:00.99,Default,,0,0,0,,This guy's really banged up!
-Dialogue: 10,0:19:00.99,0:19:03.25,Default,,0,0,0,,Why's he strung up like this?
+Dialogue: 10,0:19:00.99,0:19:03.25,Default,,0,0,0,,Why's he tied up like this?
 Dialogue: 10,0:19:05.75,0:19:07.75,Default,,0,0,0,,{\i1}There was nothing I could do...
 Dialogue: 10,0:19:09.25,0:19:13.55,Default,,0,0,0,,{\i1}I couldn't even kill a single demon on my own!
 Dialogue: 10,0:19:15.84,0:19:16.93,Default,,0,0,0,,{\i1}Y'know what?
@@ -254,7 +254,7 @@ Dialogue: 10,0:19:28.40,0:19:30.77,Default,,0,0,0,,They wrapped us up like mummi
 Dialogue: 10,0:19:31.98,0:19:33.49,Default,,0,0,0,,{\i1}Who are these people?
 Dialogue: 10,0:19:33.99,0:19:37.28,Default,,0,0,0,,{\i1}They seem to be cleaning the place up really efficiently.
 Dialogue: 10,0:19:37.70,0:19:39.41,Default,,0,0,0,,{\i1}And that girl over there...
-Dialogue: 10,0:19:39.41,0:19:41.79,Default,,0,0,0,,{\i1}Isn't she the girl from the Final Selection?
+Dialogue: 10,0:19:39.41,0:19:41.79,Default,,0,0,0,,{\i1}Wasn't she at the Final Selection?
 Dialogue: 10,0:19:42.24,0:19:45.96,Default,,0,0,0,,{\i1\q2}She has the same kind of hair ornament \Nas the lady who wrapped us up.
 Dialogue: 10,0:19:47.04,0:19:48.71,Default,,0,0,0,,{\q2}Should we bring them to \Nthe Butterfly Mansion?
 Dialogue: 10,0:19:48.71,0:19:51.50,Default,,0,0,0,,Yes, bring all of the injured to our place.
@@ -262,7 +262,7 @@ Dialogue: 10,0:19:51.50,0:19:55.80,Default,,0,0,0,,{\q2}I'll be hunting down the
 Dialogue: 10,0:19:56.22,0:19:58.59,Default,,0,0,0,,{\i1}Actually, I've heard of these guys before.
 Dialogue: 10,0:19:58.59,0:20:00.72,Default,,0,0,0,,{\i1}The clean-up crew, the Kakushi.
 Dialogue: 10,0:20:01.30,0:20:05.31,Default,,0,0,0,,{\i1\q2}They're the unit that cleans up after \Nthe Demon Slayers battle demons.
-Dialogue: 10,0:20:05.98,0:20:11.02,Default,,0,0,0,,{\i1\q2}They say that most of its members are people \Nwho have no swordsmanship skills.
+Dialogue: 10,0:20:05.98,0:20:11.02,Default,,0,0,0,,{\i1\q2}They say that most of its members \Nare people with no swordsmanship skills.
 Dialogue: 10,0:20:18.66,0:20:20.24,Default,,0,0,0,,The sun's coming up.
 Dialogue: 10,0:21:05.58,0:21:07.04,Default,,0,0,0,,Wake up.
 Dialogue: 10,0:21:07.87,0:21:09.62,Default,,0,0,0,,Hey, wake up already!
@@ -276,14 +276,14 @@ Dialogue: 10,0:21:23.72,0:21:25.51,Default,,0,0,0,,You're in the presence of the
 Comment: 0,0:22:59.94,0:23:00.03,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:23:01.94,0:23:05.91,Default,,0,0,0,,{\q2}We've been teaming up on missions \Nquite frequently as of late, haven't we?
 Dialogue: 10,0:23:07.03,0:23:08.83,Default,,0,0,0,,Could you at least answer me, please?
-Dialogue: 10,0:23:08.83,0:23:13.04,Default,,0,0,0,,{\q2}Or are you perhaps still angry at me \Nfor pointing out that nobody likes you?
+Dialogue: 10,0:23:08.83,0:23:13.04,Default,,0,0,0,,{\q2}Or are you still upset with me \Nfor pointing out that nobody likes you?
 Dialogue: 10,0:23:14.04,0:23:16.04,Default,,0,0,0,,Don't you have anything to say?
 Dialogue: 10,0:23:16.54,0:23:18.59,Default,,0,0,0,,Time for a Taisho secret.
 Dialogue: 10,0:23:18.59,0:23:22.92,Default,,0,0,0,,{\q2}Apparently, Kochou can't stand cats, \Ndogs, or any kind of furry creature.
 Dialogue: 10,0:23:22.92,0:23:25.97,Default,,0,0,0,,{\q2}You finally open your mouth, \Nand that's the first thing you say?
-Dialogue: 10,0:23:25.97,0:23:28.26,Default,,0,0,0,,You didn't deny it, so does that mean it's true?
-Dialogue: 10,0:23:28.26,0:23:31.39,Default,,0,0,0,,That lack of tact is exactly why nobody likes you!
+Dialogue: 10,0:23:25.97,0:23:28.35,Default,,0,0,0,,You didn't deny it, so does that mean it's true?
+Dialogue: 10,0:23:28.35,0:23:31.39,Default,,0,0,0,,That lack of tact is exactly why nobody likes you!
 Dialogue: 10,0:23:31.39,0:23:31.81,Default,,0,0,0,,People...
 Dialogue: 10,0:23:31.81,0:23:33.14,Default,,0,0,0,,"...do like me"?
-Dialogue: 10,0:23:33.14,0:23:35.52,Default,,0,0,0,,Please say literally anything else.
-Dialogue: 10,0:23:35.52,0:23:38.15,Default,,0,0,0,,Next, Episode 22, "The Master of the Mansion".
+Dialogue: 10,0:23:33.14,0:23:34.98,Default,,0,0,0,,Please say literally anything else.
+Dialogue: 10,0:23:35.48,0:23:38.15,Default,,0,0,0,,Next, Episode 22, "The Master of the Mansion".
