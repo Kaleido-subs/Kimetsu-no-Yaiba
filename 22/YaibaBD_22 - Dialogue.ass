@@ -55,13 +55,13 @@ Dialogue: 10,0:01:27.03,0:01:29.44,Default,,0,0,0,,{\q2}You're currently at the 
 Dialogue: 10,0:01:30.03,0:01:33.03,Default,,0,0,0,,And you're about to be put on trial,
 Dialogue: 10,0:01:33.87,0:01:36.08,Default,,0,0,0,,Kamado Tanjirou.
 Comment: 0,0:03:07.96,0:03:07.96,Default,chapter,0,0,0,,{Part A}
-Dialogue: 10,0:03:18.30,0:03:22.52,Default,,0,0,0,,First things first, let's go over \Nthe crimes you're being accused o—
+Dialogue: 10,0:03:18.30,0:03:22.52,Default,,0,0,0,,{\q2}First things first, let's go over \Nthe crimes you're being accused o—
 Dialogue: 10,0:03:22.52,0:03:24.48,Default,,0,0,0,,There's no need for a trial!
 Dialogue: 10,0:03:28.15,0:03:31.40,Default,,0,0,0,,{\q2}Defending a demon is \Na clear violation of the code!
 Dialogue: 10,0:03:31.40,0:03:33.78,Default,,0,0,0,,{\q2}It's well within our rights to \Nhandle his execution!
 Dialogue: 10,0:03:33.78,0:03:36.11,Default,,0,0,0,,Let's behead him along with that demon!
 Dialogue: 10,0:03:38.11,0:03:41.33,Default,,0,0,0,,{\q2}I'd be glad to decapitate him, \Nwith absolute brilliance.
-Dialogue: 10,0:03:41.33,0:03:44.83,Default,,0,0,0,,I'll show you the most grandiose \Nblood splashes the world has ever seen.
+Dialogue: 10,0:03:41.33,0:03:44.83,Default,,0,0,0,,{\q2}I'll show you the most grandiose \Nblood splashes the world has ever seen.
 Dialogue: 10,0:03:44.83,0:03:47.12,Default,,0,0,0,,I'm talking max grandeur.
 Comment: 10,0:03:49.13,0:03:50.67,Default,,0,0,0,,{\i1}Whaaa?{## eeeeeeeeeeeeeeeeeeeehhhhhhhhhhhhhhhhhhhhhh}
 Dialogue: 10,0:03:50.67,0:03:53.96,Default,,0,0,0,,{\i1}You'd kill such a cute little kid?

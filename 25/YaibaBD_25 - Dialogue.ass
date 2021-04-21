@@ -352,7 +352,7 @@ Dialogue: 10,0:18:48.77,0:18:54.78,Default,,0,0,0,,{\q2}All I can tell you is th
 Dialogue: 10,0:18:54.78,0:18:57.49,Default,,0,0,0,,What? They're not the same thing?
 Dialogue: 10,0:18:57.49,0:19:01.70,Default,,0,0,0,,Sorry, I'm not familiar with the details myself.
 Dialogue: 10,0:19:01.70,0:19:05.79,Default,,0,0,0,,{\q2}But I do know they're very strict \Nabout the exact phrasing.
-Dialogue: 10,0:19:06.21,0:19:09.84,Default,,0,0,0,,{\1}You must never refer to \NFlame Breathing as Fire Breathing.
+Dialogue: 10,0:19:06.21,0:19:09.84,Default,,0,0,0,,{\q2}You must never refer to \NFlame Breathing as Fire Breathing.
 Dialogue: 10,0:19:09.84,0:19:13.80,Default,,0,0,0,,{\q2}The Flame Hashira, Rengoku, \Nmight know the specifics.
 Dialogue: 10,0:19:13.80,0:19:16.55,Default,,0,0,0,,But unfortunately, he's out on a mission currently.
 Dialogue: 10,0:19:17.22,0:19:18.60,Default,,0,0,0,,Understood!

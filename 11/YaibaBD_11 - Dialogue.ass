@@ -90,7 +90,7 @@ Dialogue: 10,0:04:24.70,0:04:27.00,Default,,0,0,0,,Listen up! I'm gonna die soon
 Dialogue: 10,0:04:27.00,0:04:28.83,Default,,0,0,0,,My next mission will be my last!
 Dialogue: 10,0:04:28.83,0:04:31.46,Default,,0,0,0,,I'm a complete and total crybaby{wuss}, got it?
 Dialogue: 10,0:04:31.46,0:04:32.59,Default,,0,0,0,,A wimp like no other!
-Dialogue: 10,0:04:32.59,0:04:35.71,Default,,0,0,0,,You've gotta protect me until I get married, y'hear me?
+Dialogue: 10,0:04:32.59,0:04:35.71,Default,,0,0,0,,{\q2}You've gotta protect me \Nuntil I get married, y'hear me?
 Dialogue: 10,0:04:36.42,0:04:38.42,Default,,0,0,0,,My name is Kamado Tanjirou!
 Dialogue: 10,0:04:38.42,0:04:40.13,Default,,0,0,0,,Is that so? My apologies!
 Dialogue: 10,0:04:40.13,0:04:42.09,Default,,0,0,0,,I'm Agatsuma Zenitsu!
@@ -320,7 +320,7 @@ Dialogue: 10,0:19:19.89,0:19:24.52,Default,,0,0,0,,The prey {\i1}I{\i0} discover
 Dialogue: 10,0:19:29.77,0:19:33.53,Default,,0,0,0,,Curse them!
 Dialogue: 10,0:19:33.53,0:19:35.53,Default,,0,0,0,,Hey, you! Over here!
 Dialogue: 10,0:19:35.53,0:19:37.03,Default,,0,0,0,,I'm a Demon Slayer!
-Dialogue: 10,0:19:37.03,0:19:40.49,Default,,0,0,0,,My rank's Mizunoto, and my name is Kamado Tanjirou!
+Dialogue: 10,0:19:37.03,0:19:40.49,Default,,0,0,0,,{\q2}My rank's Mizunoto, \Nand my name is Kamado Tanjirou!
 Dialogue: 10,0:19:40.49,0:19:42.54,Default,,0,0,0,,I'm going to slay you right here and now!
 Dialogue: 10,0:19:42.54,0:19:46.54,Default,,0,0,0,,A rareblood child I found myself!
 Dialogue: 10,0:19:51.17,0:19:52.09,Default,,0,0,0,,{\i1}Got him!

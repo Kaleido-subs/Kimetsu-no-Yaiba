@@ -252,7 +252,7 @@ Dialogue: 10,0:19:15.84,0:19:16.93,Default,,0,0,0,,{\i1}Y'know what?
 Dialogue: 10,0:19:17.30,0:19:19.47,Default,,0,0,0,,{\i1}Maybe I'm not that strong...
 Dialogue: 10,0:19:28.40,0:19:30.77,Default,,0,0,0,,They wrapped us up like mummies.
 Dialogue: 10,0:19:31.98,0:19:33.49,Default,,0,0,0,,{\i1}Who are these people?
-Dialogue: 10,0:19:33.99,0:19:37.28,Default,,0,0,0,,{\i1}They seem to be cleaning the place up really efficiently.
+Dialogue: 10,0:19:33.99,0:19:37.28,Default,,0,0,0,,{\i1\q2}They seem to be cleaning the place up really efficiently.
 Dialogue: 10,0:19:37.70,0:19:39.41,Default,,0,0,0,,{\i1}And that girl over there...
 Dialogue: 10,0:19:39.41,0:19:41.79,Default,,0,0,0,,{\i1}Wasn't she at the Final Selection?
 Dialogue: 10,0:19:42.24,0:19:45.96,Default,,0,0,0,,{\i1\q2}She has the same kind of hair ornament \Nas the lady who wrapped us up.

@@ -167,7 +167,7 @@ Dialogue: 10,0:10:38.62,0:10:40.24,Default,,0,0,0,,I'll just have to kill you.
 Dialogue: 10,0:10:40.54,0:10:43.08,Default,,0,0,0,,Not if I take your head first!
 Dialogue: 10,0:10:43.58,0:10:45.75,Default,,0,0,0,,Now {\i1}that's{\i0} the spirit!
 Dialogue: 10,0:10:46.42,0:10:48.50,Default,,0,0,0,,I'd love to see you try.
-Dialogue: 10,0:10:50.00,0:10:54.34,Default,,0,0,0,,Let's see if you can even lay a scratch on a Blood Moon!
+Dialogue: 10,0:10:50.00,0:10:54.34,Default,,0,0,0,,{\q2}Let's see if you can even \Nlay a scratch on a Blood Moon!
 Comment: 0,0:10:59.01,0:10:59.01,Default,chapter,0,0,0,,{Part B}
 Dialogue: 10,0:11:04.27,0:11:05.35,Default,,0,0,0,,{\i1}In a family,
 Dialogue: 10,0:11:07.31,0:11:09.94,Default,,0,0,0,,{\i1}the father holds a certain degree of responsibility.

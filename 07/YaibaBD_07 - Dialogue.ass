@@ -155,7 +155,7 @@ Dialogue: 10,0:16:03.07,0:16:04.82,Default,,0,0,0,,It's time for my next mission
 Dialogue: 10,0:16:04.82,0:16:06.95,Default,,0,0,0,,Yes indeed!
 Dialogue: 10,0:16:07.28,0:16:09.24,Default,,0,0,0,,Give me a second to breathe...
 Dialogue: 10,0:16:09.24,0:16:10.82,Default,,0,0,0,,Second given!
-Dialogue: 10,0:16:10.82,0:16:15.33,Default,,0,0,0,,{\t(3195,4488,\1c&H000000&}{### not sure about that start time}Come on, just one minute! Hold on! What?
+Dialogue: 10,0:16:10.82,0:16:15.33,Default,,0,0,0,,{\t(3195,4488,\1c&H000000&)}{### not sure about that start time}Come on, just one minute! Hold on! What?
 Dialogue: 10,0:16:12.20,0:16:15.33,Alt,,0,0,138,,{\t(1815,3108,\1c&H000000&\3c&H000000&)}Just shut up and get going!
 Dialogue: 10,0:16:36.43,0:16:41.81,Default,,0,0,0,,{\i1\q2}Are cities {\i0}this{\i1} advanced nowadays? \NIt doesn't feel like night-time at all!
 Dialogue: 10,0:16:50.32,0:16:52.32,Default,,0,0,0,,{\i1}The buildings are so tall!

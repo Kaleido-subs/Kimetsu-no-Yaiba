@@ -202,7 +202,7 @@ Dialogue: 10,0:15:02.97,0:15:04.30,Default,,0,0,0,,{\i1}There's no salvation for
 Dialogue: 10,0:15:06.39,0:15:09.10,Default,,0,0,0,,{\i1}After you die, not even your bones will remain.
 Dialogue: 10,0:15:12.77,0:15:16.02,Default,,0,0,0,,{\i1}Is this the price you pay for killing others?
 Dialogue: 10,0:15:26.86,0:15:28.24,Default,,0,0,0,,{\i1}Kibutsuji...
-Dialogue: 10,0:15:28.78,0:15:33.20,Default,,0,0,0,,{\i1}This is how that man treats even those who revere him!
+Dialogue: 10,0:15:28.78,0:15:33.20,Default,,0,0,0,,{\i1\q2}This is how that man \Ntreats even those who revere him!
 Dialogue: 10,0:15:33.91,0:15:36.46,Default,,0,0,0,,{\i1}He's a true demon!
 Dialogue: 10,0:15:51.39,0:15:52.76,Default,,0,0,0,,Miss Tamayo!
 Dialogue: 10,0:15:54.56,0:15:56.31,Default,,0,0,0,,Yushirou?

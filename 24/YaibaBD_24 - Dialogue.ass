@@ -88,7 +88,7 @@ Dialogue: 10,0:04:28.96,0:04:35.30,Default,,0,0,0,,{\q2}I was summoned to the Ha
 Dialogue: 10,0:04:35.30,0:04:39.26,Default,,0,0,0,,{\q2}I thought I accidentally walked into Hell! \NThey're absolutely terrifying!
 Dialogue: 10,0:04:39.47,0:04:44.97,Default,,0,0,0,,{\q2}They were pissed at how poorly the newer \NDemon Slayers have been performing as of late.
 Dialogue: 10,0:04:44.97,0:04:50.19,Default,,0,0,0,,{\q2}Especially since it seems some of us \Nweren't following orders back on Mt. Natagumo.
-Dialogue: 10,0:04:50.19,0:04:53.90,Default,,0,0,0,,They asked me who in their right mind even trained us.
+Dialogue: 10,0:04:50.19,0:04:53.90,Default,,0,0,0,,{\q2}They asked me who in their right mind even trained us.
 Dialogue: 10,0:04:53.90,0:04:58.57,Default,,0,0,0,,{\q2}Like, how is someone of {\i1}my{\i0} rank \Nsupposed to answer that?
 Dialogue: 10,0:05:00.24,0:05:03.12,Default,,0,0,0,,The Hashira terrify me...
 Dialogue: 10,0:05:03.62,0:05:04.74,Default,,0,0,0,,Hello there.
@@ -260,7 +260,7 @@ Dialogue: 10,0:13:39.67,0:13:41.55,Default,,0,0,0,,{\i1}But there's no way I can
 Dialogue: 10,0:13:41.55,0:13:43.09,Default,,0,0,0,,{\i1}I seriously can't!
 Dialogue: 10,0:13:43.09,0:13:48.14,Default,,0,0,0,,{\i1\q2}If I try to keep it up for a long time, \Nit just makes me feel like I'm about to die!
 Dialogue: 10,0:13:48.14,0:13:49.77,Default,,0,0,0,,{\i1}The toll is too much for me to endure.
-Dialogue: 10,0:13:49.77,0:13:53.77,Default,,0,0,0,,{\i1}My lungs and ears hurt! \NMy ears are ringing like crazy!
+Dialogue: 10,0:13:49.77,0:13:53.77,Default,,0,0,0,,{\i1\q2}My lungs and ears hurt! \NMy ears are ringing like crazy!
 Dialogue: 10,0:13:53.77,0:13:55.15,Default,,0,0,0,,{\i1}My eardrums!
 Dialogue: 10,0:13:58.90,0:14:00.78,Default,,0,0,0,,{\i1}That scared the heck out of me!
 Dialogue: 10,0:14:00.78,0:14:05.03,Default,,0,0,0,,{\i1\q2}I thought my heart was about to \Ncome out through my eardrums!

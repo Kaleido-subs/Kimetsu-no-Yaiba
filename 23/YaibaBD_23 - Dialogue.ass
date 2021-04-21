@@ -59,7 +59,7 @@ Dialogue: 10,0:05:02.62,0:05:04.24,Default,,0,0,0,,What just happened?
 Dialogue: 10,0:05:04.87,0:05:08.00,Default,,0,0,0,,The demon girl turned away in disgust.
 Dialogue: 10,0:05:08.00,0:05:13.63,Default,,0,0,0,,{\q2}Shinazugawa stabbed her three times \Nand is flaunting his bloody arm in her face,
 Dialogue: 10,0:05:13.63,0:05:16.34,Default,,0,0,0,,but she restrained herself and did not bite.
-Dialogue: 10,0:05:19.51,0:05:24.55,Default,,0,0,0,,And with that, it's been proven that \NNezuko won't harm any humans, right?
+Dialogue: 10,0:05:19.51,0:05:24.55,Default,,0,0,0,,{\q2}And with that, it's been proven that \NNezuko won't harm any humans, right?
 Dialogue: 10,0:05:29.31,0:05:31.44,Default,,0,0,0,,What do you think you're doing, Tomioka?
 Dialogue: 10,0:05:32.77,0:05:33.77,Default,,0,0,0,,Tanjirou.
 Dialogue: 10,0:05:35.69,0:05:40.07,Default,,0,0,0,,{\q2}I'm sure that even after all's said and done, \Nthere will be some who still can't accept Nezuko.
@@ -86,7 +86,7 @@ Dialogue: 10,0:06:47.39,0:06:52.31,Default,,0,0,0,,{\q2}It goes without saying t
 Dialogue: 10,0:06:53.31,0:06:58.11,Default,,0,0,0,,{\q2}They have trained to the point of coughing up \Nblood and stared in the face of death,
 Dialogue: 10,0:06:58.11,0:07:00.73,Default,,0,0,0,,and also claimed the lives of many a Blood Moon.
 Dialogue: 10,0:07:01.48,0:07:03.07,Default,,0,0,0,,A good attitude to have!
-Dialogue: 10,0:07:03.61,0:07:08.24,Default,,0,0,0,,That is why the Hashira are respected \Nand welcomed by many.
+Dialogue: 10,0:07:03.61,0:07:08.24,Default,,0,0,0,,{\q2}That is why the Hashira are respected \Nand welcomed by many.
 Dialogue: 10,0:07:08.24,0:07:12.08,Default,,0,0,0,,So Tanjirou, mind your manners when you speak.
 Dialogue: 10,0:07:12.70,0:07:14.29,Default,,0,0,0,,Y-Yes, sir!
 Dialogue: 10,0:07:16.04,0:07:18.67,Default,,0,0,0,,And one more thing. Sanemi.
@@ -102,7 +102,7 @@ Dialogue: 10,0:07:55.54,0:07:57.67,Default,,0,0,0,,Pardon me for cutting in fron
 Dialogue: 10,0:08:10.59,0:08:13.06,Default,,0,0,0,,Now then, let us begin the Hashira Meet—
 Dialogue: 10,0:08:13.06,0:08:16.48,Default,,0,0,0,,Hold on! I'm not done yet!
 Dialogue: 10,0:08:15.10,0:08:16.48,Default,,0,0,0,,{\an8}Come back here!
-Dialogue: 10,0:08:19.44,0:08:23.57,Default,,0,0,0,,Please allow me to give that man \Ncovered in scars a good headbuttin'!
+Dialogue: 10,0:08:19.44,0:08:23.57,Default,,0,0,0,,{\q2}Please allow me to give that man \Ncovered in scars a good headbuttin'!
 Dialogue: 10,0:08:23.98,0:08:24.82,Default,,0,0,0,,I've gotta—
 Dialogue: 10,0:08:24.82,0:08:26.74,Default,,0,0,0,,Shut it! Keep your mouth shut!
 Dialogue: 10,0:08:26.74,0:08:29.82,Default,,0,0,0,,{\q2}I must trade a headbutt for \Nevery time he stabbed Nezuko!

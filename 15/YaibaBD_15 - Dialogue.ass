@@ -259,7 +259,7 @@ Dialogue: 10,0:16:48.65,0:16:49.82,Default,,0,0,0,,They're alive!
 Dialogue: 10,0:16:49.82,0:16:51.95,Default,,0,0,0,,Some of them are still alive!
 Dialogue: 10,0:16:51.95,0:16:55.95,Default,,0,0,0,,Besides, we can't harm the corpses of our allies!
 Dialogue: 10,0:16:57.16,0:17:01.17,Default,,0,0,0,,Quit bossin' me around all the time!
-Dialogue: 10,0:17:15.76,0:17:19.27,Default,,0,0,0,,{\i1}There's this strange, sweet scent coming from his back!
+Dialogue: 10,0:17:15.76,0:17:19.27,Default,,0,0,0,,{\i1\q2}There's this strange, sweet scent \Ncoming from his back!
 Dialogue: 10,0:17:26.23,0:17:28.90,Default,,0,0,0,,Threads! They're being controlled using threads!
 Dialogue: 10,0:17:29.15,0:17:30.40,Default,,0,0,0,,Cut the threads!
 Dialogue: 10,0:17:37.91,0:17:41.16,Default,,0,0,0,,I already knew before you caught on!
