@@ -138,7 +138,7 @@ Dialogue: 10,0:09:10.95,0:09:13.87,Default,,0,0,0,,{\i1}I'll wake up to find her
 Dialogue: 10,0:09:15.12,0:09:18.62,Default,,0,0,0,,{\i1}Not a day goes by that I don't worry.
 Dialogue: 10,0:09:26.96,0:09:29.22,Default,,0,0,0,,{\i1}My descents keep getting more dangerous,
 Dialogue: 10,0:09:29.22,0:09:32.05,Default,,0,0,0,,{\i1}and the air's even thinner where I train now.
-Dialogue: 10,0:09:38.56,0:09:41.85,Default,,0,0,0,,{\i1}Time and time again, I worry that today will be my last.
+Dialogue: 10,0:09:38.56,0:09:41.85,Default,,0,0,0,,{\i1}Time and time again, \NI worry that today will be my last.
 Dialogue: 10,0:09:58.95,0:10:01.66,Default,,0,0,0,,I have nothing left to teach you.
 Dialogue: 10,0:10:02.92,0:10:07.17,Default,,0,0,0,,{\i1\q2}Out of nowhere, about a year after \NI arrived at Mt. Sagiri, he broke the news.
 Dialogue: 10,0:10:08.71,0:10:10.97,Default,,0,0,0,,The rest is up to you!
@@ -209,7 +209,7 @@ Dialogue: 10,0:15:30.91,0:15:33.75,Default,,0,0,0,,Carve it into your flesh!
 Dialogue: 10,0:15:34.62,0:15:35.33,Default,,0,0,0,,More!
 Dialogue: 10,0:15:35.79,0:15:36.96,Default,,0,0,0,,More!
 Dialogue: 10,0:15:36.96,0:15:37.79,Default,,0,0,0,,Even more!
-Dialogue: 10,0:15:38.13,0:15:43.21,Default,,0,0,0,,Never forget the secrets Master Urokodaki taught you!
+Dialogue: 10,0:15:38.13,0:15:43.21,Default,,0,0,0,,{\q2}Never forget the secrets Master Urokodaki taught you!
 Dialogue: 10,0:15:43.67,0:15:46.13,Default,,0,0,0,,Pound it into the marrow of your bones!
 Dialogue: 10,0:15:46.43,0:15:47.89,Default,,0,0,0,,I'm trying!
 Dialogue: 10,0:15:47.89,0:15:50.80,Default,,0,0,0,,I've been trying my best every single day!

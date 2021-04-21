@@ -186,7 +186,7 @@ Dialogue: 10,0:10:24.81,0:10:25.90,Default,,0,0,0,,{\i1}a demon!
 Dialogue: 10,0:10:27.31,0:10:30.19,Default,,0,0,0,,{\i1}Is this what Saburou was talking about?
 Dialogue: 10,0:10:31.69,0:10:33.78,Default,,0,0,0,,{\i1}Nezuko? A man-eating demon?
 Dialogue: 10,0:10:34.11,0:10:35.16,Default,,0,0,0,,{\i1}No, there's no way.
-Dialogue: 10,0:10:35.16,0:10:38.16,Default,,0,0,0,,{\i1\q2\t(2600,2977,\c&H000000&)what}Nezuko's been human \Nsince the day she was born!
+Dialogue: 10,0:10:35.16,0:10:38.16,Default,,0,0,0,,{\i1\q2\t(2600,2977,\c&H000000&)}Nezuko's been human \Nsince the day she was born!
 Dialogue: 10,0:10:38.78,0:10:42.41,Default,,0,0,0,,{\i1}Her scent is different now, though.
 Dialogue: 10,0:10:43.66,0:10:45.83,Default,,0,0,0,,{\i1}But there's still no way she killed them!
 Dialogue: 10,0:10:46.33,0:10:51.34,Default,,0,0,0,,{\i1\q2}It looked like she was trying to protect Rokuta, \Nand there's no blood on her mouth or hands.
@@ -312,7 +312,7 @@ Dialogue: 10,0:18:34.38,0:18:36.39,Default,,0,0,0,,{\i1}They have no other way t
 Dialogue: 10,0:18:37.01,0:18:40.31,Default,,0,0,0,,{\i1}I've seen it happen more times than I can count.
 Dialogue: 10,0:18:41.22,0:18:43.73,Default,,0,0,0,,{\i1}This girl has been gravely wounded,
 Dialogue: 10,0:18:44.10,0:18:47.73,Default,,0,0,0,,{\i1}and she's expending energy to heal those injuries.
-Dialogue: 10,0:18:47.73,0:18:51.23,Default,,0,0,0,,{\i1}Her transformation must have also drained her greatly.
+Dialogue: 10,0:18:47.73,0:18:51.23,Default,,0,0,0,,{\i1\q2}Her transformation must have \Nalso drained her greatly.
 Dialogue: 10,0:18:51.99,0:18:55.45,Default,,0,0,0,,{\i1\q2}That means she's undoubtedly \Nseverely starved right now.
 Dialogue: 10,0:18:56.62,0:19:01.16,Default,,0,0,0,,{\i1\q2}She must've wanted to feast on \Na human as soon as possible.
 Dialogue: 10,0:19:01.70,0:19:05.62,Default,,0,0,0,,{\i1\q2}Yet she opted to protect him instead, \Nand is even going so far as to attack me...
