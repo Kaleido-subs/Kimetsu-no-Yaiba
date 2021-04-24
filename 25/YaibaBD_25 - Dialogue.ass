@@ -28,7 +28,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Dialogue: 10,0:00:00.69,0:00:03.23,Default,,0,0,0,,Naho! Kiyo! Sumi!
 Dialogue: 10,0:00:05.07,0:00:07.57,Default,,0,0,0,,I'd like you to help me train.
-Dialogue: 10,0:00:08.07,0:00:13.33,Default,,0,0,0,,{\q2}If I stop using my Breathing Technique \Nin my sleep, I want you to clobber me.
+Dialogue: 10,0:00:08.07,0:00:13.33,Default,,0,0,0,,{\q2}If I stop using my breathing technique \Nin my sleep, I want you to clobber me.
 Dialogue: 10,0:00:14.74,0:00:16.08,Default,,0,0,0,,Please help me out!
 Dialogue: 10,0:00:17.54,0:00:18.83,Default,,0,0,0,,Sure!
 Dialogue: 10,0:00:19.62,0:00:21.29,Default,,0,0,0,,Thank you!
@@ -37,9 +37,9 @@ Dialogue: 10,0:00:33.30,0:00:35.22,Default,,0,0,0,,He's doing a great job!
 Dialogue: 10,0:00:35.22,0:00:36.06,Default,,0,0,0,,Yeah!
 Comment: 0,0:02:10.99,0:02:10.99,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:02:17.78,0:02:19.20,Default,,0,0,0,,What a sad display...
-Dialogue: 10,0:02:19.45,0:02:21.04,Default,,0,0,0,,Please give me another chance!
-Dialogue: 10,0:02:21.04,0:02:21.95,Default,,0,0,0,,Sure!
-Dialogue: 10,0:02:21.95,0:02:23.21,Default,,0,0,0,,If you'd please!
+Dialogue: 10,0:02:19.45,0:02:21.04,Default,,0,0,0,,Can you give me another chance?
+Dialogue: 10,0:02:21.04,0:02:21.95,Default,,0,0,0,,Of course!
+Dialogue: 10,0:02:21.95,0:02:23.21,Default,,0,0,0,,Please do!
 Dialogue: 10,0:02:23.21,0:02:24.46,Default,,0,0,0,,We believe in you!
 Dialogue: 10,0:02:24.83,0:02:26.21,Default,,0,0,0,,This time for sure!
 Dialogue: 10,0:02:33.84,0:02:36.84,Default,,0,0,0,,Please give me one more chance!
@@ -47,7 +47,7 @@ Dialogue: 10,0:02:37.18,0:02:39.22,Default,,0,0,0,,You came alone again today, T
 Dialogue: 10,0:02:39.68,0:02:40.97,Default,,0,0,0,,I'm sorry!
 Dialogue: 10,0:02:40.97,0:02:42.98,Default,,0,0,0,,I tried my best, but...
 Dialogue: 10,0:02:42.98,0:02:45.35,Default,,0,0,0,,Well, it doesn't matter to me.
-Dialogue: 10,0:02:45.81,0:02:48.86,Default,,0,0,0,,I'll give them another nudge later!
+Dialogue: 10,0:02:45.81,0:02:48.86,Default,,0,0,0,,I'll give them another nudge later.
 Dialogue: 10,0:02:55.53,0:03:00.62,Default,,0,0,0,,{\i1\q2}I'm slowly getting used to training \Nwhile maintaining my Breathing!
 Dialogue: 10,0:03:01.08,0:03:06.46,Default,,0,0,0,,{\i1\q2}I still can't keep it up all day \Nwithout pushing myself,
 Dialogue: 10,0:03:06.46,0:03:07.83,Default,,0,0,0,,{\an8}Four-hundred-ninety-seven!
@@ -56,14 +56,28 @@ Dialogue: 10,0:03:09.34,0:03:10.71,Default,,0,0,0,,{\an8}Four-hundred-ninety-nin
 Dialogue: 10,0:03:10.71,0:03:11.38,Default,,0,0,0,,{\an8}Five hundred!
 Dialogue: 10,0:03:11.38,0:03:12.46,Default,,0,0,0,,{\an8}Five-hundred-one!
 Dialogue: 10,0:03:06.92,0:03:12.46,Default,,0,0,0,,{\i1\q2}but the longer I last, \Nthe more stamina I build up!
-Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\clip(m 786 1012 b 815 973 859 902 874 858 l 1030 870 1028 1043)}You can do it!
-Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\clip(m 786 1012 b 815 973 859 902 874 858 l 1042 872 1010 1045)}You can do it!
-Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&H24&\2a&H24&\3a&H24&\4a&HAE&\clip(m 784 1013 b 814 972 858 902 873 857 l 1021 869 1017 1034 m 1016 1033 l 1020 870 874 858 b 859 902 815 973 786 1012)}You can do it!
-Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&H49&\2a&H49&\3a&H49&\4a&HBB&\clip(m 782 1014 b 813 972 857 901 873 856 l 1016 868 1012 1035 m 1011 1034 l 1015 869 873 857 b 858 902 814 972 784 1013)}You can do it!
-Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&H6D&\2a&H6D&\3a&H6D&\4a&HC9&\clip(m 780 1014 b 813 971 856 901 872 855 l 981 867 977 1036 m 1012 1039 l 1054 864 873 856 b 857 901 813 972 782 1014)}You can do it!
-Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&H92&\2a&H92&\3a&H92&\4a&HD6&\clip(m 779 1015 b 812 971 855 900 871 854 l 982 866 978 1037 m 977 1036 l 981 867 872 855 b 856 901 813 971 780 1014)}You can do it!
-Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&HB6&\2a&HB6&\3a&HB6&\4a&HE4&\clip(m 777 1016 b 811 970 854 900 871 853 l 983 866 979 1039 m 978 1037 l 982 866 871 854 b 855 900 812 971 779 1015)}You can do it!
-Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&HDB&\2a&HDB&\3a&HDB&\4a&HF1&\clip(m 775 1017 b 810 970 854 899 870 851 l 984 865 980 1040 m 979 1039 l 983 866 871 853 b 854 900 811 970 777 1016)}You can do it!
+Comment: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\clip(m 786 1012 b 815 973 859 902 874 858 l 1030 870 1028 1043)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\clip(2,m 1608 2008 b 1646 1958 1736 1812 1762 1738 l 2040 1758 2036 2064)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&H0C&\3a&H0C&\4a&HA4&\clip(2,m 1606 2010 b 1646 1956 1736 1812 1762 1736 l 2040 1758 2038 2064 m 2036 2064 l 2040 1758 1762 1738 b 1736 1812 1646 1958 1608 2008)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&H18&\3a&H18&\4a&HA9&\clip(2,m 1604 2010 b 1644 1956 1734 1812 1760 1736 l 2042 1756 2038 2066 m 2038 2064 l 2040 1758 1762 1736 b 1736 1812 1646 1956 1606 2010)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&H24&\3a&H24&\4a&HAD&\clip(2,m 1602 2010 b 1644 1956 1734 1812 1760 1734 l 2042 1756 2040 2066 m 2038 2066 l 2042 1756 1760 1736 b 1734 1812 1644 1956 1604 2010)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&H30&\3a&H30&\4a&HB2&\clip(2,m 1602 2012 b 1644 1956 1732 1810 1760 1732 l 2044 1754 2040 2068 m 2040 2066 l 2042 1756 1760 1734 b 1734 1812 1644 1956 1602 2010)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&H3C&\3a&H3C&\4a&HB6&\clip(2,m 1600 2012 b 1642 1954 1732 1810 1758 1732 l 2044 1754 2042 2068 m 2040 2068 l 2044 1754 1760 1732 b 1732 1810 1644 1956 1602 2012)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&H48&\3a&H48&\4a&HBB&\clip(2,m 1598 2014 b 1642 1954 1730 1810 1758 1730 l 2046 1752 2042 2070 m 2042 2068 l 2044 1754 1758 1732 b 1732 1810 1642 1954 1600 2012)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&H55&\3a&H55&\4a&HBF&\clip(2,m 1596 2014 b 1640 1954 1730 1810 1758 1730 l 2046 1752 2044 2072 m 2042 2070 l 2046 1752 1758 1730 b 1730 1810 1642 1954 1598 2014)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&H61&\3a&H61&\4a&HC4&\clip(2,m 1594 2014 b 1640 1952 1728 1810 1756 1728 l 2048 1752 2044 2072 m 2044 2072 l 2046 1752 1758 1730 b 1730 1810 1640 1954 1596 2014)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&H6D&\3a&H6D&\4a&HC8&\clip(2,m 1592 2016 b 1640 1952 1728 1808 1756 1728 l 2048 1750 2046 2074 m 2044 2072 l 2048 1752 1756 1728 b 1728 1810 1640 1952 1594 2014)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&H79&\3a&H79&\4a&HCD&\clip(2,m 1590 2016 b 1638 1952 1728 1808 1754 1726 l 2050 1750 2046 2074 m 2046 2074 l 2048 1750 1756 1728 b 1728 1808 1640 1952 1592 2016)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&H85&\3a&H85&\4a&HD1&\clip(2,m 1588 2018 b 1638 1952 1726 1808 1754 1726 l 2050 1748 2048 2076 m 2046 2074 l 2050 1750 1754 1726 b 1728 1808 1638 1952 1590 2016)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&H91&\3a&H91&\4a&HD6&\clip(2,m 1586 2018 b 1636 1950 1726 1808 1754 1724 l 2052 1748 2048 2076 m 2048 2076 l 2050 1748 1754 1726 b 1726 1808 1638 1952 1588 2018)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&H9D&\3a&H9D&\4a&HDA&\clip(2,m 1584 2018 b 1636 1950 1724 1808 1752 1724 l 2052 1746 2050 2078 m 2048 2076 l 2052 1748 1754 1724 b 1726 1808 1636 1950 1586 2018)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&HAA&\3a&HAA&\4a&HDF&\clip(2,m 1582 2020 b 1634 1950 1724 1806 1752 1722 l 2054 1746 2050 2080 m 2050 2078 l 2052 1746 1752 1724 b 1724 1808 1636 1950 1584 2018)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&HB6&\3a&HB6&\4a&HE3&\clip(2,m 1582 2020 b 1634 1948 1722 1806 1752 1722 l 2054 1744 2052 2080 m 2050 2080 l 2054 1746 1752 1722 b 1724 1806 1634 1950 1582 2020)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&HC2&\3a&HC2&\4a&HE8&\clip(2,m 1580 2020 b 1634 1948 1722 1806 1750 1720 l 2056 1744 2052 2082 m 2052 2080 l 2054 1744 1752 1722 b 1722 1806 1634 1948 1582 2020)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&HCE&\3a&HCE&\4a&HEC&\clip(2,m 1578 2022 b 1632 1948 1720 1806 1750 1720 l 2056 1742 2054 2082 m 2052 2082 l 2056 1744 1750 1720 b 1722 1806 1634 1948 1580 2020)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&HDA&\3a&HDA&\4a&HF1&\clip(2,m 1576 2022 b 1632 1948 1720 1804 1750 1718 l 2058 1742 2054 2084 m 2054 2082 l 2056 1742 1750 1720 b 1720 1806 1632 1948 1578 2022)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&HE6&\3a&HE6&\4a&HF5&\clip(2,m 1574 2024 b 1630 1946 1718 1804 1748 1718 l 2058 1740 2056 2084 m 2054 2084 l 2058 1742 1750 1718 b 1720 1804 1632 1948 1576 2022)}You can do it!
+Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\1a&HF2&\3a&HF2&\4a&HFA&\clip(2,m 1572 2024 b 1630 1946 1718 1804 1748 1716 l 2060 1740 2056 2086 m 2056 2084 l 2058 1740 1748 1718 b 1718 1804 1630 1946 1574 2024)}You can do it!
 Dialogue: 10,0:03:30.90,0:03:32.15,Default,,0,0,0,,{\pos(843,983)\fs60}You can do it!
 Dialogue: 10,0:03:30.82,0:03:32.15,Default,,0,0,0,,{\pos(1226,1028)\fs60}You can do it!
 Dialogue: 10,0:03:30.82,0:03:32.15,Default,,0,0,0,,{\pos(1620,982)\fs60}You can do it!
@@ -80,10 +94,11 @@ Dialogue: 10,0:04:33.50,0:04:36.13,Default,,0,0,0,,{\pos(454,990)\fs66}You can d
 Dialogue: 10,0:04:45.14,0:04:47.60,Default,,0,0,0,,It broke!
 Dialogue: 10,0:04:49.39,0:04:51.98,Default,,0,0,0,,Now the only one left is this big one!
 Dialogue: 10,0:04:51.98,0:04:52.90,Default,,0,0,0,,Yeah!
-Dialogue: 10,0:04:53.23,0:04:55.90,Default,,0,0,0,,I did it!
+Dialogue: 10,0:04:53.23,0:04:54.77,Default,,0,0,0,,I did it!
+Dialogue: 10,0:04:54.77,0:04:55.90,Default,,0,0,0,,Just a little more now!
 Dialogue: 10,0:04:56.23,0:04:57.49,Default,,0,0,0,,Thanks, you guys!
 Dialogue: 10,0:04:57.49,0:04:58.44,Default,,0,0,0,,{\i1}Crap.
-Dialogue: 10,0:05:12.88,0:05:16.05,Default,,0,0,0,,{\i1}Tanjirou's already gone off to train.
+Dialogue: 10,0:05:12.88,0:05:16.05,Default,,0,0,0,,{\i1}Tanjirou's already left to train.
 Dialogue: 10,0:05:16.05,0:05:18.30,Default,,0,0,0,,{\i1}The sun's only just come up.
 Dialogue: 10,0:05:19.88,0:05:22.05,Default,,0,0,0,,{\i1}I'm not really one to give anything my all.
 Dialogue: 10,0:05:22.05,0:05:25.26,Default,,0,0,0,,{\i1}There's nothing more draining than perseverance.
@@ -97,43 +112,43 @@ Dialogue: 10,0:05:44.82,0:05:49.00,Default,,0,0,0,,{\q2}Would it kill you to say
 Dialogue: 10,0:05:50.25,0:05:52.21,Default,,0,0,0,,What was that? "Work harder"?
 Dialogue: 10,0:05:53.50,0:05:55.59,Default,,0,0,0,,Guess there's no way around it.
 Dialogue: 10,0:06:03.80,0:06:05.01,Default,,0,0,0,,Gross!
-Dialogue: 10,0:06:13.56,0:06:15.44,Default,,0,0,0,,Come on, Monitsu.
-Dialogue: 10,0:06:16.90,0:06:22.99,Default,,0,0,0,,{\q2}What Tanjirou is mastering is a skill known as \N"Perpetual Concentration Breathing".
-Dialogue: 10,0:06:23.45,0:06:27.28,Default,,0,0,0,,{\q2}By continually using your Breathing \NTechnique every second of the day,
+Dialogue: 10,0:06:13.56,0:06:15.44,Default,,0,0,0,,Let's go, Monitsu.
+Dialogue: 10,0:06:16.90,0:06:22.99,Default,,0,0,0,,{\q2}Tanjirou is attempting to master \Na skill known as "Perpetual Concentration Breathing".
+Dialogue: 10,0:06:23.45,0:06:27.28,Default,,0,0,0,,{\q2}If you use your Total Concentration \NBreathing all day without pause,
 Dialogue: 10,0:06:27.28,0:06:29.99,Default,,0,0,0,,your base stamina will skyrocket!
 Dialogue: 10,0:06:35.67,0:06:37.75,Default,,0,0,0,,Let's give it a go!
-Dialogue: 10,0:06:42.13,0:06:43.84,Default,,0,0,0,,Impossible!
-Dialogue: 10,0:06:43.84,0:06:45.84,Default,,0,0,0,,Seriously impossible!
-Dialogue: 10,0:06:46.30,0:06:51.14,Default,,0,0,0,,{\q2}I still can't maintain it all day \Nunless I {\i1}really{\i0} throw myself into it,
+Dialogue: 10,0:06:42.13,0:06:43.84,Default,,0,0,0,,No way!
+Dialogue: 10,0:06:43.84,0:06:45.84,Default,,0,0,0,,There's just no way!
+Dialogue: 10,0:06:46.30,0:06:51.14,Default,,0,0,0,,{\q2}I still can't manage an entire day \Nunless I {\i1}really{\i0} throw myself into it,
 Dialogue: 10,0:06:51.14,0:06:53.10,Default,,0,0,0,,but if anyone can, it'd be you two!
 Dialogue: 10,0:06:53.60,0:06:56.77,Default,,0,0,0,,You go like this to make your lungs expand!
-Dialogue: 10,0:06:56.77,0:07:01.86,Default,,0,0,0,,{\q2}When that rattles your blood, your bones and muscles \Nwill go, "Boom! Pow! You gotta stop it!"
-Dialogue: 10,0:07:05.28,0:07:07.37,Default,,0,0,0,,All that's left is to train like crazy!
+Dialogue: 10,0:06:56.77,0:07:01.86,Default,,0,0,0,,{\q2}It'll catch your blood off guard,{### ????? tlc? does jisho fail me?} and your bones \Nand muscles will go, "Boom! Pow! Make it stop!"
+Dialogue: 10,0:07:05.28,0:07:07.37,Default,,0,0,0,,Then you just gotta train like crazy!
 Dialogue: 10,0:07:12.87,0:07:14.00,Default,,0,0,0,,Now, now.
-Dialogue: 10,0:07:14.00,0:07:19.21,Default,,0,0,0,,{\q2}We're talking about a basic—Nay, an entry-level skill, \Nso there's no reason you shouldn't be able to do it.
+Dialogue: 10,0:07:14.00,0:07:19.21,Default,,0,0,0,,{\q2}We're talking about a basic—nay, an entry-level skill, \Nso there's no reason you shouldn't be able to do it.
 Dialogue: 10,0:07:19.21,0:07:22.76,Default,,0,0,0,,{\q2}That said, it {\i1}is{\i0} true that one must \Nput in a lot of effort to master the basics.
 Dialogue: 10,0:07:29.35,0:07:32.31,Default,,0,0,0,,{\q2}But hey, this shouldn't \Nbe difficult for {\i1}you{\i0}, should it?
-Dialogue: 10,0:07:33.64,0:07:36.89,Default,,0,0,0,,{\q2}Something as easy as this \Nought to be child's play. Right, Inosuke?
+Dialogue: 10,0:07:33.64,0:07:36.89,Default,,0,0,0,,{\q2}Something this easy \Nought to be child's play, right?
 Dialogue: 10,0:07:36.89,0:07:40.77,Default,,0,0,0,,{\q2}It'd be a downright shame if not, \Nwhat with being an entry-level skill and all.
 Dialogue: 10,0:07:40.77,0:07:43.40,Default,,0,0,0,,But if you disagree, I suppose that's that.
-Dialogue: 10,0:07:43.40,0:07:45.61,Default,,0,0,0,,No need to brood over it.
+Dialogue: 10,0:07:43.40,0:07:45.61,Default,,0,0,0,,No sense brooding over it.
 Dialogue: 10,0:07:49.74,0:07:50.99,Default,,0,0,0,,The hell you tryna say?!
 Dialogue: 10,0:07:50.99,0:07:52.03,Default,,0,0,0,,Of course I can!
-Dialogue: 10,0:07:52.03,0:07:55.41,Default,,0,0,0,,Look down on me and I'll rip off your damn tits!
-Dialogue: 10,0:07:57.42,0:07:59.75,Default,,0,0,0,,Good luck, Zenitsu!
+Dialogue: 10,0:07:52.03,0:07:55.41,Default,,0,0,0,,{\q2}Patronise me again \Nand I'll rip off your damn tits!
+Dialogue: 10,0:07:57.42,0:07:59.75,Default,,0,0,0,,You can do it, Zenitsu!
 Dialogue: 10,0:07:59.75,0:08:01.84,Default,,0,0,0,,I'm cheering for you!
 Dialogue: 10,0:08:02.42,0:08:06.42,Default,,0,0,0,,Yes, ma'am!
-Dialogue: 10,0:08:17.56,0:08:20.60,Default,,0,0,0,,{\q2}Why not join your comrades, Kanao?
+Dialogue: 10,0:08:17.56,0:08:20.60,Default,,0,0,0,,{\q2}Why not join your peers, Kanao?
 Dialogue: 10,0:08:38.12,0:08:41.71,Default,,0,0,0,,More! More! Boom! Boom! Pow!
 Dialogue: 10,0:08:41.71,0:08:43.25,Default,,0,0,0,,Man up, wimp!
 Dialogue: 10,0:08:44.34,0:08:46.26,Default,,0,0,0,,You got this, Zenitsu!
-Dialogue: 10,0:09:22.12,0:09:23.13,Default,,0,0,0,,{\i1}It hurts.
-Dialogue: 10,0:09:24.50,0:09:26.30,Default,,0,0,0,,{\i1}I'm hungry.
-Dialogue: 10,0:09:27.55,0:09:28.88,Default,,0,0,0,,{\i1}I'm sad.
-Dialogue: 10,0:09:29.80,0:09:31.13,Default,,0,0,0,,{\i1}I feel hopeless.
-Dialogue: 10,0:09:32.51,0:09:33.89,Default,,0,0,0,,{\i1}I'm in agony.
-Dialogue: 10,0:09:34.89,0:09:36.35,Default,,0,0,0,,{\i1}I'm lonely.
-Dialogue: 10,0:09:37.81,0:09:39.60,Default,,0,0,0,,{\i1}That's what my life was like.
+Dialogue: 10,0:09:22.12,0:09:23.13,Default,,0,0,0,,{\i1}Pain.
+Dialogue: 10,0:09:24.50,0:09:26.30,Default,,0,0,0,,{\i1}Hunger.
+Dialogue: 10,0:09:27.55,0:09:28.88,Default,,0,0,0,,{\i1}Sorrow.
+Dialogue: 10,0:09:29.80,0:09:31.13,Default,,0,0,0,,{\i1}Despair.
+Dialogue: 10,0:09:32.51,0:09:33.89,Default,,0,0,0,,{\i1}Agony.
+Dialogue: 10,0:09:34.89,0:09:36.35,Default,,0,0,0,,{\i1}Isolation.
+Dialogue: 10,0:09:37.81,0:09:39.60,Default,,0,0,0,,{\i1}That was my life.
 Dialogue: 10,0:09:42.06,0:09:43.65,Default,,0,0,0,,{\i1}But then, one day,
 Dialogue: 10,0:09:44.69,0:09:46.65,Default,,0,0,0,,{\i1}I heard a snap.
 Dialogue: 10,0:09:52.49,0:09:55.41,Default,,0,0,0,,{\i1}And I never knew pain again.
@@ -145,28 +160,28 @@ Dialogue: 10,0:10:28.19,0:10:31.99,Default,,0,0,0,,Could you tell us why that ch
 Dialogue: 10,0:10:31.99,0:10:33.99,Default,,0,0,0,,Is she a criminal, perhaps?
 Dialogue: 10,0:10:33.99,0:10:35.45,Default,,0,0,0,,Can't you tell?
 Dialogue: 10,0:10:35.45,0:10:37.62,Default,,0,0,0,,She's covered in dirt and fleas.
-Dialogue: 10,0:10:37.62,0:10:40.66,Default,,0,0,0,,And who knows, she might make a break for it.
+Dialogue: 10,0:10:37.62,0:10:40.66,Default,,0,0,0,,And who knows, she might try to run off.
 Dialogue: 10,0:10:42.62,0:10:45.37,Default,,0,0,0,,Hello there. Nice to meet you.
 Dialogue: 10,0:10:45.37,0:10:47.54,Default,,0,0,0,,My name is Kochou Kanae.
 Dialogue: 10,0:10:48.09,0:10:49.92,Default,,0,0,0,,What's your name?
 Dialogue: 10,0:10:56.05,0:10:58.39,Default,,0,0,0,,She ain't got one, y'hear?
-Dialogue: 10,0:10:58.39,0:11:00.60,Default,,0,0,0,,Her parents never gave her one.
+Dialogue: 10,0:10:58.39,0:11:00.60,Default,,0,0,0,,Her folks never gave her one.
 Dialogue: 10,0:11:00.60,0:11:02.64,Default,,0,0,0,,Happy now? Get out of our business already.
 Dialogue: 10,0:11:05.31,0:11:07.73,Default,,0,0,0,,Please don't touch my sister.
 Dialogue: 10,0:11:08.77,0:11:10.73,Default,,0,0,0,,The hell's your problem?
 Dialogue: 10,0:11:10.73,0:11:13.44,Default,,0,0,0,,{\q2}If you wanna chit-chat with \Nthe kid, you'd better pay up!
 Dialogue: 10,0:11:15.28,0:11:17.45,Default,,0,0,0,,Very well. We'll purchase her.
-Dialogue: 10,0:11:17.70,0:11:19.12,Default,,0,0,0,,Would this suffice?
+Dialogue: 10,0:11:17.70,0:11:19.12,Default,,0,0,0,,Will this suffice?
 Dialogue: 10,0:11:28.25,0:11:29.88,Default,,0,0,0,,Hey! Get back here!
-Dialogue: 10,0:11:30.34,0:11:32.59,Default,,0,0,0,,I'd pick it up right now if I were you!
+Dialogue: 10,0:11:30.34,0:11:32.59,Default,,0,0,0,,I'd hurry up and grab it if I were you!
 Dialogue: 10,0:11:32.59,0:11:34.84,Default,,0,0,0,,Y'know, what with the crowd and wind!
-Dialogue: 10,0:11:35.34,0:11:37.43,Default,,0,0,0,,Is it really okay to do this?
-Dialogue: 10,0:11:37.43,0:11:38.34,Default,,0,0,0,,It's fine!
+Dialogue: 10,0:11:35.34,0:11:37.43,Default,,0,0,0,,Are you sure this is okay?
+Dialogue: 10,0:11:37.43,0:11:38.34,Default,,0,0,0,,Who cares?{### I have my doubts as to whether this is ok but I love it}
 Dialogue: 10,0:11:38.34,0:11:39.97,Default,,0,0,0,,Please excuse us!
 Dialogue: 10,0:11:40.30,0:11:42.93,Default,,0,0,0,,Hands off! It's my property!
 Dialogue: 10,0:11:43.43,0:11:45.35,Default,,0,0,0,,Oh, my.
 Dialogue: 10,0:12:07.58,0:12:09.63,Default,,0,0,0,,Kanae! Kanae!
-Dialogue: 10,0:12:09.63,0:12:12.63,Default,,0,0,0,,Kanae, this child is hopeless!
+Dialogue: 10,0:12:09.63,0:12:12.63,Default,,0,0,0,,Kanae, this child's a lost cause!
 Dialogue: 10,0:12:15.46,0:12:19.01,Default,,0,0,0,,{\q2}She won't even touch her food \Nunless we order her!
 Dialogue: 10,0:12:19.01,0:12:21.64,Default,,0,0,0,,She doesn't do anything unless told to act!
 Dialogue: 10,0:12:21.64,0:12:24.14,Default,,0,0,0,,Even as her stomach growls and growls!
@@ -182,10 +197,10 @@ Dialogue: 10,0:12:50.67,0:12:52.17,Default,,0,0,0,,Sounds good, right, Kanao?
 Dialogue: 10,0:12:52.17,0:12:53.67,Default,,0,0,0,,Kanae!
 Dialogue: 10,0:12:54.04,0:12:57.05,Default,,0,0,0,,You don't need to get up in arms about it.
 Dialogue: 10,0:12:57.05,0:12:59.09,Default,,0,0,0,,Since Kanao is so adorable!
-Dialogue: 10,0:12:59.09,0:13:00.80,Default,,0,0,0,,That's not a valid reason!
+Dialogue: 10,0:12:59.09,0:13:00.80,Default,,0,0,0,,That doesn't even make sense!
 Dialogue: 10,0:13:01.26,0:13:05.81,Default,,0,0,0,,{\q2}When given the chance, a person's soul \N{\i1}will{\i0} open up, so don't worry.
 Dialogue: 10,0:13:05.81,0:13:10.52,Default,,0,0,0,,{\q2}I'm sure yours will one day change \Nonce you fall in love, Kanao!
-Dialogue: 10,0:13:15.48,0:13:18.07,Default,,0,0,0,,You're doing great! Keep it up!
+Dialogue: 10,0:13:15.48,0:13:18.07,Default,,0,0,0,,Great work! Keep it up!
 Dialogue: 10,0:13:18.07,0:13:22.16,Default,,0,0,0,,{\q2}Right now! Harder! Bam! \NThat's it! You can do it, Zenitsu!
 Dialogue: 10,0:13:22.16,0:13:25.12,Default,,0,0,0,,You've got this! Looking good!
 Dialogue: 10,0:13:37.09,0:13:39.09,Default,,0,0,0,,Inosuke! Inosuke!
@@ -199,7 +214,7 @@ Dialogue: 10,0:13:53.52,0:13:54.77,Default,,0,0,0,,Yahoo!
 Dialogue: 10,0:13:55.27,0:13:56.86,Default,,0,0,0,,Mr. Haganezuka!
 Dialogue: 10,0:13:56.86,0:14:00.82,Default,,0,0,0,,Hey! Over here! Mr. Haganezuka!
 Dialogue: 10,0:14:02.53,0:14:05.32,Default,,0,0,0,,Long time no see!
-Dialogue: 10,0:14:06.95,0:14:09.16,Default,,0,0,0,,Have you been well...
+Dialogue: 10,0:14:06.95,0:14:09.16,Default,,0,0,0,,How have you...
 Dialogue: 10,0:14:14.17,0:14:16.21,Default,,0,0,0,,M-Mr. Haganezuka?
 Dialogue: 10,0:14:16.67,0:14:20.38,Default,,0,0,0,,How dare you? How dare you snap my sword in two?
 Dialogue: 10,0:14:20.38,0:14:22.55,Default,,0,0,0,,You've got a lotta nerve!
@@ -214,7 +229,7 @@ Dialogue: 10,0:14:39.57,0:14:40.90,Default,,0,0,0,,But...
 Dialogue: 10,0:14:40.90,0:14:42.90,Default,,0,0,0,,I'm gonna kill you!
 Dialogue: 10,0:14:48.33,0:14:50.79,Default,,0,0,0,,Is that a new training regimen?
 Dialogue: 10,0:14:50.79,0:14:52.66,Default,,0,0,0,,As if.
-Dialogue: 10,0:14:55.04,0:14:59.25,Default,,0,0,0,,Well, Haganezuka is a very passionate artisan.
+Dialogue: 10,0:14:55.04,0:14:59.25,Default,,0,0,0,,Well, Mr. Haganezuka is a very passionate artisan.
 Dialogue: 10,0:14:59.25,0:15:00.34,Default,,0,0,0,,Right.
 Dialogue: 10,0:15:00.34,0:15:03.42,Default,,0,0,0,,He loves his swords more than anyone.
 Dialogue: 10,0:15:03.42,0:15:07.14,Default,,0,0,0,,{\q2}Even in the land of the swordsmiths, \Nthere's nobody quite like him.
@@ -231,15 +246,15 @@ Dialogue: 10,0:15:09.01,0:15:09.05,Default,,0,0,0,,{\pos(125,1024)}I wouldn't do
 Dialogue: 10,0:15:09.05,0:15:09.10,Default,,0,0,0,,{\pos(105,1024)}I wouldn't doubt it.
 Dialogue: 10,0:15:11.60,0:15:14.06,Default,,0,0,0,,My name is Kanamori.
 Dialogue: 10,0:15:14.06,0:15:17.15,Default,,0,0,0,,I was the one who forged Sir Inosuke's new swords.
-Dialogue: 10,0:15:17.60,0:15:20.11,Default,,0,0,0,,I would be thrilled if they prove useful in battle.
+Dialogue: 10,0:15:17.60,0:15:20.11,Default,,0,0,0,,I would be thrilled if they prove useful in battle.{### meh: I want something that starts with "I would be thrilled to" but I can't think of a predicate}
 Dialogue: 10,0:15:28.74,0:15:30.37,Default,,0,0,0,,Pristine, are they not?
-Dialogue: 10,0:15:30.37,0:15:33.66,Default,,0,0,0,,The dull sheen of that cyan-grey hue is so cool.
+Dialogue: 10,0:15:30.37,0:15:33.66,Default,,0,0,0,,The dull sheen of that cyan-grey hue is just exquisite.{### refined, calm, sophisticated. that kind of vibe. I feel like there's a better word, but I can't find it}
 Dialogue: 10,0:15:33.66,0:15:35.58,Default,,0,0,0,,It's a fine colour for a sword.
 Dialogue: 10,0:15:35.58,0:15:39.50,Default,,0,0,0,,{\q2}I'm happy for you, Inosuke. \NYour old swords were chipped all over.
 Dialogue: 10,0:15:41.71,0:15:43.88,Default,,0,0,0,,How do you like the grips?
-Dialogue: 10,0:15:43.88,0:15:48.43,Default,,0,0,0,,{\q2}The thing is, this is the first time I've ever \Nforged swords for a dual-wielder.
+Dialogue: 10,0:15:43.88,0:15:48.43,Default,,0,0,0,,{\q2}This was my first time forging swords \Nfor a dual-wielder, you see.
 Dialogue: 10,0:15:49.64,0:15:51.10,Default,,0,0,0,,Sir Inosuke?
-Dialogue: 10,0:16:05.74,0:16:06.78,Default,,0,0,0,,Better.
+Dialogue: 10,0:16:05.74,0:16:06.78,Default,,0,0,0,,There we go.
 Dialogue: 10,0:16:07.24,0:16:09.28,Default,,0,0,0,,I'll kill you, you ungrateful brat!
 Dialogue: 10,0:16:09.28,0:16:12.53,Default,,0,0,0,,You bastard! Are you proud of what you've done?
 Dialogue: 10,0:16:10.45,0:16:14.16,Default,,0,0,0,,{\an8}We're sorry! We're really, {\i1}really{\i0} sorry!
@@ -255,7 +270,7 @@ Dialogue: 10,0:16:39.10,0:16:41.73,Default,,0,0,0,,He was doing his best, after 
 Dialogue: 10,0:16:41.73,0:16:43.98,Default,,0,0,0,,Let's make him rice balls again!
 Dialogue: 10,0:16:43.98,0:16:45.32,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:16:54.99,0:16:56.50,Default,,0,0,0,,{\i1}My body's changed!
-Dialogue: 10,0:16:57.00,0:17:01.96,Default,,0,0,0,,{\i1}I can't wait to swing my sword with these hands!
+Dialogue: 10,0:16:57.00,0:17:01.96,Default,,0,0,0,,{\i1}I can't wait to swing my new sword with these hands!
 Dialogue: 10,0:17:05.13,0:17:07.09,Default,,0,0,0,,{\i1}I did it!
 Dialogue: 10,0:17:10.47,0:17:10.51,Default,,0,0,0,,{\pos(969.18,1022.17)}Good move! You can do it!
 Dialogue: 10,0:17:10.51,0:17:10.55,Default,,0,0,0,,{\pos(973.8,1021.71)}Good move! You can do it!
@@ -320,7 +335,7 @@ Dialogue: 10,0:17:12.93,0:17:12.97,Default,,0,0,0,,{\pos(974.08,1022.42)}Good mo
 Dialogue: 10,0:17:14.35,0:17:17.10,Default,,0,0,0,,{\i1}Stay focused! Persevere!
 Dialogue: 10,0:17:20.31,0:17:21.98,Default,,0,0,0,,{\i1}I got past her!
 Dialogue: 10,0:17:22.44,0:17:24.23,Default,,0,0,0,,{\i1}Go!
-Dialogue: 10,0:17:24.23,0:17:27.90,Default,,0,0,0,,{\q2}It'd be cruel to splash this \Nstinky medicated water over her.
+Dialogue: 10,0:17:24.23,0:17:27.90,Default,,0,0,0,,{\q2}It'd be cruel to splash this \Nsmelly medicated water over her.
 Dialogue: 10,0:17:32.99,0:17:34.37,Default,,0,0,0,,He won!
 Dialogue: 10,0:17:34.37,0:17:35.58,Default,,0,0,0,,Does that even count?
 Dialogue: 10,0:17:35.58,0:17:37.66,Default,,0,0,0,,Doesn't matter. The result is the same!
@@ -340,8 +355,8 @@ Dialogue: 10,0:18:16.49,0:18:17.83,Default,,0,0,0,,Right!
 Dialogue: 10,0:18:17.83,0:18:19.79,Default,,0,0,0,,Oh, before I forget.
 Dialogue: 10,0:18:19.79,0:18:21.91,Default,,0,0,0,,There's something I wanted to ask you.
 Dialogue: 10,0:18:21.91,0:18:23.42,Default,,0,0,0,,What would that be?
-Dialogue: 10,0:18:23.42,0:18:26.38,Default,,0,0,0,,Have you ever heard of the Fire God's Dance?
-Dialogue: 10,0:18:26.38,0:18:27.67,Default,,0,0,0,,I'm afraid not.
+Dialogue: 10,0:18:23.42,0:18:26.38,Default,,0,0,0,,{\q2}Have you ever heard \Nof the Dance of the Fire God?
+Dialogue: 10,0:18:26.38,0:18:27.67,Default,,0,0,0,,I'm afraid I haven't.
 Dialogue: 10,0:18:28.80,0:18:32.13,Default,,0,0,0,,Uh, i-in that case, how about Fire Breathing?
 Dialogue: 10,0:18:32.13,0:18:33.38,Default,,0,0,0,,Doesn't ring a bell.
 Dialogue: 10,0:18:35.80,0:18:39.51,Default,,0,0,0,,{\q2}A-Actually, this is something that \Nhappened during my childhood.
@@ -354,7 +369,7 @@ Dialogue: 10,0:18:57.49,0:19:01.70,Default,,0,0,0,,Sorry, I'm not familiar with 
 Dialogue: 10,0:19:01.70,0:19:05.79,Default,,0,0,0,,{\q2}But I do know they're very strict \Nabout the exact phrasing.
 Dialogue: 10,0:19:06.21,0:19:09.84,Default,,0,0,0,,{\q2}You must never refer to \NFlame Breathing as Fire Breathing.
 Dialogue: 10,0:19:09.84,0:19:13.80,Default,,0,0,0,,{\q2}The Flame Hashira, Rengoku, \Nmight know the specifics.
-Dialogue: 10,0:19:13.80,0:19:16.55,Default,,0,0,0,,But unfortunately, he's out on a mission currently.
+Dialogue: 10,0:19:13.80,0:19:16.55,Default,,0,0,0,,{\q2}But unfortunately, \Nhe's currently out on a mission.
 Dialogue: 10,0:19:17.22,0:19:18.60,Default,,0,0,0,,Understood!
 Dialogue: 10,0:19:18.60,0:19:21.31,Default,,0,0,0,,Thank you for all you've taught me.
 Dialogue: 10,0:19:21.31,0:19:24.68,Default,,0,0,0,,I'll be sure to ask Mr. Rengoku if I see him again.
@@ -364,7 +379,7 @@ Dialogue: 10,0:19:27.56,0:19:28.61,Default,,0,0,0,,Kamado?
 Dialogue: 10,0:19:28.61,0:19:29.56,Default,,0,0,0,,Yes?
 Dialogue: 10,0:19:31.02,0:19:33.07,Default,,0,0,0,,I'm expecting great things from you.
 Dialogue: 10,0:19:35.49,0:19:36.49,Default,,0,0,0,,Got it!
-Dialogue: 10,0:19:53.05,0:19:55.26,Default,,0,0,0,,She's slept through the entire day again.
+Dialogue: 10,0:19:53.05,0:19:55.26,Default,,0,0,0,,She slept through the entire day again.
 Dialogue: 10,0:19:59.05,0:20:03.97,Default,,0,0,0,,{\q2}I know they said you could be \Nsleeping to recover your stamina,
 Dialogue: 10,0:20:03.97,0:20:09.15,Default,,0,0,0,,{\q2}but if you don't open your eyes \Nevery once in a while, I {start to }get worried.
 Dialogue: 10,0:20:14.19,0:20:18.53,Default,,0,0,0,,{\q2}Hey, your brother's probably gonna \Nbe heading out on his next mission soon.
@@ -376,22 +391,22 @@ Dialogue: 10,0:20:35.80,0:20:36.76,Default,,0,0,0,,I see.
 Dialogue: 10,0:20:37.17,0:20:38.84,Default,,0,0,0,,You think so, too, Nezuko?
 Dialogue: 10,0:20:39.84,0:20:41.68,Default,,0,0,0,,They're good guys.
 Dialogue: 10,0:20:42.10,0:20:44.43,Default,,0,0,0,,If I want to restore your humanity,
-Dialogue: 10,0:20:44.43,0:20:49.10,Default,,0,0,0,,{\q2}I must take down the strongest demons I can find \Nand send Miss Tamayo their blood samples.
+Dialogue: 10,0:20:44.43,0:20:49.10,Default,,0,0,0,,{\q2}I need to take down the strongest demons I can find \Nand send Miss Tamayo their blood samples.
 Dialogue: 10,0:20:50.06,0:20:52.52,Default,,0,0,0,,{\i1}Am I capable of doing that?
 Dialogue: 10,0:20:53.32,0:20:55.44,Default,,0,0,0,,{\i1}I know you can do it, Tanjirou.
-Dialogue: 10,0:21:04.87,0:21:08.33,Default,,0,0,0,,Thanks, Nezuko. You just encouraged me, didn't you?
+Dialogue: 10,0:21:04.87,0:21:08.33,Default,,0,0,0,,Thanks, Nezuko. You just encouraged me, didn't you?{### meh}
 Dialogue: 10,0:21:08.33,0:21:10.54,Default,,0,0,0,,I'll do my best, okay?
 Comment: 0,0:22:59.98,0:22:59.98,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:23:02.99,0:23:05.66,Default,,0,0,0,,Maintaining my Breathing is way too demanding!
 Dialogue: 10,0:23:05.66,0:23:08.07,Default,,0,0,0,,There's just no damn way.
-Dialogue: 10,0:23:08.07,0:23:10.37,Default,,0,0,0,,You both look wiped out.
-Dialogue: 10,0:23:10.37,0:23:11.16,Default,,0,0,0,,Oh, I know!
-Dialogue: 10,0:23:11.16,0:23:14.12,Default,,0,0,0,,Here's a Taisho secret for you!
-Dialogue: 10,0:23:14.12,0:23:17.29,Default,,0,0,0,,{\q2}The medicated water we use for \Nreflex training, when added to your bath,
+Dialogue: 10,0:23:08.07,0:23:10.33,Default,,0,0,0,,You both look wiped out.
+Dialogue: 10,0:23:10.33,0:23:11.16,Default,,0,0,0,,Oh, I know!
+Dialogue: 10,0:23:11.16,0:23:13.91,Default,,0,0,0,,Here's a Taisho secret for you!
+Dialogue: 10,0:23:13.91,0:23:17.29,Default,,0,0,0,,{\q2}The medicated water we use for \Nreflex training, when added to your bath,
 Dialogue: 10,0:23:17.29,0:23:20.71,Default,,0,0,0,,is actually great for healing exhaustion and wounds.
-Dialogue: 10,0:23:21.13,0:23:24.22,Default,,0,0,0,,{\q2}Well, I'm off to train, \Nbut maybe you two should catch a break.
-Dialogue: 10,0:23:24.22,0:23:26.80,Default,,0,0,0,,{\q2}Say what? I ain't even close to done! \NGimme more credit than that!
-Dialogue: 10,0:23:26.80,0:23:28.76,Default,,0,0,0,,We're doing even more training?
-Dialogue: 10,0:23:28.76,0:23:31.31,Default,,0,0,0,,Okay, {\i1}fine{\i0}! I just have to show up, right?
-Dialogue: 10,0:23:31.31,0:23:34.35,Default,,0,0,0,,Next, Episode 26, "New Mission".
-Dialogue: 10,0:23:34.35,0:23:36.35,Default,,0,0,0,,Okay, I'm heading out now, Nezuko!
+Dialogue: 10,0:23:21.13,0:23:24.22,Default,,0,0,0,,{\q2}Well, I'm off to train, \Nbut maybe you two should take a break.
+Dialogue: 10,0:23:24.22,0:23:26.80,Default,,0,0,0,,{\q2}Say what? I ain't even close to done! \NDon't write me off!
+Dialogue: 10,0:23:26.80,0:23:28.85,Default,,0,0,0,,We're doing even more training?
+Dialogue: 10,0:23:28.85,0:23:31.22,Default,,0,0,0,,Okay, {\i1}fine{\i0}! I just have to show up, right?
+Dialogue: 10,0:23:31.22,0:23:34.23,Default,,0,0,0,,Next, Episode 26, "New Mission".
+Dialogue: 10,0:23:34.23,0:23:36.19,Default,,0,0,0,,Okay, I'm heading out now, Nezuko!
