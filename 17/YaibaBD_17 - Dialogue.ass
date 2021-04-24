@@ -156,7 +156,7 @@ Dialogue: 10,0:09:03.98,0:09:05.90,Default,,0,0,0,,Calm down, Zenitsu!
 Dialogue: 10,0:09:05.90,0:09:07.90,Default,,0,0,0,,You have potential!
 Dialogue: 10,0:09:07.90,0:09:09.90,Default,,0,0,0,,I've just about had it!
 Dialogue: 10,0:09:13.41,0:09:16.12,Default,,0,0,0,,Zenitsu!
-Dialogue: 10,0:09:17.41,0:09:19.62,Default,,0,0,0,,{\i1}Why does my life need to be so tragic?
+Dialogue: 10,0:09:17.41,0:09:19.62,Default,,0,0,0,,{\i1}Why is my life so tragic?
 Dialogue: 10,0:09:19.62,0:09:21.58,Default,,0,0,0,,{\i1}I even got struck by lightning.
 Dialogue: 10,0:09:23.17,0:09:25.63,Default,,0,0,0,,{\i1}It changed my hair colour.
 Dialogue: 10,0:09:27.63,0:09:30.84,Default,,0,0,0,,{\i1}Sure, I was thankful just to be alive, but...
@@ -165,7 +165,7 @@ Dialogue: 10,0:09:34.68,0:09:37.39,Default,,0,0,0,,{\i1}I'm my own biggest criti
 Dialogue: 10,0:09:39.18,0:09:42.27,Default,,0,0,0,,{\i1\q2}I keep telling myself \Nthat I need to get my act together already,
 Dialogue: 10,0:09:42.27,0:09:46.36,Default,,0,0,0,,{\i1\q2}but all I ever do is get scared, \Nrun away, and break down in tears.
 Dialogue: 10,0:09:48.11,0:09:51.61,Default,,0,0,0,,{\i1}I want to change. I want to become a better person!
-Dialogue: 10,0:09:52.91,0:09:54.24,Default,,0,0,0,,But...
+Dialogue: 10,0:09:52.91,0:09:54.24,Default,,0,0,0,,{\i1}But...
 Dialogue: 10,0:09:54.53,0:09:56.99,Default,,0,0,0,,I'm doing the best I can, y'know?
 Dialogue: 10,0:09:56.99,0:10:00.41,Default,,0,0,0,,{\q2}So why do I have to go bald \Nand turn into some monster?
 Dialogue: 10,0:10:00.41,0:10:03.00,Default,,0,0,0,,{\q2}You can't be for real, right? \NYou've gotta be kidding me!
@@ -306,9 +306,9 @@ Dialogue: 10,0:19:51.63,0:19:53.30,Default,,0,0,0,,Are you descending, Inosuke?
 Dialogue: 10,0:19:56.38,0:19:58.14,Default,,0,0,0,,Head down the mountain.
 Dialogue: 10,0:19:58.14,0:20:00.60,Default,,0,0,0,,Why would I? Buzz off!
 Dialogue: 10,0:20:00.60,0:20:03.14,Default,,0,0,0,,I mean, have you {\i1}seen{\i0} your injuries?
-Dialogue: 10,0:20:03.14,0:20:05.98,Default,,0,0,0,,I am not hurt at all!
+Dialogue: 10,0:20:03.14,0:20:05.98,Default,,0,0,0,,I'm totally fine!
 Dialogue: 10,0:20:09.86,0:20:11.77,Default,,0,0,0,,N-No, Inosuke!
-Dialogue: 10,0:20:11.77,0:20:14.86,Default,,0,0,0,,{\q2}Look{/Take a good look} at yourself! \NThat's obviously not true!
+Dialogue: 10,0:20:11.77,0:20:14.86,Default,,0,0,0,,{\q2}Look at yourself! \NThat's obviously not true!
 Dialogue: 10,0:20:19.61,0:20:20.70,Default,,0,0,0,,{\i1}A demon!
 Dialogue: 10,0:20:21.24,0:20:25.58,Default,,0,0,0,,{\i1\q2}The odour wafting all over this mountain \Ncompletely masked her scent!
 Dialogue: 10,0:20:27.62,0:20:31.38,Default,,0,0,0,,I'm gonna tear you to shreds, you damn demon!
