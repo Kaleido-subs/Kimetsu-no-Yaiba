@@ -50,11 +50,11 @@ Dialogue: 10,0:02:42.98,0:02:45.35,Default,,0,0,0,,Well, it doesn't matter to me
 Dialogue: 10,0:02:45.81,0:02:48.86,Default,,0,0,0,,I'll give them another nudge later.
 Dialogue: 10,0:02:55.53,0:03:00.62,Default,,0,0,0,,{\i1\q2}I'm slowly getting used to training \Nwhile maintaining my Breathing!
 Dialogue: 10,0:03:01.08,0:03:06.46,Default,,0,0,0,,{\i1\q2}I still can't keep it up all day \Nwithout pushing myself,
-Dialogue: 10,0:03:06.46,0:03:07.83,Default,,0,0,0,,{\an8}Four-hundred-ninety-seven!
-Dialogue: 10,0:03:07.83,0:03:09.34,Default,,0,0,0,,{\an8}Four-hundred-ninety-eight!
-Dialogue: 10,0:03:09.34,0:03:10.71,Default,,0,0,0,,{\an8}Four-hundred-ninety-nine!
+Dialogue: 10,0:03:06.46,0:03:07.83,Default,,0,0,0,,{\an8}Four hundred ninety-seven!
+Dialogue: 10,0:03:07.83,0:03:09.34,Default,,0,0,0,,{\an8}Four hundred ninety-eight!
+Dialogue: 10,0:03:09.34,0:03:10.71,Default,,0,0,0,,{\an8}Four hundred ninety-nine!
 Dialogue: 10,0:03:10.71,0:03:11.38,Default,,0,0,0,,{\an8}Five hundred!
-Dialogue: 10,0:03:11.38,0:03:12.46,Default,,0,0,0,,{\an8}Five-hundred-one!
+Dialogue: 10,0:03:11.38,0:03:12.46,Default,,0,0,0,,{\an8}Five hundred one!
 Dialogue: 10,0:03:06.92,0:03:12.46,Default,,0,0,0,,{\i1\q2}but the longer I last, \Nthe more stamina I build up!
 Comment: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\clip(m 786 1012 b 815 973 859 902 874 858 l 1030 870 1028 1043)}You can do it!
 Dialogue: 10,0:03:30.82,0:03:30.90,Default,,0,0,0,,{\pos(843,983)\fs60\clip(2,m 1608 2008 b 1646 1958 1736 1812 1762 1738 l 2040 1758 2036 2064)}You can do it!
