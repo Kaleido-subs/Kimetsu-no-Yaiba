@@ -172,7 +172,7 @@ Dialogue: 10,0:09:16.49,0:09:18.91,Default,,0,0,0,,{\i1}It's still a long way to
 Dialogue: 10,0:09:18.91,0:09:20.12,Default,,0,0,0,,{\i1}Hurry!
 Dialogue: 10,0:09:21.00,0:09:23.13,Default,,0,0,0,,{\i1}Don't you die on me!
 Dialogue: 10,0:09:25.38,0:09:27.17,Default,,0,0,0,,{\i1}I'll save you, whatever it takes!
-Dialogue: 10,0:09:27.84,0:09:30.26,Default,,0,0,0,,{\i1\q2}Your big brother's gonna save you \Nno matter what, you hear?
+Dialogue: 10,0:09:27.84,0:09:30.26,Default,,0,0,0,,{\i1}Your big brother's gonna save you!{### Similar to the cold open, but shorter. Can get away with copying the first line verbatim, but it makes less sense for this one.}
 Dialogue: 10,0:09:38.43,0:09:39.64,Default,,0,0,0,,{\i1}Oh, crap!
 Dialogue: 10,0:09:48.19,0:09:51.11,Default,,0,0,0,,{\i1}The snow saved me.
 Dialogue: 10,0:09:51.86,0:09:53.91,Default,,0,0,0,,{\i1}It's also the reason I slipped, though.{### meh?}
