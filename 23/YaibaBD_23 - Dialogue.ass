@@ -295,9 +295,9 @@ Dialogue: 10,0:19:02.50,0:19:06.46,Default,,0,0,0,,{\q2}He did land that resound
 Dialogue: 10,0:19:08.50,0:19:11.00,Default,,0,0,0,,The more the human population grows,
 Dialogue: 10,0:19:11.00,0:19:14.09,Default,,0,0,0,,the harder it becomes to govern and unify them.
 Dialogue: 10,0:19:14.84,0:19:19.05,Default,,0,0,0,,{\q2}Not to mention that times have changed \Nconsiderably since the previous era.
-Dialogue: 10,0:19:19.64,0:19:23.18,Default,,0,0,0,,{\q2}Other than those who've enlisted \Nafter their loved ones were brutally massacred,
+Dialogue: 10,0:19:19.64,0:19:23.18,Default,,0,0,0,,{\q2}There are those who've enlisted \Nafter their loved ones were brutally massacred
 Dialogue: 10,0:19:23.68,0:19:27.65,Default,,0,0,0,,{\q2}and those of distinguished pedigree \Nwho have hunted demons for generations,
-Dialogue: 10,0:19:27.65,0:19:36.03,Default,,0,0,0,,{\q2}to ask anyone to summon{muster} such resolve \Nand drive to produce results would be cruel.{### tlc? I wanna do more with this line but don't understand it well enough}
+Dialogue: 10,0:19:27.65,0:19:36.03,Default,,0,0,0,,{\q2}but for the average modern civilian, \Nto demand the resolve that we require is almost cruel.
 Dialogue: 10,0:19:36.36,0:19:41.87,Default,,0,0,0,,{\q2}Still, considering that boy ran into \Na Blood Moon so soon after becoming a Demon Slayer,
 Dialogue: 10,0:19:41.87,0:19:44.16,Default,,0,0,0,,he may be strong enough to get their attention!
 Dialogue: 10,0:19:44.16,0:19:47.21,Default,,0,0,0,,Even we rarely get the chance to confront one!
@@ -331,7 +331,7 @@ Dialogue: 10,0:21:25.81,0:21:28.93,Default,,0,0,0,,We will bring you down withou
 Comment: 0,0:23:00.03,0:23:00.03,Default,chapter,0,0,0,,{Outro}
 Dialogue: 10,0:23:02.19,0:23:05.36,Default,,0,0,0,,{\q2}I still find it hard to believe that \Nsome demons don't attack humans.
 Dialogue: 10,0:23:05.36,0:23:07.03,Default,,0,0,0,,It must be some kind of miracle.
-Dialogue: 10,0:23:07.03,0:23:11.66,Default,,0,0,0,,{\q2}If you're gonna go there, then the fact \Nthat we've finally caught a whiff of Kibutsuji's trail...{### tlc?}
+Dialogue: 10,0:23:07.03,0:23:11.66,Default,,0,0,0,,{\q2}Speaking of miracles, the fact that we've \Nfinally caught a whiff of Kibutsuji's trail...
 Dialogue: 10,0:23:11.66,0:23:14.04,Default,,0,0,0,,Well, that's a once-in-a-millennium miracle!
 Dialogue: 10,0:23:14.62,0:23:17.29,Default,,0,0,0,,That's a striking take if ever I heard one!
 Dialogue: 10,0:23:17.29,0:23:20.17,Default,,0,0,0,,Now, it's time for a Taisho secret!
