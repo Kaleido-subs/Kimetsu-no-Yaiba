@@ -142,8 +142,8 @@ Dialogue: 10,0:13:32.25,0:13:33.67,Default,,0,0,0,,{\i1}I was naïve.
 Dialogue: 10,0:13:34.96,0:13:38.59,Default,,0,0,0,,{\i1}I couldn't so much as {\i0}speak{\i1} with a single demon.
 Dialogue: 10,0:13:39.72,0:13:42.30,Default,,0,0,0,,{\i1}They all just tried to kill me straight away.
 Dialogue: 10,0:13:43.09,0:13:45.68,Default,,0,0,0,,I'm so sorry, Nezuko.
-Dialogue: 10,0:13:47.81,0:13:50.23,Default,,0,0,0,,I couldn't find a way
-Dialogue: 10,0:13:51.89,0:13:53.81,Default,,0,0,0,,to make you human again.{### wryyy ordering}
+Dialogue: 10,0:13:47.81,0:13:50.23,Default,,0,0,0,,I tried to find a way to make you human again,
+Dialogue: 10,0:13:51.89,0:13:53.81,Default,,0,0,0,,but I'm coming back empty-handed.
 Dialogue: 10,0:13:59.69,0:14:01.61,Default,,0,0,0,,{\i1}Even my uniform feels heavy.
 Dialogue: 10,0:14:02.70,0:14:04.87,Default,,0,0,0,,{\i1}I want to get home as soon as possible,
 Dialogue: 10,0:14:05.45,0:14:07.12,Default,,0,0,0,,{\i1}but my whole body is aching.
@@ -170,7 +170,7 @@ Dialogue: 10,0:16:21.25,0:16:26.38,Default,,0,0,0,,{\q2}Battling them will be a 
 Dialogue: 10,0:16:27.55,0:16:32.30,Default,,0,0,0,,But I'm sure you'll manage just fine, Tanjirou.
 Dialogue: 10,0:16:33.76,0:16:34.68,Default,,0,0,0,,Right.
 Dialogue: 10,0:16:37.06,0:16:38.31,Default,,0,0,0,,Say...
-Dialogue: 10,0:16:38.31,0:16:41.81,Default,,0,0,0,,{\q2}I think Nezuko's somehow different \Nfrom the other demons.{### I'm not sure why, but I really don't like when "somehow" is used in this particular fashion. it comes up occasionally. alt that's way too long: I think there's something about Nezuko that makes her different from the other demons.}
+Dialogue: 10,0:16:38.31,0:16:41.81,Default,,0,0,0,,{\q2}I think there's something special \Nabout Nezuko compared to other demons.
 Dialogue: 10,0:16:42.06,0:16:45.57,Default,,0,0,0,,You think it could it be one of those {Blood }Art things?
 Dialogue: 10,0:16:45.57,0:16:48.70,Default,,0,0,0,,No, I don't think so.
 Dialogue: 10,0:16:48.70,0:16:51.99,Default,,0,0,0,,I wouldn't call that an example of a Blood Art.

@@ -170,7 +170,7 @@ Dialogue: 10,0:09:52.74,0:09:56.08,Default,,0,0,0,,Over forty people have gone m
 Dialogue: 10,0:09:56.08,0:09:59.50,Default,,0,0,0,,You are to join Rengoku Kyoujurou on-site.
 Dialogue: 10,0:09:59.50,0:10:03.00,Default,,0,0,0,,Head west at once!
 Comment: 0,0:10:07.00,0:10:07.00,Default,chapter,0,0,0,,{Part B}
-Dialogue: 10,0:10:11.42,0:10:16.39,Default,,0,0,0,,{\q2}I have decided to send Tanjirou and his friends \Non the Infinite Train mission.{### meh: something about this phrasing makes it sound like a rite of passage. sent them to help? conflict? campaign?}
+Dialogue: 10,0:10:11.42,0:10:16.39,Default,,0,0,0,,{\q2}I have decided to send Tanjirou and his friends \Nas reinforcements on the Infinite Train mission.
 Dialogue: 10,0:10:17.26,0:10:21.52,Default,,0,0,0,,{\q2}Shinobu, may I ask what \Nmade you recommend Tanjirou?
 Dialogue: 10,0:10:22.39,0:10:27.19,Default,,0,0,0,,{\q2}Tanjirou has a pure soul and is capable of \Nstriving hard on a daily basis.
 Dialogue: 10,0:10:27.19,0:10:31.03,Default,,0,0,0,,{\q2}The promise he's shown \Nhas exceeded my expectations.
@@ -430,7 +430,7 @@ Dialogue: 10,0:17:03.63,0:17:06.30,Default,,0,0,0,,{\q2}I had no idea you were p
 Dialogue: 10,0:17:06.30,0:17:10.18,Default,,0,0,0,,I don't know how I could ever thank you.
 Dialogue: 10,0:17:11.22,0:17:13.97,Default,,0,0,0,,Thank me by doing exemplary work.
 Dialogue: 10,0:17:14.64,0:17:18.06,Default,,0,0,0,,Our duty as Demon Slayers is to slay demons.
-Dialogue: 10,0:17:18.06,0:17:19.06,Default,,0,0,0,,That's all.{Nothing more.}
+Dialogue: 10,0:17:18.06,0:17:19.06,Default,,0,0,0,,Nothing more.
 Dialogue: 10,0:17:20.23,0:17:21.23,Default,,0,0,0,,Right!
 Dialogue: 10,0:17:23.77,0:17:25.82,Default,,0,0,0,,Take care, you guys!
 Dialogue: 10,0:17:25.82,0:17:29.19,Default,,0,0,0,,{\q2}You're all heartbroken to \Nsay goodbye to me, aren't you?

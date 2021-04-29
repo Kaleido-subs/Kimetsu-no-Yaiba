@@ -59,7 +59,7 @@ Dialogue: 10,0:03:36.99,0:03:39.45,Default,,0,0,0,,Did you really think you kill
 Dialogue: 10,0:03:39.45,0:03:41.24,Default,,0,0,0,,Poor thing.
 Dialogue: 10,0:03:41.24,0:03:44.20,Default,,0,0,0,,Did your pathetic delusion bring you joy?
 Dialogue: 10,0:03:45.12,0:03:48.42,Default,,0,0,0,,I used my threads to sever my own head.
-Dialogue: 10,0:03:49.08,0:03:51.92,Default,,0,0,0,,You weren't actually cutting through my neck{anything}.{alt: You didn't actually cut <...>}
+Dialogue: 10,0:03:49.08,0:03:51.92,Default,,0,0,0,,You weren't actually cutting through my neck{anything}.{alt: You didn't actually cut <...>}{closer to literal: Before you had a chance to chop it off.}
 Dialogue: 10,0:03:53.21,0:03:54.71,Default,,0,0,0,,I've had enough.
 Dialogue: 10,0:03:54.71,0:03:57.18,Default,,0,0,0,,I'll kill you {\i1}and{\i0} your sister.
 Dialogue: 10,0:03:57.76,0:04:01.18,Default,,0,0,0,,I haven't been this pissed in quite a while.
