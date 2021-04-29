@@ -245,8 +245,8 @@ Dialogue: 10,0:15:08.97,0:15:09.01,Default,,0,0,0,,{\pos(153,1024)}I wouldn't do
 Dialogue: 10,0:15:09.01,0:15:09.05,Default,,0,0,0,,{\pos(125,1024)}I wouldn't doubt it.
 Dialogue: 10,0:15:09.05,0:15:09.10,Default,,0,0,0,,{\pos(105,1024)}I wouldn't doubt it.
 Dialogue: 10,0:15:11.60,0:15:14.06,Default,,0,0,0,,My name is Kanamori.
-Dialogue: 10,0:15:14.06,0:15:17.15,Default,,0,0,0,,I was the one who forged Sir Inosuke's new swords.
-Dialogue: 10,0:15:17.60,0:15:20.11,Default,,0,0,0,,I would be thrilled if they prove useful in battle.{### meh: I want something that starts with "I would be thrilled to" but I can't think of a predicate}
+Dialogue: 10,0:15:14.06,0:15:17.15,Default,,0,0,0,,I forged Sir Inosuke's new swords.
+Dialogue: 10,0:15:17.60,0:15:20.11,Default,,0,0,0,,{\q2}I would be thrilled if they \Nwere to prove useful in battle.
 Dialogue: 10,0:15:28.74,0:15:30.37,Default,,0,0,0,,Pristine, are they not?
 Dialogue: 10,0:15:30.37,0:15:33.66,Default,,0,0,0,,The dull sheen of that cyan-grey hue is just exquisite.{### refined, calm, sophisticated. that kind of vibe. I feel like there's a better word, but I can't find it}
 Dialogue: 10,0:15:33.66,0:15:35.58,Default,,0,0,0,,It's a fine colour for a sword.
