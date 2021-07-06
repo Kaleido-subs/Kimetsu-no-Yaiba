@@ -110,7 +110,7 @@ subs {
                 lang("eng")
                 name(get("group"))
                 default(true)
-                forced(true)
+                forced(false)
                 compression(CompressionType.ZLIB)
             }
         }
@@ -205,7 +205,7 @@ subs {
                     lang("eng")
                     name(get("group"))
                     default(true)
-                    forced(true)
+                    forced(false)
                     compression(CompressionType.ZLIB)
                 }
             }
